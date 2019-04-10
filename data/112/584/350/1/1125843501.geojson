@@ -1,0 +1,82 @@
+{
+  "id": 1125843501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.404861,-21.149674,167.404861,-21.149674",
+    "geom:latitude":-21.149674,
+    "geom:longitude":167.404861,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-21.149674,
+    "lbl:longitude":167.404861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Enefeji",
+    "qs_pg:name_adm0":"Nouvelle-Cal\u00e9donie",
+    "qs_pg:name_adm1":"Loyaute",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239024,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424903,
+    "qs_pg:woe_id":1049685,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424903,
+    "woe:name_adm0":"Nouvelle-Cal\u00e9donie",
+    "woe:name_adm1":"Loyaute",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632473,
+        85675251,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1049685,
+        "qs_pg:id":239024
+    },
+    "wof:country":"XX",
+    "wof:created":1497293040,
+    "wof:geomhash":"a33228471a663eb351b560922b0035f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632473,
+            "empire_id":136253037,
+            "locality_id":1125843501,
+            "region_id":85675251
+        }
+    ],
+    "wof:id":1125843501,
+    "wof:lastmodified":1509998385,
+    "wof:name":"Enefeji",
+    "wof:parent_id":85675251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.404861,
+    -21.149674,
+    167.404861,
+    -21.149674
+],
+  "geometry": {"coordinates":[167.40486100000001,-21.149674],"type":"Point"}
+}

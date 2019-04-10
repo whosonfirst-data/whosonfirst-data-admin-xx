@@ -1,0 +1,82 @@
+{
+  "id": 1126061089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.865235,39.939142,32.865235,39.939142",
+    "geom:latitude":39.939142,
+    "geom:longitude":32.865235,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":39.939142,
+    "lbl:longitude":32.865235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kale",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Ankara",
+    "qs_pg:photos":652,
+    "qs_pg:photos_1k":132,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":652,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155451,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55966467,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Ankara",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890463833,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55966467,
+        "qs_pg:id":1155451
+    },
+    "wof:country":"XX",
+    "wof:created":1497308135,
+    "wof:geomhash":"525731b8ad583a8676ea88a6214df9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463833,
+            "locality_id":-1,
+            "neighbourhood_id":1126061089,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1126061089,
+    "wof:lastmodified":1509410193,
+    "wof:name":"Kale",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.865235,
+    39.939142,
+    32.865235,
+    39.939142
+],
+  "geometry": {"coordinates":[32.865235,39.939142],"type":"Point"}
+}

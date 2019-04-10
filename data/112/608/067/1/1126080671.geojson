@@ -1,0 +1,82 @@
+{
+  "id": 1126080671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.669574,22.07175,-159.669574,22.07175",
+    "geom:latitude":22.07175,
+    "geom:longitude":-159.669574,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":22.07175,
+    "lbl:longitude":-159.669574,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Waimea Ahupua`a",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Hawaii",
+    "qs_pg:photos":5833,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":26,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5833,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1352349,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55986160,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Hawaii",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085457,
+        85688671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55986160,
+        "qs_pg:id":1352349
+    },
+    "wof:country":"XX",
+    "wof:created":1497311893,
+    "wof:geomhash":"fbb4a8c1c44d9a74354a9665566c4d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":-1,
+            "neighbourhood_id":1126080671,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":1126080671,
+    "wof:lastmodified":1509411145,
+    "wof:name":"Waimea Ahupua`a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.669574,
+    22.07175,
+    -159.669574,
+    22.07175
+],
+  "geometry": {"coordinates":[-159.66957400000001,22.07175],"type":"Point"}
+}

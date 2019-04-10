@@ -1,0 +1,78 @@
+{
+  "id": 1125765501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.632654,18.408039,-64.632654,18.408039",
+    "geom:latitude":18.408039,
+    "geom:longitude":-64.632654,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":18.408039,
+    "lbl:longitude":-64.632654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hannah",
+    "qs_pg:name_adm0":"British Virgin Islands",
+    "qs_pg:photos":968,
+    "qs_pg:photos_1k":196,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":968,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074913,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424983,
+    "qs_pg:woe_id":329607,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424983,
+    "woe:name_adm0":"British Virgin Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85632629,
+        85681419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":329607,
+        "qs_pg:id":1074913
+    },
+    "wof:country":"XX",
+    "wof:created":1497289877,
+    "wof:geomhash":"fdb89f51c183addb7e2f98ac693e62f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632629,
+            "locality_id":1125765501,
+            "region_id":85681419
+        }
+    ],
+    "wof:id":1125765501,
+    "wof:lastmodified":1509390661,
+    "wof:name":"Hannah",
+    "wof:parent_id":85681419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.632654,
+    18.408039,
+    -64.632654,
+    18.408039
+],
+  "geometry": {"coordinates":[-64.632654,18.408039],"type":"Point"}
+}

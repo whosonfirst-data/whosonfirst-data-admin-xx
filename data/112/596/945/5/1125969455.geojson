@@ -1,0 +1,83 @@
+{
+  "id": 1125969455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.097738,37.959,16.097738,37.959",
+    "geom:latitude":37.959,
+    "geom:longitude":16.097738,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.959,
+    "lbl:longitude":16.097738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Brancaleone Superiore",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Calabria",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1152671,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":711373,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Calabria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685577,
+        102191581,
+        404464503,
+        85633253,
+        404227531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":711373,
+        "qs_pg:id":1152671
+    },
+    "wof:country":"XX",
+    "wof:created":1497298107,
+    "wof:geomhash":"5e7c1bcaebdd69ff19d02e2f87c6e52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404464503,
+            "locality_id":1125969455,
+            "macroregion_id":404227531,
+            "region_id":85685577
+        }
+    ],
+    "wof:id":1125969455,
+    "wof:lastmodified":1509403870,
+    "wof:name":"Brancaleone Superiore",
+    "wof:parent_id":404464503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.097738,
+    37.959,
+    16.097738,
+    37.959
+],
+  "geometry": {"coordinates":[16.097738,37.959],"type":"Point"}
+}

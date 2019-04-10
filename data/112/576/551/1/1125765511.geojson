@@ -1,0 +1,80 @@
+{
+  "id": 1125765511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.57592,18.43141,-64.57592,18.43141",
+    "geom:latitude":18.43141,
+    "geom:longitude":-64.57592,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":18.43141,
+    "lbl:longitude":-64.57592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pacham Town",
+    "qs_pg:name_adm0":"British Virgin Islands",
+    "qs_pg:photos":934,
+    "qs_pg:photos_1k":189,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":934,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074914,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424983,
+    "qs_pg:woe_id":329615,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424983,
+    "woe:name_adm0":"British Virgin Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632629,
+        85681419,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":329615,
+        "qs_pg:id":1074914
+    },
+    "wof:country":"XX",
+    "wof:created":1497289877,
+    "wof:geomhash":"ebc3c4246bfb5e2470a552b9475515db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632629,
+            "empire_id":136253055,
+            "locality_id":1125765511,
+            "region_id":85681419
+        }
+    ],
+    "wof:id":1125765511,
+    "wof:lastmodified":1509998414,
+    "wof:name":"Pacham Town",
+    "wof:parent_id":85681419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.57592,
+    18.43141,
+    -64.57592,
+    18.43141
+],
+  "geometry": {"coordinates":[-64.57592,18.43141],"type":"Point"}
+}

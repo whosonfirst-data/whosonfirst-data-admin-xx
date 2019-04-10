@@ -1,0 +1,78 @@
+{
+  "id": 1126076223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.27617,-42.825226,147.27617,-42.825226",
+    "geom:latitude":-42.825226,
+    "geom:longitude":147.27617,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-42.825226,
+    "lbl:longitude":147.27617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Elwick",
+    "qs_pg:name_adm0":"Australia",
+    "qs_pg:name_adm1":"Tasmania",
+    "qs_pg:photos":100,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":100,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996626,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424748,
+    "qs_pg:woe_id":22739311,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424748,
+    "woe:name_adm0":"Australia",
+    "woe:name_adm1":"Tasmania",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22739311,
+        "qs_pg:id":996626
+    },
+    "wof:country":"XX",
+    "wof:created":1497311088,
+    "wof:geomhash":"9578558d2cab74915b80bef8febdc373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1126076223,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126076223,
+    "wof:lastmodified":1509410927,
+    "wof:name":"Elwick",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.27617,
+    -42.825226,
+    147.27617,
+    -42.825226
+],
+  "geometry": {"coordinates":[147.27617000000001,-42.825226],"type":"Point"}
+}

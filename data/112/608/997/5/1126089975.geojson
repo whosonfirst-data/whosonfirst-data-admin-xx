@@ -1,0 +1,96 @@
+{
+  "id": 1126089975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.771513,32.059809,34.771513,32.059809",
+    "geom:latitude":32.059809,
+    "geom:longitude":34.771513,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.059809,
+    "lbl:longitude":34.771513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Florentin"
+    ],
+    "name:dan_x_preferred":[
+        "Florentin"
+    ],
+    "name:eng_x_preferred":[
+        "Florentin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05e8\u05e0\u05d8\u05d9\u05df"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Florentine",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":2617,
+    "qs_pg:photos_1k":530,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2617,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":366829,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725142,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725142,
+        "qs_pg:id":366829,
+        "wd:id":"Q2891017"
+    },
+    "wof:country":"XX",
+    "wof:created":1497313558,
+    "wof:geomhash":"77960b462c0d009bca9caad7336c7a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":1126089975,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1126089975,
+    "wof:lastmodified":1549930555,
+    "wof:name":"Florentine",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.771513,
+    32.059809,
+    34.771513,
+    32.059809
+],
+  "geometry": {"coordinates":[34.771513,32.059809],"type":"Point"}
+}

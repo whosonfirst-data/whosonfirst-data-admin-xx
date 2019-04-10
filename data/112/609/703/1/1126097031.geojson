@@ -1,0 +1,83 @@
+{
+  "id": 1126097031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.974258,32.54551,-116.974258,32.54551",
+    "geom:latitude":32.54551,
+    "geom:longitude":-116.974258,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.54551,
+    "lbl:longitude":-116.974258,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aeropuerto Abelardo L Rodriguez",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":411614,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55890842,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993551,
+        102074501,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55890842,
+        "qs_pg:id":411614
+    },
+    "wof:country":"XX",
+    "wof:created":1497315406,
+    "wof:geomhash":"7b4b67ecb87160ca02538c290da0d159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":1126097031,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126097031,
+    "wof:lastmodified":1509411934,
+    "wof:name":"Aeropuerto Abelardo L Rodriguez",
+    "wof:parent_id":101993551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.974258,
+    32.54551,
+    -116.974258,
+    32.54551
+],
+  "geometry": {"coordinates":[-116.97425800000001,32.54551],"type":"Point"}
+}

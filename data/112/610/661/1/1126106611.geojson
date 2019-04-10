@@ -1,0 +1,83 @@
+{
+  "id": 1126106611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.825029,32.047006,34.825029,32.047006",
+    "geom:latitude":32.047006,
+    "geom:longitude":34.825029,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.047006,
+    "lbl:longitude":34.825029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ramat Shikma",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":736,
+    "qs_pg:photos_1k":149,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":736,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1121103,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725121,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421183425,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725121,
+        "qs_pg:id":1121103
+    },
+    "wof:country":"XX",
+    "wof:created":1497317188,
+    "wof:geomhash":"82abc5cd1072f30bf2b2fd5a9ca17f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":421183425,
+            "neighbourhood_id":1126106611,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1126106611,
+    "wof:lastmodified":1549930556,
+    "wof:name":"Ramat Shikma",
+    "wof:parent_id":421183425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.825029,
+    32.047006,
+    34.825029,
+    32.047006
+],
+  "geometry": {"coordinates":[34.825029,32.047006],"type":"Point"}
+}

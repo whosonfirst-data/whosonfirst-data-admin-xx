@@ -1,0 +1,83 @@
+{
+  "id": 1126093269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.800215,32.780023,-96.800215,32.780023",
+    "geom:latitude":32.780023,
+    "geom:longitude":-96.800215,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.780023,
+    "lbl:longitude":-96.800215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Downtown",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Texas",
+    "qs_pg:photos":8619,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":38,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":8619,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":383203,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55864628,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Texas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101724385,
+        102080647,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55864628,
+        "qs_pg:id":383203
+    },
+    "wof:country":"XX",
+    "wof:created":1497314509,
+    "wof:geomhash":"391028fef17e6985d6f99b61143c0ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080647,
+            "locality_id":101724385,
+            "neighbourhood_id":1126093269,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1126093269,
+    "wof:lastmodified":1509411762,
+    "wof:name":"Downtown",
+    "wof:parent_id":101724385,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.800215,
+    32.780023,
+    -96.800215,
+    32.780023
+],
+  "geometry": {"coordinates":[-96.80021499999999,32.780023],"type":"Point"}
+}

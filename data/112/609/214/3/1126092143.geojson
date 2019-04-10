@@ -1,0 +1,82 @@
+{
+  "id": 1126092143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.562553,-40.231708,175.562553,-40.231708",
+    "geom:latitude":-40.231708,
+    "geom:longitude":175.562553,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-40.231708,
+    "lbl:longitude":175.562553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Feilding South",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Manawatu Wanganui",
+    "qs_pg:photos":245,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":245,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1087595,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":22726642,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Manawatu Wanganui",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079303,
+        85687251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726642,
+        "qs_pg:id":1087595
+    },
+    "wof:country":"XX",
+    "wof:created":1497314112,
+    "wof:geomhash":"591f22c6e7a510b5eefe579d8c7572f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":-1,
+            "neighbourhood_id":1126092143,
+            "region_id":85687251
+        }
+    ],
+    "wof:id":1126092143,
+    "wof:lastmodified":1509411706,
+    "wof:name":"Feilding South",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.562553,
+    -40.231708,
+    175.562553,
+    -40.231708
+],
+  "geometry": {"coordinates":[175.56255300000001,-40.231708],"type":"Point"}
+}

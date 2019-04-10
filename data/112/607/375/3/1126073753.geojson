@@ -1,0 +1,82 @@
+{
+  "id": 1126073753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.104923,12.987496,80.104923,12.987496",
+    "geom:latitude":12.987496,
+    "geom:longitude":80.104923,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":12.987496,
+    "lbl:longitude":80.104923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kundrathur",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Tamil Nadu",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1249503,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":2294621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Tamil Nadu",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        890509125,
+        85672245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2294621,
+        "qs_pg:id":1249503
+    },
+    "wof:country":"XX",
+    "wof:created":1497310480,
+    "wof:geomhash":"125bea5e959fef48f549f8eed524f25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890509125,
+            "locality_id":-1,
+            "neighbourhood_id":1126073753,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":1126073753,
+    "wof:lastmodified":1509410811,
+    "wof:name":"Kundrathur",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.104923,
+    12.987496,
+    80.104923,
+    12.987496
+],
+  "geometry": {"coordinates":[80.104923,12.987496],"type":"Point"}
+}

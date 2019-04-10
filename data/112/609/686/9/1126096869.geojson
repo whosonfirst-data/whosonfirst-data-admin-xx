@@ -1,0 +1,82 @@
+{
+  "id": 1126096869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.549593,45.462711,-122.549593,45.462711",
+    "geom:latitude":45.462711,
+    "geom:longitude":-122.549593,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.462711,
+    "lbl:longitude":-122.549593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Amuad",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Oregon",
+    "qs_pg:photos":375,
+    "qs_pg:photos_1k":76,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":375,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1136729,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":2356096,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Oregon",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102081631,
+        85688513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2356096,
+        "qs_pg:id":1136729
+    },
+    "wof:country":"XX",
+    "wof:created":1497315377,
+    "wof:geomhash":"f38cb62f11811c2bd11749d747a9ddb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081631,
+            "locality_id":-1,
+            "neighbourhood_id":1126096869,
+            "region_id":85688513
+        }
+    ],
+    "wof:id":1126096869,
+    "wof:lastmodified":1509411926,
+    "wof:name":"Amuad",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.549593,
+    45.462711,
+    -122.549593,
+    45.462711
+],
+  "geometry": {"coordinates":[-122.549593,45.462711],"type":"Point"}
+}

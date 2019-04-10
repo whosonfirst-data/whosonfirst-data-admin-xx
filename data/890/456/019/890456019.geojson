@@ -1,0 +1,81 @@
+{
+  "id": 890456019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.0361425,33.3214915,78.0361425,33.3214915",
+    "geom:latitude":33.321492,
+    "geom:longitude":78.036142,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Niyar",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":102,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29214698,
+        "qs:id":1233226,
+        "wk:page":"Niyar"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052989,
+    "wof:geomhash":"793a37ce89a1dca07c4b9bbaf1853d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890456019,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890456019,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890456019,
+    "wof:lastmodified":1533678792,
+    "wof:name":"Niyar",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.0361425,
+    33.3214915,
+    78.0361425,
+    33.3214915
+],
+  "geometry": {"coordinates":[78.0361425,33.3214915],"type":"Point"}
+}

@@ -1,0 +1,408 @@
+{
+  "id": 85632563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1408620.986147,
+    "geom:bbox":"-79.988670349,15.788277626,-79.741363525,15.86027813",
+    "geom:latitude":15.81629,
+    "geom:longitude":-79.828476,
+    "iso:country":"XX",
+    "lbl:latitude":15.791588,
+    "lbl:longitude":-79.845836,
+    "mps:latitude":15.791588,
+    "mps:longitude":-79.845836,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0636\u0641\u0629 \u0628\u0627\u062c\u0648 \u0646\u064a\u0648\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u099c\u09cb \u09a8\u09c1\u09af\u09bc\u09c7\u09ad\u09cb \u09a4\u09c0\u09b0"
+    ],
+    "name:cze_x_preferred":[
+        "Spojen\u00e9 St\u00e1ty Americk\u00e9"
+    ],
+    "name:cze_x_variant":[
+        "Spojen\u00e9 st\u00e1ty"
+    ],
+    "name:dan_x_variant":[
+        "Amerikas Forenede Stater"
+    ],
+    "name:deu_x_preferred":[
+        "Bajo-Nuevo-Bank"
+    ],
+    "name:deu_x_variant":[
+        "Amerika",
+        "Vereinigte Staaten von Amerika",
+        "Vereinigte Staaten"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03c4\u03b6\u03bf \u039d\u03bf\u03c5\u03ad\u03b2\u03bf \u039c\u03c0\u03b1\u03bd\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Bajo Nuevo Bank"
+    ],
+    "name:eng_x_unknown":[
+        "US",
+        "USA"
+    ],
+    "name:eng_x_variant":[
+        "America",
+        "American",
+        "United States of America",
+        "Unitedstates",
+        "Unitedstatesofamerica",
+        "United States"
+    ],
+    "name:fin_x_preferred":[
+        "Yhdysvallat"
+    ],
+    "name:fin_x_variant":[
+        "Amerikan yhdysvallat",
+        "Amerikassa",
+        "Amerikasta",
+        "Amerikka",
+        "Amerikkaan",
+        "Yhdysvallat or Amerikka",
+        "Yhdysvalloissa",
+        "Yhdysvalloista",
+        "Yhdysvaltoihin",
+        "Yhdysvaltojen"
+    ],
+    "name:fra_x_colloquial":[
+        "Amerique",
+        "Etats-Unis",
+        "Etats-Unis d'Amerique"
+    ],
+    "name:fra_x_preferred":[
+        "Banc de Bajo Nuevo"
+    ],
+    "name:fra_x_variant":[
+        "Am\u00e9rique",
+        "Etatsunis",
+        "\u00c9U",
+        "\u00c9UA",
+        "\u00c9tats-Unis d'Am\u00e9rique",
+        "\u00c9tats-Unis"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0916\u094b \u0928\u094d\u092f\u0941\u090f\u0935\u094b \u0924\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Petrel-szigetek"
+    ],
+    "name:hun_x_variant":[
+        "Egyes\u00fclt \u00c1llamok",
+        "Amerikai Egyes\u00fclt \u00c1llamok"
+    ],
+    "name:ind_x_preferred":[
+        "Tepi Bajo Nuevo"
+    ],
+    "name:ita_x_preferred":[
+        "Bajo Nuevo Bank"
+    ],
+    "name:ita_x_variant":[
+        "Stati Uniti",
+        "Stati Uniti d'America"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30db\u30cc\u30a8\u30dc"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
+        "\u7c73\u56fd",
+        "\u30a2\u30e1\u30ea\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud638 \ub204\uc5d0\ubcf4 \ubc45\ud06c"
+    ],
+    "name:kor_x_variant":[
+        "\ubbf8\uad6d"
+    ],
+    "name:nld_x_preferred":[
+        "Bajo Nuevo"
+    ],
+    "name:nld_x_variant":[
+        "VS",
+        "Verenigde Staten van Amerika",
+        "Verenigde Staten"
+    ],
+    "name:nor_x_preferred":[
+        "Amerikas Forente Stater"
+    ],
+    "name:pol_x_preferred":[
+        "Bajo Nuevo"
+    ],
+    "name:pol_x_variant":[
+        "Stany Zjednoczone"
+    ],
+    "name:por_x_colloquial":[
+        "Estados Unidos da America"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Baixo Novo"
+    ],
+    "name:por_x_variant":[
+        "EUA",
+        "Estados Unidos da Am\u00e9rica",
+        "Estados Unidos"
+    ],
+    "name:rum_x_preferred":[
+        "Statele Unite Ale Americii"
+    ],
+    "name:rum_x_variant":[
+        "Statele Unite"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u043e-\u041d\u0443\u044d\u0432\u043e"
+    ],
+    "name:spa_x_colloquial":[
+        "Estados Unidos de America"
+    ],
+    "name:spa_x_preferred":[
+        "Bajo Nuevo"
+    ],
+    "name:spa_x_variant":[
+        "Am\u00e9rica",
+        "EEUU",
+        "EU",
+        "EUA",
+        "Estados Unidos de Am\u00e9rica",
+        "Estadosunidos",
+        "Estados Unidos"
+    ],
+    "name:swe_x_colloquial":[
+        "Amerikas Foerenta Stater",
+        "Amerikas Forenta Stater",
+        "Foerenta Staterna",
+        "Forenta Staterna"
+    ],
+    "name:swe_x_preferred":[
+        "Bajo Nuevo"
+    ],
+    "name:swe_x_variant":[
+        "Amerikas F\u00f6renta Stater",
+        "F\u00f6renta Staterna"
+    ],
+    "name:tur_x_preferred":[
+        "Bajo Nuevo Bank"
+    ],
+    "name:und_x_colloquial":[
+        "Bandarikin"
+    ],
+    "name:und_x_preferred":[
+        "Bandar\u00edkin"
+    ],
+    "name:und_x_variant":[
+        "Beikoku",
+        "De Forenede Stater",
+        "De Forente Stater",
+        "Forenede Stater",
+        "Forente Stater",
+        "Mi-guk"
+    ],
+    "name:unk_x_variant":[
+        "Petrel Islands"
+    ],
+    "name:vie_x_preferred":[
+        "Bajo Nuevo Bank"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u970d\u52aa\u57c3\u6c83\u7901"
+    ],
+    "name:zho_x_variant":[
+        "\u7f8e\u5229\u575a\u5408\u8846\u56fd",
+        "\u7f8e\u5229\u5805\u5408\u8846\u56fd",
+        "\u7f8e\u56fd",
+        "\u7f8e\u570b"
+    ],
+    "ne:ABBREV":null,
+    "ne:ABBREV_LEN":0,
+    "ne:ADM0_A3":"BJN",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"B41",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":0,
+    "ne:ADMIN":"Bajo Nuevo Bank (Petrel Is.)",
+    "ne:BRK_A3":"B41",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Bajo Nuevo Bank (Petrel Is.)",
+    "ne:CONTINENT":"North America",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"Bajo Nuevo Bank (Petrel Is.)",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"BJN",
+    "ne:HOMEPART":1,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":8,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":2,
+    "ne:LONG_LEN":32,
+    "ne:MAPCOLOR13":-99,
+    "ne:MAPCOLOR7":3,
+    "ne:MAPCOLOR8":7,
+    "ne:MAPCOLOR9":6,
+    "ne:MAX_LABEL":11,
+    "ne:MIN_LABEL":7,
+    "ne:MIN_ZOOM":7,
+    "ne:NAME":"Bajo Nuevo Bank",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u0636\u0641\u0629 \u0628\u0627\u062c\u0648 \u0646\u064a\u0648\u0641\u0648",
+    "ne:NAME_BN":"\u09ac\u09be\u099c\u09cb \u09a8\u09c1\u09af\u09bc\u09c7\u09ad\u09cb \u09a4\u09c0\u09b0",
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Bajo-Nuevo-Bank",
+    "ne:NAME_EL":"\u039c\u03c0\u03ac\u03c4\u03b6\u03bf \u039d\u03bf\u03c5\u03ad\u03b2\u03bf \u039c\u03c0\u03b1\u03bd\u03ba",
+    "ne:NAME_EN":"Bajo Nuevo Bank",
+    "ne:NAME_ES":"Bajo Nuevo",
+    "ne:NAME_FR":"Banc de Bajo Nuevo",
+    "ne:NAME_HI":"\u092c\u093e\u0916\u094b \u0928\u094d\u092f\u0941\u090f\u0935\u094b \u0924\u091f",
+    "ne:NAME_HU":"Petrel-szigetek",
+    "ne:NAME_ID":"Tepi Bajo Nuevo",
+    "ne:NAME_IT":"Bajo Nuevo Bank",
+    "ne:NAME_JA":"\u30d0\u30db\u30cc\u30a8\u30dc",
+    "ne:NAME_KO":"\ubc14\ud638 \ub204\uc5d0\ubcf4 \ubc45\ud06c",
+    "ne:NAME_LEN":15,
+    "ne:NAME_LONG":"Bajo Nuevo Bank (Petrel Islands)",
+    "ne:NAME_NL":"Bajo Nuevo",
+    "ne:NAME_PL":"Bajo Nuevo",
+    "ne:NAME_PT":"Ilha Baixo Novo",
+    "ne:NAME_RU":"\u0411\u0430\u0445\u043e-\u041d\u0443\u044d\u0432\u043e",
+    "ne:NAME_SORT":"Bajo Nuevo Bank (Petrel Is.)",
+    "ne:NAME_SV":"Bajo Nuevo",
+    "ne:NAME_TR":"Bajo Nuevo Bank",
+    "ne:NAME_VI":"Bajo Nuevo Bank",
+    "ne:NAME_ZH":"\u5df4\u970d\u52aa\u57c3\u6c83\u7901",
+    "ne:NE_ID":1159320425,
+    "ne:NOTE_ADM0":"Disputed",
+    "ne:NOTE_BRK":"Claimed by Columbia, Jamaica, Nicaragua and the United States",
+    "ne:POP_EST":0,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":null,
+    "ne:REGION_UN":"Americas",
+    "ne:REGION_WB":"Latin America & Caribbean",
+    "ne:SOVEREIGNT":"Bajo Nuevo Bank (Petrel Is.)",
+    "ne:SOV_A3":"BJN",
+    "ne:SUBREGION":"Caribbean",
+    "ne:SUBUNIT":"Bajo Nuevo Bank (Petrel Is.)",
+    "ne:SU_A3":"BJN",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Indeterminate",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q1257783",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"No WOE equivalent.",
+    "ne:featurecla":"Admin-0 indeterminant",
+    "ne:scalerank":8,
+    "qs:a0":"Bajo Nuevo Bank (Petrel Is.)",
+    "qs:adm0":"Bajo Nuevo Bank (Petrel Is.)",
+    "qs:adm0_a3":"BJN",
+    "qs:id":0,
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"naturalearth",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        102191575,
+        85632215,
+        85632599,
+        85632323,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4743779,
+        "gp:id":23424977,
+        "ne:id":1159320425,
+        "wd:id":"Q1257783"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy",
+        "wof:belongsto"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"f1343bbf0eb3460f13c62fae769a52ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "disputed_id":85632563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "disputed_id":85632563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "disputed_id":85632563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "disputed_id":85632563
+        },
+        {
+            "continent_id":102191575,
+            "empire_id":136253057,
+            "disputed_id":85632563
+        }
+    ],
+    "wof:id":85632563,
+    "wof:lastmodified":1530229217,
+    "wof:name":"Bajo Nuevo Bank",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":313973000,
+    "wof:population_rank":17,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.98867034899996,
+    15.78827762600002,
+    -79.74136352499994,
+    15.86027813000004
+],
+  "geometry": {"coordinates":[[[[-79.84072112999996,15.78986072500004],[-79.84425353999995,15.78827762600002],[-79.84661102299998,15.78874969500004],[-79.84967040999999,15.79438877100006],[-79.85021972699997,15.79680538200006],[-79.84869384799998,15.79755592300006],[-79.84402465799997,15.79630565600007],[-79.83983612099996,15.79411125200005],[-79.83930206299993,15.79180526700003],[-79.84072112999996,15.78986072500004]]],[[[-79.98527526899994,15.79413890800004],[-79.98672485399999,15.79391670200005],[-79.98835754399994,15.79486084000007],[-79.98867034899996,15.79530525200005],[-79.98647308299996,15.79633331300005],[-79.98486328099995,15.79552745800004],[-79.98527526899994,15.79413890800004]]],[[[-79.98208618199999,15.79780578600003],[-79.98313903799999,15.79724979400004],[-79.98397064199997,15.79752731300005],[-79.98330688499993,15.79977798500005],[-79.98130798299997,15.79980564100003],[-79.98130798299997,15.79883289300005],[-79.98208618199999,15.79780578600003]]],[[[-79.77100372299998,15.85319423700003],[-79.77491760299995,15.85219478600004],[-79.77749633799993,15.85327816000006],[-79.77769470199996,15.85397243500006],[-79.77588653599997,15.85569477100006],[-79.77036285399998,15.85830593100007],[-79.76894378699996,15.85847187000007],[-79.76819610599995,15.85736084000007],[-79.76938629199998,15.85411071800007],[-79.77100372299998,15.85319423700003]]],[[[-79.74458312999997,15.85550022100006],[-79.74536132799994,15.85505580900008],[-79.74571990999993,15.85552787800003],[-79.74261474599996,15.86027813000004],[-79.74136352499994,15.86019420600007],[-79.74263763399995,15.85636138900003],[-79.74458312999997,15.85550022100006]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1125923055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.689605,17.0706545,-61.689605,17.0706545",
+    "geom:latitude":17.070654,
+    "geom:longitude":-61.689605,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":17.070654,
+    "lbl:longitude":-61.689605,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gaynors",
+    "qs_pg:name_adm0":"Antigua and Barbuda",
+    "qs_pg:name_adm1":"Saint Philip",
+    "qs_pg:photos":182,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":182,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":484487,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424737,
+    "qs_pg:woe_id":56171,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424737,
+    "woe:name_adm0":"Antigua and Barbuda",
+    "woe:name_adm1":"Saint Philip",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56171,
+        "qs_pg:id":484487
+    },
+    "wof:country":"XX",
+    "wof:created":1497296549,
+    "wof:geomhash":"981657de0fb025b282ff905c2acf132c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1125923055,
+            "region_id":85668177
+        }
+    ],
+    "wof:id":1125923055,
+    "wof:lastmodified":1509400925,
+    "wof:name":"Gaynors",
+    "wof:parent_id":85668177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.689605,
+    17.0706545,
+    -61.689605,
+    17.0706545
+],
+  "geometry": {"coordinates":[-61.689605,17.0706545],"type":"Point"}
+}

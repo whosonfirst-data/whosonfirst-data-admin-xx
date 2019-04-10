@@ -1,0 +1,81 @@
+{
+  "id": 1125925139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.563601,-16.605753,-151.563601,-16.605753",
+    "geom:latitude":-16.605753,
+    "geom:longitude":-151.563601,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-16.605753,
+    "lbl:longitude":-151.563601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ruutia",
+    "qs_pg:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "qs_pg:name_adm1":"\u00celes sous le Vent",
+    "qs_pg:photos":326,
+    "qs_pg:photos_1k":66,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":326,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":216133,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424817,
+    "qs_pg:woe_id":28752856,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424817,
+    "woe:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "woe:name_adm1":"\u00celes sous le Vent",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28752856,
+        "qs_pg:id":216133
+    },
+    "wof:country":"XX",
+    "wof:created":1497296615,
+    "wof:geomhash":"c17cb348db1d7bd5b07a3fc3a02aa345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1125925139,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125925139,
+    "wof:lastmodified":1509998523,
+    "wof:name":"Ruutia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.563601,
+    -16.605753,
+    -151.563601,
+    -16.605753
+],
+  "geometry": {"coordinates":[-151.56360100000001,-16.605753],"type":"Point"}
+}

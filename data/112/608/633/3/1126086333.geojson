@@ -1,0 +1,83 @@
+{
+  "id": 1126086333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.486603,25.8935785,-97.486603,25.8935785",
+    "geom:latitude":25.893579,
+    "geom:longitude":-97.486603,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":25.893579,
+    "lbl:longitude":-97.486603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fracc Rio",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Tamaulipas",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":290166,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55881934,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Tamaulipas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101724157,
+        102086761,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881934,
+        "qs_pg:id":290166
+    },
+    "wof:country":"XX",
+    "wof:created":1497312861,
+    "wof:geomhash":"6a7f4df3861d63d13b455cd5e84fd963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086761,
+            "locality_id":101724157,
+            "neighbourhood_id":1126086333,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1126086333,
+    "wof:lastmodified":1509411419,
+    "wof:name":"Fracc Rio",
+    "wof:parent_id":101724157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.486603,
+    25.8935785,
+    -97.486603,
+    25.8935785
+],
+  "geometry": {"coordinates":[-97.486603,25.8935785],"type":"Point"}
+}

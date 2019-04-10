@@ -1,0 +1,83 @@
+{
+  "id": 1126096107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.556864,37.157469,-76.556864,37.157469",
+    "geom:latitude":37.157469,
+    "geom:longitude":-76.556864,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.157469,
+    "lbl:longitude":-76.556864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Warwick Landing",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":51,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":51,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091699,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55860550,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55860550,
+        "qs_pg:id":1091699
+    },
+    "wof:country":"XX",
+    "wof:created":1497315245,
+    "wof:geomhash":"3b6432046c712b1c176086f7d598d273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":1126096107,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126096107,
+    "wof:lastmodified":1509411890,
+    "wof:name":"Warwick Landing",
+    "wof:parent_id":101729041,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.556864,
+    37.157469,
+    -76.556864,
+    37.157469
+],
+  "geometry": {"coordinates":[-76.556864,37.157469],"type":"Point"}
+}

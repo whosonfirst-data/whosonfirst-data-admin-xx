@@ -1,0 +1,217 @@
+{
+  "id": 1125829155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.821666,42.356514,20.821666,42.356514",
+    "geom:latitude":42.356514,
+    "geom:longitude":20.821666,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":42.356514,
+    "lbl:longitude":20.821666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Theranda"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0641\u0627 \u0631\u064a\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09c1\u09ad\u09be \u09b0\u09c7\u0995\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0445\u0430 \u0440\u0435\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Theranda"
+    ],
+    "name:cze_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:dan_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:dut_x_preferred":[
+        "Suharek\u00eb"
+    ],
+    "name:eng_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:fin_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:fre_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:ger_x_preferred":[
+        "Suhareka"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03bf\u03cd\u03b2\u03b1 \u03a1\u03ad\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac1\u0ab5\u0abe \u0ab0\u0ac7\u0a95\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0935\u093e \u0930\u0947\u0915\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:hun_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:ind_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:ita_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30cf\u30ec\u30ab"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc1\u0cb5\u0cbe \u0cb0\u0cc6\u0c95\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc218\ubc14 \ub808\uce74"
+    ],
+    "name:lav_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:lit_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0443\u0432\u0430 \u0420\u0435\u043a\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0941\u0935\u093e \u0930\u0947\u0915\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:nob_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:oci_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u0648\u0627 \u0631\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:por_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0432\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd4\u0dc0\u0dcf \u0dbb\u0dd9\u0d9a\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Suva Reka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0432\u0430 \u0420\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Komuna e Th\u00ebrand\u00ebs"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bb5\u0bbe  \u0bb0\u0bc7\u0b95\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c41\u0c35\u0c3e \u0c30\u0c47\u0c15\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e23\u0e4c\u0e17\u0e32\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Suvareka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0432\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0648\u0627 \u0631\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Suva Reka"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Suva Reka",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Prizren",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":470596,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":537027,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Prizren",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108809511,
+        85633259,
+        1108808597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":537027,
+        "qs_pg:id":470596,
+        "wd:id":"Q59086"
+    },
+    "wof:country":"XX",
+    "wof:created":1497292413,
+    "wof:geomhash":"e995a3037859578d1517d73400cb5f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809511,
+            "locality_id":1125829155,
+            "region_id":1108808597
+        }
+    ],
+    "wof:id":1125829155,
+    "wof:lastmodified":1514503111,
+    "wof:name":"Suva Reka",
+    "wof:parent_id":1108809511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.821666,
+    42.356514,
+    20.821666,
+    42.356514
+],
+  "geometry": {"coordinates":[20.821666,42.356514],"type":"Point"}
+}

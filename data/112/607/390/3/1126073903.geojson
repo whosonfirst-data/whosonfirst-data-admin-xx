@@ -1,0 +1,86 @@
+{
+  "id": 1126073903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.299156,37.890567,-122.299156,37.890567",
+    "geom:latitude":37.890567,
+    "geom:longitude":-122.299156,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.890567,
+    "lbl:longitude":-122.299156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Downtown",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"California",
+    "qs_pg:photos":836,
+    "qs_pg:photos_1k":169,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":836,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":899402,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55969049,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55969049,
+        "qs_pg:id":899402
+    },
+    "wof:country":"XX",
+    "wof:created":1497310540,
+    "wof:geomhash":"183537030886dd0687f8ffad93ea44aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "neighbourhood_id":1126073903,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1126073903,
+    "wof:lastmodified":1511998873,
+    "wof:name":"Downtown",
+    "wof:parent_id":85921919,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[
+        85885545
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.299156,
+    37.890567,
+    -122.299156,
+    37.890567
+],
+  "geometry": {"coordinates":[-122.299156,37.890567],"type":"Point"}
+}

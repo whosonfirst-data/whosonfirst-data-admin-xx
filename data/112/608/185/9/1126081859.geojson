@@ -1,0 +1,80 @@
+{
+  "id": 1126081859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.972746,8.393327,76.972746,8.393327",
+    "geom:latitude":8.393327,
+    "geom:longitude":76.972746,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":8.393327,
+    "lbl:longitude":76.972746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vellar Junction",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Kerala",
+    "qs_pg:photos":1250,
+    "qs_pg:photos_1k":253,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1250,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":476901,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":55954287,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Kerala",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        102029647,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55954287,
+        "qs_pg:id":476901
+    },
+    "wof:country":"XX",
+    "wof:created":1497312048,
+    "wof:geomhash":"3399100385530776eadd752d390f52aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "locality_id":102029647,
+            "neighbourhood_id":1126081859,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126081859,
+    "wof:lastmodified":1509411202,
+    "wof:name":"Vellar Junction",
+    "wof:parent_id":102029647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.972746,
+    8.393327,
+    76.972746,
+    8.393327
+],
+  "geometry": {"coordinates":[76.972746,8.393327],"type":"Point"}
+}

@@ -1,0 +1,331 @@
+{
+  "id": 1125804665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.08333,14.48333,-61.08333,14.48333",
+    "geom:latitude":14.48333,
+    "geom:longitude":-61.08333,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"XX",
+    "lbl:latitude":14.48333,
+    "lbl:longitude":-61.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:arg_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ast_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:bam_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:baq_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:bar_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:bre_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:cat_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:cos_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:cze_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:dan_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:dut_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:eng_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:epo_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:est_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:fao_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:fin_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:frc_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:fre_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:frp_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:fur_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ger_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:gla_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:gle_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:glg_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:gsw_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:hrv_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:hun_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ice_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ido_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ile_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ina_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ind_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ita_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:jam_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30be\u30f3\u30bb\uff1d\u30c0\u30eb\u30ec"
+    ],
+    "name:kab_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:kal_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:kon_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:lat_x_preferred":[
+        "Basse-Pointe"
+    ],
+    "name:lav_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:lij_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:lim_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:lit_x_preferred":[
+        "Lez Ans d'Arl\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:may_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:min_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:mlg_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:nap_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:nds_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:nno_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:nob_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:nrm_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:oci_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:pap_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:pcd_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:pms_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:pol_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:por_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:prg_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:rgn_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:roh_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:rum_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:scn_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:sco_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:slo_x_preferred":[
+        "Les Anses-d\u2019Arlet"
+    ],
+    "name:spa_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:srd_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:swa_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:swe_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:tur_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0437-\u0410\u043d\u0441-\u0434'\u0410\u0440\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Anses d'Arlets"
+    ],
+    "name:vec_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:vie_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:vls_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:vmf_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:vol_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:war_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:wel_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:wln_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:wol_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:zul_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3570408,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Les Anses-d'Arlets",
+    "qs_pg:name_adm0":"Martinique",
+    "qs_pg:name_adm1":"Marin",
+    "qs_pg:photos":685,
+    "qs_pg:photos_1k":139,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":685,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082623,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424884,
+    "qs_pg:woe_id":110576,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424884,
+    "woe:name_adm0":"Martinique",
+    "woe:name_adm1":"Marin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570408,
+        "gp:id":110576,
+        "qs_pg:id":1082623,
+        "wd:id":"Q1928126"
+    },
+    "wof:country":"XX",
+    "wof:created":1497291412,
+    "wof:geomhash":"d61087b9281a8e7abb964f8b9eb52fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125804665,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125804665,
+    "wof:lastmodified":1514503067,
+    "wof:name":"Les Anses-d'Arlets",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.08333,
+    14.48333,
+    -61.08333,
+    14.48333
+],
+  "geometry": {"coordinates":[-61.08333,14.48333],"type":"Point"}
+}

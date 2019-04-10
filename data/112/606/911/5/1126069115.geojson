@@ -1,0 +1,82 @@
+{
+  "id": 1126069115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.634053,-43.53066,172.634053,-43.53066",
+    "geom:latitude":-43.53066,
+    "geom:longitude":172.634053,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-43.53066,
+    "lbl:longitude":172.634053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Christchurch Central",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Canterbury",
+    "qs_pg:photos":24323,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":108,
+    "qs_pg:photos_9r":21,
+    "qs_pg:photos_all":24323,
+    "qs_pg:photos_sr":28,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":984410,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28676724,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Canterbury",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079401,
+        85687179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676724,
+        "qs_pg:id":984410
+    },
+    "wof:country":"XX",
+    "wof:created":1497309506,
+    "wof:geomhash":"c7af326ed73e874d949abafc47753dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":-1,
+            "neighbourhood_id":1126069115,
+            "region_id":85687179
+        }
+    ],
+    "wof:id":1126069115,
+    "wof:lastmodified":1509410581,
+    "wof:name":"Christchurch Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.634053,
+    -43.53066,
+    172.634053,
+    -43.53066
+],
+  "geometry": {"coordinates":[172.63405299999999,-43.53066],"type":"Point"}
+}

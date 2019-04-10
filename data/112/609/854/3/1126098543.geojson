@@ -1,0 +1,82 @@
+{
+  "id": 1126098543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.990163,19.7539,-98.990163,19.7539",
+    "geom:latitude":19.7539,
+    "geom:longitude":-98.990163,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.7539,
+    "lbl:longitude":-98.990163,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Santa Lucia Base Aerea Militar",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":118,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":118,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342554,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903446,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073979,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55903446,
+        "qs_pg:id":1342554
+    },
+    "wof:country":"XX",
+    "wof:created":1497315622,
+    "wof:geomhash":"ba0c99dd37aa30b37bf53571a637fce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073979,
+            "locality_id":-1,
+            "neighbourhood_id":1126098543,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126098543,
+    "wof:lastmodified":1509412001,
+    "wof:name":"Santa Lucia Base Aerea Militar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.990163,
+    19.7539,
+    -98.990163,
+    19.7539
+],
+  "geometry": {"coordinates":[-98.990163,19.7539],"type":"Point"}
+}

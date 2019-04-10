@@ -1,0 +1,95 @@
+{
+  "id": 1126058857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.870378,17.927292,-62.870378,17.927292",
+    "geom:latitude":17.927292,
+    "geom:longitude":-62.870378,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":17.927292,
+    "lbl:longitude":-62.870378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Anse des Cayes"
+    ],
+    "name:eng_x_preferred":[
+        "Anse des Cayes"
+    ],
+    "name:fre_x_preferred":[
+        "Anse des Cayes"
+    ],
+    "name:ger_x_preferred":[
+        "Anse des Cayes"
+    ],
+    "name:oci_x_preferred":[
+        "Anse des Cayes"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Anse des Cayes",
+    "qs_pg:name_adm0":"Saint-Barth\u00e9lemy",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1072045,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":56042304,
+    "qs_pg:woe_id":80486,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":56042304,
+    "woe:name_adm0":"Saint-Barth\u00e9lemy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632199,
+        102191575,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80486,
+        "qs_pg:id":1072045,
+        "wd:id":"Q4770563"
+    },
+    "wof:country":"XX",
+    "wof:created":1497303738,
+    "wof:geomhash":"13968990f137fff81f7b74f7495ce14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632199,
+            "empire_id":136253037,
+            "locality_id":1126058857,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126058857,
+    "wof:lastmodified":1514502960,
+    "wof:name":"Anse des Cayes",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.870378,
+    17.927292,
+    -62.870378,
+    17.927292
+],
+  "geometry": {"coordinates":[-62.870378,17.927292],"type":"Point"}
+}

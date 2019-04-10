@@ -1,0 +1,81 @@
+{
+  "id": 1126089301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.271961,42.655266,23.271961,42.655266",
+    "geom:latitude":42.655266,
+    "geom:longitude":23.271961,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":42.655266,
+    "lbl:longitude":23.271961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vitosha",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Sofiya-Grad",
+    "qs_pg:photos":547,
+    "qs_pg:photos_1k":111,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":547,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080172,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":55855477,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Sofiya-Grad",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101748887,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855477,
+        "qs_pg:id":1080172
+    },
+    "wof:country":"XX",
+    "wof:created":1497313405,
+    "wof:geomhash":"de7220c4009ca022814e9b2aeca1b3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748887,
+            "neighbourhood_id":1126089301,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":1126089301,
+    "wof:lastmodified":1509411561,
+    "wof:name":"Vitosha",
+    "wof:parent_id":101748887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.271961,
+    42.655266,
+    23.271961,
+    42.655266
+],
+  "geometry": {"coordinates":[23.271961,42.655266],"type":"Point"}
+}

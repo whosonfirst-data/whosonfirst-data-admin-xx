@@ -1,0 +1,83 @@
+{
+  "id": 1126095211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.461445,37.556783,-77.461445,37.556783",
+    "geom:latitude":37.556783,
+    "geom:longitude":-77.461445,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.556783,
+    "lbl:longitude":-77.461445,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"West Grace Street",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":953,
+    "qs_pg:photos_1k":193,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":953,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089932,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55861444,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55861444,
+        "qs_pg:id":1089932
+    },
+    "wof:country":"XX",
+    "wof:created":1497315043,
+    "wof:geomhash":"c15a9a37a92e258c8b567c1e3859d4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":1126095211,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126095211,
+    "wof:lastmodified":1509411849,
+    "wof:name":"West Grace Street",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.461445,
+    37.556783,
+    -77.461445,
+    37.556783
+],
+  "geometry": {"coordinates":[-77.461445,37.556783],"type":"Point"}
+}

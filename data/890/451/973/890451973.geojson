@@ -1,0 +1,82 @@
+{
+  "id": 890451973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.7909615,33.505331,77.7909615,33.505331",
+    "geom:latitude":33.505331,
+    "geom:longitude":77.790961,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tanglang La",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":96,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":96,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":108,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29214436,
+        "qs:id":212171,
+        "wd:id":"Q729667",
+        "wk:page":"Taglang La"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052800,
+    "wof:geomhash":"d9428d0b48e5cca13f2dc6b7ba1244f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890451973,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890451973,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890451973,
+    "wof:lastmodified":1533678792,
+    "wof:name":"Tanglang La",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.7909615,
+    33.505331,
+    77.7909615,
+    33.505331
+],
+  "geometry": {"coordinates":[77.79096149999999,33.505331],"type":"Point"}
+}

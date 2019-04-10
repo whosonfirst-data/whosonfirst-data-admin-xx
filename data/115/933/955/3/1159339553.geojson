@@ -1,0 +1,241 @@
+{
+  "id": 1159339553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000574,
+    "geom:bbox":"71.260996941,-6.65634531,72.230967644,-5.226983331",
+    "geom:latitude":-6.020499,
+    "geom:longitude":71.463518,
+    "iso:country":"XX",
+    "lbl:latitude":-6.190826,
+    "lbl:longitude":71.348349,
+    "mps:latitude":-6.190826,
+    "mps:longitude":71.348349,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0645\u062d\u064a\u0637 \u0627\u0644\u0647\u0646\u062f\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09bf\u099f\u09bf\u09b6 \u09ad\u09be\u09b0\u09a4 \u09ae\u09b9\u09be\u09b8\u09be\u0997\u09b0\u09c0\u09af\u09bc \u098f\u09b2\u09be\u0995\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Britisches Territorium im Indischen Ozean"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03cc \u0388\u03b4\u03b1\u03c6\u03bf\u03c2 \u0399\u03bd\u03b4\u03b9\u03ba\u03bf\u03cd \u03a9\u03ba\u03b5\u03b1\u03bd\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "British Indian Ocean Territory"
+    ],
+    "name:fra_x_preferred":[
+        "Territoire britannique de l'oc\u00e9an Indien"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u093f\u091f\u093f\u0936 \u0939\u093f\u0902\u0926 \u092e\u0939\u093e\u0938\u093e\u0917\u0930 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Brit Indiai-\u00f3ce\u00e1ni Ter\u00fclet"
+    ],
+    "name:ind_x_preferred":[
+        "Wilayah Samudra Hindia Britania"
+    ],
+    "name:ita_x_preferred":[
+        "Territorio britannico dell'oceano Indiano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
+    ],
+    "name:kor_x_preferred":[
+        "\uc601\uad6d\ub839 \uc778\ub3c4\uc591 \uc9c0\uc5ed"
+    ],
+    "name:nld_x_preferred":[
+        "Brits Indische Oceaanterritorium"
+    ],
+    "name:pol_x_preferred":[
+        "Brytyjskie Terytorium Oceanu Indyjskiego"
+    ],
+    "name:por_x_preferred":[
+        "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0432 \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u043e\u043a\u0435\u0430\u043d\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico"
+    ],
+    "name:swe_x_preferred":[
+        "Brittiska territoriet i Indiska oceanen"
+    ],
+    "name:tur_x_preferred":[
+        "Britanya Hint Okyanusu Topraklar\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00e3nh th\u1ed5 \u1ea4n \u0110\u1ed9 D\u01b0\u01a1ng thu\u1ed9c Anh"
+    ],
+    "name:zho_x_preferred":[
+        "\u82f1\u5c6c\u5370\u5ea6\u6d0b\u9818\u5730"
+    ],
+    "ne:ABBREV":"I.O.T.",
+    "ne:ABBREV_LEN":6,
+    "ne:ADM0_A3":"IOT",
+    "ne:ADM0_A3_IS":"IOT",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"IOT",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"British Indian Ocean Territory",
+    "ne:BRK_A3":"B69",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Br. Indian Ocean Ter.",
+    "ne:CONTINENT":"Seven seas (open ocean)",
+    "ne:ECONOMY":"2. Developed region: nonG7",
+    "ne:FIPS_10_":"IO",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":160,
+    "ne:GDP_YEAR":2013,
+    "ne:GEOUNIT":"British Indian Ocean Territory",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"IOT",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"2. High income: nonOECD",
+    "ne:ISO_A2":"IO",
+    "ne:ISO_A3":"IOT",
+    "ne:ISO_A3_EH":"IOT",
+    "ne:ISO_N3":"086",
+    "ne:LABELRANK":5,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":2,
+    "ne:LONG_LEN":30,
+    "ne:MAPCOLOR13":3,
+    "ne:MAPCOLOR7":6,
+    "ne:MAPCOLOR8":6,
+    "ne:MAPCOLOR9":6,
+    "ne:MAX_LABEL":9.5,
+    "ne:MIN_LABEL":5,
+    "ne:MIN_ZOOM":0,
+    "ne:NAME":"Br. Indian Ocean Ter.",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0645\u062d\u064a\u0637 \u0627\u0644\u0647\u0646\u062f\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a",
+    "ne:NAME_BN":"\u09ac\u09cd\u09b0\u09bf\u099f\u09bf\u09b6 \u09ad\u09be\u09b0\u09a4 \u09ae\u09b9\u09be\u09b8\u09be\u0997\u09b0\u09c0\u09af\u09bc \u098f\u09b2\u09be\u0995\u09be",
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Britisches Territorium im Indischen Ozean",
+    "ne:NAME_EL":"\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03cc \u0388\u03b4\u03b1\u03c6\u03bf\u03c2 \u0399\u03bd\u03b4\u03b9\u03ba\u03bf\u03cd \u03a9\u03ba\u03b5\u03b1\u03bd\u03bf\u03cd",
+    "ne:NAME_EN":"British Indian Ocean Territory",
+    "ne:NAME_ES":"Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico",
+    "ne:NAME_FR":"Territoire britannique de l'oc\u00e9an Indien",
+    "ne:NAME_HI":"\u092c\u094d\u0930\u093f\u091f\u093f\u0936 \u0939\u093f\u0902\u0926 \u092e\u0939\u093e\u0938\u093e\u0917\u0930 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+    "ne:NAME_HU":"Brit Indiai-\u00f3ce\u00e1ni Ter\u00fclet",
+    "ne:NAME_ID":"Wilayah Samudra Hindia Britania",
+    "ne:NAME_IT":"Territorio britannico dell'oceano Indiano",
+    "ne:NAME_JA":"\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
+    "ne:NAME_KO":"\uc601\uad6d\ub839 \uc778\ub3c4\uc591 \uc9c0\uc5ed",
+    "ne:NAME_LEN":21,
+    "ne:NAME_LONG":"British Indian Ocean Territory",
+    "ne:NAME_NL":"Brits Indische Oceaanterritorium",
+    "ne:NAME_PL":"Brytyjskie Terytorium Oceanu Indyjskiego",
+    "ne:NAME_PT":"Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico",
+    "ne:NAME_RU":"\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0432 \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u043e\u043a\u0435\u0430\u043d\u0435",
+    "ne:NAME_SORT":"British Indian Ocean Territory",
+    "ne:NAME_SV":"Brittiska territoriet i Indiska oceanen",
+    "ne:NAME_TR":"Britanya Hint Okyanusu Topraklar\u0131",
+    "ne:NAME_VI":"L\u00e3nh th\u1ed5 \u1ea4n \u0110\u1ed9 D\u01b0\u01a1ng thu\u1ed9c Anh",
+    "ne:NAME_ZH":"\u82f1\u5c6c\u5370\u5ea6\u6d0b\u9818\u5730",
+    "ne:NE_ID":1159320723,
+    "ne:NOTE_ADM0":"U.K.",
+    "ne:NOTE_BRK":"Admin. by U.K.; Claimed by Mauritius and Seychelles",
+    "ne:POP_EST":4000,
+    "ne:POP_RANK":4,
+    "ne:POP_YEAR":2013,
+    "ne:POSTAL":"IO",
+    "ne:REGION_UN":"Seven seas (open ocean)",
+    "ne:REGION_WB":"Sub-Saharan Africa",
+    "ne:SOVEREIGNT":"United Kingdom",
+    "ne:SOV_A3":"GB1",
+    "ne:SUBREGION":"Seven seas (open ocean)",
+    "ne:SUBUNIT":"British Indian Ocean Territory",
+    "ne:SU_A3":"IOT",
+    "ne:SU_DIF":0,
+    "ne:TINY":5,
+    "ne:TYPE":"Dependency",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q43448",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":23424849,
+    "ne:WOE_ID_EH":23424849,
+    "ne:WOE_NOTE":"Exact WOE match as country",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"2013",
+    "wof:belongsto":[
+        102191581,
+        85633159,
+        136253055,
+        102193527,
+        85632661,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320723,
+        "wd:id":"Q43448"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"d77fad7f30b33a07825b19917eb4f2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "disputed_id":1159339553,
+            "empire_id":136253055
+        },
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "disputed_id":1159339553
+        },
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "disputed_id":1159339553
+        }
+    ],
+    "wof:id":1159339553,
+    "wof:lastmodified":1528909939,
+    "wof:name":"British Indian Ocean Territory",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26099694100003,
+    -6.65634530999995,
+    72.23096764400003,
+    -5.22698333099993
+],
+  "geometry": {"coordinates":[[[[71.35035241000008,-6.65252044099992],[71.36207116000008,-6.65292734199994],[71.35523522200003,-6.65634530999995],[71.35173587300005,-6.65569426899992],[71.35035241000008,-6.65349700299993],[71.35035241000008,-6.65252044099992]]],[[[71.26140384200005,-6.38860442499993],[71.26099694100003,-6.37802499799994],[71.26238040500004,-6.37395598799992],[71.26734459700003,-6.37004973799992],[71.26880944100003,-6.37810637799993],[71.26758873800009,-6.38274504999993],[71.26482181100005,-6.38591887799993],[71.26140384200005,-6.38860442499993]]],[[[71.33838951900003,-6.19589609199994],[71.34229576900003,-6.18808359199994],[71.34701582100007,-6.18222421699994],[71.35328209700003,-6.17839934699993],[71.36052493600005,-6.17734140399995],[71.35670006600003,-6.18873463299991],[71.35108483200008,-6.20029062299994],[71.34473717500003,-6.20484791499996],[71.33838951900003,-6.19589609199994]]],[[[71.77320397200003,-5.44019947699991],[71.76465905000003,-5.43385182099991],[71.76238040500004,-5.43173593499995],[71.77173912900008,-5.43336353999996],[71.77458743600005,-5.43572356599992],[71.77418053500008,-5.43808359199994],[71.77320397200003,-5.44019947699991]]],[[[72.22144616000008,-5.32781340899993],[72.23096764400003,-5.31926848799992],[72.22828209700003,-5.32480234199994],[72.22535241000008,-5.32724374799994],[72.22291100400008,-5.32773202899995],[72.22144616000008,-5.32781340899993]]],[[[71.73707116000008,-5.28525155999995],[71.74708092500003,-5.26995208099993],[71.74545332100007,-5.27874114399992],[71.74236087300005,-5.28313567499993],[71.73894290500004,-5.28492603999996],[71.73707116000008,-5.28525155999995]]],[[[71.76026451900003,-5.23658619599991],[71.76856530000003,-5.23414478999996],[71.76644941500007,-5.23919036299992],[71.76449629000007,-5.23967864399992],[71.76270592500003,-5.23796965899993],[71.76026451900003,-5.23658619599991]]],[[[71.96615644600007,-5.23479583099993],[71.96461022200003,-5.23235442499993],[71.96273847700007,-5.23121510199991],[71.96168053500008,-5.23007577899995],[71.96273847700007,-5.22698333099993],[71.96648196700005,-5.22747161299992],[71.96705162900008,-5.22918059699993],[71.96615644600007,-5.23170338299991],[71.96615644600007,-5.23479583099993]]]],"type":"MultiPolygon"}
+}

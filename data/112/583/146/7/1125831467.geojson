@@ -1,0 +1,110 @@
+{
+  "id": 1125831467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01413,45.095716,29.01413,45.095716",
+    "geom:latitude":45.095716,
+    "geom:longitude":29.01413,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.095716,
+    "lbl:longitude":29.01413,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:eng_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:fre_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:hun_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:ita_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:may_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:por_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:rum_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Be\u0219tepe",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Tulcea",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091163,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":867225,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Tulcea",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":867225,
+        "qs_pg:id":1091163,
+        "wd:id":"Q794476"
+    },
+    "wof:country":"XX",
+    "wof:created":1497292518,
+    "wof:geomhash":"24b859f592d1e9495482f2264d4dd9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125831467,
+            "region_id":85687679
+        }
+    ],
+    "wof:id":1125831467,
+    "wof:lastmodified":1514502967,
+    "wof:name":"Be\u0219tepe",
+    "wof:parent_id":85687679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01413,
+    45.095716,
+    29.01413,
+    45.095716
+],
+  "geometry": {"coordinates":[29.01413,45.095716],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126069565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.963833,41.008013,28.963833,41.008013",
+    "geom:latitude":41.008013,
+    "geom:longitude":28.963833,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.008013,
+    "lbl:longitude":28.963833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sara\u00e7ishak",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":117,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":117,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230475,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724028,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724028,
+        "qs_pg:id":230475
+    },
+    "wof:country":"XX",
+    "wof:created":1497309630,
+    "wof:geomhash":"2a4c8377f159a46396af0ba8a0fe3d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":-1,
+            "neighbourhood_id":1126069565,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126069565,
+    "wof:lastmodified":1509410601,
+    "wof:name":"Sara\u00e7ishak",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.963833,
+    41.008013,
+    28.963833,
+    41.008013
+],
+  "geometry": {"coordinates":[28.963833,41.008013],"type":"Point"}
+}

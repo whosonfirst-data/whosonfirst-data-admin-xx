@@ -1,0 +1,129 @@
+{
+  "id": 1125779977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.246558,44.932891,20.246558,44.932891",
+    "geom:latitude":44.932891,
+    "geom:longitude":20.246558,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.932891,
+    "lbl:longitude":20.246558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u65b0\u5e15\u4f50\u74e6"
+    ],
+    "name:cze_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:dut_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:eng_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:epo_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:fre_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:ger_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajpazova"
+    ],
+    "name:ita_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:may_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:pol_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:slv_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u041f\u0430\u0437\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Nova Pazova"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nova Pazova",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Srem",
+    "qs_pg:photos":280,
+    "qs_pg:photos_1k":57,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":280,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078940,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":535638,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Srem",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810093,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":535638,
+        "qs_pg:id":1078940,
+        "wd:id":"Q917500"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290424,
+    "wof:geomhash":"87daedfa9fd5de1b8e29b1196fc530e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810093,
+            "locality_id":1125779977,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1125779977,
+    "wof:lastmodified":1514503074,
+    "wof:name":"Nova Pazova",
+    "wof:parent_id":1108810093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.246558,
+    44.932891,
+    20.246558,
+    44.932891
+],
+  "geometry": {"coordinates":[20.246558,44.932891],"type":"Point"}
+}

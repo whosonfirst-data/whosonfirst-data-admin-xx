@@ -1,0 +1,82 @@
+{
+  "id": 1126106605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.9958505,-37.949575,176.9958505,-37.949575",
+    "geom:latitude":-37.949575,
+    "geom:longitude":176.99585,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-37.949575,
+    "lbl:longitude":176.99585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Whakatane North",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Bay of Plenty",
+    "qs_pg:photos":424,
+    "qs_pg:photos_1k":86,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":424,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474213,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":55876885,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Bay of Plenty",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079291,
+        85687175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55876885,
+        "qs_pg:id":474213
+    },
+    "wof:country":"XX",
+    "wof:created":1497317187,
+    "wof:geomhash":"f53592dd579d291e7261ec7656924eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
+            "locality_id":-1,
+            "neighbourhood_id":1126106605,
+            "region_id":85687175
+        }
+    ],
+    "wof:id":1126106605,
+    "wof:lastmodified":1509412402,
+    "wof:name":"Whakatane North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.9958505,
+    -37.949575,
+    176.9958505,
+    -37.949575
+],
+  "geometry": {"coordinates":[176.99585049999999,-37.949575],"type":"Point"}
+}

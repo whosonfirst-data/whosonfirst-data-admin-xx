@@ -1,0 +1,81 @@
+{
+  "id": 1126069207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.739025,59.432546,24.739025,59.432546",
+    "geom:latitude":59.432546,
+    "geom:longitude":24.739025,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":59.432546,
+    "lbl:longitude":24.739025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tonismae",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":486,
+    "qs_pg:photos_1k":98,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":486,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":221682,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":23701392,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101748153,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23701392,
+        "qs_pg:id":221682
+    },
+    "wof:country":"XX",
+    "wof:created":1497309529,
+    "wof:geomhash":"870be6f858c5f9a415f873c7731eb629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101748153,
+            "neighbourhood_id":1126069207,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1126069207,
+    "wof:lastmodified":1509410585,
+    "wof:name":"Tonismae",
+    "wof:parent_id":101748153,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.739025,
+    59.432546,
+    24.739025,
+    59.432546
+],
+  "geometry": {"coordinates":[24.739025,59.432546],"type":"Point"}
+}

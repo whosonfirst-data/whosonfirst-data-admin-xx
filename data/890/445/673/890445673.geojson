@@ -1,0 +1,82 @@
+{
+  "id": 890445673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.548694,34.072913,77.548694,34.072913",
+    "geom:latitude":34.072913,
+    "geom:longitude":77.548694,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chuchot Shama",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29197912,
+        "qs:id":921101,
+        "wd:id":"Q24909752",
+        "wk:page":"Chuchot Shama"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052518,
+    "wof:geomhash":"ef2312e0a3ffd6b935e233049b9be095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890445673,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890445673,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890445673,
+    "wof:lastmodified":1533678791,
+    "wof:name":"Chuchot Shama",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.548694,
+    34.072913,
+    77.548694,
+    34.072913
+],
+  "geometry": {"coordinates":[77.548694,34.072913],"type":"Point"}
+}

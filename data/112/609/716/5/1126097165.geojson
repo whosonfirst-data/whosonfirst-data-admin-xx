@@ -1,0 +1,93 @@
+{
+  "id": 1126097165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.055833,41.105743,29.055833,41.105743",
+    "geom:latitude":41.105743,
+    "geom:longitude":29.055833,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.105743,
+    "lbl:longitude":29.055833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Emirgan"
+    ],
+    "name:eng_x_preferred":[
+        "Emirgan"
+    ],
+    "name:tur_x_preferred":[
+        "Emirg\u00e2n"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Emirgan",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":1190,
+    "qs_pg:photos_1k":241,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1190,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1337661,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55870766,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912653,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870766,
+        "qs_pg:id":1337661,
+        "wd:id":"Q6097190"
+    },
+    "wof:country":"XX",
+    "wof:created":1497315428,
+    "wof:geomhash":"0f7a83d16af62c350824a203dfce18cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "locality_id":101912653,
+            "neighbourhood_id":1126097165,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126097165,
+    "wof:lastmodified":1514502983,
+    "wof:name":"Emirgan",
+    "wof:parent_id":101912653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.055833,
+    41.105743,
+    29.055833,
+    41.105743
+],
+  "geometry": {"coordinates":[29.055833,41.105743],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126085813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.894841,-2.21,-79.894841,-2.21",
+    "geom:latitude":-2.21,
+    "geom:longitude":-79.894841,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-2.21,
+    "lbl:longitude":-79.894841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"C. del Seguro Urbanizaci\u00f3n",
+    "qs_pg:name_adm0":"Ecuador",
+    "qs_pg:name_adm1":"Guayas",
+    "qs_pg:photos":807,
+    "qs_pg:photos_1k":164,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":807,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1054069,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424801,
+    "qs_pg:woe_id":369968,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424801,
+    "woe:name_adm0":"Ecuador",
+    "woe:name_adm1":"Guayas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        421175423,
+        85670917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":369968,
+        "qs_pg:id":1054069
+    },
+    "wof:country":"XX",
+    "wof:created":1497312767,
+    "wof:geomhash":"8a66b5084a427e59ee681fd9c2e25591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421175423,
+            "locality_id":-1,
+            "neighbourhood_id":1126085813,
+            "region_id":85670917
+        }
+    ],
+    "wof:id":1126085813,
+    "wof:lastmodified":1509411395,
+    "wof:name":"C. del Seguro Urbanizaci\u00f3n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.894841,
+    -2.21,
+    -79.894841,
+    -2.21
+],
+  "geometry": {"coordinates":[-79.894841,-2.21],"type":"Point"}
+}

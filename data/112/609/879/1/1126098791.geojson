@@ -1,0 +1,83 @@
+{
+  "id": 1126098791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.921045,22.874988,-109.921045,22.874988",
+    "geom:latitude":22.874988,
+    "geom:longitude":-109.921045,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":22.874988,
+    "lbl:longitude":-109.921045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lienzo Charro Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California Sur",
+    "qs_pg:photos":825,
+    "qs_pg:photos_1k":167,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":825,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1343488,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55910436,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California Sur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101994035,
+        102074525,
+        85686555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55910436,
+        "qs_pg:id":1343488
+    },
+    "wof:country":"XX",
+    "wof:created":1497315663,
+    "wof:geomhash":"b4f109f90a35f7836e3b6ff58ed09279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074525,
+            "locality_id":101994035,
+            "neighbourhood_id":1126098791,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1126098791,
+    "wof:lastmodified":1509412013,
+    "wof:name":"Lienzo Charro Centro",
+    "wof:parent_id":101994035,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.921045,
+    22.874988,
+    -109.921045,
+    22.874988
+],
+  "geometry": {"coordinates":[-109.92104500000001,22.874988],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890445611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.535287,34.3742645,76.535287,34.3742645",
+    "geom:latitude":34.374265,
+    "geom:longitude":76.535287,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kargil",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":1118,
+    "qs:photos_1k":227,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2533,
+    "qs:photos_sr":11,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1102,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        85632427,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24505170,
+        "qs:id":890363,
+        "wd:id":"Q2088176",
+        "wk:page":"Kargil"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052516,
+    "wof:geomhash":"8fd9fbb9d6cc36de27c6d347996919d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890445611,
+            "disputed_id":85632427,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890445611,
+            "disputed_id":85632427,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890445611,
+    "wof:lastmodified":1533678778,
+    "wof:name":"Kargil",
+    "wof:parent_id":85672137,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.535287,
+    34.3742645,
+    76.535287,
+    34.3742645
+],
+  "geometry": {"coordinates":[76.535287,34.3742645],"type":"Point"}
+}

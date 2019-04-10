@@ -1,0 +1,189 @@
+{
+  "id": 1125832381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.381942,45.242261,19.381942,45.242261",
+    "geom:latitude":45.242261,
+    "geom:longitude":19.381942,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.242261,
+    "lbl:longitude":19.381942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062a\u0634\u0643\u0627 \u0628\u0627\u0644\u0627\u0646\u0643\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u5947\u5361\u5e15\u5170\u5361"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0627\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:dut_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:eng_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:epo_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:est_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:fre_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:ger_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e6'\u05e7\u05d4 \u05e4\u05d0\u05dc\u05d0\u05e0\u05e7\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:hun_x_preferred":[
+        "Pal\u00e1nka"
+    ],
+    "name:ita_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c1\u30e5\u30ab\u30fb\u30d1\u30e9\u30f3\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uce58\uce74\ud314\ub780\uce74"
+    ],
+    "name:lit_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:may_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:nob_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:por_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:rum_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:spa_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ba\u010dka Palanka",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhna Bachka",
+    "qs_pg:photos":99,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":99,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":343374,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":532454,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhna Bachka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688295,
+        102191581,
+        1108809827,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":532454,
+        "qs_pg:id":343374,
+        "wd:id":"Q477170"
+    },
+    "wof:country":"XX",
+    "wof:created":1497292555,
+    "wof:geomhash":"c35e5a3eeb89b902ee91e32482fa2467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809827,
+            "locality_id":1125832381,
+            "macroregion_id":404227537,
+            "region_id":85688295
+        }
+    ],
+    "wof:id":1125832381,
+    "wof:lastmodified":1514502966,
+    "wof:name":"Ba\u010dka Palanka",
+    "wof:parent_id":1108809827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.381942,
+    45.242261,
+    19.381942,
+    45.242261
+],
+  "geometry": {"coordinates":[19.381942,45.242261],"type":"Point"}
+}

@@ -1,0 +1,235 @@
+{
+  "id": 1159339535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.75481,
+    "geom:bbox":"62.800641723,45.565824483,63.96713383,46.390838725",
+    "geom:latitude":45.97833,
+    "geom:longitude":63.383897,
+    "iso:country":"XX",
+    "lbl:latitude":45.978332,
+    "lbl:longitude":63.383897,
+    "mps:latitude":45.978332,
+    "mps:longitude":63.383897,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":1,
+    "mz:hierarchy_label_county":1,
+    "mz:hierarchy_label_localadmin":1,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":1,
+    "mz:hierarchy_label_macroregion":1,
+    "mz:hierarchy_label_region":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u064a\u0643\u0648\u0646\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0987\u0995\u09c1\u09a8\u09cb\u09b0"
+    ],
+    "name:deu_x_preferred":[
+        "Baikonur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ca\u03ba\u03bf\u03bd\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Baikonur"
+    ],
+    "name:fra_x_preferred":[
+        "Ba\u00efkonour"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u092f\u0915\u094b\u0928\u0942\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Bajkonur"
+    ],
+    "name:ind_x_preferred":[
+        "Baykonur"
+    ],
+    "name:ita_x_preferred":[
+        "Bayqo\u00f1yr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30b3\u30cc\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc774\ucf54\ub204\ub974"
+    ],
+    "name:nld_x_preferred":[
+        "Bajkonoer"
+    ],
+    "name:pol_x_preferred":[
+        "Bajkonur"
+    ],
+    "name:por_x_preferred":[
+        "Baikonur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u043a\u043e\u043d\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Baikonur"
+    ],
+    "name:swe_x_preferred":[
+        "Bajkonur"
+    ],
+    "name:tur_x_preferred":[
+        "Baykonur"
+    ],
+    "name:vie_x_preferred":[
+        "Baikonur"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u79d1\u52aa\u723e"
+    ],
+    "ne:ABBREV":"Bayk.",
+    "ne:ABBREV_LEN":5,
+    "ne:ADM0_A3":"KAB",
+    "ne:ADM0_A3_IS":"KAZ",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"KAB",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"Baykonur Cosmodrome",
+    "ne:BRK_A3":"B40",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Baykonur",
+    "ne:CONTINENT":"Asia",
+    "ne:ECONOMY":"2. Developed region: nonG7",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":1155,
+    "ne:GDP_YEAR":2013,
+    "ne:GEOUNIT":"Baykonur Cosmodrome",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"KAB",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"3. Upper middle income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":5,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":2,
+    "ne:LONG_LEN":19,
+    "ne:MAPCOLOR13":1,
+    "ne:MAPCOLOR7":6,
+    "ne:MAPCOLOR8":1,
+    "ne:MAPCOLOR9":6,
+    "ne:MAX_LABEL":9.5,
+    "ne:MIN_LABEL":6,
+    "ne:MIN_ZOOM":5,
+    "ne:NAME":"Baikonur",
+    "ne:NAME_ALT":"Baykonur Cosmodrome",
+    "ne:NAME_AR":"\u0628\u0627\u064a\u0643\u0648\u0646\u0648\u0631",
+    "ne:NAME_BN":"\u09ac\u09be\u0987\u0995\u09c1\u09a8\u09cb\u09b0",
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Baikonur",
+    "ne:NAME_EL":"\u039c\u03c0\u03b1\u03ca\u03ba\u03bf\u03bd\u03bf\u03cd\u03c1",
+    "ne:NAME_EN":"Baikonur",
+    "ne:NAME_ES":"Baikonur",
+    "ne:NAME_FR":"Ba\u00efkonour",
+    "ne:NAME_HI":"\u092c\u093e\u092f\u0915\u094b\u0928\u0942\u0930",
+    "ne:NAME_HU":"Bajkonur",
+    "ne:NAME_ID":"Baykonur",
+    "ne:NAME_IT":"Bayqo\u00f1yr",
+    "ne:NAME_JA":"\u30d0\u30a4\u30b3\u30cc\u30fc\u30eb",
+    "ne:NAME_KO":"\ubc14\uc774\ucf54\ub204\ub974",
+    "ne:NAME_LEN":8,
+    "ne:NAME_LONG":"Baikonur Cosmodrome",
+    "ne:NAME_NL":"Bajkonoer",
+    "ne:NAME_PL":"Bajkonur",
+    "ne:NAME_PT":"Baikonur",
+    "ne:NAME_RU":"\u0411\u0430\u0439\u043a\u043e\u043d\u0443\u0440",
+    "ne:NAME_SORT":"Baikonur Cosmodrome",
+    "ne:NAME_SV":"Bajkonur",
+    "ne:NAME_TR":"Baykonur",
+    "ne:NAME_VI":"Baikonur",
+    "ne:NAME_ZH":"\u62dc\u79d1\u52aa\u723e",
+    "ne:NE_ID":1159320965,
+    "ne:NOTE_ADM0":"Leased by Russia",
+    "ne:NOTE_BRK":"Leased to Russia by Kazakhstan",
+    "ne:POP_EST":70000,
+    "ne:POP_RANK":8,
+    "ne:POP_YEAR":2013,
+    "ne:POSTAL":"BK",
+    "ne:REGION_UN":"Asia",
+    "ne:REGION_WB":"Europe & Central Asia",
+    "ne:SOVEREIGNT":"Kazakhstan",
+    "ne:SOV_A3":"KAZ",
+    "ne:SUBREGION":"Central Asia",
+    "ne:SUBUNIT":"Baykonur Cosmodrome",
+    "ne:SU_A3":"KAB",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Lease",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q165413",
+    "ne:WIKIPEDIA":0,
+    "ne:WOE_ID":-90,
+    "ne:WOE_ID_EH":20070177,
+    "ne:WOE_NOTE":"A subunit of Kazakhstan in WOE.",
+    "ne:featurecla":"Admin-0 lease",
+    "ne:scalerank":0,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"2013",
+    "wof:belongsto":[
+        102191581,
+        85632685,
+        874393555,
+        102191569,
+        85632307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320965,
+        "wd:id":"Q165413"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"361e3bff9d6c24e441635533cd5e5527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "disputed_id":1159339535,
+            "empire_id":874393555
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632307,
+            "disputed_id":1159339535
+        }
+    ],
+    "wof:id":1159339535,
+    "wof:lastmodified":1528909939,
+    "wof:name":"Baikonur",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":70000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.80064172300013,
+    45.56582448300013,
+    63.96713383000008,
+    46.39083872499999
+],
+  "geometry": {"coordinates":[[[63.3839136150001,45.56582448300013],[63.32427901200009,45.567969055],[63.26634973200004,45.57422190400011],[63.21048750800009,45.58437632300006],[63.15689904800013,45.59825144500003],[63.10594608600007,45.61561472600006],[63.05783532700008,45.63628529900008],[63.01292850700008,45.66000478100001],[62.97148400900005,45.68664398300005],[62.93386356600013,45.71594451900002],[62.9002738850001,45.74769968700004],[62.87102502500005,45.78170278000009],[62.84647871900006,45.81777293000009],[62.82689335100014,45.85570343000008],[62.81252730300014,45.89518422500002],[62.80363895700003,45.93616363500006],[62.80064172300013,45.9783316040001],[62.80363895700003,46.02049957300007],[62.81252730300014,46.06142730700007],[62.82689335100014,46.10098561600005],[62.84647871900006,46.13889028000004],[62.87102502500005,46.17496042900002],[62.9002738850001,46.20896352200008],[62.93386356600013,46.2407186890001],[62.97148400900005,46.27001922700005],[63.01292850700008,46.29665842700008],[63.05783532700008,46.32037790900004],[63.10594608600007,46.34104848300005],[63.15689904800013,46.35841176400008],[63.21048750800009,46.37226104700004],[63.26634973200004,46.382441305],[63.32427901200009,46.38869415300009],[63.3839136150001,46.39083872499999],[63.4435482180001,46.38869415300009],[63.50147749900003,46.382441305],[63.55739139800005,46.37226104700004],[63.61092818200007,46.35841176400008],[63.66188114500011,46.34104848300005],[63.70994022600007,46.32037790900004],[63.75489872300011,46.29665842700008],[63.79634322100014,46.27001922700005],[63.83396366400007,46.2407186890001],[63.86755334500003,46.20896352200008],[63.89669885200004,46.17496042900002],[63.92129683500008,46.13889028000004],[63.94093387900006,46.10098561600005],[63.95529992700006,46.06142730700007],[63.96408492000012,46.02049957300007],[63.96713383000008,45.9783316040001],[63.96408492000012,45.93616363500006],[63.95529992700006,45.89518422500002],[63.94093387900006,45.85570343000008],[63.92129683500008,45.81777293000009],[63.89669885200004,45.78170278000009],[63.86755334500003,45.74769968700004],[63.83396366400007,45.71594451900002],[63.79634322100014,45.68664398300005],[63.75489872300011,45.66000478100001],[63.70994022600007,45.63628529900008],[63.66188114500011,45.61561472600006],[63.61092818200007,45.59825144500003],[63.55739139800005,45.58437632300006],[63.50147749800004,45.57422190400011],[63.4435482180001,45.567969055],[63.3839136150001,45.56582448300013]]],"type":"Polygon"}
+}

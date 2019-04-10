@@ -1,0 +1,81 @@
+{
+  "id": 1125860601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.581317,49.407343,7.581317,49.407343",
+    "geom:latitude":49.407343,
+    "geom:longitude":7.581317,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":49.407343,
+    "lbl:longitude":7.581317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Landstuhl Sickingenstadt",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1181425,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":20163670,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        85682491,
+        102063477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20163670,
+        "qs_pg:id":1181425
+    },
+    "wof:country":"XX",
+    "wof:created":1497293811,
+    "wof:geomhash":"77ec7f499fac8b36ccdcbf5b49c86371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063477,
+            "locality_id":1125860601,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1125860601,
+    "wof:lastmodified":1509396589,
+    "wof:name":"Landstuhl Sickingenstadt",
+    "wof:parent_id":102063477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.581317,
+    49.407343,
+    7.581317,
+    49.407343
+],
+  "geometry": {"coordinates":[7.581317,49.407343],"type":"Point"}
+}

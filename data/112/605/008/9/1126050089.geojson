@@ -1,0 +1,341 @@
+{
+  "id": 1126050089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.33938,-21.24181,55.33938,-21.24181",
+    "geom:latitude":-21.24181,
+    "geom:longitude":55.33938,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8006,
+    "gn:population":8006,
+    "iso:country":"XX",
+    "lbl:latitude":-21.24181,
+    "lbl:longitude":55.33938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:arg_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ast_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:bam_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:baq_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:bar_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:bre_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:cat_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:cos_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:cze_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:dan_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:dut_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:eng_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:epo_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:est_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:fao_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:fin_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:frc_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:fre_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:frp_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:fur_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ger_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:gla_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:gle_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:glg_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:gsw_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:hrv_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:hun_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ice_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ido_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ile_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ina_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ind_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ita_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:jam_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30fb\u30b6\u30f4\u30a3\u30ed\u30f3"
+    ],
+    "name:kab_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:kal_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:kon_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:lat_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:lav_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:lij_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:lim_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:lit_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ltz_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:may_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:min_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:mlg_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:nap_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:nds_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:nno_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:nob_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:nrm_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:oci_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:pap_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:pcd_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:pms_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:pol_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:por_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:prg_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:rgn_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:roh_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:rum_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:scn_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:sco_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:slo_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:spa_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:srd_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:swa_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:swe_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:tur_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0437-\u0410\u0432\u0456\u0440\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Avirons"
+    ],
+    "name:vec_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:vie_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:vls_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:vmf_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:vol_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:war_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:wel_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:wln_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:wol_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:zul_x_preferred":[
+        "Les Avirons"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":935608,
+    "qs_pg:gn_pop":8006,
+    "qs_pg:name":"Les Avirons",
+    "qs_pg:name_adm0":"La R\u00e9union",
+    "qs_pg:name_adm1":"Saint-Paul",
+    "qs_pg:photos":562,
+    "qs_pg:photos_1k":114,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":562,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":910763,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424931,
+    "qs_pg:woe_id":1410145,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424931,
+    "woe:name_adm0":"La R\u00e9union",
+    "woe:name_adm1":"Saint-Paul",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935608,
+        "gp:id":1410145,
+        "qs_pg:id":910763,
+        "wd:id":"Q1014814"
+    },
+    "wof:country":"XX",
+    "wof:created":1497302674,
+    "wof:geomhash":"ed01e97055c10cc112908e533dd2aa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1126050089,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1126050089,
+    "wof:lastmodified":1531422072,
+    "wof:name":"Les Avirons",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:population":8006,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.33938,
+    -21.24181,
+    55.33938,
+    -21.24181
+],
+  "geometry": {"coordinates":[55.33938,-21.24181],"type":"Point"}
+}

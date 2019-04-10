@@ -1,0 +1,83 @@
+{
+  "id": 1126071237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.742238,3.089254,101.742238,3.089254",
+    "geom:latitude":3.089254,
+    "geom:longitude":101.742238,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":3.089254,
+    "lbl:longitude":101.742238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Taman Taynton View",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kuala Lumpur",
+    "qs_pg:photos":65,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":65,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1190998,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56017191,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kuala Lumpur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023407,
+        890490945,
+        85675181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017191,
+        "qs_pg:id":1190998
+    },
+    "wof:country":"XX",
+    "wof:created":1497309971,
+    "wof:geomhash":"ca16c1270e83c4c91c5e8c37d32b27d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":1126071237,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":1126071237,
+    "wof:lastmodified":1509410685,
+    "wof:name":"Taman Taynton View",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.742238,
+    3.089254,
+    101.742238,
+    3.089254
+],
+  "geometry": {"coordinates":[101.742238,3.089254],"type":"Point"}
+}

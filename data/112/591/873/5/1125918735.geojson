@@ -1,0 +1,93 @@
+{
+  "id": 1125918735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.393753,34.201801,77.393753,34.201801",
+    "geom:latitude":34.201801,
+    "geom:longitude":77.393753,
+    "gn:gn_country":"XX",
+    "iso:country":"XX",
+    "lbl:latitude":34.201801,
+    "lbl:longitude":77.393753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"XX",
+    "qs_pg:gn_country":"XX",
+    "qs_pg:name":"Phyang",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":230,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":230,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1133755,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":2290499,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Jammu and Kashmir",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2290499,
+        "qs_pg:id":1133755
+    },
+    "wof:country":"XX",
+    "wof:created":1497296408,
+    "wof:geomhash":"26f895050fa41d405918cd13c3e7b70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1125918735,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1125918735,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1125918735,
+    "wof:lastmodified":1533678806,
+    "wof:name":"Phyang",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.393753,
+    34.201801,
+    77.393753,
+    34.201801
+],
+  "geometry": {"coordinates":[77.393753,34.201801],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126088873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6834675,3.237525,101.6834675,3.237525",
+    "geom:latitude":3.237525,
+    "geom:longitude":101.683468,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":3.237525,
+    "lbl:longitude":101.683468,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Taman Batu Muda",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kuala Lumpur",
+    "qs_pg:photos":3216,
+    "qs_pg:photos_1k":652,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3216,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891887,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":55862692,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kuala Lumpur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023411,
+        1108696399,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862692,
+        "qs_pg:id":891887
+    },
+    "wof:country":"XX",
+    "wof:created":1497313285,
+    "wof:geomhash":"f3b22745d229242622237d48494473f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696399,
+            "locality_id":102023411,
+            "neighbourhood_id":1126088873,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1126088873,
+    "wof:lastmodified":1509411541,
+    "wof:name":"Taman Batu Muda",
+    "wof:parent_id":102023411,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6834675,
+    3.237525,
+    101.6834675,
+    3.237525
+],
+  "geometry": {"coordinates":[101.68346750000001,3.237525],"type":"Point"}
+}

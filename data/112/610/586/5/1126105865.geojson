@@ -1,0 +1,82 @@
+{
+  "id": 1126105865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.187917,34.521526,69.187917,34.521526",
+    "geom:latitude":34.521526,
+    "geom:longitude":69.187917,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":34.521526,
+    "lbl:longitude":69.187917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Chaman H\u0327o\u1e95\u016br\u012b",
+    "qs_pg:name_adm0":"Afghanistan",
+    "qs_pg:name_adm1":"Kabul",
+    "qs_pg:photos":666,
+    "qs_pg:photos_1k":135,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":666,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1119342,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424739,
+    "qs_pg:woe_id":1918153,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424739,
+    "woe:name_adm0":"Afghanistan",
+    "woe:name_adm1":"Kabul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        421171977,
+        85667603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1918153,
+        "qs_pg:id":1119342
+    },
+    "wof:country":"XX",
+    "wof:created":1497316929,
+    "wof:geomhash":"b7cc9b13157276f5473a7aef3a522ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171977,
+            "locality_id":-1,
+            "neighbourhood_id":1126105865,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1126105865,
+    "wof:lastmodified":1509412371,
+    "wof:name":"Chaman H\u0327o\u1e95\u016br\u012b",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.187917,
+    34.521526,
+    69.187917,
+    34.521526
+],
+  "geometry": {"coordinates":[69.187917,34.521526],"type":"Point"}
+}

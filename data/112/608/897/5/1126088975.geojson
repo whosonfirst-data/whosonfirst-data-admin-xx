@@ -1,0 +1,82 @@
+{
+  "id": 1126088975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.176425,-34.905431,-56.176425,-34.905431",
+    "geom:latitude":-34.905431,
+    "geom:longitude":-56.176425,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-34.905431,
+    "lbl:longitude":-56.176425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aguada",
+    "qs_pg:name_adm0":"Uruguay",
+    "qs_pg:name_adm1":"Montevideo",
+    "qs_pg:photos":3055,
+    "qs_pg:photos_1k":619,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3055,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075809,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424979,
+    "qs_pg:woe_id":380342,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424979,
+    "woe:name_adm0":"Uruguay",
+    "woe:name_adm1":"Montevideo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191577,
+        85632511,
+        1092076277,
+        85680339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":380342,
+        "qs_pg:id":1075809
+    },
+    "wof:country":"XX",
+    "wof:created":1497313310,
+    "wof:geomhash":"f165a2e12bb73be02233e7d622d92085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "county_id":1092076277,
+            "locality_id":-1,
+            "neighbourhood_id":1126088975,
+            "region_id":85680339
+        }
+    ],
+    "wof:id":1126088975,
+    "wof:lastmodified":1509411546,
+    "wof:name":"Aguada",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.176425,
+    -34.905431,
+    -56.176425,
+    -34.905431
+],
+  "geometry": {"coordinates":[-56.176425,-34.905431],"type":"Point"}
+}

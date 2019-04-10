@@ -1,0 +1,174 @@
+{
+  "id": 1125991745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5124405,42.8413395,-2.5124405,42.8413395",
+    "geom:latitude":42.841339,
+    "geom:longitude":-2.51244,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":42.841339,
+    "lbl:longitude":-2.51244,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u064a\u063a\u0631\u064a\u0627-\u062f\u0648\u0644\u0627\u0646\u062a\u062b\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "Dulantzi"
+    ],
+    "name:baq_x_preferred":[
+        "Dulantzi"
+    ],
+    "name:bre_x_preferred":[
+        "Dulantzi"
+    ],
+    "name:cat_x_preferred":[
+        "Dulantzi"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u83b1\u683c\u91cc\u4e9a-\u675c\u5170\u7279\u897f"
+    ],
+    "name:dut_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:eng_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:fre_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:glg_x_preferred":[
+        "Dulantzi"
+    ],
+    "name:hun_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:ita_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30b0\u30ea\u30a2\uff1d\u30c9\u30a5\u30e9\u30f3\u30c4\u30a3"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u043b\u0435\u0433\u0440\u0438\u0458\u0430 \u0434\u0435 \u0410\u043b\u0430\u0432\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:nan_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:oci_x_preferred":[
+        "Dulantzi"
+    ],
+    "name:pam_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0644\u06af\u0631\u06cc\u0627 \u062f \u0622\u0644\u0627\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:por_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u0433\u0440\u0438\u0430-\u0434\u0435-\u0410\u043b\u0430\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:spa_x_preferred":[
+        "Alegr\u00eda de \u00c1lava"
+    ],
+    "name:swe_x_preferred":[
+        "Dulantzi / Alegr\u00eda"
+    ],
+    "name:tur_x_preferred":[
+        "Alegr\u00eda de \u00c1lava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u0433\u0440\u0456\u044f-\u0414\u0443\u043b\u0430\u043d\u0446\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Alegr\u00eda de \u00c1lava"
+    ],
+    "name:vie_x_preferred":[
+        "Alegr\u00eda de \u00c1lava"
+    ],
+    "name:war_x_preferred":[
+        "Alegr\u00eda de \u00c1lava"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Alegia Dulantzi",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Euskadi",
+    "qs_pg:photos":290,
+    "qs_pg:photos_1k":59,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":290,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281444,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":752004,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Euskadi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682615,
+        102191581,
+        404328935,
+        85633129,
+        404227393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":752004,
+        "qs_pg:id":281444,
+        "wd:id":"Q1330796"
+    },
+    "wof:country":"XX",
+    "wof:created":1497299092,
+    "wof:geomhash":"89a5224b2da89b597edfc7748d89ee03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404328935,
+            "locality_id":1125991745,
+            "macroregion_id":404227393,
+            "region_id":85682615
+        }
+    ],
+    "wof:id":1125991745,
+    "wof:lastmodified":1514502960,
+    "wof:name":"Alegia Dulantzi",
+    "wof:parent_id":404328935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5124405,
+    42.8413395,
+    -2.5124405,
+    42.8413395
+],
+  "geometry": {"coordinates":[-2.5124405,42.8413395],"type":"Point"}
+}

@@ -1,0 +1,527 @@
+{
+  "id": 85681187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.328856,
+    "geom:area_square_m":3319690657.808981,
+    "geom:bbox":"32.6019153497,35.002722473,34.5925399098,35.6919619817",
+    "geom:latitude":35.276421,
+    "geom:longitude":33.597794,
+    "iso:country":"XX",
+    "lbl:latitude":35.216071,
+    "lbl:longitude":33.692434,
+    "mps:latitude":35.216071,
+    "mps:longitude":33.692434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:ace_x_preferred":[
+        "Siprus Utara"
+    ],
+    "name:afr_x_preferred":[
+        "Turkse Republiek van Noord-Siprus"
+    ],
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0631\u0635 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Republica Turca d'o Norte de Chipre"
+    ],
+    "name:arz_x_preferred":[
+        "\u0642\u0628\u0631\u0635 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Rep\u00fablica Turca de Xipre del Norte"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eimali Kipr T\u00fcrk Respublikas\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u04e9\u043d\u044c\u044f\u04a1 \u041a\u0438\u043f\u0440 \u0422\u04e9\u0440\u04e9\u043a \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
+    ],
+    "name:bar_x_preferred":[
+        "T\u00fcrkische Republik Nordzypern"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u041a\u0456\u043f\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u044b \u041a\u0456\u043f\u0440"
+    ],
+    "name:bos_x_preferred":[
+        "Turska Republika Sjeverni Kipar"
+    ],
+    "name:bre_x_preferred":[
+        "Republik Turk Kiprenez an Norzh"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u043a\u0438\u043f\u044a\u0440\u0441\u043a\u0430 \u0442\u0443\u0440\u0441\u043a\u0430 \u0440\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Rep\u00fablica Turca de Xipre del Nord"
+    ],
+    "name:ces_x_preferred":[
+        "Severn\u00ed Kypr"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u044a\u0438\u043b\u0431\u0430\u0441\u0435\u0434\u0430 \u041a\u0438\u043f\u0440\u0430\u043d \u0422\u0443\u0440\u043a\u043e\u0439\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u0648\u0628\u0631\u0633\u06cc \u0628\u0627\u06a9\u0648\u0648\u0631"
+    ],
+    "name:cor_x_preferred":[
+        "Repoblek Turkek Kobros Kledh"
+    ],
+    "name:crh_x_preferred":[
+        "\u015eimaliy Q\u0131br\u0131z T\u00fcrk Cumhuriyeti"
+    ],
+    "name:cym_x_preferred":[
+        "Gogledd Cyprus"
+    ],
+    "name:dan_x_preferred":[
+        "Nordcypern"
+    ],
+    "name:deu_x_colloquial":[
+        "Turkisch-Zypern",
+        "Turkische Republik Nordzypern",
+        "Turkische Republik Nordzypern, Nordzypern"
+    ],
+    "name:deu_x_preferred":[
+        "T\u00fcrkische Republik Nordzypern"
+    ],
+    "name:deu_x_variant":[
+        "T\u00fcrkisch-Zypern",
+        "Nordzypern",
+        "T\u00fcrkische Republik Nordzypern, Nordzypern",
+        "Nord-Zypern",
+        "T\u00fcrkische Republik Nordzypern"
+    ],
+    "name:diq_x_preferred":[
+        "Cumhuriyet\u00ea T\u0131rk\u00ea Q\u0131br\u0131s\u00ea Z\u0131mey"
+    ],
+    "name:div_x_preferred":[
+        "\u0787\u07aa\u078c\u07aa\u0783\u07aa \u0790\u07a6\u0787\u07a8\u0795\u07b0\u0783\u07a6\u0790\u07b0"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03c1\u03ba\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1\u03c2 \u039a\u03cd\u03c0\u03c1\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Northern Cyprus"
+    ],
+    "name:eng_x_variant":[
+        "Cyprus, TRNC",
+        "North Cyprus",
+        "Turkish Republic of Northern Cyprus"
+    ],
+    "name:epo_x_preferred":[
+        "Turka Respubliko Norda Kipro"
+    ],
+    "name:est_x_preferred":[
+        "P\u00f5hja-K\u00fcprose T\u00fcrgi Vabariik"
+    ],
+    "name:eus_x_preferred":[
+        "Ipar Zipreko Turkiar Errepublika"
+    ],
+    "name:fao_x_preferred":[
+        "Nor\u00f0urk\u00fdpros"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06a9 \u0642\u0628\u0631\u0633 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Pohjois-Kyproksen turkkilainen tasavalta"
+    ],
+    "name:fra_x_colloquial":[
+        "Republique Turque de Chypre du Nord, Chypre du Nord"
+    ],
+    "name:fra_x_preferred":[
+        "Chypre du Nord"
+    ],
+    "name:fra_x_variant":[
+        "R\u00e9publique Turque de Chypre du Nord, Chypre du Nord"
+    ],
+    "name:frp_x_preferred":[
+        "Cipro de la Bise"
+    ],
+    "name:gag_x_preferred":[
+        "Poyraz Kipra T\u00fcrk Respublikas\u0131"
+    ],
+    "name:glg_x_preferred":[
+        "Rep\u00fablica Turca do Norte de Chipre"
+    ],
+    "name:glv_x_preferred":[
+        "Yn Cheeprey Hwoaie"
+    ],
+    "name:hbs_x_preferred":[
+        "Turska Republika Sjeverni Kipar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d4\u05d8\u05d5\u05e8\u05e7\u05d9\u05ea \u05e9\u05dc \u05e6\u05e4\u05d5\u05df \u05e7\u05e4\u05e8\u05d9\u05e1\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930\u0940 \u0938\u093e\u0907\u092a\u094d\u0930\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Turska Republika Sjeverni Cipar"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9szak-Ciprus"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u053f\u056b\u057a\u0580\u0578\u057d\u056b \u0539\u0578\u0582\u0580\u0584\u0561\u056f\u0561\u0576 \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Turka republiko di Norda Chipro"
+    ],
+    "name:ile_x_preferred":[
+        "Nord-Cypria"
+    ],
+    "name:ilo_x_preferred":[
+        "Akin-amianan a Cyprus"
+    ],
+    "name:ind_x_preferred":[
+        "Republik Turki Siprus Utara"
+    ],
+    "name:isl_x_preferred":[
+        "Nor\u00f0ur-K\u00fdpur"
+    ],
+    "name:ita_x_preferred":[
+        "Repubblica Turca di Cipro del Nord, Cipro del Nord",
+        "Cipro del Nord"
+    ],
+    "name:jam_x_preferred":[
+        "Nadoern Saipros"
+    ],
+    "name:jav_x_preferred":[
+        "Siprus Lor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u30ad\u30d7\u30ed\u30b9\u30fb\u30c8\u30eb\u30b3\u5171\u548c\u56fd"
+    ],
+    "name:kaa_x_preferred":[
+        "Arqa Kipr Tu'rk Respublikas\u0131"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d9\u10d5\u10d8\u10de\u10e0\u10dd\u10e1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u04af\u0441\u0442\u0456\u043a \u041a\u0438\u043f\u0440 \u0422\u04af\u0440\u0456\u043a \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
+    ],
+    "name:kin_x_preferred":[
+        "Shipure y\u2019Amajyaruguru"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u04af\u043d\u0434\u04af\u043a \u041a\u0438\u043f\u0440 \u0422\u04af\u0440\u043a \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd81\ud0a4\ud504\ub85c\uc2a4"
+    ],
+    "name:kur_x_preferred":[
+        "Komara Tirk a Bakur\u00ea K\u00eepros\u00ea"
+    ],
+    "name:lad_x_preferred":[
+        "Repuvlika Turkana del Norte de Kipre"
+    ],
+    "name:lat_x_preferred":[
+        "Res publica Cypri septentrionalis"
+    ],
+    "name:lav_x_preferred":[
+        "Zieme\u013ckipra"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0423\u0445\u0441\u0441\u0430\u0432\u043d\u0438\u043b \u041a\u0438\u043f\u0440"
+    ],
+    "name:lim_x_preferred":[
+        "Turkse Rippubliek Noord-Cyprus"
+    ],
+    "name:lit_x_preferred":[
+        "Turk\u0173 Kipras"
+    ],
+    "name:ltz_x_preferred":[
+        "Tierkesch Republik Nordzypern"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4b\u0d7c\u0d24\u0d47\u0d7a \u0d38\u0d48\u0d2a\u0d4d\u0d30\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930 \u0938\u093e\u092f\u092a\u094d\u0930\u0938"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u0440\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u0435\u043d \u041a\u0438\u043f\u0430\u0440"
+    ],
+    "name:mlg_x_preferred":[
+        "Repoblika Tiorka an'i Sipra"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0419\u044b\u0434\u0432\u0435\u043b \u041a\u0438\u043f\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Republik Turki Cyprus Utara"
+    ],
+    "name:nav_x_preferred":[
+        "B\u00e9\u00e9sh \u0141ich\u00edi\u02bcii Bik\u00e9yah N\u00e1hook\u01ebsj\u00edgo Si\u02bcan\u00edg\u00ed\u00ed"
+    ],
+    "name:nds_x_preferred":[
+        "Noordzypern"
+    ],
+    "name:nld_x_preferred":[
+        "Noord-Cyprus"
+    ],
+    "name:nno_x_preferred":[
+        "Nord-Kypros"
+    ],
+    "name:nor_x_preferred":[
+        "Nord-Kypros"
+    ],
+    "name:oci_x_preferred":[
+        "Chipre del N\u00f2rd"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b09\u0b24\u0b4d\u0b24\u0b30 \u0b38\u0b3e\u0b07\u0b2a\u0b4d\u0b30\u0b38"
+    ],
+    "name:oss_x_preferred":[
+        "\u0426\u00e6\u0433\u0430\u0442 \u041a\u0438\u043f\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a09\u0a71\u0a24\u0a30\u0a40 \u0a38\u0a3e\u0a08\u0a2a\u0a4d\u0a30\u0a38"
+    ],
+    "name:pms_x_preferred":[
+        "Rep\u00f9blica Turca \u00ebd Cipro N\u00f2rd"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u062a\u0644\u0627 \u0642\u0628\u0631\u0635\u06cc \u062a\u0631\u06a9 \u0644\u0648\u06a9\u0631\u0627\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Cypr P\u00f3\u0142nocny"
+    ],
+    "name:por_x_preferred":[
+        "Rep\u00fablica Turca de Chipre do Norte"
+    ],
+    "name:ron_x_preferred":[
+        "Republica Turc\u0103 a Ciprului de Nord"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0435\u0446\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0433\u043e \u041a\u0438\u043f\u0440\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Cipru d\u00fb Nord"
+    ],
+    "name:sco_x_preferred":[
+        "Northren Cyprus"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0dc3\u0dba\u0dd2\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Severocypersk\u00e1 tureck\u00e1 republika"
+    ],
+    "name:slv_x_preferred":[
+        "Severni Ciper"
+    ],
+    "name:spa_x_colloquial":[
+        "Republica Turca del Norte de Chipre"
+    ],
+    "name:spa_x_preferred":[
+        "Rep\u00fablica Turca del Norte de Chipre"
+    ],
+    "name:sqi_x_preferred":[
+        "Qiproja Veriore"
+    ],
+    "name:srd_x_preferred":[
+        "Tzipru de su Norte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u041a\u0438\u043f\u0430\u0440"
+    ],
+    "name:sun_x_preferred":[
+        "R\u00e9publik Turki Siprus Kal\u00e9r"
+    ],
+    "name:swa_x_preferred":[
+        "Jamhuri ya Kituruki ya Kupro ya Kaskazini"
+    ],
+    "name:swe_x_preferred":[
+        "Nordcypern"
+    ],
+    "name:szl_x_preferred":[
+        "P\u014d\u0142nocny Cypr"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc8\u0baa\u0bcd\u0baa\u0bbf\u0bb0\u0b9a\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u04e9\u043d\u044c\u044f\u043a \u041a\u0438\u043f\u0440\u043d\u044b\u04a3 \u0422\u04e9\u0440\u0435\u043a \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
+    ],
+    "name:tgl_x_preferred":[
+        "Republikang Turko ng Hilagang Tsipre"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e0b\u0e1b\u0e23\u0e31\u0e2a\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:tuk_x_preferred":[
+        "Demirgazyk Kipr t\u00fcrk respublikasy"
+    ],
+    "name:tur_x_preferred":[
+        "Kuzey K\u0131br\u0131s T\u00fcrk Cumhuriyeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0435\u0446\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e\u0433\u043e \u041a\u0456\u043f\u0440\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u06a9 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0634\u0645\u0627\u0644\u06cc \u0642\u0628\u0631\u0635"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1eafc S\u00edp"
+    ],
+    "name:vol_x_preferred":[
+        "Nol\u00fcda-Sipre\u00e4n"
+    ],
+    "name:war_x_preferred":[
+        "Amihanan Cyprus"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5317\u585e\u6d66\u8def\u65af"
+    ],
+    "name:xal_x_preferred":[
+        "\u0410\u0440 \u041a\u0438\u043f\u0440\u0443\u0434\u0438\u043d \u0422\u0430\u04a3\u04bb\u0447"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10dd\u10e0\u10e3\u10d4 \u10d9\u10d5\u10d8\u10de\u10e0\u10dd\u10e1\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1\u00e0r\u00edw\u00e1 K\u00edpr\u00f9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u8cfd\u666e\u52d2\u65af"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u5317\u585e\u6d66\u8def\u65af"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CYN",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"CYN+00?",
+    "ne:adm1_code":"CYN+00?",
+    "ne:admin":"Northern Cyprus",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"-99",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"10045",
+    "ne:featurecla":"Admin-1 aggregation",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Northern Cyprus",
+    "ne:gn_a1_code":"-1",
+    "ne:gn_id":"0",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CYN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"-99",
+    "ne:iso_a2":"-1",
+    "ne:labelrank":"20",
+    "ne:latitude":"35.19750000000",
+    "ne:longitude":"33.60250000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":4,
+    "ne:name":"Northern Cyprus",
+    "ne:name_alt":"",
+    "ne:name_len":15,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CYN",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424995,
+    "ne:woe_label":"",
+    "ne:woe_name":"Cyprus TRNC",
+    "qs:a0":"Northern Cyprus",
+    "qs:a0_lc":"-1",
+    "qs:a1":"Northern Cyprus",
+    "qs:a1_lc":"CYN+00?",
+    "qs:adm0":"Northern Cyprus",
+    "qs:adm0_a3":"CYN",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":11099,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85632375
+    ],
+    "wof:breaches":[
+        85682389
+    ],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":0,
+        "gp:id":23424995,
+        "hasc:id":"-99",
+        "wd:id":"Q23681"
+    },
+    "wof:country":"XX",
+    "wof:geomhash":"49ed0e7713926c156b91d7345f92d8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":85681187,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1536616805,
+    "wof:name":"Northern Cyprus",
+    "wof:parent_id":85632375,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:shortcode":"99",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.60191534971369,
+    35.0027224729638,
+    34.59253990978908,
+    35.6919619816602
+],
+  "geometry": {"coordinates":[[[[32.62620446796188,35.16508982443588],[32.61519738844879,35.16343617803722],[32.60274336721267,35.1743399065615],[32.60191534971369,35.17862161389644],[32.61939537879374,35.18488190347711],[32.6406943276811,35.18707683382888],[32.63943363375523,35.18374501741869],[32.63478275651903,35.1728412888944],[32.62620446796188,35.16508982443588]]],[[[34.13770592518836,35.41510651265548],[34.10906009254927,35.39427317966357],[34.08545983250531,35.36985911770415],[34.0682072266822,35.33771393395097],[34.05892988430679,35.32412344034452],[34.04379316472284,35.31525299712814],[34.01978600372115,35.31435781556081],[33.99488366025275,35.31928131687931],[33.97136477986078,35.3212751318419],[33.95167076919068,35.31150950705813],[33.92359459681325,35.27855052318813],[33.91211998854669,35.25999583483997],[33.90739993635805,35.24290599191806],[33.89991295711735,35.16445547144292],[33.91374759237755,35.15623606993876],[33.95362389432734,35.12262604435654],[33.96192467548343,35.11261627791896],[33.96680748787531,35.10008372608314],[33.97868899799892,35.08746979459539],[34.01228894038235,35.06379525864435],[34.00891076751793,35.05972157798851],[33.96291874200637,35.06829986744498],[33.94111128675655,35.05972157798851],[33.9254016522645,35.06277048746807],[33.91289595508431,35.06592275063451],[33.90659143144944,35.06904917447986],[33.9065057116693,35.06910465995213],[33.90652383031056,35.06912157619985],[33.90824507694879,35.07072865840092],[33.91444624869547,35.073054098368],[33.92147424454083,35.08070221003902],[33.91361942549617,35.09088246635281],[33.90586796103764,35.09088246635281],[33.90586796103764,35.09636016948627],[33.90359419791395,35.09951243085408],[33.8988399660916,35.10881418892376],[33.89181197114561,35.11046783442305],[33.88943485523441,35.11899444613681],[33.87620568944106,35.11899444613681],[33.87155481040622,35.10023590126588],[33.87155481040622,35.08545644186137],[33.8769291589536,35.0768264773601],[33.87155481040622,35.073054098368],[33.86690393047206,35.0667495729345],[33.85357141099189,35.05817128527667],[33.84271936021037,35.05662099346415],[33.83486454206502,35.06359731156675],[33.82401249218282,35.0667495729345],[33.79827762830996,35.0526419070984],[33.79435021968692,35.04018788766092],[33.78649540244095,35.03853424126225],[33.77553999887192,35.04018788766092],[33.76613488801473,35.03160959910377],[33.73967655373002,35.04721588260696],[33.71848921700382,35.03238474545969],[33.70758548937886,35.02928416003601],[33.71146122205778,35.04096303311752],[33.71936771614725,35.06277048746807],[33.71471683801173,35.0667495729345],[33.70531172715454,35.0667495729345],[33.69445967547369,35.05817128527667],[33.67885339376915,35.05579416936547],[33.6740991619468,35.0464407344524],[33.67564945465864,35.03703562449454],[33.67943459952721,35.03389876401678],[33.67944383646392,35.03389110988684],[33.67099857652312,35.03083445364717],[33.65611576343179,35.03238474545969],[33.65218835390948,35.03083445364717],[33.63751224819174,35.03083445364717],[33.61405114744252,35.0464407344524],[33.60226892067419,35.04168650352938],[33.59152022447881,35.03393503907085],[33.57896285045524,35.03548533268201],[33.56640547643167,35.04334014902872],[33.56175459739683,35.05817128527667],[33.55545007286264,35.0667495729345],[33.54687178520476,35.073054098368],[33.5406706143574,35.073054098368],[33.53679488167847,35.0667495729345],[33.53519291212325,35.05662099346415],[33.52899174037657,35.05579416936547],[33.516434366353,35.05972157798851],[33.5071842851267,35.06127187249899],[33.50015629018071,35.06127187249899],[33.49385176744516,35.05662099346415],[33.48620365397551,35.03853424126225],[33.48144942215316,35.03160959910377],[33.47834883672948,35.01910390282291],[33.47679854311832,35.00897532245324],[33.47679854311832,35.0027224729638],[33.46656660996115,35.005099588875],[33.46584314044861,35.01440134694468],[33.47132084178349,35.03853424126225],[33.47679854311832,35.05739613892075],[33.47679854311832,35.0768264773601],[33.47679854311832,35.09480987587511],[33.46977054817233,35.10416330988892],[33.45096032645796,35.13222361282953],[33.44000492378825,35.14865671863271],[33.42770593308239,35.16813873301618],[33.42450199397189,35.18219472290821],[33.42140140854821,35.19387359598971],[33.41354659040286,35.19940297416798],[33.40031742281087,35.19774932956796],[33.38853519694186,35.18839589555421],[33.38078373248334,35.17826731428516],[33.37453088389321,35.1743399065615],[33.34481693545325,35.16664011714772],[33.32621341931389,35.16664011714772],[33.31525801574486,35.16188588532538],[33.29960005719693,35.16266103258062],[33.27081628384445,35.16896555621548],[33.24022383626107,35.17129099618256],[33.2239974360329,35.17914581342859],[33.19025272618239,35.18994618736673],[33.15748986826287,35.18529530833189],[33.14193526340176,35.18064443019637],[33.12012780725257,35.16033559261354],[33.10912072773942,35.15878529900237],[33.09583988420337,35.16974070347072],[33.07868330888766,35.16508982443588],[33.05610070818119,35.15568471357869],[33.03114099066426,35.14943186408931],[33.01398441624787,35.14162872368672],[32.98907637647363,35.13144846647361],[32.96954268344814,35.11279327439013],[32.9469084067976,35.10261301717708],[32.93435103367329,35.10023590126588],[32.92272383653585,35.09873728449816],[32.91176843296688,35.10023590126588],[32.88841068500517,35.10261301717708],[32.87673181102429,35.10023590126588],[32.87042728649016,35.09796213814224],[32.86102217743161,35.08778188092913],[32.85492435847243,35.07915191732718],[32.83921472128242,35.07992706458242],[32.82991296321273,35.10023590126588],[32.8143066824075,35.11661733022567],[32.79477299028133,35.12679758743877],[32.75963301645061,35.13377390644069],[32.74397505700335,35.1377529910078],[32.73152103666655,35.14317901639856],[32.72056563309752,35.15335927451099],[32.71271081585149,35.16343617803722],[32.71059208145942,35.17532175849243],[32.71138841494343,35.18163170953579],[32.71143639377459,35.18162669491608],[32.74537194066261,35.17804596594863],[32.77637780029528,35.17084381728841],[32.80144290486624,35.15713125240541],[32.82837975402248,35.14858633049482],[32.86524498816573,35.15696849220222],[32.8925887382797,35.17503489814209],[32.91472415469605,35.20083242407713],[32.9293725918717,35.23297760603174],[32.93474368577256,35.27057526243846],[32.93604576919694,35.33661530235435],[32.93213951892369,35.36627838693806],[32.92042076900333,35.39777252807977],[32.94434655035309,35.39451732041806],[32.98536217552402,35.37457916899353],[33.006114128864,35.36985911770415],[33.06979587837714,35.35872409434154],[33.14008008882507,35.36215942271923],[33.26246178528322,35.34935130421934],[33.28060957087507,35.34247467686492],[33.42750084718642,35.32892487218515],[33.66032962321361,35.35932037993166],[33.7428491550645,35.39777252807977],[33.78350763786727,35.4167175114041],[33.83464603019019,35.40997955950911],[33.88793845529551,35.42390628984344],[34.03562217732167,35.47138308526121],[34.07628968122384,35.49432291736878],[34.13119012292589,35.51134735439695],[34.18165123851389,35.55418528931972],[34.21038520471348,35.55914553513838],[34.26778960810401,35.57225618287657],[34.31967207070954,35.58616771017176],[34.36147982143666,35.60830945062071],[34.54420006647996,35.67837148625512],[34.57846113377434,35.68976471666838],[34.59253990978908,35.6919619816602],[34.58708743623623,35.68870677309917],[34.58366946747202,35.68496328302916],[34.58130944137764,35.68121979385847],[34.57886803473207,35.67837148625512],[34.5754500659678,35.65013255457376],[34.57276451946706,35.64354075690045],[34.5654403004296,35.64118073170545],[34.5423283209953,35.6372744814322],[34.53728274840017,35.63397858304523],[34.44141686279801,35.5836449238742],[34.35230553507245,35.52069733321542],[34.13770592518836,35.41510651265548]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 890449783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.262434,32.972585,78.262434,32.972585",
+    "geom:latitude":32.972585,
+    "geom:longitude":78.262434,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Karzok"
+    ],
+    "name:eng_x_preferred":[
+        "Karzok"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0930\u091c\u093c\u094b\u0915"
+    ],
+    "name:pol_x_preferred":[
+        "Korzok"
+    ],
+    "name:por_x_preferred":[
+        "Karzok"
+    ],
+    "qs:name":"Karzok",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":394,
+    "qs:photos_1k":80,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":394,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2290568,
+        "qs:id":1133759,
+        "wd:id":"Q25247383",
+        "wk:page":"Karzok"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052710,
+    "wof:geomhash":"a01f0f7cde8c4f8287ca7e4c3ac5e7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890449783,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890449783,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890449783,
+    "wof:lastmodified":1533678793,
+    "wof:name":"Karzok",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.262434,
+    32.972585,
+    78.262434,
+    32.972585
+],
+  "geometry": {"coordinates":[78.262434,32.972585],"type":"Point"}
+}

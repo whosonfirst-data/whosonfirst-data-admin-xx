@@ -1,0 +1,183 @@
+{
+  "id": 1125883267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.306964,45.70534,9.306964,45.70534",
+    "geom:latitude":45.70534,
+    "geom:longitude":9.306964,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.70534,
+    "lbl:longitude":9.306964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u056b\u0579\u0565\u056c\u056c\u0578 \u0532\u0580\u056b\u0561\u0576\u0581\u0561"
+    ],
+    "name:baq_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0438\u0447\u0435\u043b\u043e \u0411\u0440\u0438\u0430\u043d\u0446\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:chi_x_preferred":[
+        "\u8499\u8482\u5207\u6d1b\u5e03\u91cc\u4e9a\u6069\u624e"
+    ],
+    "name:dut_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:eng_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:epo_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:fre_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:ger_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:hun_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:ita_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30a3\u30c1\u30a7\u30c3\u30ed\u30fb\u30d6\u30ea\u30a2\u30f3\u30c4\u30a1"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0438\u0447\u0435\u043b\u043b\u043e-\u0411\u0440\u0438\u0430\u043d\u0446\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Monticellus"
+    ],
+    "name:lmo_x_preferred":[
+        "Muntisel"
+    ],
+    "name:may_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:nan_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:nap_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:oci_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:pms_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:pol_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:por_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:rum_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0438\u0447\u0435\u043b\u043b\u043e-\u0411\u0440\u0438\u0430\u043d\u0446\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:spa_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:srp_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0456\u0447\u0435\u043b\u043b\u043e-\u0411\u0440\u0456\u0430\u043d\u0446\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:vie_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:vol_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:war_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Monticello Brianza",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Lombardia",
+    "qs_pg:photos":432,
+    "qs_pg:photos_1k":88,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":432,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":896314,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":23388169,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Lombardia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685669,
+        102191581,
+        404469343,
+        85633253,
+        404227497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23388169,
+        "qs_pg:id":896314,
+        "wd:id":"Q42281"
+    },
+    "wof:country":"XX",
+    "wof:created":1497294927,
+    "wof:geomhash":"2e5a3d13cea94d68c5b1a2a2a8fd9b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404469343,
+            "locality_id":1125883267,
+            "macroregion_id":404227497,
+            "region_id":85685669
+        }
+    ],
+    "wof:id":1125883267,
+    "wof:lastmodified":1514503072,
+    "wof:name":"Monticello Brianza",
+    "wof:parent_id":404469343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.306964,
+    45.70534,
+    9.306964,
+    45.70534
+],
+  "geometry": {"coordinates":[9.306964,45.70534],"type":"Point"}
+}

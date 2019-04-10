@@ -1,0 +1,83 @@
+{
+  "id": 1126075937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"139.748611,35.580446,139.748611,35.580446",
+    "geom:latitude":35.580446,
+    "geom:longitude":139.748611,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":35.580446,
+    "lbl:longitude":139.748611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\uff16\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u6771\u4eac\u90fd",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":46,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1269314,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28528342,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u6771\u4eac\u90fd",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        102031379,
+        1108741697,
+        85672817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28528342,
+        "qs_pg:id":1269314
+    },
+    "wof:country":"XX",
+    "wof:created":1497311007,
+    "wof:geomhash":"9cb8a6dab468e0a1a517dcb21d278490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108741697,
+            "locality_id":102031379,
+            "neighbourhood_id":1126075937,
+            "region_id":85672817
+        }
+    ],
+    "wof:id":1126075937,
+    "wof:lastmodified":1509410910,
+    "wof:name":"\uff16\u4e01\u76ee",
+    "wof:parent_id":102031379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    139.748611,
+    35.580446,
+    139.748611,
+    35.580446
+],
+  "geometry": {"coordinates":[139.74861100000001,35.580446],"type":"Point"}
+}

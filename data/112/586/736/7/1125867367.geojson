@@ -1,0 +1,83 @@
+{
+  "id": 1125867367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.8126405,43.4607065,19.8126405,43.4607065",
+    "geom:latitude":43.460707,
+    "geom:longitude":19.812641,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":43.460707,
+    "lbl:longitude":19.812641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nova Varo\u00b5",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Zlatibor",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327088,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":535641,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Zlatibor",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688255,
+        102191581,
+        1108809993,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":535641,
+        "qs_pg:id":1327088
+    },
+    "wof:country":"XX",
+    "wof:created":1497294108,
+    "wof:geomhash":"e9f3affedc20596774503a9376f6ddf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809993,
+            "locality_id":1125867367,
+            "macroregion_id":404228357,
+            "region_id":85688255
+        }
+    ],
+    "wof:id":1125867367,
+    "wof:lastmodified":1509397069,
+    "wof:name":"Nova Varo\u00b5",
+    "wof:parent_id":1108809993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.8126405,
+    43.4607065,
+    19.8126405,
+    43.4607065
+],
+  "geometry": {"coordinates":[19.8126405,43.4607065],"type":"Point"}
+}

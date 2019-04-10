@@ -1,0 +1,83 @@
+{
+  "id": 1126108865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.339036,33.890499,-84.339036,33.890499",
+    "geom:latitude":33.890499,
+    "geom:longitude":-84.339036,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":33.890499,
+    "lbl:longitude":-84.339036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Brookhaven",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Georgia",
+    "qs_pg:photos":2096,
+    "qs_pg:photos_1k":425,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2096,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1138072,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":2369876,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Georgia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85937255,
+        102084539,
+        85688535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2369876,
+        "qs_pg:id":1138072
+    },
+    "wof:country":"XX",
+    "wof:created":1497317740,
+    "wof:geomhash":"b5ccef5aaed2bbc6f6918b296358ceec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":1126108865,
+            "region_id":85688535
+        }
+    ],
+    "wof:id":1126108865,
+    "wof:lastmodified":1509412507,
+    "wof:name":"Brookhaven",
+    "wof:parent_id":85937255,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.339036,
+    33.890499,
+    -84.339036,
+    33.890499
+],
+  "geometry": {"coordinates":[-84.33903599999999,33.890499],"type":"Point"}
+}

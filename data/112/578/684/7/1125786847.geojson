@@ -1,0 +1,79 @@
+{
+  "id": 1125786847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-18.918457,66.1522695,-18.918457,66.1522695",
+    "geom:latitude":66.152269,
+    "geom:longitude":-18.918457,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":66.152269,
+    "lbl:longitude":-18.918457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Siglufj\u00f6r\u00ffur",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Siglufjordur",
+    "qs_pg:photos":880,
+    "qs_pg:photos_1k":178,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":880,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1079779,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980420,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Siglufjordur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980420,
+        "qs_pg:id":1079779
+    },
+    "wof:country":"XX",
+    "wof:created":1497290717,
+    "wof:geomhash":"7863601bc5315d6075e501c3463bb203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125786847,
+            "region_id":85672511
+        }
+    ],
+    "wof:id":1125786847,
+    "wof:lastmodified":1509392026,
+    "wof:name":"Siglufj\u00f6r\u00ffur",
+    "wof:parent_id":85672511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -18.918457,
+    66.15226949999999,
+    -18.918457,
+    66.15226949999999
+],
+  "geometry": {"coordinates":[-18.918457,66.15226949999999],"type":"Point"}
+}

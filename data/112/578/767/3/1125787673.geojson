@@ -1,0 +1,112 @@
+{
+  "id": 1125787673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.156623,47.015814,18.156623,47.015814",
+    "geom:latitude":47.015814,
+    "geom:longitude":18.156623,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":47.015814,
+    "lbl:longitude":18.156623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:dut_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:eng_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:epo_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:fre_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:hun_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:ita_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:may_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:rum_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:slo_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Balatonakarattya",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Veszpr\u00e9m",
+    "qs_pg:photos":349,
+    "qs_pg:photos_1k":71,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":349,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1079888,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":803221,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Veszpr\u00e9m",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633237,
+        85684871,
+        404227479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":803221,
+        "qs_pg:id":1079888,
+        "wd:id":"Q789241"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290744,
+    "wof:geomhash":"d3c9c54f7ce695280f1eb3106cda8fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":1125787673,
+            "macroregion_id":404227479,
+            "region_id":85684871
+        }
+    ],
+    "wof:id":1125787673,
+    "wof:lastmodified":1514502964,
+    "wof:name":"Balatonakarattya",
+    "wof:parent_id":85684871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.156623,
+    47.015814,
+    18.156623,
+    47.015814
+],
+  "geometry": {"coordinates":[18.156623,47.015814],"type":"Point"}
+}

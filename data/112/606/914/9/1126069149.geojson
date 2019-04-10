@@ -1,0 +1,88 @@
+{
+  "id": 1126069149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.039826,40.689755,-74.039826,40.689755",
+    "geom:latitude":40.689755,
+    "geom:longitude":-74.039826,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.689755,
+    "lbl:longitude":-74.039826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Southern Tip",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"New York",
+    "qs_pg:photos":31289,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":139,
+    "qs_pg:photos_9r":22,
+    "qs_pg:photos_all":31289,
+    "qs_pg:photos_sr":29,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":984517,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":28751495,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"New York",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        404478139,
+        85633793,
+        85975295,
+        102080719,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28751495,
+        "qs_pg:id":984517
+    },
+    "wof:country":"XX",
+    "wof:created":1497309521,
+    "wof:geomhash":"f8a2249d4609115a4e35fa4f412d2400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "localadmin_id":404478139,
+            "locality_id":85975295,
+            "neighbourhood_id":1126069149,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":1126069149,
+    "wof:lastmodified":1511998872,
+    "wof:name":"Southern Tip",
+    "wof:parent_id":85975295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[
+        85869681
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.039826,
+    40.689755,
+    -74.039826,
+    40.689755
+],
+  "geometry": {"coordinates":[-74.03982600000001,40.689755],"type":"Point"}
+}

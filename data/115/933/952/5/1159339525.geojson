@@ -1,0 +1,231 @@
+{
+  "id": 1159339525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005639,
+    "geom:bbox":"-75.232858853,19.891142236,-75.094950291,19.97158369",
+    "geom:latitude":19.929254,
+    "geom:longitude":-75.154673,
+    "iso:country":"XX",
+    "lbl:latitude":19.918398,
+    "lbl:longitude":-75.117277,
+    "mps:latitude":19.918398,
+    "mps:longitude":-75.117277,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":1,
+    "mz:hierarchy_label_county":1,
+    "mz:hierarchy_label_localadmin":1,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":1,
+    "mz:hierarchy_label_macroregion":1,
+    "mz:hierarchy_label_region":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639\u062f\u0629 \u063a\u0648\u0627\u0646\u062a\u0627\u0646\u0627\u0645\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c1\u09af\u09bc\u09be\u09a8\u09a4\u09be\u09a8\u09be\u09ae\u09cb \u09ac\u09c7 \u0995\u09be\u09b0\u09be\u0997\u09be\u09b0 \u09a8\u09cc\u09ac\u09be\u09b9\u09bf\u09a8\u09c0 \u09ac\u09c7\u09b8"
+    ],
+    "name:deu_x_preferred":[
+        "Guantanamo Bay Naval Base"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c5\u03c4\u03b9\u03ba\u03ae \u0392\u03ac\u03c3\u03b7 \u03c4\u03bf\u03c5 \u039a\u03cc\u03bb\u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5 \u0393\u03ba\u03bf\u03c5\u03b1\u03bd\u03c4\u03ac\u03bd\u03b1\u03bc\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Guantanamo Bay Naval Base"
+    ],
+    "name:fra_x_preferred":[
+        "base navale de la baie de Guant\u00e1namo"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0902\u091f\u093e\u0928\u0948\u092e\u094b \u0916\u093e\u0921\u093c\u0940 \u0928\u094c\u0938\u0947\u0928\u093e \u092c\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "guant\u00e1nam\u00f3i haditenger\u00e9szeti t\u00e1maszpont"
+    ],
+    "name:ind_x_preferred":[
+        "Pangkalan Laut Teluk Guantanamo"
+    ],
+    "name:ita_x_preferred":[
+        "Base navale di Guantanamo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a1\u30f3\u30bf\u30ca\u30e2\u7c73\u8ecd\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uad00\ud0c0\ub098\ubaa8 \ub9cc \ud574\uad70 \uae30\uc9c0"
+    ],
+    "name:nld_x_preferred":[
+        "Guant\u00e1namo Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Naval Station Guantanamo Bay"
+    ],
+    "name:por_x_preferred":[
+        "Base Naval da Ba\u00eda de Guant\u00e1namo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0435\u043d\u043d\u0430\u044f \u0431\u0430\u0437\u0430 \u0413\u0443\u0430\u043d\u0442\u0430\u043d\u0430\u043c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Base Naval de la Bah\u00eda de Guant\u00e1namo"
+    ],
+    "name:swe_x_preferred":[
+        "Guant\u00e1namobasen"
+    ],
+    "name:tur_x_preferred":[
+        "Guantanamo Bay"
+    ],
+    "name:vie_x_preferred":[
+        "C\u0103n c\u1ee9 H\u1ea3i qu\u00e2n v\u1ecbnh Guant\u00e1namo"
+    ],
+    "ne:ABBREV":"Guantan.",
+    "ne:ABBREV_LEN":8,
+    "ne:ADM0_A3":"USG",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"USG",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"US Naval Base Guantanamo Bay",
+    "ne:BRK_A3":"B50",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Guantanamo Bay USNB",
+    "ne:CONTINENT":"North America",
+    "ne:ECONOMY":"2. Developed region: nonG7",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":280,
+    "ne:GDP_YEAR":1999,
+    "ne:GEOUNIT":"US Naval Base Guantanamo Bay",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"USG",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"2. High income: nonOECD",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":10,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":2,
+    "ne:LONG_LEN":28,
+    "ne:MAPCOLOR13":1,
+    "ne:MAPCOLOR7":3,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":3,
+    "ne:MAX_LABEL":11,
+    "ne:MIN_LABEL":6,
+    "ne:MIN_ZOOM":5,
+    "ne:NAME":"USNB Guantanamo Bay",
+    "ne:NAME_ALT":"Gitmo, GTMO",
+    "ne:NAME_AR":"\u0642\u0627\u0639\u062f\u0629 \u063a\u0648\u0627\u0646\u062a\u0627\u0646\u0627\u0645\u0648",
+    "ne:NAME_BN":"\u0997\u09c1\u09af\u09bc\u09be\u09a8\u09a4\u09be\u09a8\u09be\u09ae\u09cb \u09ac\u09c7 \u0995\u09be\u09b0\u09be\u0997\u09be\u09b0 \u09a8\u09cc\u09ac\u09be\u09b9\u09bf\u09a8\u09c0 \u09ac\u09c7\u09b8",
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Guantanamo Bay Naval Base",
+    "ne:NAME_EL":"\u039d\u03b1\u03c5\u03c4\u03b9\u03ba\u03ae \u0392\u03ac\u03c3\u03b7 \u03c4\u03bf\u03c5 \u039a\u03cc\u03bb\u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5 \u0393\u03ba\u03bf\u03c5\u03b1\u03bd\u03c4\u03ac\u03bd\u03b1\u03bc\u03bf",
+    "ne:NAME_EN":"Guantanamo Bay Naval Base",
+    "ne:NAME_ES":"Base Naval de la Bah\u00eda de Guant\u00e1namo",
+    "ne:NAME_FR":"base navale de la baie de Guant\u00e1namo",
+    "ne:NAME_HI":"\u0917\u094d\u0935\u093e\u0902\u091f\u093e\u0928\u0948\u092e\u094b \u0916\u093e\u0921\u093c\u0940 \u0928\u094c\u0938\u0947\u0928\u093e \u092c\u0947\u0938",
+    "ne:NAME_HU":"guant\u00e1nam\u00f3i haditenger\u00e9szeti t\u00e1maszpont",
+    "ne:NAME_ID":"Pangkalan Laut Teluk Guantanamo",
+    "ne:NAME_IT":"Base navale di Guantanamo",
+    "ne:NAME_JA":"\u30b0\u30a1\u30f3\u30bf\u30ca\u30e2\u7c73\u8ecd\u57fa\u5730",
+    "ne:NAME_KO":"\uad00\ud0c0\ub098\ubaa8 \ub9cc \ud574\uad70 \uae30\uc9c0",
+    "ne:NAME_LEN":19,
+    "ne:NAME_LONG":"US Naval Base Guantanamo Bay",
+    "ne:NAME_NL":"Guant\u00e1namo Bay",
+    "ne:NAME_PL":"Naval Station Guantanamo Bay",
+    "ne:NAME_PT":"Base Naval da Ba\u00eda de Guant\u00e1namo",
+    "ne:NAME_RU":"\u0412\u043e\u0435\u043d\u043d\u0430\u044f \u0431\u0430\u0437\u0430 \u0413\u0443\u0430\u043d\u0442\u0430\u043d\u0430\u043c\u043e",
+    "ne:NAME_SORT":"Guantanamo Bay USNB",
+    "ne:NAME_SV":"Guant\u00e1namobasen",
+    "ne:NAME_TR":"Guantanamo Bay",
+    "ne:NAME_VI":"C\u0103n c\u1ee9 H\u1ea3i qu\u00e2n v\u1ecbnh Guant\u00e1namo",
+    "ne:NAME_ZH":null,
+    "ne:NE_ID":1159320529,
+    "ne:NOTE_ADM0":"Leased by U.S.A.",
+    "ne:NOTE_BRK":"Leased to U.S.A. by Cuba; Claimed by Cuba",
+    "ne:POP_EST":7000,
+    "ne:POP_RANK":5,
+    "ne:POP_YEAR":1999,
+    "ne:POSTAL":"GB",
+    "ne:REGION_UN":"Americas",
+    "ne:REGION_WB":"Latin America & Caribbean",
+    "ne:SOVEREIGNT":"Cuba",
+    "ne:SOV_A3":"CUB",
+    "ne:SUBREGION":"Caribbean",
+    "ne:SUBUNIT":"US Naval Base Guantanamo Bay",
+    "ne:SU_A3":"USG",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Lease",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q762570",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"No WOE equivalent.",
+    "ne:featurecla":"Admin-0 lease",
+    "ne:scalerank":0,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"1999",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057,
+        85632675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320529,
+        "wd:id":"Q762570"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"facdfbe05da330cb0a36ae090872c390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "disputed_id":1159339525,
+            "empire_id":136253057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632675,
+            "disputed_id":1159339525
+        }
+    ],
+    "wof:id":1159339525,
+    "wof:lastmodified":1528909938,
+    "wof:name":"Guantanamo Bay Naval Base",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":7000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23285885299993,
+    19.89114223600006,
+    -75.09495029099989,
+    19.97158369
+],
+  "geometry": {"coordinates":[[[[-75.0950058107462,19.8972259625988],[-75.10766111999993,19.89759226600006],[-75.13742489299995,19.89255373200007],[-75.16191957099994,19.89114223600006],[-75.16529607899992,19.89701239000004],[-75.16437767299993,19.91371929400009],[-75.15766315899992,19.91870416000006],[-75.14647376199991,19.92340729400007],[-75.12263792099992,19.94046066100009],[-75.11784056199991,19.94408363700006],[-75.10438848599995,19.94275725300008],[-75.10104154399994,19.95314981800004],[-75.10460215699993,19.95935880300004],[-75.11675834999994,19.96705423400005],[-75.12986191999994,19.95561256600007],[-75.13380559799992,19.95807439900005],[-75.13963782499991,19.96499258000006],[-75.13703578043308,19.97155061017191],[-75.09495029099989,19.97158369],[-75.0950058107462,19.8972259625988]]],[[[-75.1601924439999,19.97064799500004],[-75.16835286299994,19.96656475000009],[-75.17121374499993,19.95752399700007],[-75.1634008449999,19.95038483300004],[-75.15673335199995,19.93889972500006],[-75.17218990799995,19.93577708500004],[-75.18395510799991,19.93359416400006],[-75.19312655199991,19.92709508100006],[-75.1960359599999,19.92191047000006],[-75.20164463599991,19.92285534500007],[-75.20338805899991,19.92835126200009],[-75.20895147699991,19.92924750600008],[-75.21450075799993,19.92628111700009],[-75.21810998199993,19.92400565200006],[-75.21785885299994,19.91945909500004],[-75.20575085199994,19.91153499800004],[-75.19221400399994,19.90996925100006],[-75.19100218099993,19.90631679500007],[-75.20749327899995,19.90577661000009],[-75.23106848899994,19.90045807500007],[-75.23285885299993,19.90005117400005],[-75.22896927899987,19.93744049100012],[-75.17886206299988,19.97073179300004],[-75.1601924439999,19.97064799500004]]]],"type":"MultiPolygon"}
+}

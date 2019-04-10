@@ -1,0 +1,83 @@
+{
+  "id": 1126080679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.386308,36.994703,-76.386308,36.994703",
+    "geom:latitude":36.994703,
+    "geom:longitude":-76.386308,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":36.994703,
+    "lbl:longitude":-76.386308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Salters Creek",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":277,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":277,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1291042,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55862539,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101728661,
+        102084913,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862539,
+        "qs_pg:id":1291042
+    },
+    "wof:country":"XX",
+    "wof:created":1497311900,
+    "wof:geomhash":"480ba1e96c26250c919b08f67e67aba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":1126080679,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126080679,
+    "wof:lastmodified":1509411146,
+    "wof:name":"Salters Creek",
+    "wof:parent_id":101728661,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.386308,
+    36.994703,
+    -76.386308,
+    36.994703
+],
+  "geometry": {"coordinates":[-76.386308,36.994703],"type":"Point"}
+}

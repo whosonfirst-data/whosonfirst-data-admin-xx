@@ -1,0 +1,80 @@
+{
+  "id": 1126082029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.399986,49.982744,14.399986,49.982744",
+    "geom:latitude":49.982744,
+    "geom:longitude":14.399986,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":49.982744,
+    "lbl:longitude":14.399986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Komo\u00f8any",
+    "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
+    "qs_pg:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "qs_pg:photos":36,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1186937,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424810,
+    "qs_pg:woe_id":22656727,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424810,
+    "woe:name_adm0":"\u010cesk\u00e1 republika",
+    "woe:name_adm1":"Hlavn\u00ed m\u011bsto Praha",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85633105,
+        85682437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22656727,
+        "qs_pg:id":1186937
+    },
+    "wof:country":"XX",
+    "wof:created":1497312068,
+    "wof:geomhash":"6c684f13690085b323c4f96bbb0a1b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633105,
+            "locality_id":-1,
+            "neighbourhood_id":1126082029,
+            "region_id":85682437
+        }
+    ],
+    "wof:id":1126082029,
+    "wof:lastmodified":1509411210,
+    "wof:name":"Komo\u00f8any",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.399986,
+    49.982744,
+    14.399986,
+    49.982744
+],
+  "geometry": {"coordinates":[14.399986,49.982744],"type":"Point"}
+}

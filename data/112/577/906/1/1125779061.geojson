@@ -1,0 +1,94 @@
+{
+  "id": 1125779061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.15889,-12.96917,45.15889,-12.96917",
+    "geom:latitude":-12.96917,
+    "geom:longitude":45.15889,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"XX",
+    "lbl:latitude":-12.96917,
+    "lbl:longitude":45.15889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dapani"
+    ],
+    "name:eng_x_preferred":[
+        "Dapani"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1090434,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dapani",
+    "qs_pg:name_adm0":"Mayotte",
+    "qs_pg:name_adm1":"Chirongui",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887819,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424886,
+    "qs_pg:woe_id":1365555,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424886,
+    "woe:name_adm0":"Mayotte",
+    "woe:name_adm1":"Chirongui",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1090434,
+        "gp:id":1365555,
+        "qs_pg:id":887819,
+        "wd:id":"Q5221562"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290389,
+    "wof:geomhash":"2bf38bdba6ebea7bac2e3ee2a4d729f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125779061,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1125779061,
+    "wof:lastmodified":1531422067,
+    "wof:name":"Dapani",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.15889,
+    -12.96917,
+    45.15889,
+    -12.96917
+],
+  "geometry": {"coordinates":[45.15889,-12.96917],"type":"Point"}
+}

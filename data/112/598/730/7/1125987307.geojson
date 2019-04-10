@@ -1,0 +1,83 @@
+{
+  "id": 1125987307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.203321,46.253333,6.203321,46.253333",
+    "geom:latitude":46.253333,
+    "geom:longitude":6.203321,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.253333,
+    "lbl:longitude":6.203321,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Collonge-Bellrive",
+    "qs_pg:name_adm0":"Schweiz",
+    "qs_pg:name_adm1":"Canton de Gen\u00e8ve",
+    "qs_pg:photos":560,
+    "qs_pg:photos_1k":113,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":560,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238485,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424957,
+    "qs_pg:woe_id":782119,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424957,
+    "woe:name_adm0":"Schweiz",
+    "woe:name_adm1":"Canton de Gen\u00e8ve",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682291,
+        102191581,
+        404328421,
+        85633051,
+        102062917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":782119,
+        "qs_pg:id":238485
+    },
+    "wof:country":"XX",
+    "wof:created":1497298875,
+    "wof:geomhash":"0b7423c653391a88fe30f83e3109192f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633051,
+            "county_id":102062917,
+            "localadmin_id":404328421,
+            "locality_id":1125987307,
+            "region_id":85682291
+        }
+    ],
+    "wof:id":1125987307,
+    "wof:lastmodified":1509405158,
+    "wof:name":"Collonge-Bellrive",
+    "wof:parent_id":404328421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.203321,
+    46.253333,
+    6.203321,
+    46.253333
+],
+  "geometry": {"coordinates":[6.203321,46.253333],"type":"Point"}
+}

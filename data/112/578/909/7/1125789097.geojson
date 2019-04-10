@@ -1,0 +1,140 @@
+{
+  "id": 1125789097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81639,52.473899,4.81639,52.473899",
+    "geom:latitude":52.473899,
+    "geom:longitude":4.81639,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":52.473899,
+    "lbl:longitude":4.81639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09af\u09be\u09a8\u09b8 \u09b8\u09cd\u0995\u09be\u09a8\u09cd\u09b8\u09cd\u200c"
+    ],
+    "name:cat_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:chi_x_preferred":[
+        "\u8d5e\u745f\u65af\u6c49\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:dut_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:eng_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:fre_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:ger_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05e0\u05e1\u05d4 \u05e1\u05db\u05d0\u05e0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:kor_x_preferred":[
+        "\uc794\uc11c\uc2a4\ud55c\uc2a4"
+    ],
+    "name:oci_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0627\u0646\u0633 \u0634\u0627\u0646\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u0441\u0435-\u0421\u0445\u0430\u043d\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:spa_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u0441\u0435-\u0421\u0445\u0430\u043d\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Zaanse Schans"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zaanse Schans",
+    "qs_pg:name_adm0":"Nederland",
+    "qs_pg:name_adm1":"Noord-Holland",
+    "qs_pg:photos":1163,
+    "qs_pg:photos_1k":236,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1163,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080059,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424909,
+    "qs_pg:woe_id":20064092,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424909,
+    "woe:name_adm0":"Nederland",
+    "woe:name_adm1":"Noord-Holland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        404474143,
+        85633337,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20064092,
+        "qs_pg:id":1080059,
+        "wd:id":"Q136661"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290798,
+    "wof:geomhash":"24bedc2d8d5c118cd5bd83563f5fe13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474143,
+            "locality_id":1125789097,
+            "region_id":85687053
+        }
+    ],
+    "wof:id":1125789097,
+    "wof:lastmodified":1524505994,
+    "wof:name":"Zaanse Schans",
+    "wof:parent_id":404474143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81639,
+    52.473899,
+    4.81639,
+    52.473899
+],
+  "geometry": {"coordinates":[4.81639,52.473899],"type":"Point"}
+}

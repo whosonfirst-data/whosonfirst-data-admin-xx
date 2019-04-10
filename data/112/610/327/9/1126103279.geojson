@@ -1,0 +1,82 @@
+{
+  "id": 1126103279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.093311,-41.104514,175.093311,-41.104514",
+    "geom:latitude":-41.104514,
+    "geom:longitude":175.093311,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-41.104514,
+    "lbl:longitude":175.093311,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Emerald Hill",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":361,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":361,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":242004,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644774,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644774,
+        "qs_pg:id":242004
+    },
+    "wof:country":"XX",
+    "wof:created":1497316445,
+    "wof:geomhash":"5704e4ba511ba9db6dc9c8e090e00c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":-1,
+            "neighbourhood_id":1126103279,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1126103279,
+    "wof:lastmodified":1509412237,
+    "wof:name":"Emerald Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.093311,
+    -41.104514,
+    175.093311,
+    -41.104514
+],
+  "geometry": {"coordinates":[175.093311,-41.104514],"type":"Point"}
+}

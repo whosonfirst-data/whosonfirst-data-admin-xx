@@ -1,0 +1,82 @@
+{
+  "id": 890442017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.702423,34.2938,76.702423,34.2938",
+    "geom:latitude":34.2938,
+    "geom:longitude":76.702423,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Fotu La",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29214416,
+        "qs:id":1313291,
+        "wd:id":"Q2675874",
+        "wk:page":"Fotu La"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052346,
+    "wof:geomhash":"5284d4656654e0031582e6851697d758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890442017,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890442017,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890442017,
+    "wof:lastmodified":1533678791,
+    "wof:name":"Fotu La",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.702423,
+    34.2938,
+    76.702423,
+    34.2938
+],
+  "geometry": {"coordinates":[76.702423,34.2938],"type":"Point"}
+}

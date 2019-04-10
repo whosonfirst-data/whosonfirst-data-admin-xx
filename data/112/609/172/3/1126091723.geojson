@@ -1,0 +1,82 @@
+{
+  "id": 1126091723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.511806,37.950424,32.511806,37.950424",
+    "geom:latitude":37.950424,
+    "geom:longitude":32.511806,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.950424,
+    "lbl:longitude":32.511806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"S\u00fcleyman \u00c7elebi",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Konya",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":8930,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":56042770,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Konya",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709873,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56042770,
+        "qs_pg:id":8930
+    },
+    "wof:country":"XX",
+    "wof:created":1497314000,
+    "wof:geomhash":"b169dca61b4b5ce373c5b4a5abe035cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709873,
+            "locality_id":-1,
+            "neighbourhood_id":1126091723,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1126091723,
+    "wof:lastmodified":1509411688,
+    "wof:name":"S\u00fcleyman \u00c7elebi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.511806,
+    37.950424,
+    32.511806,
+    37.950424
+],
+  "geometry": {"coordinates":[32.511806,37.950424],"type":"Point"}
+}

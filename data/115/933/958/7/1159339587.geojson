@@ -1,0 +1,218 @@
+{
+  "id": 1159339587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:bbox":"-2.446303453,35.175993626,-2.418142895,35.186038465",
+    "geom:latitude":35.180669,
+    "geom:longitude":-2.431669,
+    "iso:country":"XX",
+    "lbl:latitude":35.182449,
+    "lbl:longitude":-2.431428,
+    "mps:latitude":35.182449,
+    "mps:longitude":-2.431428,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0625\u0634\u0641\u0627\u0631\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Islas Chafarinas"
+    ],
+    "name:eng_x_preferred":[
+        "Chafarinas Islands"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Zaffarines"
+    ],
+    "name:ind_x_preferred":[
+        "Islas Chafarinas"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Chafarinas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30d5\u30a1\u30ea\u30ca\u30b9\u8af8\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Islas Chafarinas"
+    ],
+    "name:pol_x_preferred":[
+        "Islas Chafarinas"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Chafarinas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0444\u0430\u0440\u0438\u043d\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Chafarinas"
+    ],
+    "name:swe_x_preferred":[
+        "Islas Chafarinas"
+    ],
+    "name:tur_x_preferred":[
+        "Chafarinas Adalar\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "Islas Chafarinas"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u6cd5\u6797\u7fa4\u5c9b"
+    ],
+    "ne:ABBREV":"I.Chaf.",
+    "ne:ABBREV_LEN":7,
+    "ne:ADM0_A3":"ESP",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"ESP",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":0,
+    "ne:ADMIN":"Spain",
+    "ne:BRK_A3":"B65",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Islas Chafarinas",
+    "ne:CONTINENT":"Africa",
+    "ne:ECONOMY":"2. Developed region: nonG7",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"Spain",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"ESP",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"1. High income: OECD",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":9,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":5,
+    "ne:LONG_LEN":5,
+    "ne:MAPCOLOR13":5,
+    "ne:MAPCOLOR7":4,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":5,
+    "ne:MAX_LABEL":9,
+    "ne:MIN_LABEL":7,
+    "ne:MIN_ZOOM":7,
+    "ne:NAME":"Spain",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u062c\u0632\u0631 \u0625\u0634\u0641\u0627\u0631\u0646",
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Islas Chafarinas",
+    "ne:NAME_EL":null,
+    "ne:NAME_EN":"Chafarinas Islands",
+    "ne:NAME_ES":"Islas Chafarinas",
+    "ne:NAME_FR":"\u00celes Zaffarines",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":null,
+    "ne:NAME_ID":"Islas Chafarinas",
+    "ne:NAME_IT":"Isole Chafarinas",
+    "ne:NAME_JA":"\u30c1\u30e3\u30d5\u30a1\u30ea\u30ca\u30b9\u8af8\u5cf6",
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":5,
+    "ne:NAME_LONG":"Spain",
+    "ne:NAME_NL":"Islas Chafarinas",
+    "ne:NAME_PL":"Islas Chafarinas",
+    "ne:NAME_PT":"Ilhas Chafarinas",
+    "ne:NAME_RU":"\u0427\u0430\u0444\u0430\u0440\u0438\u043d\u0430\u0441",
+    "ne:NAME_SORT":null,
+    "ne:NAME_SV":"Islas Chafarinas",
+    "ne:NAME_TR":"Chafarinas Adalar\u0131",
+    "ne:NAME_VI":"Islas Chafarinas",
+    "ne:NAME_ZH":"\u820d\u6cd5\u6797\u7fa4\u5c9b",
+    "ne:NE_ID":1159320607,
+    "ne:NOTE_ADM0":"Sp.",
+    "ne:NOTE_BRK":"Admin. by Spain; Claimed by Morocco",
+    "ne:POP_EST":190,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"IC",
+    "ne:REGION_UN":"Africa",
+    "ne:REGION_WB":"Europe & Central Asia",
+    "ne:SOVEREIGNT":"Spain",
+    "ne:SOV_A3":"ESP",
+    "ne:SUBREGION":"Northern Africa",
+    "ne:SUBUNIT":"Spain",
+    "ne:SU_A3":"ESX",
+    "ne:SU_DIF":1,
+    "ne:TINY":-99,
+    "ne:TYPE":"Disputed",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q130574",
+    "ne:WIKIPEDIA":0,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"Not yet investigated.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"2017",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        102191573,
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320607,
+        "wd:id":"Q130574"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"e338a86854bec5d48561c5579e1ea488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "disputed_id":1159339587
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "disputed_id":1159339587
+        }
+    ],
+    "wof:id":1159339587,
+    "wof:lastmodified":1528912035,
+    "wof:name":"Chafarinas Islands",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":190,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.44630345299993,
+    35.17599362600004,
+    -2.41814289499996,
+    35.18603846500008
+],
+  "geometry": {"coordinates":[[[[-2.43424251399995,35.18523036700009],[-2.42939392699992,35.18603846500008],[-2.42650199199994,35.18211367900005],[-2.43141417099991,35.17876558400008],[-2.43585870999993,35.18118987800005],[-2.43424251399995,35.18523036700009]]],[[[-2.44092974799992,35.18101513900007],[-2.43883997399996,35.17907463500006],[-2.44078047799991,35.17608924300004],[-2.44630345299993,35.17698486100005],[-2.44510929599994,35.17982098300007],[-2.44092974799992,35.18101513900007]]],[[[-2.42500929599993,35.17942682600005],[-2.42187463499994,35.18300929600008],[-2.41814289499996,35.17972536500008],[-2.42142682599996,35.17599362600004],[-2.42500929599993,35.17942682600005]]]],"type":"MultiPolygon"}
+}

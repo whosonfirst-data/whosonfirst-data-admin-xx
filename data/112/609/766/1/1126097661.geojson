@@ -1,0 +1,82 @@
+{
+  "id": 1126097661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.916795,46.667509,-122.916795,46.667509",
+    "geom:latitude":46.667509,
+    "geom:longitude":-122.916795,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.667509,
+    "lbl:longitude":-122.916795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Widgeon Hill",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Washington",
+    "qs_pg:photos":132,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":132,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":19420,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55996204,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Washington",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085359,
+        85688623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55996204,
+        "qs_pg:id":19420
+    },
+    "wof:country":"XX",
+    "wof:created":1497315497,
+    "wof:geomhash":"68205daf42e0e7d976ce15abe357065b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085359,
+            "locality_id":-1,
+            "neighbourhood_id":1126097661,
+            "region_id":85688623
+        }
+    ],
+    "wof:id":1126097661,
+    "wof:lastmodified":1509411962,
+    "wof:name":"Widgeon Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.916795,
+    46.667509,
+    -122.916795,
+    46.667509
+],
+  "geometry": {"coordinates":[-122.91679499999999,46.667509],"type":"Point"}
+}

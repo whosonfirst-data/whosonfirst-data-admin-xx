@@ -1,0 +1,83 @@
+{
+  "id": 1126105053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.221667,38.916071,-77.221667,38.916071",
+    "geom:latitude":38.916071,
+    "geom:longitude":-77.221667,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.916071,
+    "lbl:longitude":-77.221667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tysons Corner Center",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":1691,
+    "qs_pg:photos_1k":343,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1691,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":179554,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55995326,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101729793,
+        102084863,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55995326,
+        "qs_pg:id":179554
+    },
+    "wof:country":"XX",
+    "wof:created":1497316763,
+    "wof:geomhash":"3ee2f5c4725e4d066bf9d8bc11a18a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729793,
+            "neighbourhood_id":1126105053,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126105053,
+    "wof:lastmodified":1509412329,
+    "wof:name":"Tysons Corner Center",
+    "wof:parent_id":101729793,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.221667,
+    38.916071,
+    -77.221667,
+    38.916071
+],
+  "geometry": {"coordinates":[-77.221667,38.916071],"type":"Point"}
+}

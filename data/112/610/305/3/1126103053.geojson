@@ -1,0 +1,82 @@
+{
+  "id": 1126103053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.671213,-32.931117,-60.671213,-32.931117",
+    "geom:latitude":-32.931117,
+    "geom:longitude":-60.671213,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-32.931117,
+    "lbl:longitude":-60.671213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Moreno",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Santa Fe",
+    "qs_pg:photos":1179,
+    "qs_pg:photos_1k":239,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1179,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":319710,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":331517,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Santa Fe",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191577,
+        85632505,
+        421171509,
+        85668077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":331517,
+        "qs_pg:id":319710
+    },
+    "wof:country":"XX",
+    "wof:created":1497316404,
+    "wof:geomhash":"2c2190955797f360e231836a6369993f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632505,
+            "county_id":421171509,
+            "locality_id":-1,
+            "neighbourhood_id":1126103053,
+            "region_id":85668077
+        }
+    ],
+    "wof:id":1126103053,
+    "wof:lastmodified":1509412225,
+    "wof:name":"Moreno",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.671213,
+    -32.931117,
+    -60.671213,
+    -32.931117
+],
+  "geometry": {"coordinates":[-60.671213,-32.931117],"type":"Point"}
+}

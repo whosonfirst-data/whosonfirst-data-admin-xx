@@ -1,0 +1,105 @@
+{
+  "id": 1125961593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.415945,59.481328,18.415945,59.481328",
+    "geom:latitude":59.481328,
+    "geom:longitude":18.415945,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":59.481328,
+    "lbl:longitude":18.415945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:eng_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:fin_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:nan_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:nno_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:nob_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:swe_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Skargardsstad",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Stockholms L\u00e4n",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":15002540,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Stockholms L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688429,
+        102191581,
+        1125423247,
+        85633789,
+        1159303039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15002540,
+        "qs_pg:id":989061,
+        "wd:id":"Q2720871"
+    },
+    "wof:country":"XX",
+    "wof:created":1497297818,
+    "wof:geomhash":"a844e2006757d63ff36c77b0f6f61695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303039,
+            "localadmin_id":1125423247,
+            "locality_id":1125961593,
+            "region_id":85688429
+        }
+    ],
+    "wof:id":1125961593,
+    "wof:lastmodified":1529702752,
+    "wof:name":"Skargardsstad",
+    "wof:parent_id":1125423247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.415945,
+    59.481328,
+    18.415945,
+    59.481328
+],
+  "geometry": {"coordinates":[18.415945,59.481328],"type":"Point"}
+}

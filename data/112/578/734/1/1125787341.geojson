@@ -1,0 +1,83 @@
+{
+  "id": 1125787341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.890506,39.4886245,2.890506,39.4886245",
+    "geom:latitude":39.488625,
+    "geom:longitude":2.890506,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":39.488625,
+    "lbl:longitude":2.890506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lluchmayor",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Illes Balears",
+    "qs_pg:photos":590,
+    "qs_pg:photos_1k":120,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":590,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1079850,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":765398,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Illes Balears",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682647,
+        102191581,
+        404330797,
+        85633129,
+        404227367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":765398,
+        "qs_pg:id":1079850
+    },
+    "wof:country":"XX",
+    "wof:created":1497290734,
+    "wof:geomhash":"4bcb9a1e9f144b131eb47659ff0b0e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330797,
+            "locality_id":1125787341,
+            "macroregion_id":404227367,
+            "region_id":85682647
+        }
+    ],
+    "wof:id":1125787341,
+    "wof:lastmodified":1509392061,
+    "wof:name":"Lluchmayor",
+    "wof:parent_id":404330797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.890506,
+    39.4886245,
+    2.890506,
+    39.4886245
+],
+  "geometry": {"coordinates":[2.890506,39.4886245],"type":"Point"}
+}

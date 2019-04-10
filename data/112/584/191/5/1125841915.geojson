@@ -1,0 +1,83 @@
+{
+  "id": 1125841915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.516357,58.482807,15.516357,58.482807",
+    "geom:latitude":58.482807,
+    "geom:longitude":15.516357,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":58.482807,
+    "lbl:longitude":15.516357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bergs Slussar",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1093705,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":886211,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"\u00d6sterg\u00f6tlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688409,
+        102191581,
+        1125382265,
+        85633789,
+        1159303147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":886211,
+        "qs_pg:id":1093705
+    },
+    "wof:country":"XX",
+    "wof:created":1497292970,
+    "wof:geomhash":"0c4327631792457cb25b0057ec35ea98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303147,
+            "localadmin_id":1125382265,
+            "locality_id":1125841915,
+            "region_id":85688409
+        }
+    ],
+    "wof:id":1125841915,
+    "wof:lastmodified":1529703111,
+    "wof:name":"Bergs Slussar",
+    "wof:parent_id":1125382265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.516357,
+    58.482807,
+    15.516357,
+    58.482807
+],
+  "geometry": {"coordinates":[15.516357,58.482807],"type":"Point"}
+}

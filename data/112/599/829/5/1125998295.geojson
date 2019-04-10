@@ -1,0 +1,81 @@
+{
+  "id": 1125998295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.00841,16.337107,-61.00841,16.337107",
+    "geom:latitude":16.337107,
+    "geom:longitude":-61.00841,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":16.337107,
+    "lbl:longitude":-61.00841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Point du Nord",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Pointe-\u00c0-Pitre",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1321549,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80818,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Pointe-\u00c0-Pitre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80818,
+        "qs_pg:id":1321549
+    },
+    "wof:country":"XX",
+    "wof:created":1497299494,
+    "wof:geomhash":"c9e6b7958cfb95b08b46afbe912df7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125998295,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1125998295,
+    "wof:lastmodified":1531422098,
+    "wof:name":"Point du Nord",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.00841,
+    16.337107,
+    -61.00841,
+    16.337107
+],
+  "geometry": {"coordinates":[-61.00841,16.337107],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126073411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.026978,32.512119,-117.026978,32.512119",
+    "geom:latitude":32.512119,
+    "geom:longitude":-117.026978,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.512119,
+    "lbl:longitude":-117.026978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Madero sur",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":993100,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55894421,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993551,
+        102074501,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55894421,
+        "qs_pg:id":993100
+    },
+    "wof:country":"XX",
+    "wof:created":1497310407,
+    "wof:geomhash":"06dc643e4909479bd14a103e321f3517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":1126073411,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126073411,
+    "wof:lastmodified":1509410792,
+    "wof:name":"Madero sur",
+    "wof:parent_id":101993551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.026978,
+    32.512119,
+    -117.026978,
+    32.512119
+],
+  "geometry": {"coordinates":[-117.026978,32.512119],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126103817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.773636,1.462103,103.773636,1.462103",
+    "geom:latitude":1.462103,
+    "geom:longitude":103.773636,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":1.462103,
+    "lbl:longitude":103.773636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tanjung Puteri",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Johor",
+    "qs_pg:photos":249,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":249,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481808,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56017283,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Johor",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102022781,
+        1108696403,
+        85675141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017283,
+        "qs_pg:id":481808
+    },
+    "wof:country":"XX",
+    "wof:created":1497316567,
+    "wof:geomhash":"942779d781ccb79b989d3ad932440463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":1108696403,
+            "locality_id":102022781,
+            "neighbourhood_id":1126103817,
+            "region_id":85675141
+        }
+    ],
+    "wof:id":1126103817,
+    "wof:lastmodified":1509412263,
+    "wof:name":"Tanjung Puteri",
+    "wof:parent_id":102022781,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.773636,
+    1.462103,
+    103.773636,
+    1.462103
+],
+  "geometry": {"coordinates":[103.773636,1.462103],"type":"Point"}
+}

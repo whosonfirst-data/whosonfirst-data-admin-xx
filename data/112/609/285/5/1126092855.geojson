@@ -1,0 +1,82 @@
+{
+  "id": 1126092855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.417072,49.549382,8.417072,49.549382",
+    "geom:latitude":49.549382,
+    "geom:longitude":8.417072,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":49.549382,
+    "lbl:longitude":8.417072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pfingstweide",
+    "qs_pg:name_adm0":"Deutschland",
+    "qs_pg:name_adm1":"Rheinland-Pfalz",
+    "qs_pg:photos":112,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":112,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":939765,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424829,
+    "qs_pg:woe_id":20163582,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424829,
+    "woe:name_adm0":"Deutschland",
+    "woe:name_adm1":"Rheinland-Pfalz",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85633111,
+        102063471,
+        85682491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20163582,
+        "qs_pg:id":939765
+    },
+    "wof:country":"XX",
+    "wof:created":1497314366,
+    "wof:geomhash":"cba560851246c74a6e730c3b95e8de07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633111,
+            "county_id":102063471,
+            "locality_id":-1,
+            "neighbourhood_id":1126092855,
+            "region_id":85682491
+        }
+    ],
+    "wof:id":1126092855,
+    "wof:lastmodified":1509411741,
+    "wof:name":"Pfingstweide",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.417072,
+    49.549382,
+    8.417072,
+    49.549382
+],
+  "geometry": {"coordinates":[8.417072,49.549382],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1125959449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "gn:gn_country":"LY",
+    "iso:country":"XX",
+    "lbl:latitude":0.0,
+    "lbl:longitude":0.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":"LY",
+    "qs_pg:name":"\u0646\u0627\u0644\u0648\u062a",
+    "qs_pg:name_adm0":"Libya",
+    "qs_pg:name_adm1":"Ghadamis",
+    "qs_pg:photos":141,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":141,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115734,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424882,
+    "qs_pg:woe_id":1353004,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424882,
+    "woe:name_adm0":"Libya",
+    "woe:name_adm1":"Ghadamis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1353004,
+        "qs_pg:id":1115734
+    },
+    "wof:country":"XX",
+    "wof:created":1497297742,
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632627,
+            "locality_id":1125959449
+        }
+    ],
+    "wof:id":1125959449,
+    "wof:lastmodified":1505248905,
+    "wof:name":"\u0646\u0627\u0644\u0648\u062a",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

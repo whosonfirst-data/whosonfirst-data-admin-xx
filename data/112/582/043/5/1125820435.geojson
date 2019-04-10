@@ -1,0 +1,124 @@
+{
+  "id": 1125820435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0223,1.364963,104.0223,1.364963",
+    "geom:latitude":1.364963,
+    "geom:longitude":104.0223,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":1.364963,
+    "lbl:longitude":104.0223,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u5149\u5cf6"
+    ],
+    "name:dan_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:dut_x_preferred":[
+        "Tekong"
+    ],
+    "name:eng_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:fao_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:fin_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:fre_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30b3\u30f3\u5cf6"
+    ],
+    "name:may_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:nob_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:pol_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:spa_x_preferred":[
+        "Pulau Tekong"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0b95\u0bcd\u0b95\u0bcb\u0b99\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Tekong"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pulau Tekong",
+    "qs_pg:name_adm0":"Singapore",
+    "qs_pg:name_adm1":"South East",
+    "qs_pg:photos":3796,
+    "qs_pg:photos_1k":769,
+    "qs_pg:photos_9k":17,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3796,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1086040,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424948,
+    "qs_pg:woe_id":24703036,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424948,
+    "woe:name_adm0":"Singapore",
+    "woe:name_adm1":"South East",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24703036,
+        "qs_pg:id":1086040,
+        "wd:id":"Q2611322"
+    },
+    "wof:country":"XX",
+    "wof:created":1497292023,
+    "wof:geomhash":"eb5f96dc82188561dff9ea19b3211757",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125820435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125820435,
+    "wof:lastmodified":1514503086,
+    "wof:name":"Pulau Tekong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0223,
+    1.364963,
+    104.0223,
+    1.364963
+],
+  "geometry": {"coordinates":[104.0223,1.364963],"type":"Point"}
+}

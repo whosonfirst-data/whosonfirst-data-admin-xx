@@ -1,0 +1,82 @@
+{
+  "id": 1126074443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4112325,55.487833,8.4112325,55.487833",
+    "geom:latitude":55.487833,
+    "geom:longitude":8.411233,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":55.487833,
+    "lbl:longitude":8.411233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Esbjerg V",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Syddanmark",
+    "qs_pg:photos":770,
+    "qs_pg:photos_1k":156,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":770,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263574,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":24875618,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Syddanmark",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85682575,
+        102191581,
+        1159297923,
+        85633121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24875618,
+        "qs_pg:id":1263574
+    },
+    "wof:country":"XX",
+    "wof:created":1497310645,
+    "wof:geomhash":"f9036a7668c2e512322e58a24f2e969d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297923,
+            "locality_id":-1,
+            "neighbourhood_id":1126074443,
+            "region_id":85682575
+        }
+    ],
+    "wof:id":1126074443,
+    "wof:lastmodified":1530292513,
+    "wof:name":"Esbjerg V",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4112325,
+    55.487833,
+    8.4112325,
+    55.487833
+],
+  "geometry": {"coordinates":[8.4112325,55.487833],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1126054775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3087405,41.374892,-8.3087405,41.374892",
+    "geom:latitude":41.374892,
+    "geom:longitude":-8.308741,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.374892,
+    "lbl:longitude":-8.308741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vizela-S\u00e3o Paio",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos":62,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":62,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1061438,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":751133,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":751133,
+        "qs_pg:id":1061438
+    },
+    "wof:country":"XX",
+    "wof:created":1497303031,
+    "wof:geomhash":"fdce867520d33a383a2cecea3d7ba1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126054775,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1126054775,
+    "wof:lastmodified":1509409536,
+    "wof:name":"Vizela-S\u00e3o Paio",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3087405,
+    41.374892,
+    -8.3087405,
+    41.374892
+],
+  "geometry": {"coordinates":[-8.3087405,41.374892],"type":"Point"}
+}

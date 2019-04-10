@@ -1,0 +1,83 @@
+{
+  "id": 1126097679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.258513,19.508546,-99.258513,19.508546",
+    "geom:latitude":19.508546,
+    "geom:longitude":-99.258513,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.508546,
+    "lbl:longitude":-99.258513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Alte\u00f1a 3ra",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":143,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":143,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":232455,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903546,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101992499,
+        102074109,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55903546,
+        "qs_pg:id":232455
+    },
+    "wof:country":"XX",
+    "wof:created":1497315499,
+    "wof:geomhash":"7f6320592e5f1b93d6a2b8ee14a2c88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074109,
+            "locality_id":101992499,
+            "neighbourhood_id":1126097679,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126097679,
+    "wof:lastmodified":1509411963,
+    "wof:name":"Alte\u00f1a 3ra",
+    "wof:parent_id":101992499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.258513,
+    19.508546,
+    -99.258513,
+    19.508546
+],
+  "geometry": {"coordinates":[-99.25851299999999,19.508546],"type":"Point"}
+}

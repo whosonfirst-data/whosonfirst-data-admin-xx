@@ -1,0 +1,83 @@
+{
+  "id": 1125768837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.331512,45.434614,9.331512,45.434614",
+    "geom:latitude":45.434614,
+    "geom:longitude":9.331512,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.434614,
+    "lbl:longitude":9.331512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bettolino",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Lombardia",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":430903,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":29333792,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Lombardia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685243,
+        102191581,
+        404468493,
+        85633253,
+        404227497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29333792,
+        "qs_pg:id":430903
+    },
+    "wof:country":"XX",
+    "wof:created":1497289992,
+    "wof:geomhash":"fc2be339d0c939c1d2df676e48cc7d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404468493,
+            "locality_id":1125768837,
+            "macroregion_id":404227497,
+            "region_id":85685243
+        }
+    ],
+    "wof:id":1125768837,
+    "wof:lastmodified":1509390857,
+    "wof:name":"Bettolino",
+    "wof:parent_id":404468493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.331512,
+    45.434614,
+    9.331512,
+    45.434614
+],
+  "geometry": {"coordinates":[9.331512,45.434614],"type":"Point"}
+}

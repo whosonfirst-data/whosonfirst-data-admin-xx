@@ -1,0 +1,81 @@
+{
+  "id": 1125960027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.6593925,16.3188325,-61.6593925,16.3188325",
+    "geom:latitude":16.318832,
+    "geom:longitude":-61.659393,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":16.318832,
+    "lbl:longitude":-61.659393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Moustique",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Basse-Terre",
+    "qs_pg:photos":52,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":52,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1043758,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80789,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Basse-Terre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80789,
+        "qs_pg:id":1043758
+    },
+    "wof:country":"XX",
+    "wof:created":1497297762,
+    "wof:geomhash":"8d275c514d2d677a0bd28123170f060a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125960027,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1125960027,
+    "wof:lastmodified":1509403232,
+    "wof:name":"Moustique",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65939250000001,
+    16.3188325,
+    -61.65939250000001,
+    16.3188325
+],
+  "geometry": {"coordinates":[-61.65939250000001,16.3188325],"type":"Point"}
+}

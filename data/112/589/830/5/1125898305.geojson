@@ -1,0 +1,81 @@
+{
+  "id": 1125898305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.690635,16.210388,-61.690635,16.210388",
+    "geom:latitude":16.210388,
+    "geom:longitude":-61.690635,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":16.210388,
+    "lbl:longitude":-61.690635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Chartreux",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Basse-Terre",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":31185,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80578,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Basse-Terre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80578,
+        "qs_pg:id":31185
+    },
+    "wof:country":"XX",
+    "wof:created":1497295686,
+    "wof:geomhash":"7709a36352a4bb7aec5a035b8e0dc801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125898305,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1125898305,
+    "wof:lastmodified":1531422104,
+    "wof:name":"Chartreux",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.690635,
+    16.210388,
+    -61.690635,
+    16.210388
+],
+  "geometry": {"coordinates":[-61.690635,16.210388],"type":"Point"}
+}

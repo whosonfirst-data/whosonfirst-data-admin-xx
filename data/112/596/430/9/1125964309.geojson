@@ -1,0 +1,116 @@
+{
+  "id": 1125964309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9161395,47.291274,22.9161395,47.291274",
+    "geom:latitude":47.291274,
+    "geom:longitude":22.916139,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":47.291274,
+    "lbl:longitude":22.916139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:eng_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:epo_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:fre_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:hun_x_preferred":[
+        "Ol\u00e1hbaksa"
+    ],
+    "name:ita_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:por_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:rum_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u0448\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043a\u0448\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Bocsa"
+    ],
+    "name:vol_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Boc\u0219a",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Salaj",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":506984,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":867555,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Salaj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":867555,
+        "qs_pg:id":506984,
+        "wd:id":"Q1078043"
+    },
+    "wof:country":"XX",
+    "wof:created":1497297915,
+    "wof:geomhash":"cbf11ad17a6cbd33f34234957c759dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125964309,
+            "region_id":85687723
+        }
+    ],
+    "wof:id":1125964309,
+    "wof:lastmodified":1514502967,
+    "wof:name":"Boc\u0219a",
+    "wof:parent_id":85687723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9161395,
+    47.291274,
+    22.9161395,
+    47.291274
+],
+  "geometry": {"coordinates":[22.9161395,47.291274],"type":"Point"}
+}

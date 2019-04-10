@@ -1,0 +1,82 @@
+{
+  "id": 1125795453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.355131,12.257231,-68.355131,12.257231",
+    "geom:latitude":12.257231,
+    "geom:longitude":-68.355131,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":12.257231,
+    "lbl:longitude":-68.355131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rigot",
+    "qs_pg:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "qs_pg:name_adm1":"Bonaire",
+    "qs_pg:photos":81,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":81,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996404,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":56558056,
+    "qs_pg:woe_id":151981,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":56558056,
+    "woe:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "woe:name_adm1":"Bonaire",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":151981,
+        "qs_pg:id":996404
+    },
+    "wof:country":"XX",
+    "wof:created":1497291030,
+    "wof:geomhash":"a12deb6f85a41d7fd81c5a108147b5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1125795453,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1125795453,
+    "wof:lastmodified":1509997980,
+    "wof:name":"Rigot",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.355131,
+    12.257231,
+    -68.355131,
+    12.257231
+],
+  "geometry": {"coordinates":[-68.355131,12.257231],"type":"Point"}
+}

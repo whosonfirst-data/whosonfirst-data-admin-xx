@@ -1,0 +1,83 @@
+{
+  "id": 1126099255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.477281,37.553924,-77.477281,37.553924",
+    "geom:latitude":37.553924,
+    "geom:longitude":-77.477281,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.553924,
+    "lbl:longitude":-77.477281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Boulevard",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":4946,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4946,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":234217,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55861408,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55861408,
+        "qs_pg:id":234217
+    },
+    "wof:country":"XX",
+    "wof:created":1497315757,
+    "wof:geomhash":"c3592758300e032f1f21a954b1410382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":1126099255,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126099255,
+    "wof:lastmodified":1509412033,
+    "wof:name":"Boulevard",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.477281,
+    37.553924,
+    -77.477281,
+    37.553924
+],
+  "geometry": {"coordinates":[-77.477281,37.553924],"type":"Point"}
+}

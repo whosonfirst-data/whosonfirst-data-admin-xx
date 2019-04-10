@@ -1,0 +1,104 @@
+{
+  "id": 1126023565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3330985,44.458603,26.3330985,44.458603",
+    "geom:latitude":44.458603,
+    "geom:longitude":26.333098,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.458603,
+    "lbl:longitude":26.333098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u044a\u043d\u0435\u0449"
+    ],
+    "name:dut_x_preferred":[
+        "Br\u0103ne\u0219ti"
+    ],
+    "name:eng_x_preferred":[
+        "Br\u0103ne\u0219ti"
+    ],
+    "name:fre_x_preferred":[
+        "Br\u0103ne\u0219ti"
+    ],
+    "name:hun_x_preferred":[
+        "Br\u0103ne\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Br\u0103ne\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Br\u0103ne\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Br\u0103ne\u0219ti",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Ilfov",
+    "qs_pg:photos":148,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":148,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1324174,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":868002,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Ilfov",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":868002,
+        "qs_pg:id":1324174,
+        "wd:id":"Q12084774"
+    },
+    "wof:country":"XX",
+    "wof:created":1497300984,
+    "wof:geomhash":"1b9550a9961dc6eac6e361660fe2779c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1126023565,
+            "region_id":85687611
+        }
+    ],
+    "wof:id":1126023565,
+    "wof:lastmodified":1553816707,
+    "wof:name":"Br\u0103ne\u0219ti",
+    "wof:parent_id":85687611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3330985,
+    44.458603,
+    26.3330985,
+    44.458603
+],
+  "geometry": {"coordinates":[26.3330985,44.458603],"type":"Point"}
+}

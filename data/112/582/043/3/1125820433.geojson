@@ -1,0 +1,83 @@
+{
+  "id": 1125820433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.801685,41.755058,2.801685,41.755058",
+    "geom:latitude":41.755058,
+    "geom:longitude":2.801685,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.755058,
+    "lbl:longitude":2.801685,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"A\u00efguaviva Parc",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Catalunya",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1198548,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":20220429,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Catalunya",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682721,
+        102191581,
+        404335005,
+        85633129,
+        404227379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20220429,
+        "qs_pg:id":1198548
+    },
+    "wof:country":"XX",
+    "wof:created":1497292023,
+    "wof:geomhash":"138e9cd54011a16a72070810e5d0ef73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335005,
+            "locality_id":1125820433,
+            "macroregion_id":404227379,
+            "region_id":85682721
+        }
+    ],
+    "wof:id":1125820433,
+    "wof:lastmodified":1509394059,
+    "wof:name":"A\u00efguaviva Parc",
+    "wof:parent_id":404335005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.801685,
+    41.755058,
+    2.801685,
+    41.755058
+],
+  "geometry": {"coordinates":[2.801685,41.755058],"type":"Point"}
+}

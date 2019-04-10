@@ -1,0 +1,83 @@
+{
+  "id": 1125987677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.929293,43.71755,10.929293,43.71755",
+    "geom:latitude":43.71755,
+    "geom:longitude":10.929293,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":43.71755,
+    "lbl:longitude":10.929293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Spicchio-Sovigliana",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Toscana",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":888065,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":20144394,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Toscana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685407,
+        102191581,
+        404472763,
+        85633253,
+        404227511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20144394,
+        "qs_pg:id":888065
+    },
+    "wof:country":"XX",
+    "wof:created":1497298891,
+    "wof:geomhash":"bf8648fe86b2d371420cb0dd31cbf65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404472763,
+            "locality_id":1125987677,
+            "macroregion_id":404227511,
+            "region_id":85685407
+        }
+    ],
+    "wof:id":1125987677,
+    "wof:lastmodified":1509405179,
+    "wof:name":"Spicchio-Sovigliana",
+    "wof:parent_id":404472763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.929293,
+    43.71755,
+    10.929293,
+    43.71755
+],
+  "geometry": {"coordinates":[10.929293,43.71755],"type":"Point"}
+}

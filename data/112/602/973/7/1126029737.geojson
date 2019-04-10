@@ -1,0 +1,83 @@
+{
+  "id": 1126029737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.903721,45.91366,10.903721,45.91366",
+    "geom:latitude":45.91366,
+    "geom:longitude":10.903721,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.91366,
+    "lbl:longitude":10.903721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bolognano-Vignole",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Trentino-Alto Adige",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":895985,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":20111960,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Trentino-Alto Adige",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685277,
+        102191581,
+        404473319,
+        85633253,
+        404227499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20111960,
+        "qs_pg:id":895985
+    },
+    "wof:country":"XX",
+    "wof:created":1497301387,
+    "wof:geomhash":"7cef1aff70905ca4fcbca78c18687063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404473319,
+            "locality_id":1126029737,
+            "macroregion_id":404227499,
+            "region_id":85685277
+        }
+    ],
+    "wof:id":1126029737,
+    "wof:lastmodified":1509407828,
+    "wof:name":"Bolognano-Vignole",
+    "wof:parent_id":404473319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.903721,
+    45.91366,
+    10.903721,
+    45.91366
+],
+  "geometry": {"coordinates":[10.903721,45.91366],"type":"Point"}
+}

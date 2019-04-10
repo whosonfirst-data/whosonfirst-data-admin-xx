@@ -1,0 +1,83 @@
+{
+  "id": 1126095455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.154602,36.142865,-115.154602,36.142865",
+    "geom:latitude":36.142865,
+    "geom:longitude":-115.154602,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":36.142865,
+    "lbl:longitude":-115.154602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Beverly Green",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Nevada",
+    "qs_pg:photos":3781,
+    "qs_pg:photos_1k":766,
+    "qs_pg:photos_9k":17,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3781,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1090669,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55991873,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Nevada",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85975051,
+        102081553,
+        85688531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55991873,
+        "qs_pg:id":1090669
+    },
+    "wof:country":"XX",
+    "wof:created":1497315121,
+    "wof:geomhash":"dc16c7625c08677fa51ddc7a37af15c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081553,
+            "locality_id":85975051,
+            "neighbourhood_id":1126095455,
+            "region_id":85688531
+        }
+    ],
+    "wof:id":1126095455,
+    "wof:lastmodified":1509411860,
+    "wof:name":"Beverly Green",
+    "wof:parent_id":85975051,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.154602,
+    36.142865,
+    -115.154602,
+    36.142865
+],
+  "geometry": {"coordinates":[-115.154602,36.142865],"type":"Point"}
+}

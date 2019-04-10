@@ -1,0 +1,93 @@
+{
+  "id": 1125996281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.850454,34.2819,74.850454,34.2819",
+    "geom:latitude":34.2819,
+    "geom:longitude":74.850454,
+    "gn:gn_country":"XX",
+    "iso:country":"XX",
+    "lbl:latitude":34.2819,
+    "lbl:longitude":74.850454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"XX",
+    "qs_pg:gn_country":"XX",
+    "qs_pg:name":"Akhal",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":22674,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":29196381,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Jammu and Kashmir",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695711,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29196381,
+        "qs_pg:id":22674
+    },
+    "wof:country":"XX",
+    "wof:created":1497299359,
+    "wof:geomhash":"a75b39efae2ea14fd3385f5095638c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":1125996281,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":1125996281,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1125996281,
+    "wof:lastmodified":1533678805,
+    "wof:name":"Akhal",
+    "wof:parent_id":1108695711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.850454,
+    34.2819,
+    74.850454,
+    34.2819
+],
+  "geometry": {"coordinates":[74.850454,34.2819],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126062853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.011391,19.614234,-99.011391,19.614234",
+    "geom:latitude":19.614234,
+    "geom:longitude":-99.011391,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.614234,
+    "lbl:longitude":-99.011391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ampl Llano de Los Baez",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":912356,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55888600,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101992735,
+        102074155,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55888600,
+        "qs_pg:id":912356
+    },
+    "wof:country":"XX",
+    "wof:created":1497308380,
+    "wof:geomhash":"b9157fc26b5e8e3328fe8c3cade93a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074155,
+            "locality_id":101992735,
+            "neighbourhood_id":1126062853,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126062853,
+    "wof:lastmodified":1509410283,
+    "wof:name":"Ampl Llano de Los Baez",
+    "wof:parent_id":101992735,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.011391,
+    19.614234,
+    -99.011391,
+    19.614234
+],
+  "geometry": {"coordinates":[-99.011391,19.614234],"type":"Point"}
+}

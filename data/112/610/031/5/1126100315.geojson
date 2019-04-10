@@ -1,0 +1,83 @@
+{
+  "id": 1126100315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.651677,30.458569,-97.651677,30.458569",
+    "geom:latitude":30.458569,
+    "geom:longitude":-97.651677,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":30.458569,
+    "lbl:longitude":-97.651677,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Park At Grand Avenue",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Texas",
+    "qs_pg:photos":141,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":141,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1353856,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55994934,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Texas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101725089,
+        102081935,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55994934,
+        "qs_pg:id":1353856
+    },
+    "wof:country":"XX",
+    "wof:created":1497315927,
+    "wof:geomhash":"097ae6a08d9aa1727acf837d8f4d6313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081935,
+            "locality_id":101725089,
+            "neighbourhood_id":1126100315,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1126100315,
+    "wof:lastmodified":1509412085,
+    "wof:name":"Park At Grand Avenue",
+    "wof:parent_id":101725089,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.651677,
+    30.458569,
+    -97.651677,
+    30.458569
+],
+  "geometry": {"coordinates":[-97.65167700000001,30.458569],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125838763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.055834,33.869453,-7.055834,33.869453",
+    "geom:latitude":33.869453,
+    "geom:longitude":-7.055834,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":33.869453,
+    "lbl:longitude":-7.055834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sebbah",
+    "qs_pg:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "qs_pg:name_adm1":"\u0627\u0644\u0631\u0628\u0627\u0637-\u0633\u0644\u0627-\u0632\u0645\u0648\u0631-\u0632\u0639\u064a\u0631",
+    "qs_pg:photos":203,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":203,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":896790,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424893,
+    "qs_pg:woe_id":10644805,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424893,
+    "woe:name_adm0":"\u0627\u0644\u0645\u063a\u0631\u0628",
+    "woe:name_adm1":"\u0627\u0644\u0631\u0628\u0627\u0637-\u0633\u0644\u0627-\u0632\u0645\u0648\u0631-\u0632\u0639\u064a\u0631",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673911,
+        890429101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10644805,
+        "qs_pg:id":896790
+    },
+    "wof:country":"XX",
+    "wof:created":1497292839,
+    "wof:geomhash":"5769b8730c45f51a54c59e4ae02da16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "county_id":890429101,
+            "locality_id":1125838763,
+            "region_id":85673911
+        }
+    ],
+    "wof:id":1125838763,
+    "wof:lastmodified":1509395148,
+    "wof:name":"Sebbah",
+    "wof:parent_id":890429101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.055834,
+    33.869453,
+    -7.055834,
+    33.869453
+],
+  "geometry": {"coordinates":[-7.055834,33.869453],"type":"Point"}
+}

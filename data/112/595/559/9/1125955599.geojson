@@ -1,0 +1,83 @@
+{
+  "id": 1125955599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.724804,42.06395,-7.724804,42.06395",
+    "geom:latitude":42.06395,
+    "geom:longitude":-7.724804,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":42.06395,
+    "lbl:longitude":-7.724804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ginzo de Limia",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Galicia",
+    "qs_pg:photos":470,
+    "qs_pg:photos_1k":95,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":470,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1146338,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":761595,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Galicia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682801,
+        102191581,
+        404340143,
+        85633129,
+        404227385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":761595,
+        "qs_pg:id":1146338
+    },
+    "wof:country":"XX",
+    "wof:created":1497297609,
+    "wof:geomhash":"f69fef4a16d257d896db2c54d9123add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340143,
+            "locality_id":1125955599,
+            "macroregion_id":404227385,
+            "region_id":85682801
+        }
+    ],
+    "wof:id":1125955599,
+    "wof:lastmodified":1509402980,
+    "wof:name":"Ginzo de Limia",
+    "wof:parent_id":404340143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.724804,
+    42.06395,
+    -7.724804,
+    42.06395
+],
+  "geometry": {"coordinates":[-7.724804,42.06395],"type":"Point"}
+}

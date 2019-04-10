@@ -1,0 +1,81 @@
+{
+  "id": 1126089187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.298964,53.389707,-6.298964,53.389707",
+    "geom:latitude":53.389707,
+    "geom:longitude":-6.298964,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":53.389707,
+    "lbl:longitude":-6.298964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tinglas",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":1719,
+    "qs_pg:photos_1k":348,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1719,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897861,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562362,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101751737,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":562362,
+        "qs_pg:id":897861
+    },
+    "wof:country":"XX",
+    "wof:created":1497313372,
+    "wof:geomhash":"3067a19c7a901c2652a33930c7a2baaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":1126089187,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":1126089187,
+    "wof:lastmodified":1509411556,
+    "wof:name":"Tinglas",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.298964,
+    53.389707,
+    -6.298964,
+    53.389707
+],
+  "geometry": {"coordinates":[-6.298964,53.389707],"type":"Point"}
+}

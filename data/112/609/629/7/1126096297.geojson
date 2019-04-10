@@ -1,0 +1,82 @@
+{
+  "id": 1126096297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.847303,-33.930328,18.847303,-33.930328",
+    "geom:latitude":-33.930328,
+    "geom:longitude":18.847303,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-33.930328,
+    "lbl:longitude":18.847303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Plankenbrug",
+    "qs_pg:name_adm0":"South Africa",
+    "qs_pg:name_adm1":"Western Cape",
+    "qs_pg:photos":227,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230841,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424942,
+    "qs_pg:woe_id":55879087,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424942,
+    "woe:name_adm0":"South Africa",
+    "woe:name_adm1":"Western Cape",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        1108730615,
+        85688905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55879087,
+        "qs_pg:id":230841
+    },
+    "wof:country":"XX",
+    "wof:created":1497315286,
+    "wof:geomhash":"3dffaf600284ed350a2e60d0de936ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730615,
+            "locality_id":-1,
+            "neighbourhood_id":1126096297,
+            "region_id":85688905
+        }
+    ],
+    "wof:id":1126096297,
+    "wof:lastmodified":1509411899,
+    "wof:name":"Plankenbrug",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.847303,
+    -33.930328,
+    18.847303,
+    -33.930328
+],
+  "geometry": {"coordinates":[18.847303,-33.930328],"type":"Point"}
+}

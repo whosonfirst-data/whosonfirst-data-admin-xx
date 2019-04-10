@@ -1,0 +1,88 @@
+{
+  "id": 1125998585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.966072,14.477483,-60.966072,14.477483",
+    "geom:latitude":14.477483,
+    "geom:longitude":-60.966072,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":14.477483,
+    "lbl:longitude":-60.966072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Trois Rivi\u00e8res"
+    ],
+    "name:fre_x_preferred":[
+        "Trois Rivi\u00e8res"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Trois Rivi\u00e8res",
+    "qs_pg:name_adm0":"Martinique",
+    "qs_pg:name_adm1":"Marin",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1321550,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424884,
+    "qs_pg:woe_id":110812,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424884,
+    "woe:name_adm0":"Martinique",
+    "woe:name_adm1":"Marin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":110812,
+        "qs_pg:id":1321550,
+        "wd:id":"Q16511592"
+    },
+    "wof:country":"XX",
+    "wof:created":1497299509,
+    "wof:geomhash":"b23c34334a48c49eb0281fca277c180e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125998585,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1125998585,
+    "wof:lastmodified":1531422140,
+    "wof:name":"Trois Rivi\u00e8res",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.966072,
+    14.477483,
+    -60.966072,
+    14.477483
+],
+  "geometry": {"coordinates":[-60.966072,14.477483],"type":"Point"}
+}

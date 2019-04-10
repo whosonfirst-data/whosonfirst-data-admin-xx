@@ -1,0 +1,82 @@
+{
+  "id": 1126085413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.773076,40.48196,-106.773076,40.48196",
+    "geom:latitude":40.48196,
+    "geom:longitude":-106.773076,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.48196,
+    "lbl:longitude":-106.773076,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fish Creek Falls",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Colorado",
+    "qs_pg:photos":187,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":187,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1320844,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55974372,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Colorado",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102086129,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55974372,
+        "qs_pg:id":1320844
+    },
+    "wof:country":"XX",
+    "wof:created":1497312699,
+    "wof:geomhash":"0237f7576d064a5ab867de6dda5a4fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086129,
+            "locality_id":-1,
+            "neighbourhood_id":1126085413,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":1126085413,
+    "wof:lastmodified":1509411377,
+    "wof:name":"Fish Creek Falls",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.773076,
+    40.48196,
+    -106.773076,
+    40.48196
+],
+  "geometry": {"coordinates":[-106.773076,40.48196],"type":"Point"}
+}

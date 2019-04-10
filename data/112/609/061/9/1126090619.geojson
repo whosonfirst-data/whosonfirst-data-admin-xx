@@ -1,0 +1,82 @@
+{
+  "id": 1126090619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.297396,17.554845,-101.297396,17.554845",
+    "geom:latitude":17.554845,
+    "geom:longitude":-101.297396,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":17.554845,
+    "lbl:longitude":-101.297396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Unidad Magisterial Petatlan",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Guerrero",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":912454,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55893273,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Guerrero",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102073895,
+        85686517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55893273,
+        "qs_pg:id":912454
+    },
+    "wof:country":"XX",
+    "wof:created":1497313680,
+    "wof:geomhash":"a44188766bc7a85687e33b3c6f6c1310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073895,
+            "locality_id":-1,
+            "neighbourhood_id":1126090619,
+            "region_id":85686517
+        }
+    ],
+    "wof:id":1126090619,
+    "wof:lastmodified":1509411627,
+    "wof:name":"Unidad Magisterial Petatlan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.297396,
+    17.554845,
+    -101.297396,
+    17.554845
+],
+  "geometry": {"coordinates":[-101.29739600000001,17.554845],"type":"Point"}
+}

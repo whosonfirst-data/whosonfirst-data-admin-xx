@@ -1,0 +1,81 @@
+{
+  "id": 1126003299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.6660875,16.1795455,-61.6660875,16.1795455",
+    "geom:latitude":16.179545,
+    "geom:longitude":-61.666088,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":16.179545,
+    "lbl:longitude":-61.666088,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Prise d'Eau",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Basse-Terre",
+    "qs_pg:photos":94,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":94,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":962951,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80835,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Basse-Terre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80835,
+        "qs_pg:id":962951
+    },
+    "wof:country":"XX",
+    "wof:created":1497299783,
+    "wof:geomhash":"1a1dbd7e097cd1814e970450ce7bbc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1126003299,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1126003299,
+    "wof:lastmodified":1531422106,
+    "wof:name":"Prise d'Eau",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.6660875,
+    16.1795455,
+    -61.6660875,
+    16.1795455
+],
+  "geometry": {"coordinates":[-61.6660875,16.1795455],"type":"Point"}
+}

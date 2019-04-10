@@ -1,0 +1,79 @@
+{
+  "id": 1126038313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.249774,40.546548,-7.249774,40.546548",
+    "geom:latitude":40.546548,
+    "geom:longitude":-7.249774,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.546548,
+    "lbl:longitude":-7.249774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Guarda-S\u00e3o Vicente",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":968774,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":23412813,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23412813,
+        "qs_pg:id":968774
+    },
+    "wof:country":"XX",
+    "wof:created":1497301945,
+    "wof:geomhash":"6c316f06d57dfb63a6fa75c88fec3e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126038313,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1126038313,
+    "wof:lastmodified":1509408351,
+    "wof:name":"Guarda-S\u00e3o Vicente",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.249774,
+    40.546548,
+    -7.249774,
+    40.546548
+],
+  "geometry": {"coordinates":[-7.249774,40.546548],"type":"Point"}
+}

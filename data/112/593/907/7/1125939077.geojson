@@ -1,0 +1,341 @@
+{
+  "id": 1125939077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.86973,14.47212,-60.86973,14.47212",
+    "geom:latitude":14.47212,
+    "geom:longitude":-60.86973,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7943,
+    "gn:population":7943,
+    "iso:country":"XX",
+    "lbl:latitude":14.47212,
+    "lbl:longitude":-60.86973,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Le Marin"
+    ],
+    "name:arg_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ast_x_preferred":[
+        "Le Marin"
+    ],
+    "name:bam_x_preferred":[
+        "Le Marin"
+    ],
+    "name:baq_x_preferred":[
+        "Le Marin"
+    ],
+    "name:bar_x_preferred":[
+        "Le Marin"
+    ],
+    "name:bre_x_preferred":[
+        "Le Marin"
+    ],
+    "name:cat_x_preferred":[
+        "Le Marin"
+    ],
+    "name:cos_x_preferred":[
+        "Le Marin"
+    ],
+    "name:cze_x_preferred":[
+        "Le Marin"
+    ],
+    "name:dan_x_preferred":[
+        "Le Marin"
+    ],
+    "name:dut_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u039c\u03b1\u03c1\u03ad\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Le Marin"
+    ],
+    "name:epo_x_preferred":[
+        "Le Marin"
+    ],
+    "name:est_x_preferred":[
+        "Le Marin"
+    ],
+    "name:fao_x_preferred":[
+        "Le Marin"
+    ],
+    "name:fin_x_preferred":[
+        "Le Marin"
+    ],
+    "name:frc_x_preferred":[
+        "Le Marin"
+    ],
+    "name:fre_x_preferred":[
+        "Le Marin"
+    ],
+    "name:frp_x_preferred":[
+        "Le Marin"
+    ],
+    "name:fur_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ger_x_preferred":[
+        "Le Marin"
+    ],
+    "name:gla_x_preferred":[
+        "Le Marin"
+    ],
+    "name:gle_x_preferred":[
+        "Le Marin"
+    ],
+    "name:glg_x_preferred":[
+        "Le Marin"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b5 \u039c\u03b1\u03c1\u03ad\u03bd"
+    ],
+    "name:gsw_x_preferred":[
+        "Le Marin"
+    ],
+    "name:hrv_x_preferred":[
+        "Le Marin"
+    ],
+    "name:hun_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ice_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ido_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ile_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ina_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ind_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ita_x_preferred":[
+        "Le Marin"
+    ],
+    "name:jam_x_preferred":[
+        "Le Marin"
+    ],
+    "name:kab_x_preferred":[
+        "Le Marin"
+    ],
+    "name:kal_x_preferred":[
+        "Le Marin"
+    ],
+    "name:kon_x_preferred":[
+        "Le Marin"
+    ],
+    "name:lat_x_preferred":[
+        "Le Marin"
+    ],
+    "name:lav_x_preferred":[
+        "Le Marin"
+    ],
+    "name:lij_x_preferred":[
+        "Le Marin"
+    ],
+    "name:lim_x_preferred":[
+        "Le Marin"
+    ],
+    "name:lit_x_preferred":[
+        "Le Marenas"
+    ],
+    "name:ltz_x_preferred":[
+        "Le Marin"
+    ],
+    "name:may_x_preferred":[
+        "Le Marin"
+    ],
+    "name:min_x_preferred":[
+        "Le Marin"
+    ],
+    "name:mlg_x_preferred":[
+        "Le Marin"
+    ],
+    "name:nap_x_preferred":[
+        "Le Marin"
+    ],
+    "name:nds_x_preferred":[
+        "Le Marin"
+    ],
+    "name:nno_x_preferred":[
+        "Le Marin"
+    ],
+    "name:nob_x_preferred":[
+        "Le Marin"
+    ],
+    "name:nrm_x_preferred":[
+        "Le Marin"
+    ],
+    "name:oci_x_preferred":[
+        "Le Marin"
+    ],
+    "name:pap_x_preferred":[
+        "Le Marin"
+    ],
+    "name:pcd_x_preferred":[
+        "Le Marin"
+    ],
+    "name:pms_x_preferred":[
+        "Le Marin"
+    ],
+    "name:pol_x_preferred":[
+        "Le Marin"
+    ],
+    "name:por_x_preferred":[
+        "Le Marin"
+    ],
+    "name:prg_x_preferred":[
+        "Le Marin"
+    ],
+    "name:rgn_x_preferred":[
+        "Le Marin"
+    ],
+    "name:roh_x_preferred":[
+        "Le Marin"
+    ],
+    "name:rum_x_preferred":[
+        "Le Marin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435-\u041c\u0430\u0440\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Le Marin"
+    ],
+    "name:sco_x_preferred":[
+        "Le Marin"
+    ],
+    "name:slo_x_preferred":[
+        "Le Marin"
+    ],
+    "name:spa_x_preferred":[
+        "Le Marin"
+    ],
+    "name:srd_x_preferred":[
+        "Le Marin"
+    ],
+    "name:swa_x_preferred":[
+        "Le Marin"
+    ],
+    "name:swe_x_preferred":[
+        "Le Marin"
+    ],
+    "name:tur_x_preferred":[
+        "Le Marin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041c\u0430\u0440\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Marin"
+    ],
+    "name:vec_x_preferred":[
+        "Le Marin"
+    ],
+    "name:vie_x_preferred":[
+        "Le Marin"
+    ],
+    "name:vls_x_preferred":[
+        "Le Marin"
+    ],
+    "name:vmf_x_preferred":[
+        "Le Marin"
+    ],
+    "name:vol_x_preferred":[
+        "Le Marin"
+    ],
+    "name:war_x_preferred":[
+        "Le Marin"
+    ],
+    "name:wel_x_preferred":[
+        "Le Marin"
+    ],
+    "name:wln_x_preferred":[
+        "Le Marin"
+    ],
+    "name:wol_x_preferred":[
+        "Le Marin"
+    ],
+    "name:zul_x_preferred":[
+        "Le Marin"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3570426,
+    "qs_pg:gn_pop":7943,
+    "qs_pg:name":"Le Marin",
+    "qs_pg:name_adm0":"Martinique",
+    "qs_pg:name_adm1":"Marin",
+    "qs_pg:photos":460,
+    "qs_pg:photos_1k":93,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":460,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1045524,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424884,
+    "qs_pg:woe_id":110561,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424884,
+    "woe:name_adm0":"Martinique",
+    "woe:name_adm1":"Marin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3570426,
+        "gp:id":110561,
+        "qs_pg:id":1045524,
+        "wd:id":"Q265373"
+    },
+    "wof:country":"XX",
+    "wof:created":1497297060,
+    "wof:geomhash":"accc7a68e859f65f031c68827f219d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125939077,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125939077,
+    "wof:lastmodified":1531422132,
+    "wof:name":"Le Marin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":7943,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.86973,
+    14.47212,
+    -60.86973,
+    14.47212
+],
+  "geometry": {"coordinates":[-60.86973,14.47212],"type":"Point"}
+}

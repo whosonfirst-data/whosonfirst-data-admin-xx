@@ -1,0 +1,82 @@
+{
+  "id": 1126087917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.967991,41.010653,28.967991,41.010653",
+    "geom:latitude":41.010653,
+    "geom:longitude":28.967991,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.010653,
+    "lbl:longitude":28.967991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kapali Carsi",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":3383,
+    "qs_pg:photos_1k":686,
+    "qs_pg:photos_9k":15,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3383,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1063572,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724162,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724162,
+        "qs_pg:id":1063572
+    },
+    "wof:country":"XX",
+    "wof:created":1497313103,
+    "wof:geomhash":"581155393a84564e4ac96da83cdc30ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":-1,
+            "neighbourhood_id":1126087917,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126087917,
+    "wof:lastmodified":1509411498,
+    "wof:name":"Kapali Carsi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.967991,
+    41.010653,
+    28.967991,
+    41.010653
+],
+  "geometry": {"coordinates":[28.967991,41.010653],"type":"Point"}
+}

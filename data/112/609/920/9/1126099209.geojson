@@ -1,0 +1,82 @@
+{
+  "id": 1126099209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.049825,30.471836,78.049825,30.471836",
+    "geom:latitude":30.471836,
+    "geom:longitude":78.049825,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":30.471836,
+    "lbl:longitude":78.049825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Charleville",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Uttarakhand",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1346735,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":55958432,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Uttarakhand",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        890507905,
+        85672209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55958432,
+        "qs_pg:id":1346735
+    },
+    "wof:country":"XX",
+    "wof:created":1497315748,
+    "wof:geomhash":"19245a2619d3fde88210ed646f3cb785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507905,
+            "locality_id":-1,
+            "neighbourhood_id":1126099209,
+            "region_id":85672209
+        }
+    ],
+    "wof:id":1126099209,
+    "wof:lastmodified":1509412031,
+    "wof:name":"Charleville",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.049825,
+    30.471836,
+    78.049825,
+    30.471836
+],
+  "geometry": {"coordinates":[78.049825,30.471836],"type":"Point"}
+}

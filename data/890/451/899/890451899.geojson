@@ -1,0 +1,79 @@
+{
+  "id": 890451899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.284797,34.018691,78.284797,34.018691",
+    "geom:latitude":34.018691,
+    "geom:longitude":78.284797,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Vimgul",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29214672,
+        "qs:id":1329035
+    },
+    "wof:country":"XX",
+    "wof:created":1469052797,
+    "wof:geomhash":"eb976b06d18672449adbcc860ae14d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890451899,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890451899,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890451899,
+    "wof:lastmodified":1533678792,
+    "wof:name":"Vimgul",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.284797,
+    34.018691,
+    78.284797,
+    34.018691
+],
+  "geometry": {"coordinates":[78.284797,34.018691],"type":"Point"}
+}

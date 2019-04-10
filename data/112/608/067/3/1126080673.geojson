@@ -1,0 +1,83 @@
+{
+  "id": 1126080673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6443985,3.114387,101.6443985,3.114387",
+    "geom:latitude":3.114387,
+    "geom:longitude":101.644398,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":3.114387,
+    "lbl:longitude":101.644398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Universiti Malaya",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kuala Lumpur",
+    "qs_pg:photos":1158,
+    "qs_pg:photos_1k":235,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1158,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1291227,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":56017349,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kuala Lumpur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023395,
+        890490605,
+        85675163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56017349,
+        "qs_pg:id":1291227
+    },
+    "wof:country":"XX",
+    "wof:created":1497311898,
+    "wof:geomhash":"7a2d4d194dda3aac3a1a50a3563a9b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490605,
+            "locality_id":102023395,
+            "neighbourhood_id":1126080673,
+            "region_id":85675163
+        }
+    ],
+    "wof:id":1126080673,
+    "wof:lastmodified":1509411145,
+    "wof:name":"Universiti Malaya",
+    "wof:parent_id":102023395,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6443985,
+    3.114387,
+    101.6443985,
+    3.114387
+],
+  "geometry": {"coordinates":[101.64439849999999,3.114387],"type":"Point"}
+}

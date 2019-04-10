@@ -1,0 +1,82 @@
+{
+  "id": 1126030449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.279739,21.800786,-72.279739,21.800786",
+    "geom:latitude":21.800786,
+    "geom:longitude":-72.279739,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":21.800786,
+    "lbl:longitude":-72.279739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Blue Hills Settlements",
+    "qs_pg:name_adm0":"Turks and Caicos Islands",
+    "qs_pg:name_adm1":"Providencales and West Caicos",
+    "qs_pg:photos":242,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":242,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":896721,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424962,
+    "qs_pg:woe_id":162146,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424962,
+    "woe:name_adm0":"Turks and Caicos Islands",
+    "woe:name_adm1":"Providencales and West Caicos",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632205,
+        85678417,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":162146,
+        "qs_pg:id":896721
+    },
+    "wof:country":"XX",
+    "wof:created":1497301435,
+    "wof:geomhash":"2084d4bac6d2e2a5536d7335172dfb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":1126030449,
+            "region_id":85678417
+        }
+    ],
+    "wof:id":1126030449,
+    "wof:lastmodified":1509998026,
+    "wof:name":"Blue Hills Settlements",
+    "wof:parent_id":85678417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.279739,
+    21.800786,
+    -72.279739,
+    21.800786
+],
+  "geometry": {"coordinates":[-72.27973900000001,21.800786],"type":"Point"}
+}

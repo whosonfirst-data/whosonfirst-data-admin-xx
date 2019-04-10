@@ -1,0 +1,83 @@
+{
+  "id": 1126108315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-103.456777,20.806107,-103.456777,20.806107",
+    "geom:latitude":20.806107,
+    "geom:longitude":-103.456777,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":20.806107,
+    "lbl:longitude":-103.456777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Jose Ejidal",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Jalisco",
+    "qs_pg:photos":74,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":74,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1136698,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55910236,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Jalisco",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101997653,
+        102074709,
+        85686603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55910236,
+        "qs_pg:id":1136698
+    },
+    "wof:country":"XX",
+    "wof:created":1497317626,
+    "wof:geomhash":"c49c8e258ed2430bf53010eff1ead611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074709,
+            "locality_id":101997653,
+            "neighbourhood_id":1126108315,
+            "region_id":85686603
+        }
+    ],
+    "wof:id":1126108315,
+    "wof:lastmodified":1509412483,
+    "wof:name":"San Jose Ejidal",
+    "wof:parent_id":101997653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.456777,
+    20.806107,
+    -103.456777,
+    20.806107
+],
+  "geometry": {"coordinates":[-103.456777,20.806107],"type":"Point"}
+}

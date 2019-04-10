@@ -1,0 +1,83 @@
+{
+  "id": 1125803845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.115168,44.726125,8.115168,44.726125",
+    "geom:latitude":44.726125,
+    "geom:longitude":8.115168,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.726125,
+    "lbl:longitude":8.115168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Neive Borgonuovo",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Piemonte",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":339073,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":20112452,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Piemonte",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685187,
+        102191581,
+        404455681,
+        85633253,
+        404227493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20112452,
+        "qs_pg:id":339073
+    },
+    "wof:country":"XX",
+    "wof:created":1497291382,
+    "wof:geomhash":"9648622f98c6463a84c3f9220d75cfd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404455681,
+            "locality_id":1125803845,
+            "macroregion_id":404227493,
+            "region_id":85685187
+        }
+    ],
+    "wof:id":1125803845,
+    "wof:lastmodified":1509393172,
+    "wof:name":"Neive Borgonuovo",
+    "wof:parent_id":404455681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.115168,
+    44.726125,
+    8.115168,
+    44.726125
+],
+  "geometry": {"coordinates":[8.115168,44.726125],"type":"Point"}
+}

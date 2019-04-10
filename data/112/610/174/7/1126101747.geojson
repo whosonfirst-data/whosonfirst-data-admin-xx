@@ -1,0 +1,82 @@
+{
+  "id": 1126101747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.429479,43.859341,18.429479,43.859341",
+    "geom:latitude":43.859341,
+    "geom:longitude":18.429479,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":43.859341,
+    "lbl:longitude":18.429479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Novo Sarajevo",
+    "qs_pg:name_adm0":"Bosna i Hercegovina",
+    "qs_pg:name_adm1":"Federacija Bosne I Hercegovine",
+    "qs_pg:photos":7407,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":33,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":7407,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":53215,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424761,
+    "qs_pg:woe_id":55869076,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424761,
+    "woe:name_adm0":"Bosna i Hercegovina",
+    "woe:name_adm1":"Federacija Bosne I Hercegovine",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85632609,
+        1108759047,
+        85669235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55869076,
+        "qs_pg:id":53215
+    },
+    "wof:country":"XX",
+    "wof:created":1497316203,
+    "wof:geomhash":"d72cd3ffb07227821c29a5454e4055eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759047,
+            "locality_id":-1,
+            "neighbourhood_id":1126101747,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":1126101747,
+    "wof:lastmodified":1509412157,
+    "wof:name":"Novo Sarajevo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.429479,
+    43.859341,
+    18.429479,
+    43.859341
+],
+  "geometry": {"coordinates":[18.429479,43.859341],"type":"Point"}
+}

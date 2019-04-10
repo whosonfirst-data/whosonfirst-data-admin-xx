@@ -1,0 +1,78 @@
+{
+  "id": 1126094987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.075036,38.846471,-77.075036,38.846471",
+    "geom:latitude":38.846471,
+    "geom:longitude":-77.075036,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.846471,
+    "lbl:longitude":-77.075036,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Long Branch Creek",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":510,
+    "qs_pg:photos_1k":103,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":510,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089616,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55857871,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85633793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55857871,
+        "qs_pg:id":1089616
+    },
+    "wof:country":"XX",
+    "wof:created":1497314978,
+    "wof:geomhash":"f6954eb0f06e040e0e69465edd1a036c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":1126094987
+        }
+    ],
+    "wof:id":1126094987,
+    "wof:lastmodified":1511998875,
+    "wof:name":"Long Branch Creek",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[
+        85876001
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.075036,
+    38.846471,
+    -77.075036,
+    38.846471
+],
+  "geometry": {"coordinates":[-77.075036,38.846471],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126107167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.000502,33.61369,73.000502,33.61369",
+    "geom:latitude":33.61369,
+    "geom:longitude":73.000502,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":33.61369,
+    "lbl:longitude":73.000502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"West Ridge B\u00e5z\u00e5r",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Punjab",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1130176,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":2210472,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Punjab",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692361,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2210472,
+        "qs_pg:id":1130176
+    },
+    "wof:country":"XX",
+    "wof:created":1497317321,
+    "wof:geomhash":"f58c80faab502330e0f73b9229eeba66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":-1,
+            "neighbourhood_id":1126107167,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1126107167,
+    "wof:lastmodified":1509412428,
+    "wof:name":"West Ridge B\u00e5z\u00e5r",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.000502,
+    33.61369,
+    73.000502,
+    33.61369
+],
+  "geometry": {"coordinates":[73.000502,33.61369],"type":"Point"}
+}

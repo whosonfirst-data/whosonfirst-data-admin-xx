@@ -1,0 +1,229 @@
+{
+  "id": 85632515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":835908.745745,
+    "geom:bbox":"-88.328414917,16.093999863,-88.239997864,16.16327858",
+    "geom:latitude":16.129946,
+    "geom:longitude":-88.275189,
+    "gn:id":"",
+    "iso:country":"XX",
+    "lbl:latitude":16.106038,
+    "lbl:longitude":-88.256588,
+    "mps:latitude":16.106038,
+    "mps:longitude":-88.256588,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sapodilla Cayes"
+    ],
+    "name:eng_x_unknown":[
+        "XX"
+    ],
+    "name:eng_x_variant":[
+        "Disputed Territory"
+    ],
+    "name:fin_x_preferred":[
+        "kiistelty alue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:nor_x_colloquial":[
+        "Omstridt omrade"
+    ],
+    "name:nor_x_preferred":[
+        "Omstridt omr\u00e5de"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo Sapodilla"
+    ],
+    "name:swe_x_colloquial":[
+        "Omtvistat omrade"
+    ],
+    "name:swe_x_preferred":[
+        "Omtvistat omr\u00e5de"
+    ],
+    "name:unk_x_variant":[
+        "Zapatillas Cays"
+    ],
+    "name:zho_x_preferred":[
+        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+    ],
+    "name:zho_x_variant":[
+        "\u6709\u4e89\u8bae\u7684\u9886\u571f"
+    ],
+    "ne:ABBREV":null,
+    "ne:ABBREV_LEN":0,
+    "ne:ADM0_A3":"BLZ",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"UUU",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":0,
+    "ne:ADMIN":"Belize",
+    "ne:BRK_A3":"B80",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Sapodilla Cayes",
+    "ne:CONTINENT":"North America",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"Belize",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"BLZ",
+    "ne:HOMEPART":1,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":9,
+    "ne:LASTCENSUS":0,
+    "ne:LEVEL":5,
+    "ne:LONG_LEN":15,
+    "ne:MAPCOLOR13":7,
+    "ne:MAPCOLOR7":1,
+    "ne:MAPCOLOR8":4,
+    "ne:MAPCOLOR9":5,
+    "ne:MAX_LABEL":9,
+    "ne:MIN_LABEL":7.7,
+    "ne:MIN_ZOOM":7,
+    "ne:NAME":"Sapodilla Cayes",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":null,
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":null,
+    "ne:NAME_EL":null,
+    "ne:NAME_EN":"Sapodilla Cayes",
+    "ne:NAME_ES":"Cayo Sapodilla",
+    "ne:NAME_FR":null,
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":null,
+    "ne:NAME_ID":null,
+    "ne:NAME_IT":null,
+    "ne:NAME_JA":null,
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":15,
+    "ne:NAME_LONG":"Sapodilla Cayes",
+    "ne:NAME_NL":null,
+    "ne:NAME_PL":null,
+    "ne:NAME_PT":null,
+    "ne:NAME_RU":null,
+    "ne:NAME_SORT":"Belize (Sapodilla Cayes)",
+    "ne:NAME_SV":null,
+    "ne:NAME_TR":null,
+    "ne:NAME_VI":null,
+    "ne:NAME_ZH":null,
+    "ne:NE_ID":1159320435,
+    "ne:NOTE_ADM0":null,
+    "ne:NOTE_BRK":"Admin. by Belize; Claimed by Honduras and Guatemala",
+    "ne:POP_EST":0,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":null,
+    "ne:REGION_UN":"Americas",
+    "ne:REGION_WB":"Latin America & Caribbean",
+    "ne:SOVEREIGNT":"Belize",
+    "ne:SOV_A3":"BLZ",
+    "ne:SUBREGION":"Central America",
+    "ne:SUBUNIT":"Belize",
+    "ne:SU_A3":"BLZ",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Disputed",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q766270",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"No WOE equivalent.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":8,
+    "qs:a0":"Belize",
+    "qs:adm0":"Belize",
+    "qs:adm0_a3":"BLZ",
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85632385,
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581128,
+        "gp:id":23424760,
+        "ne:id":1159320435,
+        "qs:id":1189999,
+        "wd:id":"Q766270"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"1ecd1b95cc0030745f65f7e41aa1912d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "disputed_id":85632515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "disputed_id":85632515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "disputed_id":85632515
+        }
+    ],
+    "wof:id":85632515,
+    "wof:lastmodified":1528909932,
+    "wof:name":"Sapodilla Cayes",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.32841491699998,
+    16.09399986300002,
+    -88.23999786399997,
+    16.16327858000005
+],
+  "geometry": {"coordinates":[[[[-88.25908660899995,16.09511184700006],[-88.26016998299997,16.09399986300002],[-88.26132965099998,16.09405517600004],[-88.26241302499994,16.09480476400006],[-88.26219177199994,16.09641647300003],[-88.26130676299994,16.09744453400003],[-88.25958251999998,16.09727859500003],[-88.25910949699994,16.09658241300002],[-88.25908660899995,16.09511184700006]]],[[[-88.25450897199994,16.10371589700003],[-88.25489044199998,16.10327720600003],[-88.25641632099996,16.10372161900005],[-88.25744628899997,16.10733413700007],[-88.25592040999999,16.10899925200005],[-88.25444793699995,16.10811042800003],[-88.25394058199998,16.10459995300005],[-88.25450897199994,16.10371589700003]]],[[[-88.25,16.11311149600004],[-88.25094604499998,16.11230468800005],[-88.25166320799997,16.11236190800003],[-88.252388,16.11300087000006],[-88.25250244099999,16.11477851900003],[-88.25174713099995,16.11574935900006],[-88.25066375699998,16.11586189300004],[-88.24996948199998,16.11477851900003],[-88.25,16.11311149600004]]],[[[-88.24583435099998,16.12983322100007],[-88.24678039599996,16.12902832000003],[-88.24839019799998,16.12913894700006],[-88.24922180199997,16.13063812300004],[-88.24910736099997,16.13166618300005],[-88.24858093299997,16.13219451900005],[-88.24644470199996,16.13236045800005],[-88.24591827399996,16.13169479400005],[-88.24583435099998,16.12983322100007]]],[[[-88.23999786399997,16.13630485500005],[-88.24147033699995,16.13491630600004],[-88.24319457999997,16.13497161900005],[-88.24407958999996,16.13558387800003],[-88.24416351299999,16.13644409200003],[-88.24250030499996,16.13819503800005],[-88.24005889899996,16.13683319100005],[-88.23999786399997,16.13630485500005]]],[[[-88.32338714599996,16.15847206100005],[-88.32458496099997,16.15738868700004],[-88.32611083999996,16.15747261000007],[-88.32841491699998,16.16172218300005],[-88.32680511499996,16.16327858000005],[-88.32397460899995,16.16316604600007],[-88.32324981699998,16.16202735900004],[-88.32338714599996,16.15847206100005]]]],"type":"MultiPolygon"}
+}

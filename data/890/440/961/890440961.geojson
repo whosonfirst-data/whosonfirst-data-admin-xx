@@ -1,0 +1,78 @@
+{
+  "id": 890440961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.389286,34.052659,74.389286,34.052659",
+    "geom:latitude":34.052659,
+    "geom:longitude":74.389286,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Punch",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":90,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":530,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        85632427,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12586460,
+        "qs:id":1197834,
+        "wk:page":"Punch"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052304,
+    "wof:geomhash":"1f8fa959d3dfd4499c83d53d6c841d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890440961,
+            "disputed_id":85632427,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890440961,
+            "disputed_id":85632427,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890440961,
+    "wof:lastmodified":1533678785,
+    "wof:name":"Punch",
+    "wof:parent_id":85672137,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.389286,
+    34.052659,
+    74.389286,
+    34.052659
+],
+  "geometry": {"coordinates":[74.389286,34.052659],"type":"Point"}
+}

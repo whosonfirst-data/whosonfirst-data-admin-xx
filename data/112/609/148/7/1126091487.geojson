@@ -1,0 +1,82 @@
+{
+  "id": 1126091487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.009391,24.861362,67.009391,24.861362",
+    "geom:latitude":24.861362,
+    "geom:longitude":67.009391,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":24.861362,
+    "lbl:longitude":67.009391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Runchor",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Sindh",
+    "qs_pg:photos":946,
+    "qs_pg:photos_1k":192,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":946,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1085682,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":22726260,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Sindh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726260,
+        "qs_pg:id":1085682
+    },
+    "wof:country":"XX",
+    "wof:created":1497313923,
+    "wof:geomhash":"2558ae00612f154ea9128b2ab2b9f65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":-1,
+            "neighbourhood_id":1126091487,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1126091487,
+    "wof:lastmodified":1509411678,
+    "wof:name":"Runchor",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.009391,
+    24.861362,
+    67.009391,
+    24.861362
+],
+  "geometry": {"coordinates":[67.00939099999999,24.861362],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126104811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.472896,14.656585,-17.472896,14.656585",
+    "geom:latitude":14.656585,
+    "geom:longitude":-17.472896,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":14.656585,
+    "lbl:longitude":-17.472896,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Soumb\u00e9dioune",
+    "qs_pg:name_adm0":"S\u00e9n\u00e9gal",
+    "qs_pg:name_adm1":"Dakar",
+    "qs_pg:photos":273,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":273,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1116541,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424943,
+    "qs_pg:woe_id":1418011,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424943,
+    "woe:name_adm0":"S\u00e9n\u00e9gal",
+    "woe:name_adm1":"Dakar",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        421187965,
+        85676997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1418011,
+        "qs_pg:id":1116541
+    },
+    "wof:country":"XX",
+    "wof:created":1497316722,
+    "wof:geomhash":"fa351775d18419b0093f024102c6b66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421187965,
+            "locality_id":-1,
+            "neighbourhood_id":1126104811,
+            "region_id":85676997
+        }
+    ],
+    "wof:id":1126104811,
+    "wof:lastmodified":1509412318,
+    "wof:name":"Soumb\u00e9dioune",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.472896,
+    14.656585,
+    -17.472896,
+    14.656585
+],
+  "geometry": {"coordinates":[-17.472896,14.656585],"type":"Point"}
+}

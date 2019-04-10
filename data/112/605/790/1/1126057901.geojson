@@ -1,0 +1,82 @@
+{
+  "id": 1126057901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.919967,13.562063,144.919967,13.562063",
+    "geom:latitude":13.562063,
+    "geom:longitude":144.919967,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":13.562063,
+    "lbl:longitude":144.919967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Andersen Airforce Base",
+    "qs_pg:name_adm0":"Guam",
+    "qs_pg:name_adm1":"Yigo",
+    "qs_pg:photos":155,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":331158,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424832,
+    "qs_pg:woe_id":15021078,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424832,
+    "woe:name_adm0":"Guam",
+    "woe:name_adm1":"Yigo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15021078,
+        "qs_pg:id":331158
+    },
+    "wof:country":"XX",
+    "wof:created":1497303469,
+    "wof:geomhash":"c536000d67270eae2758999bb14ae72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1126057901,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":1126057901,
+    "wof:lastmodified":1509998013,
+    "wof:name":"Andersen Airforce Base",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.919967,
+    13.562063,
+    144.919967,
+    13.562063
+],
+  "geometry": {"coordinates":[144.91996700000001,13.562063],"type":"Point"}
+}

@@ -1,0 +1,201 @@
+{
+  "id": 1125963719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.779047,43.712657,10.779047,43.712657",
+    "geom:latitude":43.712657,
+    "geom:longitude":10.779047,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":43.712657,
+    "lbl:longitude":10.779047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u053f\u0580\u0578\u0579\u0565 \u057d\u0578\u0582\u056c \u0531\u0580\u0576\u0578"
+    ],
+    "name:baq_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:bcl_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u043e\u0447\u044d-\u0441\u0443\u043b'\u0410\u0440\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0440\u043e\u0447\u0435 \u0441\u0443\u043b'\u0410\u0440\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u514b\u7f57\u5207\u82cf\u62c9\u5c14\u8bfa"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Croce sull\u2019Arno"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30ed\u30fc\u30c1\u30a7\u30fb\u30b9\u30c3\u30e9\u30eb\u30ce"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u043e\u0447\u0435-\u0441\u0443\u043b\u043b'\u0410\u0440\u043d\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Castrum Sanctae Crucis"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Kro\u010d\u0117 sul Arnas"
+    ],
+    "name:lmo_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:may_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:nap_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:oci_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0686\u0647 \u0633\u0648\u0644\u200c\u0622\u0631\u0646\u0648"
+    ],
+    "name:pms_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:por_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:rum_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u043e\u0447\u0435-\u0441\u0443\u043b\u043b'\u0410\u0440\u043d\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Santa Cruci supra a l'Arnu"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:srp_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:tgl_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u043e\u0447\u0435-\u0441\u0443\u043b\u043b'\u0410\u0440\u043d\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:vec_x_preferred":[
+        "Santa Croxe so \u0142'Arno"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:vol_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "name:war_x_preferred":[
+        "Santa Croce sull'Arno"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Santa Croce sull' Arno",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Toscana",
+    "qs_pg:photos":219,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":219,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1061353,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":723502,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Toscana",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685419,
+        102191581,
+        404472955,
+        85633253,
+        404227511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":723502,
+        "qs_pg:id":1061353,
+        "wd:id":"Q103253"
+    },
+    "wof:country":"XX",
+    "wof:created":1497297895,
+    "wof:geomhash":"ada332ccb91f33acd88c54ce51822191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404472955,
+            "locality_id":1125963719,
+            "macroregion_id":404227511,
+            "region_id":85685419
+        }
+    ],
+    "wof:id":1125963719,
+    "wof:lastmodified":1514503094,
+    "wof:name":"Santa Croce sull' Arno",
+    "wof:parent_id":404472955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.779047,
+    43.712657,
+    10.779047,
+    43.712657
+],
+  "geometry": {"coordinates":[10.779047,43.712657],"type":"Point"}
+}

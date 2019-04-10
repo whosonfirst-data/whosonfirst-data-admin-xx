@@ -1,0 +1,83 @@
+{
+  "id": 1126067975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.225429,31.78086,35.225429,31.78086",
+    "geom:latitude":31.78086,
+    "geom:longitude":35.225429,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":31.78086,
+    "lbl:longitude":35.225429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Christian Quarter",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Jerusalem",
+    "qs_pg:photos":2434,
+    "qs_pg:photos_1k":493,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2434,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":237761,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22724640,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Jerusalem",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724640,
+        "qs_pg:id":237761
+    },
+    "wof:country":"XX",
+    "wof:created":1497309234,
+    "wof:geomhash":"ce37a01d7cfc0b5dad66248ed94e0d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1126067975,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1126067975,
+    "wof:lastmodified":1549930552,
+    "wof:name":"Christian Quarter",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.225429,
+    31.78086,
+    35.225429,
+    31.78086
+],
+  "geometry": {"coordinates":[35.225429,31.78086],"type":"Point"}
+}

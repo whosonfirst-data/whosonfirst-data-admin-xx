@@ -1,0 +1,83 @@
+{
+  "id": 1126108319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.638351,16.736742,-92.638351,16.736742",
+    "geom:latitude":16.736742,
+    "geom:longitude":-92.638351,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":16.736742,
+    "lbl:longitude":-92.638351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zona Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chiapas",
+    "qs_pg:photos":1934,
+    "qs_pg:photos_1k":392,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1934,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1136701,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55919107,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chiapas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101994509,
+        102075763,
+        85686611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55919107,
+        "qs_pg:id":1136701
+    },
+    "wof:country":"XX",
+    "wof:created":1497317627,
+    "wof:geomhash":"1cfb9a82ecbc311418c3e0018f9565fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075763,
+            "locality_id":101994509,
+            "neighbourhood_id":1126108319,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1126108319,
+    "wof:lastmodified":1509412483,
+    "wof:name":"Zona Centro",
+    "wof:parent_id":101994509,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.638351,
+    16.736742,
+    -92.638351,
+    16.736742
+],
+  "geometry": {"coordinates":[-92.638351,16.736742],"type":"Point"}
+}

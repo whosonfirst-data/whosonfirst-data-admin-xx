@@ -1,0 +1,81 @@
+{
+  "id": 1125970661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.080862,49.052944,20.080862,49.052944",
+    "geom:latitude":49.052944,
+    "geom:longitude":20.080862,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":49.052944,
+    "lbl:longitude":20.080862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00c5 Trba",
+    "qs_pg:name_adm0":"Slovensk\u00e1",
+    "qs_pg:name_adm1":"Presovsky",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1153003,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424877,
+    "qs_pg:woe_id":822454,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424877,
+    "woe:name_adm0":"Slovensk\u00e1",
+    "woe:name_adm1":"Presovsky",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633769,
+        85688347,
+        102080597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":822454,
+        "qs_pg:id":1153003
+    },
+    "wof:country":"XX",
+    "wof:created":1497298151,
+    "wof:geomhash":"b9e0551e46bee6b8e38f7f1fad23f248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633769,
+            "county_id":102080597,
+            "locality_id":1125970661,
+            "region_id":85688347
+        }
+    ],
+    "wof:id":1125970661,
+    "wof:lastmodified":1509403939,
+    "wof:name":"\u00c5 Trba",
+    "wof:parent_id":102080597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.080862,
+    49.052944,
+    20.080862,
+    49.052944
+],
+  "geometry": {"coordinates":[20.080862,49.052944],"type":"Point"}
+}

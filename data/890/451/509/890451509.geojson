@@ -1,0 +1,112 @@
+{
+  "id": 890451509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.082983,32.908476,75.082983,32.908476",
+    "geom:latitude":32.908476,
+    "geom:longitude":75.082983,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u09b0\u09b9\u09be\u09ae\u09ac\u09be\u09b2"
+    ],
+    "name:chi_x_preferred":[
+        "\u96f7\u54c8\u59c6\u5df4\u5c14"
+    ],
+    "name:dut_x_preferred":[
+        "Rehambal"
+    ],
+    "name:eng_x_preferred":[
+        "Rehambal"
+    ],
+    "name:fre_x_preferred":[
+        "Rehambal"
+    ],
+    "name:ita_x_preferred":[
+        "Rehambal"
+    ],
+    "name:may_x_preferred":[
+        "Rehambal"
+    ],
+    "name:nan_x_preferred":[
+        "Rehambal"
+    ],
+    "name:por_x_preferred":[
+        "Rehambal"
+    ],
+    "name:vie_x_preferred":[
+        "Rehambal"
+    ],
+    "qs:name":"Rehambal",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        890506051,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29000373,
+        "qs:id":22610,
+        "wd:id":"Q2229173",
+        "wk:page":"Rehambal"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052782,
+    "wof:geomhash":"8f64c82ee8cb994c3f233bcf4d5dcab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890506051,
+            "disputed_id":85632427,
+            "locality_id":890451509,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890506051,
+            "disputed_id":85632427,
+            "locality_id":890451509,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890451509,
+    "wof:lastmodified":1533678792,
+    "wof:name":"Rehambal",
+    "wof:parent_id":890506051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.082983,
+    32.908476,
+    75.082983,
+    32.908476
+],
+  "geometry": {"coordinates":[75.082983,32.908476],"type":"Point"}
+}

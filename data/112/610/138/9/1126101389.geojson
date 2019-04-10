@@ -1,0 +1,90 @@
+{
+  "id": 1126101389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.439005,37.547265,-77.439005,37.547265",
+    "geom:latitude":37.547265,
+    "geom:longitude":-77.439005,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.547265,
+    "lbl:longitude":-77.439005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Jackson Ward"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30af\u30bd\u30f3\u30fb\u30ef\u30fc\u30c9"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Jackson Ward",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":1812,
+    "qs_pg:photos_1k":367,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1812,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238026,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55861426,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55861426,
+        "qs_pg:id":238026,
+        "wd:id":"Q6117793"
+    },
+    "wof:country":"XX",
+    "wof:created":1497316122,
+    "wof:geomhash":"0bfc223d6334ac8f9a4afa1d36b1a143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":1126101389,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126101389,
+    "wof:lastmodified":1514503000,
+    "wof:name":"Jackson Ward",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.439005,
+    37.547265,
+    -77.439005,
+    37.547265
+],
+  "geometry": {"coordinates":[-77.43900499999999,37.547265],"type":"Point"}
+}

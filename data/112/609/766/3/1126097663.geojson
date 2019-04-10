@@ -1,0 +1,90 @@
+{
+  "id": 1126097663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.0443465,32.535181,-117.0443465,32.535181",
+    "geom:latitude":32.535181,
+    "geom:longitude":-117.044346,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.535181,
+    "lbl:longitude":-117.044346,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Zona Norte"
+    ],
+    "name:fre_x_preferred":[
+        "Zona Norte"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zona Norte",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":218,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":218,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":232449,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55883178,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85686541,
+        102191575,
+        85633293,
+        101993551,
+        102074501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55883178,
+        "qs_pg:id":232449,
+        "wd:id":"Q8073833"
+    },
+    "wof:country":"XX",
+    "wof:created":1497315498,
+    "wof:geomhash":"799f8206e278b845e59ad398aa18bd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":1126097663,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126097663,
+    "wof:lastmodified":1514503120,
+    "wof:name":"Zona Norte",
+    "wof:parent_id":101993551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.04434649999999,
+    32.535181,
+    -117.04434649999999,
+    32.535181
+],
+  "geometry": {"coordinates":[-117.04434649999999,32.535181],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1125772035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.399594,45.373372,20.399594,45.373372",
+    "geom:latitude":45.373372,
+    "geom:longitude":20.399594,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.373372,
+    "lbl:longitude":20.399594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zrenjanin",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Srednji Banat",
+    "qs_pg:photos":503,
+    "qs_pg:photos_1k":102,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":503,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900317,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":537799,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Srednji Banat",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688299,
+        102191581,
+        1108810171,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":537799,
+        "qs_pg:id":900317
+    },
+    "wof:country":"XX",
+    "wof:created":1497290101,
+    "wof:geomhash":"fe94f15c9741394062653fad51cf7fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810171,
+            "locality_id":1125772035,
+            "macroregion_id":404227537,
+            "region_id":85688299
+        }
+    ],
+    "wof:id":1125772035,
+    "wof:lastmodified":1509391047,
+    "wof:name":"Zrenjanin",
+    "wof:parent_id":1108810171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.399594,
+    45.373372,
+    20.399594,
+    45.373372
+],
+  "geometry": {"coordinates":[20.399594,45.373372],"type":"Point"}
+}

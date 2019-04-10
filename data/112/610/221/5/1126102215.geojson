@@ -1,0 +1,83 @@
+{
+  "id": 1126102215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.107537,32.73573,-97.107537,32.73573",
+    "geom:latitude":32.73573,
+    "geom:longitude":-97.107537,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.73573,
+    "lbl:longitude":-97.107537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Downtown",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Texas",
+    "qs_pg:photos":968,
+    "qs_pg:photos_1k":196,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":968,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":273604,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55809450,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Texas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101723641,
+        102083201,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55809450,
+        "qs_pg:id":273604
+    },
+    "wof:country":"XX",
+    "wof:created":1497316275,
+    "wof:geomhash":"3d0d8e9edd5c242ba38a4b78eaa69781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083201,
+            "locality_id":101723641,
+            "neighbourhood_id":1126102215,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1126102215,
+    "wof:lastmodified":1509412186,
+    "wof:name":"Downtown",
+    "wof:parent_id":101723641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.107537,
+    32.73573,
+    -97.107537,
+    32.73573
+],
+  "geometry": {"coordinates":[-97.10753699999999,32.73573],"type":"Point"}
+}

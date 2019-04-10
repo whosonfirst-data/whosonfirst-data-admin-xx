@@ -1,0 +1,82 @@
+{
+  "id": 1126073525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-105.340607,39.929805,-105.340607,39.929805",
+    "geom:latitude":39.929805,
+    "geom:longitude":-105.340607,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":39.929805,
+    "lbl:longitude":-105.340607,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Juniper Heights",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Colorado",
+    "qs_pg:photos":113,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":113,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481955,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":56019662,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Colorado",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085251,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56019662,
+        "qs_pg:id":481955
+    },
+    "wof:country":"XX",
+    "wof:created":1497310430,
+    "wof:geomhash":"55f8681f448260c7ac378b82edfd964f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085251,
+            "locality_id":-1,
+            "neighbourhood_id":1126073525,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":1126073525,
+    "wof:lastmodified":1509410798,
+    "wof:name":"Juniper Heights",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -105.340607,
+    39.929805,
+    -105.340607,
+    39.929805
+],
+  "geometry": {"coordinates":[-105.34060700000001,39.929805],"type":"Point"}
+}

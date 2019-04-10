@@ -1,0 +1,82 @@
+{
+  "id": 1126081423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.764702,17.043989,-96.764702,17.043989",
+    "geom:latitude":17.043989,
+    "geom:longitude":-96.764702,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":17.043989,
+    "lbl:longitude":-96.764702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Monte Alban",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Oaxaca",
+    "qs_pg:photos":1882,
+    "qs_pg:photos_1k":381,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1882,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1294486,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55886125,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Oaxaca",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102076017,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55886125,
+        "qs_pg:id":1294486
+    },
+    "wof:country":"XX",
+    "wof:created":1497311985,
+    "wof:geomhash":"61cfab1db1ee2d397cb04541d0652f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102076017,
+            "locality_id":-1,
+            "neighbourhood_id":1126081423,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1126081423,
+    "wof:lastmodified":1509411182,
+    "wof:name":"Monte Alban",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.764702,
+    17.043989,
+    -96.764702,
+    17.043989
+],
+  "geometry": {"coordinates":[-96.764702,17.043989],"type":"Point"}
+}

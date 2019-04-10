@@ -1,0 +1,81 @@
+{
+  "id": 1125785335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-146.882057,-15.6590725,-146.882057,-15.6590725",
+    "geom:latitude":-15.659073,
+    "geom:longitude":-146.882057,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-15.659073,
+    "lbl:longitude":-146.882057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kaukura",
+    "qs_pg:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "qs_pg:name_adm1":"Tuamotu-Gambier",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":32879,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424817,
+    "qs_pg:woe_id":28752879,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424817,
+    "woe:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
+    "woe:name_adm1":"Tuamotu-Gambier",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632653,
+        102191583,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28752879,
+        "qs_pg:id":32879
+    },
+    "wof:country":"XX",
+    "wof:created":1497290652,
+    "wof:geomhash":"de8b84a3eb4f89adaf56ff98122d5f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632653,
+            "empire_id":136253037,
+            "locality_id":1125785335,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125785335,
+    "wof:lastmodified":1509998522,
+    "wof:name":"Kaukura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -146.882057,
+    -15.6590725,
+    -146.882057,
+    -15.6590725
+],
+  "geometry": {"coordinates":[-146.882057,-15.6590725],"type":"Point"}
+}

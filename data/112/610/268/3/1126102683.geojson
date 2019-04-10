@@ -1,0 +1,82 @@
+{
+  "id": 1126102683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.557811,15.88094,74.557811,15.88094",
+    "geom:latitude":15.88094,
+    "geom:longitude":74.557811,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":15.88094,
+    "lbl:longitude":74.557811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kalakhamb",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Karnataka",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1112801,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":29204324,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Karnataka",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        1108696325,
+        85672165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29204324,
+        "qs_pg:id":1112801
+    },
+    "wof:country":"XX",
+    "wof:created":1497316353,
+    "wof:geomhash":"20caba3fb86161e5cd7839ff587612c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696325,
+            "locality_id":-1,
+            "neighbourhood_id":1126102683,
+            "region_id":85672165
+        }
+    ],
+    "wof:id":1126102683,
+    "wof:lastmodified":1509412208,
+    "wof:name":"Kalakhamb",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.557811,
+    15.88094,
+    74.557811,
+    15.88094
+],
+  "geometry": {"coordinates":[74.557811,15.88094],"type":"Point"}
+}

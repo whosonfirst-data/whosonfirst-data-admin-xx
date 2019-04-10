@@ -1,0 +1,83 @@
+{
+  "id": 1126098085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-104.308197,19.085236,-104.308197,19.085236",
+    "geom:latitude":19.085236,
+    "geom:longitude":-104.308197,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.085236,
+    "lbl:longitude":-104.308197,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Del Pacifico",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Colima",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1341136,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55892252,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Colima",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101996931,
+        102074529,
+        85686587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55892252,
+        "qs_pg:id":1341136
+    },
+    "wof:country":"XX",
+    "wof:created":1497315564,
+    "wof:geomhash":"03210012381f5526ae8f668b9fa7af55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074529,
+            "locality_id":101996931,
+            "neighbourhood_id":1126098085,
+            "region_id":85686587
+        }
+    ],
+    "wof:id":1126098085,
+    "wof:lastmodified":1509411981,
+    "wof:name":"Del Pacifico",
+    "wof:parent_id":101996931,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -104.308197,
+    19.085236,
+    -104.308197,
+    19.085236
+],
+  "geometry": {"coordinates":[-104.30819700000001,19.085236],"type":"Point"}
+}

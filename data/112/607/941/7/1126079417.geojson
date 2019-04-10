@@ -1,0 +1,83 @@
+{
+  "id": 1126079417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.295199,36.96453,-76.295199,36.96453",
+    "geom:latitude":36.96453,
+    "geom:longitude":-76.295199,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":36.96453,
+    "lbl:longitude":-76.295199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Willoughby",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":304,
+    "qs_pg:photos_1k":62,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":304,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1291040,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55862537,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101728769,
+        102085935,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862537,
+        "qs_pg:id":1291040
+    },
+    "wof:country":"XX",
+    "wof:created":1497311704,
+    "wof:geomhash":"c4fb4172611665aae0e74ebbd3ca1a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":1126079417,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126079417,
+    "wof:lastmodified":1509411082,
+    "wof:name":"Willoughby",
+    "wof:parent_id":101728769,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.295199,
+    36.96453,
+    -76.295199,
+    36.96453
+],
+  "geometry": {"coordinates":[-76.295199,36.96453],"type":"Point"}
+}

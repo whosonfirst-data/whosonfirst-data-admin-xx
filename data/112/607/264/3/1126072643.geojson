@@ -1,0 +1,79 @@
+{
+  "id": 1126072643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-112.265715,27.3407165,-112.265715,27.3407165",
+    "geom:latitude":27.340716,
+    "geom:longitude":-112.265715,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":27.340716,
+    "lbl:longitude":-112.265715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mesa Mexico",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California Sur",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1341291,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55894069,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California Sur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55894069,
+        "qs_pg:id":1341291
+    },
+    "wof:country":"XX",
+    "wof:created":1497310236,
+    "wof:geomhash":"3a6b07b69f0a8b9af3c9e37218133a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":-1,
+            "neighbourhood_id":1126072643,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126072643,
+    "wof:lastmodified":1509410756,
+    "wof:name":"Mesa Mexico",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.265715,
+    27.3407165,
+    -112.265715,
+    27.3407165
+],
+  "geometry": {"coordinates":[-112.265715,27.3407165],"type":"Point"}
+}

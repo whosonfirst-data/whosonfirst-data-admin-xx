@@ -1,0 +1,83 @@
+{
+  "id": 1125780045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.092199,45.7708155,19.092199,45.7708155",
+    "geom:latitude":45.770815,
+    "geom:longitude":19.092199,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.770815,
+    "lbl:longitude":19.092199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sombor",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Zapadna Bachka",
+    "qs_pg:photos":730,
+    "qs_pg:photos_1k":148,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":730,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078945,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536782,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Zapadna Bachka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688249,
+        102191581,
+        1108810081,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":536782,
+        "qs_pg:id":1078945
+    },
+    "wof:country":"XX",
+    "wof:created":1497290426,
+    "wof:geomhash":"dfcb7daa8ffb5dee85ff0e23767918c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810081,
+            "locality_id":1125780045,
+            "macroregion_id":404227537,
+            "region_id":85688249
+        }
+    ],
+    "wof:id":1125780045,
+    "wof:lastmodified":1509391500,
+    "wof:name":"Sombor",
+    "wof:parent_id":1108810081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.092199,
+    45.7708155,
+    19.092199,
+    45.7708155
+],
+  "geometry": {"coordinates":[19.092199,45.7708155],"type":"Point"}
+}

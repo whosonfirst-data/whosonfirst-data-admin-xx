@@ -1,0 +1,83 @@
+{
+  "id": 1126090617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-101.228499,27.932483,-101.228499,27.932483",
+    "geom:latitude":27.932483,
+    "geom:longitude":-101.228499,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":27.932483,
+    "lbl:longitude":-101.228499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Roma",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Coahuila de Zaragoza",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":912442,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55892502,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Coahuila de Zaragoza",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102000865,
+        102078807,
+        85686689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55892502,
+        "qs_pg:id":912442
+    },
+    "wof:country":"XX",
+    "wof:created":1497313679,
+    "wof:geomhash":"7cd16a81e397534161aff6a56c153f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102078807,
+            "locality_id":102000865,
+            "neighbourhood_id":1126090617,
+            "region_id":85686689
+        }
+    ],
+    "wof:id":1126090617,
+    "wof:lastmodified":1509411627,
+    "wof:name":"Roma",
+    "wof:parent_id":102000865,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -101.228499,
+    27.932483,
+    -101.228499,
+    27.932483
+],
+  "geometry": {"coordinates":[-101.228499,27.932483],"type":"Point"}
+}

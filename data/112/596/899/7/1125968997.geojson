@@ -1,0 +1,79 @@
+{
+  "id": 1125968997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.349136,47.648159,24.349136,47.648159",
+    "geom:latitude":47.648159,
+    "geom:longitude":24.349136,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":47.648159,
+    "lbl:longitude":24.349136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"S\u0103li\u0219tea de Sus",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Maramures",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":511461,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":879593,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Maramures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":879593,
+        "qs_pg:id":511461
+    },
+    "wof:country":"XX",
+    "wof:created":1497298087,
+    "wof:geomhash":"06f86e79a4454c89ae77b0703a8d82f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125968997,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":1125968997,
+    "wof:lastmodified":1509403843,
+    "wof:name":"S\u0103li\u0219tea de Sus",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.349136,
+    47.648159,
+    24.349136,
+    47.648159
+],
+  "geometry": {"coordinates":[24.349136,47.648159],"type":"Point"}
+}

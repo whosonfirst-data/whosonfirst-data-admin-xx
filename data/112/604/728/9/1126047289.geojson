@@ -1,0 +1,338 @@
+{
+  "id": 1126047289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3,-21.1,55.3,-21.1",
+    "geom:latitude":-21.1,
+    "geom:longitude":55.3,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7114,
+    "gn:population":7114,
+    "iso:country":"XX",
+    "lbl:latitude":-21.1,
+    "lbl:longitude":55.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:arg_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ast_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:bam_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:baq_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:bar_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:bre_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:cat_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:cos_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:cze_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:dan_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:dut_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:eng_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:epo_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:est_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:fao_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:fin_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:frc_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:fre_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:frp_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:fur_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ger_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:gla_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:gle_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:glg_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:gsw_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:hrv_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:hun_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ice_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ido_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ile_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ina_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ind_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ita_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:jam_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30fb\u30c8\u30ed\u30ef\u30fb\u30d0\u30b7\u30f3"
+    ],
+    "name:kab_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:kal_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:kon_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:lav_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:lij_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:lim_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:lit_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ltz_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:may_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:min_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:mlg_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:nap_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:nds_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:nno_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:nob_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:nrm_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:oci_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:pap_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:pcd_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:pms_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:pol_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:por_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:prg_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:rgn_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:roh_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:rum_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:scn_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:sco_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:slo_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:spa_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:srd_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:swa_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:swe_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:tur_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0443\u0430-\u0411\u0430\u0441\u0441\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Les Trois-Bassins"
+    ],
+    "name:vec_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:vie_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:vls_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:vmf_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:vol_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:war_x_preferred":[
+        "Trois-Bassins"
+    ],
+    "name:wel_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:wln_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:wol_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "name:zul_x_preferred":[
+        "Les Trois-Bassins"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":935146,
+    "qs_pg:gn_pop":7114,
+    "qs_pg:name":"Trois Bassins",
+    "qs_pg:name_adm0":"La R\u00e9union",
+    "qs_pg:name_adm1":"Saint-Paul",
+    "qs_pg:photos":1069,
+    "qs_pg:photos_1k":217,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1069,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":235453,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424931,
+    "qs_pg:woe_id":1410255,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424931,
+    "woe:name_adm0":"La R\u00e9union",
+    "woe:name_adm1":"Saint-Paul",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935146,
+        "gp:id":1410255,
+        "qs_pg:id":235453,
+        "wd:id":"Q1014763"
+    },
+    "wof:country":"XX",
+    "wof:created":1497302510,
+    "wof:geomhash":"2030e7bf938a244cfe4fcc2bea019c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1126047289,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1126047289,
+    "wof:lastmodified":1531422088,
+    "wof:name":"Trois Bassins",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:population":7114,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3,
+    -21.1,
+    55.3,
+    -21.1
+],
+  "geometry": {"coordinates":[55.3,-21.1],"type":"Point"}
+}

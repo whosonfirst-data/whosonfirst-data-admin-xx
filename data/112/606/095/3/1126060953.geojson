@@ -1,0 +1,83 @@
+{
+  "id": 1126060953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.226377,19.597752,-99.226377,19.597752",
+    "geom:latitude":19.597752,
+    "geom:longitude":-99.226377,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.597752,
+    "lbl:longitude":-99.226377,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hacienda de la Luz",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155266,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55889022,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993137,
+        102074201,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55889022,
+        "qs_pg:id":1155266
+    },
+    "wof:country":"XX",
+    "wof:created":1497308106,
+    "wof:geomhash":"f8f17ddf74813b60f1eeea0aa1c5a947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074201,
+            "locality_id":101993137,
+            "neighbourhood_id":1126060953,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126060953,
+    "wof:lastmodified":1509410186,
+    "wof:name":"Hacienda de la Luz",
+    "wof:parent_id":101993137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.226377,
+    19.597752,
+    -99.226377,
+    19.597752
+],
+  "geometry": {"coordinates":[-99.226377,19.597752],"type":"Point"}
+}

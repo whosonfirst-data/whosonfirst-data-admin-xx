@@ -1,0 +1,103 @@
+{
+  "id": 1125779839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.800879,45.938303,14.800879,45.938303",
+    "geom:latitude":45.938303,
+    "geom:longitude":14.800879,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.938303,
+    "lbl:longitude":14.800879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:dut_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:eng_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:rum_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:slv_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u044f"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ivan\u010dna Gorica",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Grosuplje",
+    "qs_pg:photos":435,
+    "qs_pg:photos_1k":88,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":435,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078925,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530278,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Grosuplje",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959583,
+        85633779,
+        1108959949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":530278,
+        "qs_pg:id":1078925,
+        "wd:id":"Q923853"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290419,
+    "wof:geomhash":"20c938ba4d28d252794e76811cc540b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959583,
+            "locality_id":1125779839,
+            "region_id":1108959949
+        }
+    ],
+    "wof:id":1125779839,
+    "wof:lastmodified":1531170279,
+    "wof:name":"Ivan\u010dna Gorica",
+    "wof:parent_id":1108959583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.800879,
+    45.938303,
+    14.800879,
+    45.938303
+],
+  "geometry": {"coordinates":[14.800879,45.938303],"type":"Point"}
+}

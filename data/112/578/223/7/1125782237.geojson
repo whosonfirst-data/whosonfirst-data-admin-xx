@@ -1,0 +1,83 @@
+{
+  "id": 1125782237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.387236,60.030369,20.387236,60.030369",
+    "geom:latitude":60.030369,
+    "geom:longitude":20.387236,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":60.030369,
+    "lbl:longitude":20.387236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aalandsdegerby",
+    "qs_pg:name_adm0":"\u00c5land",
+    "qs_pg:name_adm1":"F\u00f6gl\u00f6",
+    "qs_pg:photos":1512,
+    "qs_pg:photos_1k":306,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1512,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":467247,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":12577865,
+    "qs_pg:woe_id":29306108,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":12577865,
+    "woe:name_adm0":"\u00c5land",
+    "woe:name_adm1":"F\u00f6gl\u00f6",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198485,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29306108,
+        "qs_pg:id":467247
+    },
+    "wof:country":"XX",
+    "wof:created":1497290533,
+    "wof:geomhash":"48eb9e8a00b13a595f131554db908b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198485,
+            "locality_id":1125782237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125782237,
+    "wof:lastmodified":1509998556,
+    "wof:name":"Aalandsdegerby",
+    "wof:parent_id":907198485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.387236,
+    60.030369,
+    20.387236,
+    60.030369
+],
+  "geometry": {"coordinates":[20.387236,60.030369],"type":"Point"}
+}

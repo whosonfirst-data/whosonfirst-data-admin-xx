@@ -1,0 +1,83 @@
+{
+  "id": 1126072895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.244644,30.491165,-84.244644,30.491165",
+    "geom:latitude":30.491165,
+    "geom:longitude":-84.244644,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":30.491165,
+    "lbl:longitude":-84.244644,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Northeast Tallahassee",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Florida",
+    "qs_pg:photos":235,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":235,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":383055,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55862099,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Florida",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85933373,
+        102085783,
+        85688651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862099,
+        "qs_pg:id":383055
+    },
+    "wof:country":"XX",
+    "wof:created":1497310312,
+    "wof:geomhash":"44fd29a1188547aa8ddeaf50de841c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085783,
+            "locality_id":85933373,
+            "neighbourhood_id":1126072895,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":1126072895,
+    "wof:lastmodified":1509410766,
+    "wof:name":"Northeast Tallahassee",
+    "wof:parent_id":85933373,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.244644,
+    30.491165,
+    -84.244644,
+    30.491165
+],
+  "geometry": {"coordinates":[-84.24464399999999,30.491165],"type":"Point"}
+}

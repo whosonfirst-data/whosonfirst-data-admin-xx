@@ -1,0 +1,138 @@
+{
+  "id": 1125993421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.33333,12.23333,-68.33333,12.23333",
+    "geom:latitude":12.23333,
+    "geom:longitude":-68.33333,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1496,
+    "gn:population":1496,
+    "iso:country":"XX",
+    "lbl:latitude":12.23333,
+    "lbl:longitude":-68.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054c\u056b\u0576\u056f\u0578\u0576"
+    ],
+    "name:cat_x_preferred":[
+        "Rincon"
+    ],
+    "name:dut_x_preferred":[
+        "Rincon"
+    ],
+    "name:eng_x_preferred":[
+        "Rincon"
+    ],
+    "name:fre_x_preferred":[
+        "Rincon"
+    ],
+    "name:fry_x_preferred":[
+        "Rinkon"
+    ],
+    "name:ger_x_preferred":[
+        "Rincon"
+    ],
+    "name:nob_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:pap_x_preferred":[
+        "Rincon"
+    ],
+    "name:pol_x_preferred":[
+        "Rincon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dorp Rinc\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Dorp Rincan"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3513765,
+    "qs_pg:gn_pop":1496,
+    "qs_pg:name":"Dorp Rinc\u00f3n",
+    "qs_pg:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "qs_pg:name_adm1":"Bonaire",
+    "qs_pg:photos":1017,
+    "qs_pg:photos_1k":206,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1017,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":489276,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":56558056,
+    "qs_pg:woe_id":151887,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":56558056,
+    "woe:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "woe:name_adm1":"Bonaire",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513765,
+        "gp:id":151887,
+        "qs_pg:id":489276,
+        "wd:id":"Q2033101"
+    },
+    "wof:country":"XX",
+    "wof:created":1497299173,
+    "wof:geomhash":"943e9582dc041d532c44e31f6cd0a0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1125993421,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1125993421,
+    "wof:lastmodified":1514502981,
+    "wof:name":"Dorp Rinc\u00f3n",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:population":1496,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.33333,
+    12.23333,
+    -68.33333,
+    12.23333
+],
+  "geometry": {"coordinates":[-68.33333,12.23333],"type":"Point"}
+}

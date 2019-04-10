@@ -1,0 +1,82 @@
+{
+  "id": 1126042509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.927909,62.102918,-6.927909,62.102918",
+    "geom:latitude":62.102918,
+    "geom:longitude":-6.927909,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":62.102918,
+    "lbl:longitude":-6.927909,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kollafj\u00f8r\u00ffur",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Streymoy",
+    "qs_pg:photos":164,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":164,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1055541,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472676,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Streymoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472676,
+        "qs_pg:id":1055541
+    },
+    "wof:country":"XX",
+    "wof:created":1497302242,
+    "wof:geomhash":"27a760ef2fa48d6ba904e7f7ae8c8135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1126042509,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1126042509,
+    "wof:lastmodified":1509998569,
+    "wof:name":"Kollafj\u00f8r\u00ffur",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.927909,
+    62.102918,
+    -6.927909,
+    62.102918
+],
+  "geometry": {"coordinates":[-6.927909,62.102918],"type":"Point"}
+}

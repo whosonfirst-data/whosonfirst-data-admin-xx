@@ -1,0 +1,83 @@
+{
+  "id": 1126096197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.562533,55.641779,12.562533,55.641779",
+    "geom:latitude":55.641779,
+    "geom:longitude":12.562533,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":55.641779,
+    "lbl:longitude":12.562533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vestamager",
+    "qs_pg:name_adm0":"Danmark",
+    "qs_pg:name_adm1":"Hovedstaden",
+    "qs_pg:photos":5681,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":25,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5681,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1335064,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424796,
+    "qs_pg:woe_id":55862989,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424796,
+    "woe:name_adm0":"Danmark",
+    "woe:name_adm1":"Hovedstaden",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85682581,
+        102191581,
+        1159297727,
+        85633121,
+        101749159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862989,
+        "qs_pg:id":1335064
+    },
+    "wof:country":"XX",
+    "wof:created":1497315265,
+    "wof:geomhash":"998003793f94d12a0c468a955621957c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633121,
+            "localadmin_id":1159297727,
+            "locality_id":101749159,
+            "neighbourhood_id":1126096197,
+            "region_id":85682581
+        }
+    ],
+    "wof:id":1126096197,
+    "wof:lastmodified":1530290437,
+    "wof:name":"Vestamager",
+    "wof:parent_id":101749159,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.562533,
+    55.641779,
+    12.562533,
+    55.641779
+],
+  "geometry": {"coordinates":[12.562533,55.641779],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1125898055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.3312185,52.854348,-6.3312185,52.854348",
+    "geom:latitude":52.854348,
+    "geom:longitude":-6.331219,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":52.854348,
+    "lbl:longitude":-6.331219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aughrim Lower",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wicklow",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120055,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387536,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wicklow",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387536,
+        "qs_pg:id":1120055
+    },
+    "wof:country":"XX",
+    "wof:created":1497295671,
+    "wof:geomhash":"210535894361b888ff443dc86df38d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125898055,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1125898055,
+    "wof:lastmodified":1509399236,
+    "wof:name":"Aughrim Lower",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3312185,
+    52.854348,
+    -6.3312185,
+    52.854348
+],
+  "geometry": {"coordinates":[-6.3312185,52.854348],"type":"Point"}
+}

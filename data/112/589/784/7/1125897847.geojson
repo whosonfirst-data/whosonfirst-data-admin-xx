@@ -1,0 +1,75 @@
+{
+  "id": 1125897847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "gn:gn_country":"ET",
+    "iso:country":"XX",
+    "lbl:latitude":0.0,
+    "lbl:longitude":0.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":"ET",
+    "qs_pg:name":"Aksum",
+    "qs_pg:name_adm0":"Ethiopia",
+    "qs_pg:name_adm1":"Tigray",
+    "qs_pg:photos":1796,
+    "qs_pg:photos_1k":364,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1796,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115518,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424808,
+    "qs_pg:woe_id":1313280,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424808,
+    "woe:name_adm0":"Ethiopia",
+    "woe:name_adm1":"Tigray",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1313280,
+        "qs_pg:id":1115518
+    },
+    "wof:country":"XX",
+    "wof:created":1497295663,
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632257,
+            "locality_id":1125897847
+        }
+    ],
+    "wof:id":1125897847,
+    "wof:lastmodified":1505248704,
+    "wof:name":"Aksum",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

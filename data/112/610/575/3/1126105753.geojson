@@ -1,0 +1,97 @@
+{
+  "id": 1126105753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.974895,41.015613,28.974895,41.015613",
+    "geom:latitude":41.015613,
+    "geom:longitude":28.974895,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.015613,
+    "lbl:longitude":28.974895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Cagaloglu"
+    ],
+    "name:fre_x_preferred":[
+        "Cagaloglu"
+    ],
+    "name:ger_x_preferred":[
+        "Cagaloglu"
+    ],
+    "name:ind_x_preferred":[
+        "Ca\u011falo\u011flu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30ac\u30ed\u30b0\u30eb"
+    ],
+    "name:tur_x_preferred":[
+        "Ca\u011falo\u011flu"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cagaloglu",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":3693,
+    "qs_pg:photos_1k":748,
+    "qs_pg:photos_9k":16,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3693,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118656,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724018,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724018,
+        "qs_pg:id":1118656,
+        "wd:id":"Q5055608"
+    },
+    "wof:country":"XX",
+    "wof:created":1497316899,
+    "wof:geomhash":"608ac5b27887ecc2b3477d2bd32bcbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1126105753,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126105753,
+    "wof:lastmodified":1514502970,
+    "wof:name":"Cagaloglu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.974895,
+    41.015613,
+    28.974895,
+    41.015613
+],
+  "geometry": {"coordinates":[28.974895,41.015613],"type":"Point"}
+}

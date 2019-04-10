@@ -1,0 +1,83 @@
+{
+  "id": 1125913081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.330463,46.8907,14.330463,46.8907",
+    "geom:latitude":46.8907,
+    "geom:longitude":14.330463,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.8907,
+    "lbl:longitude":14.330463,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Strassburg in K\u00e4rnten",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"K\u00e4rnten",
+    "qs_pg:photos":211,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":211,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":226851,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":540667,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"K\u00e4rnten",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681655,
+        102191581,
+        1108838243,
+        85632785,
+        102049697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":540667,
+        "qs_pg:id":226851
+    },
+    "wof:country":"XX",
+    "wof:created":1497296205,
+    "wof:geomhash":"c051321eb092b1c34a25e46ec7183b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049697,
+            "localadmin_id":1108838243,
+            "locality_id":1125913081,
+            "region_id":85681655
+        }
+    ],
+    "wof:id":1125913081,
+    "wof:lastmodified":1509400306,
+    "wof:name":"Strassburg in K\u00e4rnten",
+    "wof:parent_id":1108838243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.330463,
+    46.8907,
+    14.330463,
+    46.8907
+],
+  "geometry": {"coordinates":[14.330463,46.8907],"type":"Point"}
+}

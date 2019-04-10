@@ -1,0 +1,374 @@
+{
+  "id": 1125847519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.50451,16.27095,-61.50451,16.27095",
+    "geom:latitude":16.27095,
+    "geom:longitude":-61.50451,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":63058,
+    "gn:population":63058,
+    "iso:country":"XX",
+    "lbl:latitude":16.27095,
+    "lbl:longitude":-61.50451,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0632\u0627\u0628\u064a\u0645"
+    ],
+    "name:arg_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ast_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:bam_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:baq_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:bar_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:bre_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:bug_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:cat_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u840a\u6bd4\u6885"
+    ],
+    "name:cos_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:cze_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:dan_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:dut_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:eng_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:epo_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:est_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:fao_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0632\u0628\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:frc_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:fre_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:frp_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:fur_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ger_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:gla_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:gle_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:glg_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b5\u03b6 \u0391\u03bc\u03c0\u03af\u03bc"
+    ],
+    "name:gsw_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d6 \u05d0\u05d1\u05d9\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:hun_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ice_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ido_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ile_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ina_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ind_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ita_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:jam_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b6\u30d3\u30fc\u30e0"
+    ],
+    "name:kab_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:kal_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:kon_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uc790\ube54"
+    ],
+    "name:lat_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:lav_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:lij_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:lim_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:lit_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ltz_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:may_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:min_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:mlg_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0632\u0628\u06cc\u0645"
+    ],
+    "name:nap_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:nds_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:nno_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:nob_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:nrm_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:oci_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:pap_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:pcd_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0632\u0628\u06cc\u0645"
+    ],
+    "name:pms_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:pol_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:por_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:prg_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:rgn_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:roh_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:rum_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0438\u043c\u0435\u0441"
+    ],
+    "name:scn_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:sco_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:slo_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:spa_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:srd_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:swa_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:swe_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:tur_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0437-\u0410\u0431\u0456\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Abeymes"
+    ],
+    "name:vec_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:vie_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:vls_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:vmf_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:vol_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:war_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:wel_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:wln_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:wol_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u840a\u6bd4\u6885"
+    ],
+    "name:zul_x_preferred":[
+        "Les Abymes"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3578959,
+    "qs_pg:gn_pop":63058,
+    "qs_pg:name":"Les Abymes",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Pointe-\u00c0-Pitre",
+    "qs_pg:photos":255,
+    "qs_pg:photos_1k":52,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":255,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":489123,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80737,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Pointe-\u00c0-Pitre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578959,
+        "gp:id":80737,
+        "qs_pg:id":489123,
+        "wd:id":"Q13636"
+    },
+    "wof:country":"XX",
+    "wof:created":1497293236,
+    "wof:geomhash":"f8591c7d7b07933fa3e38a71d3020da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125847519,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1125847519,
+    "wof:lastmodified":1531422089,
+    "wof:name":"Les Abymes",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:population":63058,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.50451,
+    16.27095,
+    -61.50451,
+    16.27095
+],
+  "geometry": {"coordinates":[-61.50451,16.27095],"type":"Point"}
+}

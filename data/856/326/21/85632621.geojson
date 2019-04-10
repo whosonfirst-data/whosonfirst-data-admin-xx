@@ -1,0 +1,390 @@
+{
+  "id": 85632621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00072,
+    "geom:area_square_m":8016137.617822,
+    "geom:bbox":"123.509552002,25.738721848,124.570358276,25.931222916",
+    "geom:latitude":25.795292,
+    "geom:longitude":123.589121,
+    "gn:id":"",
+    "iso:country":"XX",
+    "lbl:latitude":25.766863,
+    "lbl:longitude":123.527155,
+    "mps:latitude":25.766863,
+    "mps:longitude":123.527155,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Senkaku-eilande"
+    ],
+    "name:ang_x_preferred":[
+        "Sencacu \u012aega"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0633\u064a\u0646\u0643\u0627\u0643\u0648"
+    ],
+    "name:baq_x_preferred":[
+        "Senkaku uharteak"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u0995\u09be\u0995\u09c1 \u09a6\u09cd\u09ac\u09c0\u09aa"
+    ],
+    "name:bre_x_preferred":[
+        "Senkaku"
+    ],
+    "name:cat_x_preferred":[
+        "Illes Senkaku"
+    ],
+    "name:cdo_x_preferred":[
+        "Di\u00e9u-ng\u1e73\u0300-d\u00e0i Li\u0115k-d\u014d\u0324"
+    ],
+    "name:chi_x_preferred":[
+        "\u91e3\u9b5a\u53f0\u5217\u5dbc"
+    ],
+    "name:cze_x_preferred":[
+        "Senkaku"
+    ],
+    "name:dan_x_preferred":[
+        "Senkaku\u00f8erne"
+    ],
+    "name:deu_x_preferred":[
+        "Senkaku-Inseln"
+    ],
+    "name:dut_x_preferred":[
+        "Senkaku-eilanden"
+    ],
+    "name:eng_x_preferred":[
+        "Senkaku Islands"
+    ],
+    "name:eng_x_unknown":[
+        "XX"
+    ],
+    "name:eng_x_variant":[
+        "Disputed Territory"
+    ],
+    "name:epo_x_preferred":[
+        "Senkaku-insuloj"
+    ],
+    "name:fin_x_preferred":[
+        "kiistelty alue"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eeles Senkaku"
+    ],
+    "name:fre_x_preferred":[
+        "\u00celes Senkaku"
+    ],
+    "name:gan_x_preferred":[
+        "\u91e3\u9b5a\u81fa"
+    ],
+    "name:ger_x_preferred":[
+        "Senkaku-Inseln"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Senkaku"
+    ],
+    "name:hak_x_preferred":[
+        "Tiau-\u01f9g-th\u00f2i Lie\u030dt-y\u00ed"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05e1\u05e0\u05e7\u05d0\u05e7\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Senkaku"
+    ],
+    "name:hun_x_preferred":[
+        "Szenkaku-szigetek"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Senkaku"
+    ],
+    "name:ita_x_preferred":[
+        "isole Senkaku"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5c16\u95a3\u8af8\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc13c\uce74\ucfe0 \uc5f4\ub3c4"
+    ],
+    "name:kor_x_variant":[
+        "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:lav_x_preferred":[
+        "Senkaku salas"
+    ],
+    "name:lit_x_preferred":[
+        "Senkaku salos"
+    ],
+    "name:lzh_x_preferred":[
+        "\u91e3\u9b5a\u81fa\u5217\u5dbc"
+    ],
+    "name:may_x_preferred":[
+        "Kepulauan Senkaku"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u044d\u043d\u043a\u0430\u043a\u04af"
+    ],
+    "name:nan_x_preferred":[
+        "Ti\u00f2-h\u00ee-t\u00e2i Lia\u030dt-t\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Senkaku-eilanden"
+    ],
+    "name:nno_x_preferred":[
+        "Senkaku\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "Senkaku\u00f8yene"
+    ],
+    "name:nor_x_colloquial":[
+        "Omstridt omrade"
+    ],
+    "name:nor_x_preferred":[
+        "Omstridt omr\u00e5de"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u200c\u06a9\u0627\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy Senkaku"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Senkaku"
+    ],
+    "name:rum_x_preferred":[
+        "Arhipelagul Senkaku"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u043a\u0430\u043a\u0443"
+    ],
+    "name:scn_x_preferred":[
+        "\u00ccsuli Di\u00e0oy\u00fa"
+    ],
+    "name:sco_x_preferred":[
+        "Senkaku Islands"
+    ],
+    "name:slo_x_preferred":[
+        "Senkaku"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Senkaku"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u0421\u0435\u043d\u043a\u0430\u043a\u0443"
+    ],
+    "name:swe_x_colloquial":[
+        "Omtvistat omrade"
+    ],
+    "name:swe_x_preferred":[
+        "Senkaku-\u00f6arna"
+    ],
+    "name:swe_x_variant":[
+        "Omtvistat omr\u00e5de"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0ba9\u0bcd\u0b95\u0bbe\u0b95\u0bc1 \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Kapuluang Senkaku"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e40\u0e0b\u0e47\u0e07\u0e01\u0e30\u0e01\u0e38"
+    ],
+    "name:tur_x_preferred":[
+        "Senkaku Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u0435\u043d\u043a\u0430\u043a\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Senkaku Shoto"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u0633\u0646\u06a9\u0627\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Senkaku"
+    ],
+    "name:wel_x_preferred":[
+        "Ynysoedd Senkaku"
+    ],
+    "name:yue_x_preferred":[
+        "\u91e3\u9b5a\u53f0"
+    ],
+    "name:zho_x_preferred":[
+        "\u91e3\u9b5a\u53f0\u5217\u5dbc"
+    ],
+    "name:zho_x_variant":[
+        "\u6709\u4e89\u8bae\u7684\u9886\u571f",
+        "\u9493\u9c7c\u7fa4\u5c9b",
+        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+    ],
+    "ne:ABBREV":"Pinn. Is.",
+    "ne:ABBREV_LEN":9,
+    "ne:ADM0_A3":"JPN",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"JPN",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":0,
+    "ne:ADMIN":"Japan",
+    "ne:BRK_A3":"B18",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Pinnacle Is.",
+    "ne:CONTINENT":"Asia",
+    "ne:ECONOMY":"1. Developed region: G7",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":2013,
+    "ne:GEOUNIT":"Japan",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"JPN",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"1. High income: OECD",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":5,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":5,
+    "ne:LONG_LEN":12,
+    "ne:MAPCOLOR13":4,
+    "ne:MAPCOLOR7":5,
+    "ne:MAPCOLOR8":3,
+    "ne:MAPCOLOR9":5,
+    "ne:MAX_LABEL":9,
+    "ne:MIN_LABEL":6,
+    "ne:MIN_ZOOM":7,
+    "ne:NAME":"Nansei-shoto",
+    "ne:NAME_ALT":"Senkaku Is., Diaoyu Is., Diaoyutai Is.",
+    "ne:NAME_AR":"\u062c\u0632\u0631 \u0633\u064a\u0646\u0643\u0627\u0643\u0648",
+    "ne:NAME_BN":"\u09b8\u09c7\u09a8\u0995\u09be\u0995\u09c1 \u09a6\u09cd\u09ac\u09c0\u09aa",
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Senkaku-Inseln",
+    "ne:NAME_EL":null,
+    "ne:NAME_EN":"Senkaku Islands",
+    "ne:NAME_ES":"Islas Senkaku",
+    "ne:NAME_FR":"\u00eeles Senkaku",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":"Szenkaku-szigetek",
+    "ne:NAME_ID":"Kepulauan Senkaku",
+    "ne:NAME_IT":"isole Senkaku",
+    "ne:NAME_JA":"\u5c16\u95a3\u8af8\u5cf6",
+    "ne:NAME_KO":"\uc13c\uce74\ucfe0 \uc5f4\ub3c4",
+    "ne:NAME_LEN":12,
+    "ne:NAME_LONG":"Nansei-shoto",
+    "ne:NAME_NL":"Senkaku-eilanden",
+    "ne:NAME_PL":"Wyspy Senkaku",
+    "ne:NAME_PT":"Ilhas Senkaku",
+    "ne:NAME_RU":"\u0421\u0435\u043d\u043a\u0430\u043a\u0443",
+    "ne:NAME_SORT":"Pinnacle Is.",
+    "ne:NAME_SV":"Senkaku-\u00f6arna",
+    "ne:NAME_TR":"Senkaku Adalar\u0131",
+    "ne:NAME_VI":"Senkaku",
+    "ne:NAME_ZH":"\u91e3\u9b5a\u53f0\u5217\u5dbc",
+    "ne:NE_ID":1159320959,
+    "ne:NOTE_ADM0":"Japan",
+    "ne:NOTE_BRK":"Admin. by Japan; Claimed by China and Taiwan",
+    "ne:POP_EST":0,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2013,
+    "ne:POSTAL":"PI",
+    "ne:REGION_UN":"Asia",
+    "ne:REGION_WB":"East Asia & Pacific",
+    "ne:SOVEREIGNT":"Japan",
+    "ne:SOV_A3":"JPN",
+    "ne:SUBREGION":"Eastern Asia",
+    "ne:SUBUNIT":"Nanseishoto",
+    "ne:SU_A3":"JPO",
+    "ne:SU_DIF":1,
+    "ne:TINY":-99,
+    "ne:TYPE":"Disputed",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q29460",
+    "ne:WIKIPEDIA":0,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"No WOE equivalent.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "qs:a0":"Japan",
+    "qs:adm0":"Japan",
+    "qs:adm0_a3":"JPN",
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569,
+        85632695,
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1852717,
+        "gp:id":23424856,
+        "ne:id":1159320959,
+        "qs:id":1314362,
+        "wd:id":"Q29460"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"762a42ab0f1ecac77025a89ba755faf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "disputed_id":85632621
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "disputed_id":85632621
+        }
+    ],
+    "wof:id":85632621,
+    "wof:lastmodified":1528909932,
+    "wof:name":"Pinnacle Island",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.50955200200008,
+    25.73872184800007,
+    124.57035827600009,
+    25.93122291600002
+],
+  "geometry": {"coordinates":[[[[123.60958099400011,25.74161148100006],[123.60827636700003,25.73955535900006],[123.60663604700005,25.73958396900002],[123.60583496100003,25.73872184800007],[123.60411071800002,25.73958396900002],[123.59708404500009,25.73999977100004],[123.59833526600005,25.74538803100006],[123.60578155500002,25.74541664100008],[123.60830688500005,25.74374961900003],[123.60958099400011,25.74161148100006]]],[[[123.59666442900004,25.74461174000004],[123.59419250500002,25.74455642700008],[123.59288787800006,25.74747276300008],[123.58955383300008,25.75083351100005],[123.58955383300008,25.75250053400003],[123.59247589100005,25.75538826000007],[123.59413909900002,25.75538826000007],[123.59625244100005,25.75],[123.5978851320001,25.74913978600006],[123.59877777100007,25.74666595500003],[123.59705352800006,25.74580574000004],[123.59666442900004,25.74461174000004]]],[[[123.55916595500003,25.75455474900008],[123.55747222900004,25.75455474900008],[123.55627441400009,25.75663948100004],[123.55627441400009,25.75836181600005],[123.55750274700006,25.75955581700003],[123.56083679200003,25.75958252000004],[123.56122589100005,25.75913810700007],[123.56127929700006,25.75666618300005],[123.55916595500003,25.75455474900008]]],[[[123.53247070300006,25.77455520600006],[123.53336334200003,25.77375030500008],[123.53500366199999,25.77375030500008],[123.53583526600005,25.77288818400007],[123.54000091600005,25.77372169500006],[123.54208374000007,25.77000045800003],[123.54788970900006,25.76497268700007],[123.54750061000004,25.76291656500007],[123.53919220000012,25.76288795500005],[123.53830719000007,25.76208305400007],[123.53247070300006,25.76205635100007],[123.53166961700003,25.76291656500007],[123.52830505400004,25.76291656500007],[123.52666473400006,25.76041603100003],[123.52419281000005,25.76041603100003],[123.51916503900009,25.75791740400007],[123.51247406000005,25.75788879400005],[123.50955200200008,25.76166725200005],[123.50958252000009,25.76413917500003],[123.51413726800001,25.76872253400006],[123.51999664300001,25.77208328200004],[123.52246856700003,25.77452850300006],[123.52666473400006,25.77538871800004],[123.52747345000012,25.77458381700006],[123.53247070300006,25.77455520600006]]],[[[123.62080383300008,25.77375030500008],[123.6191635130001,25.77375030500008],[123.61872100800008,25.77416610700004],[123.6187515260001,25.77580642700008],[123.6191101070001,25.77622222900004],[123.6208343510001,25.77622222900004],[123.6211929320001,25.77580642700008],[123.6211929320001,25.77413940400004],[123.62080383300008,25.77375030500008]]],[[[123.59661102300004,25.79791641200006],[123.5958023070001,25.79708290100007],[123.59497070300006,25.79794502300007],[123.59041595500003,25.79830551100002],[123.59080505400004,25.80122184800007],[123.59835815400004,25.80205535900006],[123.59960937500011,25.79997253400006],[123.59833526600005,25.79791641200006],[123.59661102300004,25.79791641200006]]],[[[124.56830596900011,25.89541626000005],[124.56749725300006,25.89541626000005],[124.56580352800006,25.89624977100004],[124.5645523070001,25.89830589300004],[124.56999969500009,25.89872169500006],[124.57035827600009,25.89744377100004],[124.56830596900011,25.89541626000005]]],[[[123.67996978800011,25.91872215300003],[123.67666626000005,25.91786193800004],[123.67541503900009,25.92000007600006],[123.67205810500002,25.922472],[123.67208099400011,25.92494392400005],[123.67292022700008,25.92580604600005],[123.67292022700008,25.92666626000005],[123.67411041300011,25.92705535900006],[123.67833709700005,25.93122291600002],[123.67996978800011,25.93122291600002],[123.68250274700006,25.92955589300004],[123.68458557100007,25.92666626000005],[123.68374633800011,25.92580604600005],[123.68622589100005,25.92413902300007],[123.68624877900004,25.92000007600006],[123.68086242700008,25.91958427400004],[123.67996978800011,25.91872215300003]]],[[[123.67330932600009,25.92786026000005],[123.67247009300002,25.92786026000005],[123.67202758800011,25.92833328200004],[123.67205810500002,25.93000030500008],[123.67250061000004,25.93038940400004],[123.67414093000002,25.93038940400004],[123.67458343500005,25.92997169500006],[123.67458343500005,25.92916679400003],[123.67330932600009,25.92786026000005]]]],"type":"MultiPolygon"}
+}

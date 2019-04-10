@@ -1,0 +1,83 @@
+{
+  "id": 1125779901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.344553,43.887825,20.344553,43.887825",
+    "geom:latitude":43.887825,
+    "geom:longitude":20.344553,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":43.887825,
+    "lbl:longitude":20.344553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u010ca\u010dak",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Moravica",
+    "qs_pg:photos":595,
+    "qs_pg:photos_1k":121,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":595,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078931,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":533088,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Moravica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688225,
+        102191581,
+        1108809867,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":533088,
+        "qs_pg:id":1078931
+    },
+    "wof:country":"XX",
+    "wof:created":1497290421,
+    "wof:geomhash":"ebc919a6343c54e7477a3b619018c467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108809867,
+            "locality_id":1125779901,
+            "macroregion_id":404228357,
+            "region_id":85688225
+        }
+    ],
+    "wof:id":1125779901,
+    "wof:lastmodified":1509391489,
+    "wof:name":"\u010ca\u010dak",
+    "wof:parent_id":1108809867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.344553,
+    43.887825,
+    20.344553,
+    43.887825
+],
+  "geometry": {"coordinates":[20.344553,43.887825],"type":"Point"}
+}

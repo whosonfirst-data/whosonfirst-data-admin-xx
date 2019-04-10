@@ -1,0 +1,159 @@
+{
+  "id": 1125993679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.201143,48.13794,16.201143,48.13794",
+    "geom:latitude":48.13794,
+    "geom:longitude":16.201143,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":48.13794,
+    "lbl:longitude":16.201143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u7dad\u4e5f\u7d0d\u9644\u8fd1\u5e03\u8cf4\u6ed5\u5bcc\u7279"
+    ],
+    "name:cze_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:dan_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:dut_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:eng_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:fao_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:fre_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:ger_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:hun_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:ita_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30a4\u30c6\u30f3\u30d5\u30eb\u30c8"
+    ],
+    "name:kal_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0430\u0439\u0442\u0435\u043d\u0444\u0443\u0440\u0442-\u0412\u0438\u043d"
+    ],
+    "name:nno_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:nob_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:oci_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:pol_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:por_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0439\u0442\u0435\u043d\u0444\u0443\u0440\u0442-\u0431\u0430\u0439-\u0412\u0438\u043d"
+    ],
+    "name:slo_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:swe_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:uzb_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:vie_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:vol_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "name:war_x_preferred":[
+        "Breitenfurt bei Wien"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Breitenfurth bei Wien",
+    "qs_pg:name_adm0":"\u00d6sterreich",
+    "qs_pg:name_adm1":"Nieder\u00f6sterreich",
+    "qs_pg:photos":357,
+    "qs_pg:photos_1k":72,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":357,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897831,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424750,
+    "qs_pg:woe_id":541271,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424750,
+    "woe:name_adm0":"\u00d6sterreich",
+    "woe:name_adm1":"Nieder\u00f6sterreich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681671,
+        102191581,
+        1108835791,
+        85632785,
+        102049837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":541271,
+        "qs_pg:id":897831,
+        "wd:id":"Q662190"
+    },
+    "wof:country":"XX",
+    "wof:created":1497299185,
+    "wof:geomhash":"fdc656e00b09af4dd9763976c63d56ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049837,
+            "localadmin_id":1108835791,
+            "locality_id":1125993679,
+            "region_id":85681671
+        }
+    ],
+    "wof:id":1125993679,
+    "wof:lastmodified":1514502970,
+    "wof:name":"Breitenfurth bei Wien",
+    "wof:parent_id":1108835791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.201143,
+    48.13794,
+    16.201143,
+    48.13794
+],
+  "geometry": {"coordinates":[16.201143,48.13794],"type":"Point"}
+}

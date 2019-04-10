@@ -1,0 +1,83 @@
+{
+  "id": 1126066831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.598415,31.822558,-116.598415,31.822558",
+    "geom:latitude":31.822558,
+    "geom:longitude":-116.598415,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":31.822558,
+    "lbl:longitude":-116.598415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lomas Del Mar",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":103,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":103,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":973917,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55900304,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993465,
+        102074509,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55900304,
+        "qs_pg:id":973917
+    },
+    "wof:country":"XX",
+    "wof:created":1497309001,
+    "wof:geomhash":"ebe241b275316ee6c7b8f3a3c0e7e7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074509,
+            "locality_id":101993465,
+            "neighbourhood_id":1126066831,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126066831,
+    "wof:lastmodified":1509410470,
+    "wof:name":"Lomas Del Mar",
+    "wof:parent_id":101993465,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.598415,
+    31.822558,
+    -116.598415,
+    31.822558
+],
+  "geometry": {"coordinates":[-116.598415,31.822558],"type":"Point"}
+}

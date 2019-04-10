@@ -1,0 +1,235 @@
+{
+  "id": 1159339569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000337,
+    "geom:bbox":"166.619395379,19.275580145,166.652354363,19.305731512",
+    "geom:latitude":19.287156,
+    "geom:longitude":166.641539,
+    "iso:country":"XX",
+    "lbl:latitude":19.285663,
+    "lbl:longitude":166.644535,
+    "mps:latitude":19.285663,
+    "mps:longitude":166.644535,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0648\u064a\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09af\u09bc\u09c7\u0995 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:deu_x_preferred":[
+        "Wake"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u039f\u03c5\u03ad\u03b7\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Wake Island"
+    ],
+    "name:fra_x_preferred":[
+        "Wake"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0915 \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hun_x_preferred":[
+        "Wake-sziget"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Wake"
+    ],
+    "name:ita_x_preferred":[
+        "Isola di Wake"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30fc\u30af\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc774\ud06c \uc12c"
+    ],
+    "name:nld_x_preferred":[
+        "Wake"
+    ],
+    "name:pol_x_preferred":[
+        "Wake"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Wake"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u044d\u0439\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Wake"
+    ],
+    "name:swe_x_preferred":[
+        "Wake"
+    ],
+    "name:tur_x_preferred":[
+        "Wake Adas\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Wake"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u514b\u5cf6"
+    ],
+    "ne:ABBREV":"Wake At.",
+    "ne:ABBREV_LEN":8,
+    "ne:ADM0_A3":"UMI",
+    "ne:ADM0_A3_IS":"WQI",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"UMI",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"United States Minor Outlying Islands",
+    "ne:BRK_A3":"B59",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Wake Atoll",
+    "ne:CONTINENT":"Oceania",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"WQ",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"Wake Atoll",
+    "ne:GEOU_DIF":1,
+    "ne:GU_A3":"WQI",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":6,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":3,
+    "ne:LONG_LEN":10,
+    "ne:MAPCOLOR13":1,
+    "ne:MAPCOLOR7":4,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":1,
+    "ne:MAX_LABEL":10.7,
+    "ne:MIN_LABEL":5.7,
+    "ne:MIN_ZOOM":0,
+    "ne:NAME":"Wake Atoll",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u062c\u0632\u064a\u0631\u0629 \u0648\u064a\u0643",
+    "ne:NAME_BN":"\u0993\u09af\u09bc\u09c7\u0995 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c",
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Wake",
+    "ne:NAME_EL":"\u039d\u03ae\u03c3\u03bf\u03c2 \u039f\u03c5\u03ad\u03b7\u03ba",
+    "ne:NAME_EN":"Wake Island",
+    "ne:NAME_ES":"Isla Wake",
+    "ne:NAME_FR":"Wake",
+    "ne:NAME_HI":"\u0935\u0947\u0915 \u0926\u094d\u0935\u0940\u092a",
+    "ne:NAME_HU":"Wake-sziget",
+    "ne:NAME_ID":"Pulau Wake",
+    "ne:NAME_IT":"Isola di Wake",
+    "ne:NAME_JA":"\u30a6\u30a7\u30fc\u30af\u5cf6",
+    "ne:NAME_KO":"\uc6e8\uc774\ud06c \uc12c",
+    "ne:NAME_LEN":10,
+    "ne:NAME_LONG":"Wake Atoll",
+    "ne:NAME_NL":"Wake",
+    "ne:NAME_PL":"Wake",
+    "ne:NAME_PT":"Ilha Wake",
+    "ne:NAME_RU":"\u0423\u044d\u0439\u043a",
+    "ne:NAME_SORT":"Wake Atoll",
+    "ne:NAME_SV":"Wake",
+    "ne:NAME_TR":"Wake Adas\u0131",
+    "ne:NAME_VI":"\u0110\u1ea3o Wake",
+    "ne:NAME_ZH":"\u5a01\u514b\u5cf6",
+    "ne:NE_ID":1159321391,
+    "ne:NOTE_ADM0":"U.S.A.",
+    "ne:NOTE_BRK":"Admin. by U.S.A.; Claimed by Marshall Islands",
+    "ne:POP_EST":68,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"WA",
+    "ne:REGION_UN":"Oceania",
+    "ne:REGION_WB":"East Asia & Pacific",
+    "ne:SOVEREIGNT":"United States of America",
+    "ne:SOV_A3":"US1",
+    "ne:SUBREGION":"Micronesia",
+    "ne:SUBUNIT":"Wake Atoll",
+    "ne:SU_A3":"WQI",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Geo unit",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q43296",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":23424991,
+    "ne:WOE_ID_EH":23424991,
+    "ne:WOE_NOTE":"Exact WOE match as admin-1.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"2017",
+    "wof:belongsto":[
+        102191583,
+        85632663,
+        102191575,
+        85633793,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159321391,
+        "wd:id":"Q43296"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"bf8191b9a75553de8881d817c678282e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "disputed_id":1159339569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "disputed_id":1159339569,
+            "empire_id":136253057
+        }
+    ],
+    "wof:id":1159339569,
+    "wof:lastmodified":1528909940,
+    "wof:name":"Wake Island",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.61939537900003,
+    19.27558014500005,
+    166.6523543630001,
+    19.30573151200008
+],
+  "geometry": {"coordinates":[[[166.61939537900003,19.28164297100005],[166.62973066500001,19.28241608300004],[166.63819420700008,19.28644440300008],[166.64087975400003,19.29401276200008],[166.63477623800009,19.30573151200008],[166.64812259200005,19.29775625200006],[166.65235436300009,19.28424713700008],[166.64421634200005,19.27558014500005],[166.61939537900003,19.28164297100005]]],"type":"Polygon"}
+}

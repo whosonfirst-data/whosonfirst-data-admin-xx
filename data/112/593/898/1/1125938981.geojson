@@ -1,0 +1,139 @@
+{
+  "id": 1125938981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.300979,33.589312,75.300979,33.589312",
+    "geom:latitude":33.589312,
+    "geom:longitude":75.300979,
+    "gn:gn_country":"XX",
+    "iso:country":"XX",
+    "lbl:latitude":33.589312,
+    "lbl:longitude":75.300979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u0995\u09c1\u0995\u09c7\u09b0\u09a8\u09be\u0997"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e93\u51ef\u5c14\u7eb3\u683c"
+    ],
+    "name:dut_x_preferred":[
+        "Kukernag"
+    ],
+    "name:eng_x_preferred":[
+        "Kukernag"
+    ],
+    "name:fre_x_preferred":[
+        "Kukernag"
+    ],
+    "name:ita_x_preferred":[
+        "Kukernag"
+    ],
+    "name:kas_x_preferred":[
+        "\u06a9\u06c4\u06a9\u064e\u0631\u0646\u0627\u06af"
+    ],
+    "name:may_x_preferred":[
+        "Kukernag"
+    ],
+    "name:nan_x_preferred":[
+        "Kukernag"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u0941\u0915\u0947\u0930\u0928\u093e\u0917"
+    ],
+    "name:por_x_preferred":[
+        "Kukernag"
+    ],
+    "name:san_x_preferred":[
+        "\u0915\u0941\u0915\u0930\u0928\u093e\u0917"
+    ],
+    "name:spa_x_preferred":[
+        "Kokarnag"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u06af\u0631 \u0646\u0627\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Kukernag"
+    ],
+    "qs_pg:aaroncc":"XX",
+    "qs_pg:gn_country":"XX",
+    "qs_pg:name":"Kukernag",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":134114,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":28999343,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Jammu and Kashmir",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695721,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28999343,
+        "qs_pg:id":134114,
+        "wd:id":"Q2242859"
+    },
+    "wof:country":"XX",
+    "wof:created":1497297056,
+    "wof:geomhash":"813339e6ebcc27eef686df801c24c4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695721,
+            "disputed_id":85632427,
+            "locality_id":1125938981,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695721,
+            "disputed_id":85632427,
+            "locality_id":1125938981,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1125938981,
+    "wof:lastmodified":1533678805,
+    "wof:name":"Kukernag",
+    "wof:parent_id":1108695721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.300979,
+    33.589312,
+    75.300979,
+    33.589312
+],
+  "geometry": {"coordinates":[75.300979,33.589312],"type":"Point"}
+}

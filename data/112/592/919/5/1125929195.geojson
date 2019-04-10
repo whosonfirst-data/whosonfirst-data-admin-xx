@@ -1,0 +1,81 @@
+{
+  "id": 1125929195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.068084,62.781747,8.068084,62.781747",
+    "geom:latitude":62.781747,
+    "geom:longitude":8.068084,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":62.781747,
+    "lbl:longitude":8.068084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Eidsv\u00e5g I Romsdal",
+    "qs_pg:name_adm0":"Norge",
+    "qs_pg:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "qs_pg:photos":75,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":75,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":984749,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424910,
+    "qs_pg:woe_id":15000936,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424910,
+    "woe:name_adm0":"Norge",
+    "woe:name_adm1":"M\u00f8re og Romsdal Fylke",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1159297323,
+        85633341,
+        85687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15000936,
+        "qs_pg:id":984749
+    },
+    "wof:country":"XX",
+    "wof:created":1497296746,
+    "wof:geomhash":"8566ccd23bd03e9bb5db7311babff20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633341,
+            "localadmin_id":1159297323,
+            "locality_id":1125929195,
+            "region_id":85687123
+        }
+    ],
+    "wof:id":1125929195,
+    "wof:lastmodified":1529700104,
+    "wof:name":"Eidsv\u00e5g I Romsdal",
+    "wof:parent_id":1159297323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.068084,
+    62.781747,
+    8.068084,
+    62.781747
+],
+  "geometry": {"coordinates":[8.068084,62.781747],"type":"Point"}
+}

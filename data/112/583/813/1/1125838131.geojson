@@ -1,0 +1,79 @@
+{
+  "id": 1125838131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.465106,45.5935,25.465106,45.5935",
+    "geom:latitude":45.5935,
+    "geom:longitude":25.465106,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.5935,
+    "lbl:longitude":25.465106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"R\u00ee\u0219nov",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Brasov",
+    "qs_pg:photos":1885,
+    "qs_pg:photos_1k":382,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1885,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092673,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":879113,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Brasov",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":879113,
+        "qs_pg:id":1092673
+    },
+    "wof:country":"XX",
+    "wof:created":1497292804,
+    "wof:geomhash":"04cc85add698a750d428dcfa4f88d13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125838131,
+            "region_id":85687683
+        }
+    ],
+    "wof:id":1125838131,
+    "wof:lastmodified":1509395111,
+    "wof:name":"R\u00ee\u0219nov",
+    "wof:parent_id":85687683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.465106,
+    45.5935,
+    25.465106,
+    45.5935
+],
+  "geometry": {"coordinates":[25.465106,45.5935],"type":"Point"}
+}

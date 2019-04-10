@@ -1,0 +1,82 @@
+{
+  "id": 1125884859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.40414,12.271143,-68.40414,12.271143",
+    "geom:latitude":12.271143,
+    "geom:longitude":-68.40414,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":12.271143,
+    "lbl:longitude":-68.40414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Labra",
+    "qs_pg:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "qs_pg:name_adm1":"Bonaire",
+    "qs_pg:photos":358,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":358,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900332,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":56558056,
+    "qs_pg:woe_id":151931,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":56558056,
+    "woe:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "woe:name_adm1":"Bonaire",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":151931,
+        "qs_pg:id":900332
+    },
+    "wof:country":"XX",
+    "wof:created":1497295024,
+    "wof:geomhash":"b2145d023410f5c19e7a14b573876472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1125884859,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1125884859,
+    "wof:lastmodified":1509997980,
+    "wof:name":"Labra",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.40414,
+    12.271143,
+    -68.40414,
+    12.271143
+],
+  "geometry": {"coordinates":[-68.40414,12.271143],"type":"Point"}
+}

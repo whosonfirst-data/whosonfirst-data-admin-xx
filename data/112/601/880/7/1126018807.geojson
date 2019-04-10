@@ -1,0 +1,79 @@
+{
+  "id": 1126018807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49887,45.801221,21.49887,45.801221",
+    "geom:latitude":45.801221,
+    "geom:longitude":21.49887,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.801221,
+    "lbl:longitude":21.49887,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Reca\u0219",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Timis",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":25367,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":878950,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Timis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":878950,
+        "qs_pg:id":25367
+    },
+    "wof:country":"XX",
+    "wof:created":1497300704,
+    "wof:geomhash":"9436c00da0f448b3f91d719762e2e673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1126018807,
+            "region_id":85687655
+        }
+    ],
+    "wof:id":1126018807,
+    "wof:lastmodified":1509407092,
+    "wof:name":"Reca\u0219",
+    "wof:parent_id":85687655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49887,
+    45.801221,
+    21.49887,
+    45.801221
+],
+  "geometry": {"coordinates":[21.49887,45.801221],"type":"Point"}
+}

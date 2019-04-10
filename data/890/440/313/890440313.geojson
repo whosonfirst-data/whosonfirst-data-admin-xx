@@ -1,0 +1,79 @@
+{
+  "id": 890440313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.545108,34.183391,77.545108,34.183391",
+    "geom:latitude":34.183391,
+    "geom:longitude":77.545108,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Leh",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":8990,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":104,
+    "qs:photos_9r":21,
+    "qs:photos_all":23493,
+    "qs:photos_sr":25,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":3006,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        85632427,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12586457,
+        "qs:id":865390,
+        "wd:id":"Q230818",
+        "wk:page":"Leh"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052270,
+    "wof:geomhash":"24b8dcd2302153464359fc266f1f8858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890440313,
+            "disputed_id":85632427,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890440313,
+            "disputed_id":85632427,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890440313,
+    "wof:lastmodified":1533678778,
+    "wof:name":"Leh",
+    "wof:parent_id":85672137,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.545108,
+    34.183391,
+    77.545108,
+    34.183391
+],
+  "geometry": {"coordinates":[77.545108,34.183391],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126093001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-121.780523,38.549531,-121.780523,38.549531",
+    "geom:latitude":38.549531,
+    "geom:longitude":-121.780523,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.549531,
+    "lbl:longitude":-121.780523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"West Davis Manor",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"California",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":382099,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55858649,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85922419,
+        102082309,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55858649,
+        "qs_pg:id":382099
+    },
+    "wof:country":"XX",
+    "wof:created":1497314426,
+    "wof:geomhash":"68071965eb24e17719048d9ae114690c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082309,
+            "locality_id":85922419,
+            "neighbourhood_id":1126093001,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1126093001,
+    "wof:lastmodified":1509411750,
+    "wof:name":"West Davis Manor",
+    "wof:parent_id":85922419,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -121.780523,
+    38.549531,
+    -121.780523,
+    38.549531
+],
+  "geometry": {"coordinates":[-121.780523,38.549531],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 85632665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":1367741.202986,
+    "geom:bbox":"43.138694763,12.710361481,43.157833099,12.72124958",
+    "geom:latitude":12.716178,
+    "geom:longitude":43.146767,
+    "iso:country":"XX",
+    "lbl:latitude":12.715624,
+    "lbl:longitude":43.14754,
+    "mps:latitude":12.715624,
+    "mps:longitude":43.14754,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Doumera Island"
+    ],
+    "name:eng_x_unknown":[
+        "XX"
+    ],
+    "name:eng_x_variant":[
+        "Disputed Territory"
+    ],
+    "name:fin_x_preferred":[
+        "kiistelty alue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:nor_x_colloquial":[
+        "Omstridt omrade"
+    ],
+    "name:nor_x_preferred":[
+        "Omstridt omr\u00e5de"
+    ],
+    "name:swe_x_colloquial":[
+        "Omtvistat omrade"
+    ],
+    "name:swe_x_preferred":[
+        "Omtvistat omr\u00e5de"
+    ],
+    "name:unk_x_variant":[
+        "Dum\u0113ra Des\u0113t"
+    ],
+    "name:zho_x_preferred":[
+        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+    ],
+    "name:zho_x_variant":[
+        "\u6709\u4e89\u8bae\u7684\u9886\u571f"
+    ],
+    "qs:a0":"Eritrea",
+    "qs:adm0":"Eritrea",
+    "qs:adm0_a3":"ERI",
+    "qs:level":"adm0",
+    "qs:scale":200000,
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongs":[
+        102191573,
+        85632781,
+        85632319
+    ],
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85632319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":223738,
+        "gp:id":23424806,
+        "qs:id":236317
+    },
+    "wof:country":"XX",
+    "wof:geomhash":"60198204230df09bc136fa0f011fc530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "disputed_id":85632665
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632319,
+            "disputed_id":85632665
+        }
+    ],
+    "wof:id":85632665,
+    "wof:lastmodified":1528909936,
+    "wof:name":"Doumera Island",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13869476300005,
+    12.71036148100006,
+    43.15783309900013,
+    12.72124958000006
+],
+  "geometry": {"coordinates":[[[[43.15202713000008,12.71913909900007],[43.15286254900008,12.71833324400006],[43.15286254900008,12.71500015300006],[43.15119552600004,12.71333313000002],[43.15080642700008,12.71119403800003],[43.14658355700004,12.71122264900004],[43.14494323700006,12.71036148100006],[43.14324951200007,12.71122264900004],[43.14288711500006,12.71247196200005],[43.13872146600005,12.71663856500004],[43.13869476300005,12.71916675600005],[43.13991546600005,12.72041702300004],[43.14241790800003,12.72038841200003],[43.14408493000008,12.71875],[43.14494323700006,12.71875],[43.14827728300003,12.72122192400008],[43.14988708500005,12.72124958000006],[43.15202713000008,12.72000026700005],[43.15202713000008,12.71913909900007]]],[[[43.15783309900013,12.71577739700012],[43.15661239600013,12.71458339700013],[43.15565086428472,12.71755256226152],[43.15372085600018,12.71913909900007],[43.15494537400008,12.71955585500012],[43.15705490100009,12.71749973300018],[43.15700149500009,12.71663856500015],[43.15783309900013,12.71577739700012]]]],"type":"MultiPolygon"}
+}

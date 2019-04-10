@@ -1,0 +1,93 @@
+{
+  "id": 1126057619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.632141,33.107239,77.632141,33.107239",
+    "geom:latitude":33.107239,
+    "geom:longitude":77.632141,
+    "gn:gn_country":"XX",
+    "iso:country":"XX",
+    "lbl:latitude":33.107239,
+    "lbl:longitude":77.632141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"XX",
+    "qs_pg:gn_country":"XX",
+    "qs_pg:name":"Lachulung La",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1065882,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":29214711,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Jammu and Kashmir",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29214711,
+        "qs_pg:id":1065882
+    },
+    "wof:country":"XX",
+    "wof:created":1497303421,
+    "wof:geomhash":"48d8cb6f9b70fb91090f0df0eaa55d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1126057619,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":1126057619,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1126057619,
+    "wof:lastmodified":1533678806,
+    "wof:name":"Lachulung La",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.632141,
+    33.107239,
+    77.632141,
+    33.107239
+],
+  "geometry": {"coordinates":[77.632141,33.107239],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126093857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.0705635,-41.126128,175.0705635,-41.126128",
+    "geom:latitude":-41.126128,
+    "geom:longitude":175.070563,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-41.126128,
+    "lbl:longitude":175.070563,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Upper Hutt Central",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Wellington",
+    "qs_pg:photos":356,
+    "qs_pg:photos_1k":72,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":356,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225062,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28676774,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Wellington",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079335,
+        85687233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676774,
+        "qs_pg:id":225062
+    },
+    "wof:country":"XX",
+    "wof:created":1497314714,
+    "wof:geomhash":"46dbbd00ef050281cf23ec168137de52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":-1,
+            "neighbourhood_id":1126093857,
+            "region_id":85687233
+        }
+    ],
+    "wof:id":1126093857,
+    "wof:lastmodified":1509411788,
+    "wof:name":"Upper Hutt Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.0705635,
+    -41.126128,
+    175.0705635,
+    -41.126128
+],
+  "geometry": {"coordinates":[175.07056349999999,-41.126128],"type":"Point"}
+}

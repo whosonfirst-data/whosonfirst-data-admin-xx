@@ -1,0 +1,82 @@
+{
+  "id": 1126082909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.138708,9.923425,-84.138708,9.923425",
+    "geom:latitude":9.923425,
+    "geom:longitude":-84.138708,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":9.923425,
+    "lbl:longitude":-84.138708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Palermo",
+    "qs_pg:name_adm0":"Costa Rica",
+    "qs_pg:name_adm1":"San Jose",
+    "qs_pg:photos":391,
+    "qs_pg:photos_1k":79,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":391,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":366560,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424791,
+    "qs_pg:woe_id":22723825,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424791,
+    "woe:name_adm0":"Costa Rica",
+    "woe:name_adm1":"San Jose",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421188115,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723825,
+        "qs_pg:id":366560
+    },
+    "wof:country":"XX",
+    "wof:created":1497312228,
+    "wof:geomhash":"7e17300b8171c04357c64444c544a2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188115,
+            "locality_id":-1,
+            "neighbourhood_id":1126082909,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1126082909,
+    "wof:lastmodified":1509411252,
+    "wof:name":"Palermo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.138708,
+    9.923425,
+    -84.138708,
+    9.923425
+],
+  "geometry": {"coordinates":[-84.13870799999999,9.923425],"type":"Point"}
+}

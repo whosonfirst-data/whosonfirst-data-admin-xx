@@ -1,0 +1,83 @@
+{
+  "id": 1125970217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64484,42.048549,-8.64484,42.048549",
+    "geom:latitude":42.048549,
+    "geom:longitude":-8.64484,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":42.048549,
+    "lbl:longitude":-8.64484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"T\u00fay",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Galicia",
+    "qs_pg:photos":846,
+    "qs_pg:photos_1k":171,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":846,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1152909,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":776196,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Galicia",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682825,
+        102191581,
+        404341085,
+        85633129,
+        404227385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":776196,
+        "qs_pg:id":1152909
+    },
+    "wof:country":"XX",
+    "wof:created":1497298133,
+    "wof:geomhash":"fe6cf891955310b0dc2a6de139aa1ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404341085,
+            "locality_id":1125970217,
+            "macroregion_id":404227385,
+            "region_id":85682825
+        }
+    ],
+    "wof:id":1125970217,
+    "wof:lastmodified":1509403915,
+    "wof:name":"T\u00fay",
+    "wof:parent_id":404341085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64484,
+    42.048549,
+    -8.64484,
+    42.048549
+],
+  "geometry": {"coordinates":[-8.64484,42.048549],"type":"Point"}
+}

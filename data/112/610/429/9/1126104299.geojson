@@ -1,0 +1,83 @@
+{
+  "id": 1126104299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.422157,23.200748,-106.422157,23.200748",
+    "geom:latitude":23.200748,
+    "geom:longitude":-106.422157,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":23.200748,
+    "lbl:longitude":-106.422157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Balcones de Loma Linda",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sinaloa",
+    "qs_pg:photos":531,
+    "qs_pg:photos_1k":108,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":531,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475311,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55900111,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sinaloa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993641,
+        102074303,
+        85686535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55900111,
+        "qs_pg:id":475311
+    },
+    "wof:country":"XX",
+    "wof:created":1497316651,
+    "wof:geomhash":"10e9f1f60e495f81eb92ae60aa949aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074303,
+            "locality_id":101993641,
+            "neighbourhood_id":1126104299,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1126104299,
+    "wof:lastmodified":1509412295,
+    "wof:name":"Balcones de Loma Linda",
+    "wof:parent_id":101993641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.422157,
+    23.200748,
+    -106.422157,
+    23.200748
+],
+  "geometry": {"coordinates":[-106.422157,23.200748],"type":"Point"}
+}

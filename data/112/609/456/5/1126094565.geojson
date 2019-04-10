@@ -1,0 +1,82 @@
+{
+  "id": 1126094565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.022729,-38.664013,178.022729,-38.664013",
+    "geom:latitude":-38.664013,
+    "geom:longitude":178.022729,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-38.664013,
+    "lbl:longitude":178.022729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gisborne Central",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Gisborne",
+    "qs_pg:photos":165,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":165,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":227744,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28676730,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Gisborne",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079325,
+        85687237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28676730,
+        "qs_pg:id":227744
+    },
+    "wof:country":"XX",
+    "wof:created":1497314883,
+    "wof:geomhash":"2dd29e20855a87d7200e6bd21b45559f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":-1,
+            "neighbourhood_id":1126094565,
+            "region_id":85687237
+        }
+    ],
+    "wof:id":1126094565,
+    "wof:lastmodified":1509411820,
+    "wof:name":"Gisborne Central",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.022729,
+    -38.664013,
+    178.022729,
+    -38.664013
+],
+  "geometry": {"coordinates":[178.022729,-38.664013],"type":"Point"}
+}

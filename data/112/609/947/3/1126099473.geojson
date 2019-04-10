@@ -1,0 +1,83 @@
+{
+  "id": 1126099473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.883562,19.514087,-98.883562,19.514087",
+    "geom:latitude":19.514087,
+    "geom:longitude":-98.883562,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.514087,
+    "lbl:longitude":-98.883562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Centro Ote",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":65,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":65,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1004267,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903339,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991795,
+        102074023,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55903339,
+        "qs_pg:id":1004267
+    },
+    "wof:country":"XX",
+    "wof:created":1497315795,
+    "wof:geomhash":"ffef832dd7819983fc0f5c1b437402d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074023,
+            "locality_id":101991795,
+            "neighbourhood_id":1126099473,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126099473,
+    "wof:lastmodified":1509412046,
+    "wof:name":"Centro Ote",
+    "wof:parent_id":101991795,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.883562,
+    19.514087,
+    -98.883562,
+    19.514087
+],
+  "geometry": {"coordinates":[-98.883562,19.514087],"type":"Point"}
+}

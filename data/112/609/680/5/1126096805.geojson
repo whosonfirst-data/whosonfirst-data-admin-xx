@@ -1,0 +1,82 @@
+{
+  "id": 1126096805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6825,41.064383,28.6825,41.064383",
+    "geom:latitude":41.064383,
+    "geom:longitude":28.6825,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.064383,
+    "lbl:longitude":28.6825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Esenkent/bah\u00e7esehir",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":112,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":112,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120069,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55870857,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709323,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870857,
+        "qs_pg:id":1120069
+    },
+    "wof:country":"XX",
+    "wof:created":1497315368,
+    "wof:geomhash":"bf11912e022d8226b6cfb96adb9e1507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709323,
+            "locality_id":-1,
+            "neighbourhood_id":1126096805,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126096805,
+    "wof:lastmodified":1509411921,
+    "wof:name":"Esenkent/bah\u00e7esehir",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6825,
+    41.064383,
+    28.6825,
+    41.064383
+],
+  "geometry": {"coordinates":[28.6825,41.064383],"type":"Point"}
+}

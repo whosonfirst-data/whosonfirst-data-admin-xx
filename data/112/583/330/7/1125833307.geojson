@@ -1,0 +1,79 @@
+{
+  "id": 1125833307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-44.03887,-22.95171,-44.03887,-22.95171",
+    "geom:latitude":-22.95171,
+    "geom:longitude":-44.03887,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"LCTY",
+    "gn:gn_pop":800,
+    "gn:population":800,
+    "iso:country":"XX",
+    "lbl:latitude":-22.95171,
+    "lbl:longitude":-44.03887,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"LCTY",
+    "qs_pg:gn_id":6324451,
+    "qs_pg:gn_pop":800,
+    "qs_pg:name":"C. E. Jo\u00e3o Paulo (V\u00edtor Imenes)",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":621457,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681991,
+        102191577,
+        404562343,
+        85633009,
+        102058393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6324451,
+        "qs_pg:id":621457
+    },
+    "wof:country":"XX",
+    "wof:created":1497292596,
+    "wof:geomhash":"b6951d09f6ad252af27a18b2bd0d2730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058393,
+            "localadmin_id":404562343,
+            "locality_id":1125833307,
+            "region_id":85681991
+        }
+    ],
+    "wof:id":1125833307,
+    "wof:lastmodified":1509394843,
+    "wof:name":"C. E. Jo\u00e3o Paulo (V\u00edtor Imenes)",
+    "wof:parent_id":404562343,
+    "wof:placetype":"locality",
+    "wof:population":800,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -44.03887,
+    -22.95171,
+    -44.03887,
+    -22.95171
+],
+  "geometry": {"coordinates":[-44.03887,-22.95171],"type":"Point"}
+}

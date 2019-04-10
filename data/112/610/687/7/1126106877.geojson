@@ -1,0 +1,83 @@
+{
+  "id": 1126106877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.235857,-30.132211,-51.235857,-30.132211",
+    "geom:latitude":-30.132211,
+    "geom:longitude":-51.235857,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-30.132211,
+    "lbl:longitude":-51.235857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pedra Redonda",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Rio Grande do Sul",
+    "qs_pg:photos":228,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":228,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":476491,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":55944193,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Rio Grande do Sul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        101960525,
+        102059767,
+        85682015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55944193,
+        "qs_pg:id":476491
+    },
+    "wof:country":"XX",
+    "wof:created":1497317248,
+    "wof:geomhash":"d0d03ead4e302758a231466a67a60cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102059767,
+            "locality_id":101960525,
+            "neighbourhood_id":1126106877,
+            "region_id":85682015
+        }
+    ],
+    "wof:id":1126106877,
+    "wof:lastmodified":1509412415,
+    "wof:name":"Pedra Redonda",
+    "wof:parent_id":101960525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.235857,
+    -30.132211,
+    -51.235857,
+    -30.132211
+],
+  "geometry": {"coordinates":[-51.235857,-30.132211],"type":"Point"}
+}

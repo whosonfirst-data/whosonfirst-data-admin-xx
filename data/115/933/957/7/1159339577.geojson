@@ -1,0 +1,226 @@
+{
+  "id": 1159339577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:bbox":"47.28793379,-11.569919529,47.306407097,-11.55063242",
+    "geom:latitude":-11.562026,
+    "geom:longitude":47.297971,
+    "iso:country":"XX",
+    "lbl:latitude":-11.562049,
+    "lbl:longitude":47.297831,
+    "mps:latitude":-11.562049,
+    "mps:longitude":47.297831,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0643\u0644\u0648\u0631\u064a\u0648\u0633\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "\u00celes Glorieuses"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bd\u03b4\u03bf\u03be\u03b5\u03c2 \u039d\u03ae\u03c3\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Glorioso Islands"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eeles Glorieuses"
+    ],
+    "name:hun_x_preferred":[
+        "Glorioso-szigetek"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Glorioso"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Glorioso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ed\u30ea\u30aa\u30bd\u8af8\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Glorieuzen"
+    ],
+    "name:pol_x_preferred":[
+        "Glorieuses"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Gloriosas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u043e\u0440\u044c\u0451\u0437"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Gloriosas"
+    ],
+    "name:swe_x_preferred":[
+        "Glorieuses\u00f6arna"
+    ],
+    "name:tur_x_preferred":[
+        "Glorioso Adas\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Glorieuses"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6d1b\u91cc\u5384\u65af\u7fa4\u5c9b"
+    ],
+    "ne:ABBREV":"Glor. Is.",
+    "ne:ABBREV_LEN":9,
+    "ne:ADM0_A3":"ATF",
+    "ne:ADM0_A3_IS":"ATF",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"ATF",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"French Southern and Antarctic Lands",
+    "ne:BRK_A3":"B24",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Glorioso Is.",
+    "ne:CONTINENT":"Seven seas (open ocean)",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"GO",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":2.29,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"French Southern and Antarctic Lands",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"ATF",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":5,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":4,
+    "ne:LONG_LEN":16,
+    "ne:MAPCOLOR13":11,
+    "ne:MAPCOLOR7":7,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":9,
+    "ne:MAX_LABEL":10.7,
+    "ne:MIN_LABEL":5.7,
+    "ne:MIN_ZOOM":0,
+    "ne:NAME":"Glorioso Is.",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u062c\u0632\u0631 \u0643\u0644\u0648\u0631\u064a\u0648\u0633\u0648",
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"\u00celes Glorieuses",
+    "ne:NAME_EL":"\u0388\u03bd\u03b4\u03bf\u03be\u03b5\u03c2 \u039d\u03ae\u03c3\u03bf\u03b9",
+    "ne:NAME_EN":"Glorioso Islands",
+    "ne:NAME_ES":"Islas Gloriosas",
+    "ne:NAME_FR":"\u00eeles Glorieuses",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":"Glorioso-szigetek",
+    "ne:NAME_ID":"Kepulauan Glorioso",
+    "ne:NAME_IT":"Isole Glorioso",
+    "ne:NAME_JA":"\u30b0\u30ed\u30ea\u30aa\u30bd\u8af8\u5cf6",
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":12,
+    "ne:NAME_LONG":"Glorioso Islands",
+    "ne:NAME_NL":"Glorieuzen",
+    "ne:NAME_PL":"Glorieuses",
+    "ne:NAME_PT":"Ilhas Gloriosas",
+    "ne:NAME_RU":"\u0413\u043b\u043e\u0440\u044c\u0451\u0437",
+    "ne:NAME_SORT":"Glorioso Islands",
+    "ne:NAME_SV":"Glorieuses\u00f6arna",
+    "ne:NAME_TR":"Glorioso Adas\u0131",
+    "ne:NAME_VI":"Qu\u1ea7n \u0111\u1ea3o Glorieuses",
+    "ne:NAME_ZH":"\u683c\u6d1b\u91cc\u5384\u65af\u7fa4\u5c9b",
+    "ne:NE_ID":1159320675,
+    "ne:NOTE_ADM0":"Fr.",
+    "ne:NOTE_BRK":"Admin. by France; Claimed by Madagascar",
+    "ne:POP_EST":20,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"GI",
+    "ne:REGION_UN":"Africa",
+    "ne:REGION_WB":"Sub-Saharan Africa",
+    "ne:SOVEREIGNT":"France",
+    "ne:SOV_A3":"FR1",
+    "ne:SUBREGION":"Eastern Africa",
+    "ne:SUBUNIT":"Glorioso Islands",
+    "ne:SU_A3":"GOI",
+    "ne:SU_DIF":1,
+    "ne:TINY":-99,
+    "ne:TYPE":"Geo subunit",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q236601",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":23424830,
+    "ne:WOE_ID_EH":23424830,
+    "ne:WOE_NOTE":"WOE admin-1 (territory) match.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"2017",
+    "wof:belongsto":[
+        102193527,
+        85632661,
+        102191581,
+        85633147,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320675,
+        "wd:id":"Q236601"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"fa95b7e3a2299825d456326311dfd9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632661,
+            "disputed_id":1159339577
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "disputed_id":1159339577,
+            "empire_id":136253037
+        }
+    ],
+    "wof:id":1159339577,
+    "wof:lastmodified":1528909940,
+    "wof:name":"Glorioso Islands",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.28793379000012,
+    -11.56991952899995,
+    47.30640709700015,
+    -11.55063241999989
+],
+  "geometry": {"coordinates":[[[47.28793379000012,-11.56552499799994],[47.29957116000003,-11.55063241999989],[47.30640709700015,-11.56991952899995],[47.28793379000012,-11.56552499799994]]],"type":"Polygon"}
+}

@@ -1,0 +1,226 @@
+{
+  "id": 1159339575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"54.51449629,-15.894056899,54.521332227,-15.885186456",
+    "geom:latitude":-15.889608,
+    "geom:longitude":54.518918,
+    "iso:country":"XX",
+    "lbl:latitude":-15.889521,
+    "lbl:longitude":54.518685,
+    "mps:latitude":-15.889521,
+    "mps:longitude":54.518685,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u062a\u0631\u0648\u0645\u0644\u064a\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Tromelin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u03a4\u03c1\u03bf\u03bc\u03b5\u03bb\u03ad\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Tromelin Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eele Tromelin"
+    ],
+    "name:hun_x_preferred":[
+        "Tromelin-sziget"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Tromelin"
+    ],
+    "name:ita_x_preferred":[
+        "Tromelin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ed\u30e1\u30ea\u30f3\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Tromelin"
+    ],
+    "name:pol_x_preferred":[
+        "Tromelin"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Tromelin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u043c\u043b\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Tromelin"
+    ],
+    "name:swe_x_preferred":[
+        "Tromelin\u00f6n"
+    ],
+    "name:tur_x_preferred":[
+        "Tromelin Adas\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "Tromelin"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u7f57\u59c6\u5170\u5c9b"
+    ],
+    "ne:ABBREV":"Trom. I.",
+    "ne:ABBREV_LEN":8,
+    "ne:ADM0_A3":"ATF",
+    "ne:ADM0_A3_IS":"ATF",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"ATF",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"French Southern and Antarctic Lands",
+    "ne:BRK_A3":"B25",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Tromelin I.",
+    "ne:CONTINENT":"Seven seas (open ocean)",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"TE",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":2.29,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"French Southern and Antarctic Lands",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"ATF",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":5,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":4,
+    "ne:LONG_LEN":15,
+    "ne:MAPCOLOR13":11,
+    "ne:MAPCOLOR7":7,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":9,
+    "ne:MAX_LABEL":10.7,
+    "ne:MIN_LABEL":5.7,
+    "ne:MIN_ZOOM":0,
+    "ne:NAME":"Tromelin I.",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u062c\u0632\u064a\u0631\u0629 \u062a\u0631\u0648\u0645\u0644\u064a\u0646",
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Tromelin",
+    "ne:NAME_EL":"\u039d\u03ae\u03c3\u03bf\u03c2 \u03a4\u03c1\u03bf\u03bc\u03b5\u03bb\u03ad\u03bd",
+    "ne:NAME_EN":"Tromelin Island",
+    "ne:NAME_ES":"Isla Tromelin",
+    "ne:NAME_FR":"\u00eele Tromelin",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":"Tromelin-sziget",
+    "ne:NAME_ID":"Pulau Tromelin",
+    "ne:NAME_IT":"Tromelin",
+    "ne:NAME_JA":"\u30c8\u30ed\u30e1\u30ea\u30f3\u5cf6",
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":11,
+    "ne:NAME_LONG":"Tromelin Island",
+    "ne:NAME_NL":"Tromelin",
+    "ne:NAME_PL":"Tromelin",
+    "ne:NAME_PT":"Ilha Tromelin",
+    "ne:NAME_RU":"\u0422\u0440\u043e\u043c\u043b\u0435\u043d",
+    "ne:NAME_SORT":"Tromelin Island",
+    "ne:NAME_SV":"Tromelin\u00f6n",
+    "ne:NAME_TR":"Tromelin Adas\u0131",
+    "ne:NAME_VI":"Tromelin",
+    "ne:NAME_ZH":"\u7279\u7f57\u59c6\u5170\u5c9b",
+    "ne:NE_ID":1159320679,
+    "ne:NOTE_ADM0":"Fr.",
+    "ne:NOTE_BRK":"Admin. by France; Claimed by Mauritius and the Seychelles",
+    "ne:POP_EST":20,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"TR",
+    "ne:REGION_UN":"Africa",
+    "ne:REGION_WB":"Sub-Saharan Africa",
+    "ne:SOVEREIGNT":"France",
+    "ne:SOV_A3":"FR1",
+    "ne:SUBREGION":"Eastern Africa",
+    "ne:SUBUNIT":"Tromelin Island",
+    "ne:SU_A3":"TEI",
+    "ne:SU_DIF":1,
+    "ne:TINY":-99,
+    "ne:TYPE":"Geo subunit",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q234208",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":23424959,
+    "ne:WOE_ID_EH":23424959,
+    "ne:WOE_NOTE":"WOE admin-1 (territory) match.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"2017",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        102193527,
+        85632357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320679,
+        "wd:id":"Q234208"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"dad667fea166548fa5c1b54551b9dd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "disputed_id":1159339575,
+            "empire_id":136253037
+        },
+        {
+            "continent_id":102193527,
+            "country_id":85632357,
+            "disputed_id":1159339575
+        }
+    ],
+    "wof:id":1159339575,
+    "wof:lastmodified":1528909940,
+    "wof:name":"Tromelin Island",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.51449629000012,
+    -15.89405689899991,
+    54.52133222700007,
+    -15.88518645599987
+],
+  "geometry": {"coordinates":[[[54.51449629000012,-15.88958098799986],[54.52092532600005,-15.88518645599987],[54.52133222700007,-15.89405689899991],[54.51449629000012,-15.88958098799986]]],"type":"Polygon"}
+}

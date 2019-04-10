@@ -1,0 +1,82 @@
+{
+  "id": 1126061259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.233554,27.157821,-80.233554,27.157821",
+    "geom:latitude":27.157821,
+    "geom:longitude":-80.233554,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":27.157821,
+    "lbl:longitude":-80.233554,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Everglades Plantation",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Florida",
+    "qs_pg:photos":471,
+    "qs_pg:photos_1k":95,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":471,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":899485,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55981851,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Florida",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085777,
+        85688651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55981851,
+        "qs_pg:id":899485
+    },
+    "wof:country":"XX",
+    "wof:created":1497308172,
+    "wof:geomhash":"eefd57917ccb936808adfef05325c1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085777,
+            "locality_id":-1,
+            "neighbourhood_id":1126061259,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":1126061259,
+    "wof:lastmodified":1509410205,
+    "wof:name":"Everglades Plantation",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.233554,
+    27.157821,
+    -80.233554,
+    27.157821
+],
+  "geometry": {"coordinates":[-80.233554,27.157821],"type":"Point"}
+}

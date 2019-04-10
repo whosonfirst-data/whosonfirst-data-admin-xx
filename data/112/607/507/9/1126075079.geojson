@@ -1,0 +1,82 @@
+{
+  "id": 1126075079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"140.2732595,38.156225,140.2732595,38.156225",
+    "geom:latitude":38.156225,
+    "geom:longitude":140.273259,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.156225,
+    "lbl:longitude":140.273259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\uff11\u4e01\u76ee",
+    "qs_pg:name_adm0":"\u65e5\u672c",
+    "qs_pg:name_adm1":"\u5c71\u5f62\u770c",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":995829,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424856,
+    "qs_pg:woe_id":28518404,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424856,
+    "woe:name_adm0":"\u65e5\u672c",
+    "woe:name_adm1":"\u5c71\u5f62\u770c",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632429,
+        1108740097,
+        85672853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28518404,
+        "qs_pg:id":995829
+    },
+    "wof:country":"XX",
+    "wof:created":1497310765,
+    "wof:geomhash":"9a5f892d394b59617855f8a434c1b1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632429,
+            "county_id":1108740097,
+            "locality_id":-1,
+            "neighbourhood_id":1126075079,
+            "region_id":85672853
+        }
+    ],
+    "wof:id":1126075079,
+    "wof:lastmodified":1509410873,
+    "wof:name":"\uff11\u4e01\u76ee",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    140.2732595,
+    38.156225,
+    140.2732595,
+    38.156225
+],
+  "geometry": {"coordinates":[140.27325949999999,38.156225],"type":"Point"}
+}

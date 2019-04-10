@@ -1,0 +1,223 @@
+{
+  "id": 1159339561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001627,
+    "geom:bbox":"40.329600457,-22.365492446,40.385996941,-22.314873956",
+    "geom:latitude":-22.339954,
+    "geom:longitude":40.353419,
+    "iso:country":"XX",
+    "lbl:latitude":-22.335347,
+    "lbl:longitude":40.344447,
+    "mps:latitude":-22.335347,
+    "mps:longitude":40.344447,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u064a\u0648\u0631\u0648\u0628\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Europa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Europa Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eele Europa"
+    ],
+    "name:hun_x_preferred":[
+        "Eur\u00f3pa-sziget"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Europa"
+    ],
+    "name:ita_x_preferred":[
+        "Europa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30ed\u30fc\u30d1\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Europa"
+    ],
+    "name:pol_x_preferred":[
+        "Europa"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Europa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Europa"
+    ],
+    "name:swe_x_preferred":[
+        "Europa"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Europa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b27\u7f57\u5df4\u5c9b"
+    ],
+    "ne:ABBREV":"E.I.",
+    "ne:ABBREV_LEN":4,
+    "ne:ADM0_A3":"ATF",
+    "ne:ADM0_A3_IS":"ATF",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"ATF",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"French Southern and Antarctic Lands",
+    "ne:BRK_A3":"B26",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Europa Island",
+    "ne:CONTINENT":"Africa",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"EU",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":6.86,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"French Southern and Antarctic Lands",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"ATF",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":6,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":4,
+    "ne:LONG_LEN":13,
+    "ne:MAPCOLOR13":11,
+    "ne:MAPCOLOR7":7,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":9,
+    "ne:MAX_LABEL":11,
+    "ne:MIN_LABEL":6,
+    "ne:MIN_ZOOM":0,
+    "ne:NAME":"Europa Island",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u062c\u0632\u064a\u0631\u0629 \u064a\u0648\u0631\u0648\u0628\u0627",
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Europa",
+    "ne:NAME_EL":"\u039d\u03ae\u03c3\u03bf\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7",
+    "ne:NAME_EN":"Europa Island",
+    "ne:NAME_ES":"Isla Europa",
+    "ne:NAME_FR":"\u00eele Europa",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":"Eur\u00f3pa-sziget",
+    "ne:NAME_ID":"Pulau Europa",
+    "ne:NAME_IT":"Europa",
+    "ne:NAME_JA":"\u30e6\u30ed\u30fc\u30d1\u5cf6",
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":13,
+    "ne:NAME_LONG":"Europa Island",
+    "ne:NAME_NL":"Europa",
+    "ne:NAME_PL":"Europa",
+    "ne:NAME_PT":"Ilha Europa",
+    "ne:NAME_RU":"\u0415\u0432\u0440\u043e\u043f\u0430",
+    "ne:NAME_SORT":"Europa Island",
+    "ne:NAME_SV":"Europa",
+    "ne:NAME_TR":null,
+    "ne:NAME_VI":"\u0110\u1ea3o Europa",
+    "ne:NAME_ZH":"\u6b27\u7f57\u5df4\u5c9b",
+    "ne:NE_ID":1159320667,
+    "ne:NOTE_ADM0":"Fr.",
+    "ne:NOTE_BRK":"Admin. by France; Claimed by Madagascar",
+    "ne:POP_EST":60,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"EI",
+    "ne:REGION_UN":"Africa",
+    "ne:REGION_WB":"Sub-Saharan Africa",
+    "ne:SOVEREIGNT":"France",
+    "ne:SOV_A3":"FR1",
+    "ne:SUBREGION":"Eastern Africa",
+    "ne:SUBUNIT":"Europa I.",
+    "ne:SU_A3":"EUI",
+    "ne:SU_DIF":1,
+    "ne:TINY":-99,
+    "ne:TYPE":"Geo subunit",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q193089",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":23424809,
+    "ne:WOE_ID_EH":23424809,
+    "ne:WOE_NOTE":"WOE admin-1 (territory) match.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "src:population:date":"2017",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        102191573,
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320667,
+        "wd:id":"Q193089"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"faeba5466071aea15612ffb3b101ce4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "disputed_id":1159339561,
+            "empire_id":136253037
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632223,
+            "disputed_id":1159339561
+        }
+    ],
+    "wof:id":1159339561,
+    "wof:lastmodified":1528909939,
+    "wof:name":"Europa Island",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":60,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.32960045700008,
+    -22.36549244599991,
+    40.38599694100009,
+    -22.31487395599993
+],
+  "geometry": {"coordinates":[[[40.37973066500007,-22.32390715899993],[40.37916100400008,-22.31487395599993],[40.38550866000008,-22.31780364399992],[40.38599694100009,-22.33945077899995],[40.36866295700008,-22.36256275799991],[40.34888756600009,-22.36549244599991],[40.33912194100009,-22.35963307099991],[40.33179772200003,-22.34807708099993],[40.32960045700008,-22.33123137799993],[40.33643639400009,-22.32048919099992],[40.34799238400007,-22.31707122199992],[40.35865319100009,-22.31601327899995],[40.36426842500003,-22.31894296699994],[40.36719811300009,-22.32968515399995],[40.36345462300005,-22.33489348799992],[40.35857181100005,-22.33863697699991],[40.35523522200003,-22.34498463299991],[40.36109459700003,-22.35084400799991],[40.37403405000003,-22.34970468499995],[40.38168379000007,-22.33904387799993],[40.37973066500007,-22.32390715899993]]],"type":"Polygon"}
+}

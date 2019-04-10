@@ -1,0 +1,83 @@
+{
+  "id": 1126101799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.031731,32.539083,-117.031731,32.539083",
+    "geom:latitude":32.539083,
+    "geom:longitude":-117.031731,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.539083,
+    "lbl:longitude":-117.031731,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Empleados Federales",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":569,
+    "qs_pg:photos_1k":115,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":569,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":61243,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55896627,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993551,
+        102074501,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55896627,
+        "qs_pg:id":61243
+    },
+    "wof:country":"XX",
+    "wof:created":1497316212,
+    "wof:geomhash":"26cb2d342a06e854253209ff99302f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":1126101799,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126101799,
+    "wof:lastmodified":1509412160,
+    "wof:name":"Empleados Federales",
+    "wof:parent_id":101993551,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.031731,
+    32.539083,
+    -117.031731,
+    32.539083
+],
+  "geometry": {"coordinates":[-117.03173099999999,32.539083],"type":"Point"}
+}

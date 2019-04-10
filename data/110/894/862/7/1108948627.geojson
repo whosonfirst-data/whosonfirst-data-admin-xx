@@ -1,0 +1,92 @@
+{
+  "id": 1108948627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75339160118,44.429302748,8.75339160118,44.429302748",
+    "geom:latitude":44.429303,
+    "geom:longitude":8.753392,
+    "iso:country":"XX",
+    "lbl:latitude":44.429303,
+    "lbl:longitude":8.753392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Voltri"
+    ],
+    "name:eng_x_preferred":[
+        "Voltri"
+    ],
+    "name:fre_x_preferred":[
+        "Voltri"
+    ],
+    "name:ger_x_preferred":[
+        "Voltri"
+    ],
+    "name:ita_x_preferred":[
+        "Voltri"
+    ],
+    "name:lat_x_preferred":[
+        "Vulturium"
+    ],
+    "name:spa_x_preferred":[
+        "Voltri"
+    ],
+    "name:swe_x_preferred":[
+        "Voltri"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        404471975,
+        85633253,
+        404227507,
+        101752663,
+        85685219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1516072"
+    },
+    "wof:country":"XX",
+    "wof:created":1491367133,
+    "wof:geomhash":"e18d2876ac22ea8f149a52e62c1fbc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404471975,
+            "locality_id":101752663,
+            "macroregion_id":404227507,
+            "neighbourhood_id":1108948627,
+            "region_id":85685219
+        }
+    ],
+    "wof:id":1108948627,
+    "wof:lastmodified":1514503116,
+    "wof:name":"Voltri",
+    "wof:parent_id":101752663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75339160117767,
+    44.4293027480163,
+    8.75339160117767,
+    44.4293027480163
+],
+  "geometry": {"coordinates":[8.75339160117767,44.4293027480163],"type":"Point"}
+}

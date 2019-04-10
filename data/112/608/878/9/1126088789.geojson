@@ -1,0 +1,83 @@
+{
+  "id": 1126088789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.212211,31.771697,35.212211,31.771697",
+    "geom:latitude":31.771697,
+    "geom:longitude":35.212211,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":31.771697,
+    "lbl:longitude":35.212211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kiryat Shmu'el",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Jerusalem",
+    "qs_pg:photos":451,
+    "qs_pg:photos_1k":91,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":451,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":890606,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22724685,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Jerusalem",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        421168681,
+        1108720823,
+        85672551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724685,
+        "qs_pg:id":890606
+    },
+    "wof:country":"XX",
+    "wof:created":1497313261,
+    "wof:geomhash":"38c7c71f46c9033218f5267c5aa1ff88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720823,
+            "locality_id":421168681,
+            "neighbourhood_id":1126088789,
+            "region_id":85672551
+        }
+    ],
+    "wof:id":1126088789,
+    "wof:lastmodified":1549930554,
+    "wof:name":"Kiryat Shmu'el",
+    "wof:parent_id":421168681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.212211,
+    31.771697,
+    35.212211,
+    31.771697
+],
+  "geometry": {"coordinates":[35.212211,31.771697],"type":"Point"}
+}

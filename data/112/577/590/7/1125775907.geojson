@@ -1,0 +1,82 @@
+{
+  "id": 1125775907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0155425,62.3040825,-7.0155425,62.3040825",
+    "geom:latitude":62.304082,
+    "geom:longitude":-7.015542,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":62.304082,
+    "lbl:longitude":-7.015542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ei\u00ffi",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Nor\u00f0ara Eysturoy",
+    "qs_pg:photos":498,
+    "qs_pg:photos_1k":101,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":498,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077644,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Nor\u00f0ara Eysturoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472621,
+        "qs_pg:id":1077644
+    },
+    "wof:country":"XX",
+    "wof:created":1497290255,
+    "wof:geomhash":"7d9a1ab8d403972bb6b294e52e7c31d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125775907,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1125775907,
+    "wof:lastmodified":1509998566,
+    "wof:name":"Ei\u00ffi",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0155425,
+    62.3040825,
+    -7.0155425,
+    62.3040825
+],
+  "geometry": {"coordinates":[-7.0155425,62.3040825],"type":"Point"}
+}

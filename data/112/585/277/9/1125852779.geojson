@@ -1,0 +1,125 @@
+{
+  "id": 1125852779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.743328,13.461948,144.743328,13.461948",
+    "geom:latitude":13.461948,
+    "geom:longitude":144.743328,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":13.461948,
+    "lbl:longitude":144.743328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cha_x_preferred":[
+        "Tutuhan"
+    ],
+    "name:dut_x_preferred":[
+        "Agana Heights"
+    ],
+    "name:eng_x_preferred":[
+        "Agana Heights"
+    ],
+    "name:fin_x_preferred":[
+        "Agana Heights"
+    ],
+    "name:fre_x_preferred":[
+        "Agana Heights"
+    ],
+    "name:ita_x_preferred":[
+        "Agana Heights"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ac\u30cb\u30e3\u30fb\u30cf\u30a4\u30c4"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u06af\u0627\u0646\u0627 \u0647\u0627\u06cc\u062a\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Hag\u00e5t\u00f1a Heights"
+    ],
+    "name:por_x_preferred":[
+        "Agana Heights"
+    ],
+    "name:spa_x_preferred":[
+        "Altos de Aga\u00f1a"
+    ],
+    "name:swe_x_preferred":[
+        "Agana Heights Municipality"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u06af\u0627\u0646\u0627 \u06c1\u0627\u0626\u0679\u0633\u060c \u06af\u0648\u0627\u0645"
+    ],
+    "name:war_x_preferred":[
+        "Agana Heights"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Agana Heights",
+    "qs_pg:name_adm0":"Guam",
+    "qs_pg:name_adm1":"Agana Heights",
+    "qs_pg:photos":155,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":155,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1176622,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424832,
+    "qs_pg:woe_id":15021077,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424832,
+    "woe:name_adm0":"Guam",
+    "woe:name_adm1":"Agana Heights",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15021077,
+        "qs_pg:id":1176622,
+        "wd:id":"Q2714496"
+    },
+    "wof:country":"XX",
+    "wof:created":1497293486,
+    "wof:geomhash":"52f803363eb47ed938996587eadf7196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1125852779,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":1125852779,
+    "wof:lastmodified":1514502950,
+    "wof:name":"Agana Heights",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.743328,
+    13.461948,
+    144.743328,
+    13.461948
+],
+  "geometry": {"coordinates":[144.74332799999999,13.461948],"type":"Point"}
+}

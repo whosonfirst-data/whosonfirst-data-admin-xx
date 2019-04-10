@@ -1,0 +1,75 @@
+{
+  "id": 1126027963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "gn:gn_country":"RU",
+    "iso:country":"XX",
+    "lbl:latitude":0.0,
+    "lbl:longitude":0.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":"RU",
+    "qs_pg:name":"Al'met'yevsk",
+    "qs_pg:name_adm0":"Russia",
+    "qs_pg:name_adm1":"Tatarstan Republic",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":583669,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424936,
+    "qs_pg:woe_id":1980856,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424936,
+    "woe:name_adm0":"Russia",
+    "woe:name_adm1":"Tatarstan Republic",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1980856,
+        "qs_pg:id":583669
+    },
+    "wof:country":"XX",
+    "wof:created":1497301259,
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632685,
+            "locality_id":1126027963
+        }
+    ],
+    "wof:id":1126027963,
+    "wof:lastmodified":1505249144,
+    "wof:name":"Al'met'yevsk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

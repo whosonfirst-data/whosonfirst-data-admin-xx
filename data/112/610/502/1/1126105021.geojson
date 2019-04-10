@@ -1,0 +1,83 @@
+{
+  "id": 1126105021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-155.790385,19.934461,-155.790385,19.934461",
+    "geom:latitude":19.934461,
+    "geom:longitude":-155.790385,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.934461,
+    "lbl:longitude":-155.790385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Waikoloa Ahupua`a",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Hawaii",
+    "qs_pg:photos":489,
+    "qs_pg:photos_1k":99,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":489,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":425750,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55986153,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Hawaii",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85937403,
+        102085433,
+        85688671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55986153,
+        "qs_pg:id":425750
+    },
+    "wof:country":"XX",
+    "wof:created":1497316754,
+    "wof:geomhash":"c1a50ed385256d3025a9a7056c4a0381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937403,
+            "neighbourhood_id":1126105021,
+            "region_id":85688671
+        }
+    ],
+    "wof:id":1126105021,
+    "wof:lastmodified":1509412327,
+    "wof:name":"Waikoloa Ahupua`a",
+    "wof:parent_id":85937403,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.790385,
+    19.934461,
+    -155.790385,
+    19.934461
+],
+  "geometry": {"coordinates":[-155.79038499999999,19.934461],"type":"Point"}
+}

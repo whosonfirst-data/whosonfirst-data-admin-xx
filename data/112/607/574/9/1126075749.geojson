@@ -1,0 +1,107 @@
+{
+  "id": 1126075749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.290466,40.905436,14.290466,40.905436",
+    "geom:latitude":40.905436,
+    "geom:longitude":14.290466,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.905436,
+    "lbl:longitude":14.290466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "San Pietro a Patierno"
+    ],
+    "name:eng_x_preferred":[
+        "San Pietro a Patierno"
+    ],
+    "name:fre_x_preferred":[
+        "San Pietro a Patierno"
+    ],
+    "name:ger_x_preferred":[
+        "San Pietro a Patierno"
+    ],
+    "name:hun_x_preferred":[
+        "San Pietro a Patierno"
+    ],
+    "name:ita_x_preferred":[
+        "San Pietro a Patierno"
+    ],
+    "name:nap_x_preferred":[
+        "San Pietro a Patierno"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Pietro A Patierno",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Campania",
+    "qs_pg:photos":337,
+    "qs_pg:photos_1k":68,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":337,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1267677,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":20105241,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Campania",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        404460919,
+        85633253,
+        404227525,
+        101752547,
+        85685487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105241,
+        "qs_pg:id":1267677,
+        "wd:id":"Q1085929"
+    },
+    "wof:country":"XX",
+    "wof:created":1497310958,
+    "wof:geomhash":"b1e6cfea9cd50255d762e87cddc31fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404460919,
+            "locality_id":101752547,
+            "macroregion_id":404227525,
+            "neighbourhood_id":1126075749,
+            "region_id":85685487
+        }
+    ],
+    "wof:id":1126075749,
+    "wof:lastmodified":1553816734,
+    "wof:name":"San Pietro A Patierno",
+    "wof:parent_id":101752547,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.290466,
+    40.905436,
+    14.290466,
+    40.905436
+],
+  "geometry": {"coordinates":[14.290466,40.905436],"type":"Point"}
+}

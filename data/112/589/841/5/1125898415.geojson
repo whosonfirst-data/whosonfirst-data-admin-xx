@@ -1,0 +1,392 @@
+{
+  "id": 1125898415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.29189,-20.9373,55.29189,-20.9373",
+    "geom:latitude":-20.9373,
+    "geom:longitude":55.29189,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":40771,
+    "gn:population":40771,
+    "iso:country":"XX",
+    "lbl:latitude":-20.9373,
+    "lbl:longitude":55.29189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Le Port"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648 \u0628\u0648\u0631\u062a\u060c \u0631\u064a\u0648\u0646\u064a\u0648\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Le Port"
+    ],
+    "name:ast_x_preferred":[
+        "Le Port"
+    ],
+    "name:bam_x_preferred":[
+        "Le Port"
+    ],
+    "name:baq_x_preferred":[
+        "Le Port"
+    ],
+    "name:bar_x_preferred":[
+        "Le Port"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7 \u09aa\u09cb\u09b0\u09cd\u099f"
+    ],
+    "name:bre_x_preferred":[
+        "Le Port"
+    ],
+    "name:cat_x_preferred":[
+        "Le Port"
+    ],
+    "name:chi_x_preferred":[
+        "\u52d2\u6ce2\u723e\uff08\u7559\u5c3c\u65fa\u5cf6\uff09"
+    ],
+    "name:cos_x_preferred":[
+        "Le Port"
+    ],
+    "name:cze_x_preferred":[
+        "Le Port"
+    ],
+    "name:dan_x_preferred":[
+        "Le Port"
+    ],
+    "name:dut_x_preferred":[
+        "Le Port"
+    ],
+    "name:eng_x_preferred":[
+        "Le Port"
+    ],
+    "name:epo_x_preferred":[
+        "Le Port"
+    ],
+    "name:est_x_preferred":[
+        "Le Port"
+    ],
+    "name:fao_x_preferred":[
+        "Le Port"
+    ],
+    "name:fin_x_preferred":[
+        "Le Port"
+    ],
+    "name:frc_x_preferred":[
+        "Le Port"
+    ],
+    "name:fre_x_preferred":[
+        "Le Port"
+    ],
+    "name:frp_x_preferred":[
+        "Le Port"
+    ],
+    "name:fur_x_preferred":[
+        "Le Port"
+    ],
+    "name:ger_x_preferred":[
+        "Le Port"
+    ],
+    "name:gla_x_preferred":[
+        "Le Port"
+    ],
+    "name:gle_x_preferred":[
+        "Le Port"
+    ],
+    "name:glg_x_preferred":[
+        "Le Port"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b5 \u03a0\u03bf\u03c1\u03c4"
+    ],
+    "name:gsw_x_preferred":[
+        "Le Port"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac7 \u0aaa\u0acb\u0ab0\u0acd\u0a9f"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932 \u092a\u094b\u0930\u094d\u091f"
+    ],
+    "name:hrv_x_preferred":[
+        "Le Port"
+    ],
+    "name:hun_x_preferred":[
+        "Le Port"
+    ],
+    "name:ice_x_preferred":[
+        "Le Port"
+    ],
+    "name:ido_x_preferred":[
+        "Le Port"
+    ],
+    "name:ile_x_preferred":[
+        "Le Port"
+    ],
+    "name:ina_x_preferred":[
+        "Le Port"
+    ],
+    "name:ind_x_preferred":[
+        "Le Port"
+    ],
+    "name:ita_x_preferred":[
+        "Le Port"
+    ],
+    "name:jam_x_preferred":[
+        "Le Port"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fb\u30dd\u30fc\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Le Port"
+    ],
+    "name:kal_x_preferred":[
+        "Le Port"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc6 \u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd"
+    ],
+    "name:kon_x_preferred":[
+        "Le Port"
+    ],
+    "name:kor_x_preferred":[
+        "\ub974 \ud3ec\ud2b8"
+    ],
+    "name:lav_x_preferred":[
+        "Le Port"
+    ],
+    "name:lij_x_preferred":[
+        "Le Port"
+    ],
+    "name:lim_x_preferred":[
+        "Le Port"
+    ],
+    "name:lit_x_preferred":[
+        "Le Port"
+    ],
+    "name:ltz_x_preferred":[
+        "Le Port"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0947 \u092a\u094b\u0930\u094d\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Le Port"
+    ],
+    "name:min_x_preferred":[
+        "Le Port"
+    ],
+    "name:mlg_x_preferred":[
+        "Le Port"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648 \u067e\u0648\u0631\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+    ],
+    "name:nap_x_preferred":[
+        "Le Port"
+    ],
+    "name:nds_x_preferred":[
+        "Le Port"
+    ],
+    "name:nno_x_preferred":[
+        "Le Port"
+    ],
+    "name:nob_x_preferred":[
+        "Le Port"
+    ],
+    "name:nrm_x_preferred":[
+        "Le Port"
+    ],
+    "name:oci_x_preferred":[
+        "Le Port"
+    ],
+    "name:pap_x_preferred":[
+        "Le Port"
+    ],
+    "name:pcd_x_preferred":[
+        "Le Port"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648 \u067e\u0648\u0631\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Le Port"
+    ],
+    "name:pol_x_preferred":[
+        "Le Port"
+    ],
+    "name:por_x_preferred":[
+        "Le Port"
+    ],
+    "name:prg_x_preferred":[
+        "Le Port"
+    ],
+    "name:rgn_x_preferred":[
+        "Le Port"
+    ],
+    "name:roh_x_preferred":[
+        "Le Port"
+    ],
+    "name:rum_x_preferred":[
+        "Le Port"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435-\u041f\u043e\u0440\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "Le Port"
+    ],
+    "name:sco_x_preferred":[
+        "Le Port"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd9 \u0db4\u0ddc\u0dbb\u0dca\u0da7\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "Le Port"
+    ],
+    "name:spa_x_preferred":[
+        "Le Port"
+    ],
+    "name:srd_x_preferred":[
+        "Le Port"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435 \u041f\u043e\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Le Port"
+    ],
+    "name:swe_x_preferred":[
+        "Le Port"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc7 \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c47 \u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e25\u0e2d \u0e1b\u0e2d\u0e23\u0e4c\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Le Port"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041f\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "La Point-aux-galets"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06d2 \u067e\u0648\u0631\u0679"
+    ],
+    "name:vec_x_preferred":[
+        "Le Port"
+    ],
+    "name:vie_x_preferred":[
+        "Le Port"
+    ],
+    "name:vls_x_preferred":[
+        "Le Port"
+    ],
+    "name:vmf_x_preferred":[
+        "Le Port"
+    ],
+    "name:vol_x_preferred":[
+        "Le Port"
+    ],
+    "name:war_x_preferred":[
+        "Le Port"
+    ],
+    "name:wel_x_preferred":[
+        "Le Port"
+    ],
+    "name:wln_x_preferred":[
+        "Le Port"
+    ],
+    "name:wol_x_preferred":[
+        "Le Port"
+    ],
+    "name:zul_x_preferred":[
+        "Le Port"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":935616,
+    "qs_pg:gn_pop":40771,
+    "qs_pg:name":"Le Port",
+    "qs_pg:name_adm0":"La R\u00e9union",
+    "qs_pg:name_adm1":"Saint-Denis",
+    "qs_pg:photos":69,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":69,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":211605,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424931,
+    "qs_pg:woe_id":1410134,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424931,
+    "woe:name_adm0":"La R\u00e9union",
+    "woe:name_adm1":"Saint-Denis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935616,
+        "gp:id":1410134,
+        "qs_pg:id":211605,
+        "wd:id":"Q956943"
+    },
+    "wof:country":"XX",
+    "wof:created":1497295692,
+    "wof:geomhash":"e6fab6edc32908598c3d9cb69fc55ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125898415,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1125898415,
+    "wof:lastmodified":1531422076,
+    "wof:name":"Le Port",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:population":40771,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.29189,
+    -20.9373,
+    55.29189,
+    -20.9373
+],
+  "geometry": {"coordinates":[55.29189,-20.9373],"type":"Point"}
+}

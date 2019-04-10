@@ -1,0 +1,83 @@
+{
+  "id": 1126098859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.064543,15.860627,-97.064543,15.860627",
+    "geom:latitude":15.860627,
+    "geom:longitude":-97.064543,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":15.860627,
+    "lbl:longitude":-97.064543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sect Reforma",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Oaxaca",
+    "qs_pg:photos":85,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":85,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1343969,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55916407,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Oaxaca",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101996231,
+        102075841,
+        85686623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55916407,
+        "qs_pg:id":1343969
+    },
+    "wof:country":"XX",
+    "wof:created":1497315674,
+    "wof:geomhash":"4eb1b145539737911238d83e6f77fee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075841,
+            "locality_id":101996231,
+            "neighbourhood_id":1126098859,
+            "region_id":85686623
+        }
+    ],
+    "wof:id":1126098859,
+    "wof:lastmodified":1509412016,
+    "wof:name":"Sect Reforma",
+    "wof:parent_id":101996231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.064543,
+    15.860627,
+    -97.064543,
+    15.860627
+],
+  "geometry": {"coordinates":[-97.064543,15.860627],"type":"Point"}
+}

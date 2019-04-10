@@ -1,0 +1,87 @@
+{
+  "id": 1126103611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.453527,37.540038,-77.453527,37.540038",
+    "geom:latitude":37.540038,
+    "geom:longitude":-77.453527,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.540038,
+    "lbl:longitude":-77.453527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Oregon Hill"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Oregon Hill",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":2000,
+    "qs_pg:photos_1k":405,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2000,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":382837,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55861434,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55861434,
+        "qs_pg:id":382837,
+        "wd:id":"Q7101231"
+    },
+    "wof:country":"XX",
+    "wof:created":1497316535,
+    "wof:geomhash":"ff4f4b1f59ccd10f2080cde1015d60bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":1126103611,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126103611,
+    "wof:lastmodified":1514503074,
+    "wof:name":"Oregon Hill",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.453527,
+    37.540038,
+    -77.453527,
+    37.540038
+],
+  "geometry": {"coordinates":[-77.45352699999999,37.540038],"type":"Point"}
+}

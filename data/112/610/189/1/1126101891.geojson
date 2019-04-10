@@ -1,0 +1,82 @@
+{
+  "id": 1126101891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.020018,24.876898,67.020018,24.876898",
+    "geom:latitude":24.876898,
+    "geom:longitude":67.020018,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":24.876898,
+    "lbl:longitude":67.020018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lorens-road",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Sindh",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238891,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":22726252,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Sindh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726252,
+        "qs_pg:id":238891
+    },
+    "wof:country":"XX",
+    "wof:created":1497316229,
+    "wof:geomhash":"3b7c30a89c0754d56e5b0221a4c82d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":-1,
+            "neighbourhood_id":1126101891,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1126101891,
+    "wof:lastmodified":1509412164,
+    "wof:name":"Lorens-road",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.020018,
+    24.876898,
+    67.020018,
+    24.876898
+],
+  "geometry": {"coordinates":[67.02001799999999,24.876898],"type":"Point"}
+}

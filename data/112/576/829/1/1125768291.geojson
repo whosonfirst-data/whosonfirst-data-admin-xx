@@ -1,0 +1,112 @@
+{
+  "id": 1125768291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.158666,46.612844,15.158666,46.612844",
+    "geom:latitude":46.612844,
+    "geom:longitude":15.158666,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.612844,
+    "lbl:longitude":15.158666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Muta"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Muta"
+    ],
+    "name:eng_x_preferred":[
+        "Muta"
+    ],
+    "name:rum_x_preferred":[
+        "Muta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0442\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Muta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0443\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0442\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Muta"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Muta",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radlje Ob Dravi",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075971,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530882,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Radlje Ob Dravi",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959727,
+        85633779,
+        1108959955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":530882,
+        "qs_pg:id":1075971,
+        "wd:id":"Q1009362"
+    },
+    "wof:country":"XX",
+    "wof:created":1497289974,
+    "wof:geomhash":"09868501a1ff57ad570587872128bc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959727,
+            "locality_id":1125768291,
+            "region_id":1108959955
+        }
+    ],
+    "wof:id":1125768291,
+    "wof:lastmodified":1531170445,
+    "wof:name":"Muta",
+    "wof:parent_id":1108959727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.158666,
+    46.612844,
+    15.158666,
+    46.612844
+],
+  "geometry": {"coordinates":[15.158666,46.612844],"type":"Point"}
+}

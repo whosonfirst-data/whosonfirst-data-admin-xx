@@ -1,0 +1,82 @@
+{
+  "id": 1126086023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.976547,41.005625,28.976547,41.005625",
+    "geom:latitude":41.005625,
+    "geom:longitude":28.976547,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.005625,
+    "lbl:longitude":28.976547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Binbirdirek",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":11224,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":50,
+    "qs_pg:photos_9r":16,
+    "qs_pg:photos_all":11224,
+    "qs_pg:photos_sr":26,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":501193,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724032,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724032,
+        "qs_pg:id":501193
+    },
+    "wof:country":"XX",
+    "wof:created":1497312810,
+    "wof:geomhash":"71c6049fa58e44c92fa8c3911c84c391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":-1,
+            "neighbourhood_id":1126086023,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126086023,
+    "wof:lastmodified":1509411405,
+    "wof:name":"Binbirdirek",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.976547,
+    41.005625,
+    28.976547,
+    41.005625
+],
+  "geometry": {"coordinates":[28.976547,41.005625],"type":"Point"}
+}

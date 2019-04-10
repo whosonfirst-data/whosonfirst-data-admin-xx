@@ -1,0 +1,81 @@
+{
+  "id": 1126071681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.658235,41.15879,-8.658235,41.15879",
+    "geom:latitude":41.15879,
+    "geom:longitude":-8.658235,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.15879,
+    "lbl:longitude":-8.658235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lordelo do Ouro",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":3091,
+    "qs_pg:photos_1k":626,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3091,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1193756,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742770,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101752093,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":742770,
+        "qs_pg:id":1193756
+    },
+    "wof:country":"XX",
+    "wof:created":1497310043,
+    "wof:geomhash":"08421c102c3a81cfd98957f50d9699e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":1126071681,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1126071681,
+    "wof:lastmodified":1509410708,
+    "wof:name":"Lordelo do Ouro",
+    "wof:parent_id":101752093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.658235,
+    41.15879,
+    -8.658235,
+    41.15879
+],
+  "geometry": {"coordinates":[-8.658235,41.15879],"type":"Point"}
+}

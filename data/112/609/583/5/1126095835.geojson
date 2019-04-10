@@ -1,0 +1,83 @@
+{
+  "id": 1126095835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.988098,-3.138405,-59.988098,-3.138405",
+    "geom:latitude":-3.138405,
+    "geom:longitude":-59.988098,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-3.138405,
+    "lbl:longitude":-59.988098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Crespo",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Amazonas",
+    "qs_pg:photos":181,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":181,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091043,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066780,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Amazonas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        101941913,
+        102050371,
+        85681885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56066780,
+        "qs_pg:id":1091043
+    },
+    "wof:country":"XX",
+    "wof:created":1497315192,
+    "wof:geomhash":"4eeef403fea51f75be71e31b7eb8bb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050371,
+            "locality_id":101941913,
+            "neighbourhood_id":1126095835,
+            "region_id":85681885
+        }
+    ],
+    "wof:id":1126095835,
+    "wof:lastmodified":1509411878,
+    "wof:name":"Crespo",
+    "wof:parent_id":101941913,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.988098,
+    -3.138405,
+    -59.988098,
+    -3.138405
+],
+  "geometry": {"coordinates":[-59.988098,-3.138405],"type":"Point"}
+}

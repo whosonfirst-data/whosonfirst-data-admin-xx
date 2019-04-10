@@ -1,0 +1,75 @@
+{
+  "id": 1125897245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "gn:gn_country":"MM",
+    "iso:country":"XX",
+    "lbl:latitude":0.0,
+    "lbl:longitude":0.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":"MM",
+    "qs_pg:name":"Pa-an",
+    "qs_pg:name_adm0":"Myanmar",
+    "qs_pg:name_adm1":"Karan State",
+    "qs_pg:photos":119,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":119,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1104751,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424763,
+    "qs_pg:woe_id":1017749,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424763,
+    "woe:name_adm0":"Myanmar",
+    "woe:name_adm1":"Karan State",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1017749,
+        "qs_pg:id":1104751
+    },
+    "wof:country":"XX",
+    "wof:created":1497295632,
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632181,
+            "locality_id":1125897245
+        }
+    ],
+    "wof:id":1125897245,
+    "wof:lastmodified":1505248702,
+    "wof:name":"Pa-an",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

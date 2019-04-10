@@ -1,0 +1,82 @@
+{
+  "id": 1126088743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.66297,32.565984,-116.66297,32.565984",
+    "geom:latitude":32.565984,
+    "geom:longitude":-116.66297,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.565984,
+    "lbl:longitude":-116.66297,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fracc Colinas Del Cuchuma",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":195,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":195,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":889560,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55897323,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102074503,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55897323,
+        "qs_pg:id":889560
+    },
+    "wof:country":"XX",
+    "wof:created":1497313245,
+    "wof:geomhash":"29d36da4a4cc8be60157ca2014d06641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074503,
+            "locality_id":-1,
+            "neighbourhood_id":1126088743,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126088743,
+    "wof:lastmodified":1509411534,
+    "wof:name":"Fracc Colinas Del Cuchuma",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.66297,
+    32.565984,
+    -116.66297,
+    32.565984
+],
+  "geometry": {"coordinates":[-116.66297,32.565984],"type":"Point"}
+}

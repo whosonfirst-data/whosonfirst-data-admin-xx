@@ -1,0 +1,82 @@
+{
+  "id": 1126104493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.305328,-4.30965,15.305328,-4.30965",
+    "geom:latitude":-4.30965,
+    "geom:longitude":15.305328,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-4.30965,
+    "lbl:longitude":15.305328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"L\u00e9o-Est",
+    "qs_pg:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "qs_pg:name_adm1":"Kinshasa",
+    "qs_pg:photos":151,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":151,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115216,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424780,
+    "qs_pg:woe_id":1291033,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424780,
+    "woe:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "woe:name_adm1":"Kinshasa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        1091679225,
+        85669997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1291033,
+        "qs_pg:id":1115216
+    },
+    "wof:country":"XX",
+    "wof:created":1497316681,
+    "wof:geomhash":"f52598ecb9b88ea923d6c56c3efe67fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":-1,
+            "neighbourhood_id":1126104493,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1126104493,
+    "wof:lastmodified":1509412304,
+    "wof:name":"L\u00e9o-Est",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.305328,
+    -4.30965,
+    15.305328,
+    -4.30965
+],
+  "geometry": {"coordinates":[15.305328,-4.30965],"type":"Point"}
+}

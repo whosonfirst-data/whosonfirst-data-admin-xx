@@ -1,0 +1,83 @@
+{
+  "id": 1126099263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.220361,19.713899,-99.220361,19.713899",
+    "geom:latitude":19.713899,
+    "geom:longitude":-99.220361,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.713899,
+    "lbl:longitude":-99.220361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Barrio San Martin",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":793,
+    "qs_pg:photos_1k":161,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":793,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":234238,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55900537,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991839,
+        102074033,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55900537,
+        "qs_pg:id":234238
+    },
+    "wof:country":"XX",
+    "wof:created":1497315758,
+    "wof:geomhash":"e48327693268e685c18719bc65d4a6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074033,
+            "locality_id":101991839,
+            "neighbourhood_id":1126099263,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126099263,
+    "wof:lastmodified":1509412033,
+    "wof:name":"Barrio San Martin",
+    "wof:parent_id":101991839,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.220361,
+    19.713899,
+    -99.220361,
+    19.713899
+],
+  "geometry": {"coordinates":[-99.220361,19.713899],"type":"Point"}
+}

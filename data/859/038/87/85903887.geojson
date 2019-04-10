@@ -1,0 +1,106 @@
+{
+  "id": 85903887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9879214.756571,
+    "geom:bbox":"80.331596,13.230658,80.331596,13.230658",
+    "geom:latitude":13.230658,
+    "geom:longitude":80.331596,
+    "iso:country":"XX",
+    "lbl:latitude":13.230658,
+    "lbl:longitude":80.331596,
+    "mps:latitude":13.230077,
+    "mps:longitude":80.329285,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kathivakkam"
+    ],
+    "name:eng_x_variant":[
+        "Kattivakkam"
+    ],
+    "name:und_x_preferred":[
+        "Kattiv\u0101kkam"
+    ],
+    "name:unk_x_variant":[
+        "Kathivakkam"
+    ],
+    "qs:gn_adm0_cc":"IN",
+    "qs:gn_id":0,
+    "qs:gn_local":1254331,
+    "qs:gn_nam_loc":"tiruvallur",
+    "qs:gn_namadm1":"25",
+    "qs:id":0,
+    "qs:local_max":148,
+    "qs:local_sum":450,
+    "qs:localhoods":11,
+    "qs:name":"Kathivakkam",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Tamil Nadu",
+    "qs:name_adm2":"Thiruvallur",
+    "qs:name_local":"Tiruvallur",
+    "qs:photo_max":18,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424848,
+    "qs:woe_adm1":2345758,
+    "qs:woe_adm2":12586703,
+    "qs:woe_lau":0,
+    "qs:woe_local":2287533,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":319,
+    "wof:belongs_to":[],
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2279752,
+        "wd:id":"Q658886"
+    },
+    "wof:country":"XX",
+    "wof:geomhash":"213eabc6236d7d312654a78d584e464e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85903887,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85903887,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936127,
+    "wof:name":"Kathivakkam",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.331596,
+    13.230658,
+    80.331596,
+    13.230658
+],
+  "geometry": {"coordinates":[80.331596,13.230658],"type":"Point"}
+}

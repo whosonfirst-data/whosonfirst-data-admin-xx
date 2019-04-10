@@ -1,0 +1,120 @@
+{
+  "id": 1126100221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.062,18.452795,-66.062,18.452795",
+    "geom:latitude":18.452795,
+    "geom:longitude":-66.062,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":18.452795,
+    "lbl:longitude":-66.062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0578\u0582\u0580\u057d\u0565"
+    ],
+    "name:cat_x_preferred":[
+        "Santurce"
+    ],
+    "name:dut_x_preferred":[
+        "Santurce"
+    ],
+    "name:eng_x_preferred":[
+        "Santurce"
+    ],
+    "name:fre_x_preferred":[
+        "Santurce"
+    ],
+    "name:glg_x_preferred":[
+        "Santurce"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d5\u05e8\u05e7\u05d4"
+    ],
+    "name:pol_x_preferred":[
+        "Santurce"
+    ],
+    "name:sco_x_preferred":[
+        "Santurce"
+    ],
+    "name:spa_x_preferred":[
+        "Santurce"
+    ],
+    "name:wel_x_preferred":[
+        "Santurce"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Santurce",
+    "qs_pg:name_adm0":"Puerto Rico",
+    "qs_pg:name_adm1":"San Juan",
+    "qs_pg:photos":727,
+    "qs_pg:photos_1k":147,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":727,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236258,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424935,
+    "qs_pg:woe_id":15021133,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424935,
+    "woe:name_adm0":"Puerto Rico",
+    "woe:name_adm1":"San Juan",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85633729,
+        102191575,
+        101919427,
+        136253057,
+        102080441,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15021133,
+        "qs_pg:id":236258,
+        "wd:id":"Q511729"
+    },
+    "wof:country":"XX",
+    "wof:created":1497315916,
+    "wof:geomhash":"4fb31a4950ecde72cc6d341d6c71d547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":1126100221,
+            "region_id":85687331
+        }
+    ],
+    "wof:id":1126100221,
+    "wof:lastmodified":1514503094,
+    "wof:name":"Santurce",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.062,
+    18.452795,
+    -66.062,
+    18.452795
+],
+  "geometry": {"coordinates":[-66.062,18.452795],"type":"Point"}
+}

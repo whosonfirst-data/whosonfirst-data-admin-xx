@@ -1,0 +1,82 @@
+{
+  "id": 1126067605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.31406,30.499826,-84.31406,30.499826",
+    "geom:latitude":30.499826,
+    "geom:longitude":-84.31406,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":30.499826,
+    "lbl:longitude":-84.31406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Northwest Tallahassee",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Florida",
+    "qs_pg:photos":181,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":181,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225546,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55862100,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Florida",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085783,
+        85688651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862100,
+        "qs_pg:id":225546
+    },
+    "wof:country":"XX",
+    "wof:created":1497309154,
+    "wof:geomhash":"6d6320aa17c05003d9ff3fea14d87e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085783,
+            "locality_id":-1,
+            "neighbourhood_id":1126067605,
+            "region_id":85688651
+        }
+    ],
+    "wof:id":1126067605,
+    "wof:lastmodified":1509410505,
+    "wof:name":"Northwest Tallahassee",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.31406,
+    30.499826,
+    -84.31406,
+    30.499826
+],
+  "geometry": {"coordinates":[-84.31406,30.499826],"type":"Point"}
+}

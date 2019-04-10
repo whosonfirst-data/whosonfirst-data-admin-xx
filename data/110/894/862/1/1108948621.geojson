@@ -1,0 +1,65 @@
+{
+  "id": 1108948621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.80683553676,44.429261886,8.80683553676,44.429261886",
+    "geom:latitude":44.429262,
+    "geom:longitude":8.806836,
+    "iso:country":"XX",
+    "lbl:latitude":44.429262,
+    "lbl:longitude":8.806836,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85685219,
+        102191581,
+        404471975,
+        85633253,
+        404227507,
+        101752663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"XX",
+    "wof:created":1491367129,
+    "wof:geomhash":"9c8ace8839d4e3279e93b4efe2826fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404471975,
+            "locality_id":101752663,
+            "macroregion_id":404227507,
+            "neighbourhood_id":1108948621,
+            "region_id":85685219
+        }
+    ],
+    "wof:id":1108948621,
+    "wof:lastmodified":1492123899,
+    "wof:name":"Quartiere Giardano",
+    "wof:parent_id":101752663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.80683553675949,
+    44.42926188600726,
+    8.80683553675949,
+    44.42926188600726
+],
+  "geometry": {"coordinates":[8.80683553675949,44.42926188600726],"type":"Point"}
+}

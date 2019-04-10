@@ -1,0 +1,82 @@
+{
+  "id": 1126061537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.879016,32.150617,34.879016,32.150617",
+    "geom:latitude":32.150617,
+    "geom:longitude":34.879016,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.150617,
+    "lbl:longitude":34.879016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Neve Magen",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":249,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":249,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":902476,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725164,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1108720821,
+        85672541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725164,
+        "qs_pg:id":902476
+    },
+    "wof:country":"XX",
+    "wof:created":1497308219,
+    "wof:geomhash":"6ffe54e9bf9695a343fb95af2c2d7726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720821,
+            "locality_id":-1,
+            "neighbourhood_id":1126061537,
+            "region_id":85672541
+        }
+    ],
+    "wof:id":1126061537,
+    "wof:lastmodified":1549930551,
+    "wof:name":"Neve Magen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.879016,
+    32.150617,
+    34.879016,
+    32.150617
+],
+  "geometry": {"coordinates":[34.879016,32.150617],"type":"Point"}
+}

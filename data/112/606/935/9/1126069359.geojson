@@ -1,0 +1,88 @@
+{
+  "id": 1126069359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.056941,24.814654,67.056941,24.814654",
+    "geom:latitude":24.814654,
+    "geom:longitude":67.056941,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":24.814654,
+    "lbl:longitude":67.056941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Defence Housing Colony",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Sindh",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985264,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":22726242,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Sindh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675757,
+        102191569,
+        85632659,
+        1108692233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726242,
+        "qs_pg:id":985264
+    },
+    "wof:concordances_alt":{
+        "gp:id":22726241,
+        "qs_pg:id":985263
+    },
+    "wof:country":"XX",
+    "wof:created":1497309561,
+    "wof:geomhash":"72d17489f13ebd52b066d1a8b26e988d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":-1,
+            "neighbourhood_id":1126069359,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1126069359,
+    "wof:lastmodified":1534379810,
+    "wof:name":"Defence Housing Colony",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126069357
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.056941,
+    24.814654,
+    67.056941,
+    24.814654
+],
+  "geometry": {"coordinates":[67.05694099999999,24.814654],"type":"Point"}
+}

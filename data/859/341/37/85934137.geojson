@@ -1,0 +1,135 @@
+{
+  "id": 85934137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4731536.997736,
+    "geom:bbox":"74.869628,34.152341,74.869628,34.152341",
+    "geom:latitude":34.152341,
+    "geom:longitude":74.869628,
+    "gn:id":"",
+    "iso:country":"XX",
+    "lbl:latitude":34.152341,
+    "lbl:longitude":74.869628,
+    "mps:latitude":34.15372,
+    "mps:longitude":74.870316,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0627\u0626\u0642 \u0634\u0627\u0644\u064a\u0645\u0627\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Shalimar Bagh"
+    ],
+    "name:fra_x_preferred":[
+        "Jardins de Shalimar"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u093e\u0932\u093f\u092e\u093e\u0930"
+    ],
+    "name:ita_x_preferred":[
+        "Shalimar"
+    ],
+    "name:por_x_preferred":[
+        "Shalimar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043b\u0438\u043c\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Shalimar Bagh"
+    ],
+    "qs:gn_adm0_cc":"IN",
+    "qs:gn_id":0,
+    "qs:gn_local":1255634,
+    "qs:gn_nam_loc":"Srinagar, Srinagar, Jammu and Kashmir, IN",
+    "qs:gn_namadm1":"12",
+    "qs:local_max":800,
+    "qs:local_sum":2636,
+    "qs:localhoods":18,
+    "qs:name":"Shalimar Bagh",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:name_adm2":"Srinagar",
+    "qs:name_local":"Srinagar",
+    "qs:photo_max":89,
+    "qs:photo_sum":138,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424848,
+    "qs:woe_adm1":2345746,
+    "qs:woe_adm2":12586462,
+    "qs:woe_lau":0,
+    "qs:woe_local":2295387,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":210,
+    "wof:belongsto":[
+        85632427,
+        102191569,
+        85632659,
+        1108695711,
+        85672137,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55957889,
+        "qs:id":476981
+    },
+    "wof:country":"XX",
+    "wof:geomhash":"826bde9b4d9fcb38e9b523ea345dda12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":-1,
+            "neighbourhood_id":85934137,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":-1,
+            "neighbourhood_id":85934137,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":85934137,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1533678812,
+    "wof:name":"Shalimar Bagh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.869628,
+    34.152341,
+    74.869628,
+    34.152341
+],
+  "geometry": {"coordinates":[74.86962800000001,34.152341],"type":"Point"}
+}

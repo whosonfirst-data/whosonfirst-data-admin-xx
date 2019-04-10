@@ -1,0 +1,82 @@
+{
+  "id": 1125920983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.288526,12.186728,-68.288526,12.186728",
+    "geom:latitude":12.186728,
+    "geom:longitude":-68.288526,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":12.186728,
+    "lbl:longitude":-68.288526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Bernardo",
+    "qs_pg:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "qs_pg:name_adm1":"Bonaire",
+    "qs_pg:photos":1036,
+    "qs_pg:photos_1k":210,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1036,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":215690,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":56558056,
+    "qs_pg:woe_id":151993,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":56558056,
+    "woe:name_adm0":"Bonaire Saint Eustatius and Saba",
+    "woe:name_adm1":"Bonaire",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":151993,
+        "qs_pg:id":215690
+    },
+    "wof:country":"XX",
+    "wof:created":1497296479,
+    "wof:geomhash":"b8a833ad9f3302479c9321da94eb9876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1125920983,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1125920983,
+    "wof:lastmodified":1509997980,
+    "wof:name":"San Bernardo",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.288526,
+    12.186728,
+    -68.288526,
+    12.186728
+],
+  "geometry": {"coordinates":[-68.288526,12.186728],"type":"Point"}
+}

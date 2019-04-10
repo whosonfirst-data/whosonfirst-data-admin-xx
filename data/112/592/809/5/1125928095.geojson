@@ -1,0 +1,83 @@
+{
+  "id": 1125928095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.056797,39.262916,16.056797,39.262916",
+    "geom:latitude":39.262916,
+    "geom:longitude":16.056797,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":39.262916,
+    "lbl:longitude":16.056797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Torremezzo",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Calabria",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":984637,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":29340119,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Calabria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685565,
+        102191581,
+        404464161,
+        85633253,
+        404227531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29340119,
+        "qs_pg:id":984637
+    },
+    "wof:country":"XX",
+    "wof:created":1497296715,
+    "wof:geomhash":"9fd5648c76d05f5bc6e60be1c0763009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404464161,
+            "locality_id":1125928095,
+            "macroregion_id":404227531,
+            "region_id":85685565
+        }
+    ],
+    "wof:id":1125928095,
+    "wof:lastmodified":1509401214,
+    "wof:name":"Torremezzo",
+    "wof:parent_id":404464161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.056797,
+    39.262916,
+    16.056797,
+    39.262916
+],
+  "geometry": {"coordinates":[16.056797,39.262916],"type":"Point"}
+}

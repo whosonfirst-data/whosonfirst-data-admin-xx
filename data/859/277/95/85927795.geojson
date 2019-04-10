@@ -1,0 +1,136 @@
+{
+  "id": 85927795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4642140.846686,
+    "geom:bbox":"75.125427,33.741852,75.125427,33.741852",
+    "geom:latitude":33.741852,
+    "geom:longitude":75.125427,
+    "gn:gn_country":null,
+    "gn:id":"",
+    "iso:country":"XX",
+    "lbl:latitude":33.741852,
+    "lbl:longitude":75.125427,
+    "mps:latitude":33.742612,
+    "mps:longitude":75.124512,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Takia Magam"
+    ],
+    "name:unk_x_variant":[
+        "Takia Magam"
+    ],
+    "qs:gn_adm0_cc":"IN",
+    "qs:gn_id":0,
+    "qs:gn_local":1278667,
+    "qs:gn_nam_loc":"anantnag",
+    "qs:gn_namadm1":"12",
+    "qs:local_max":3,
+    "qs:local_sum":3,
+    "qs:localhoods":1,
+    "qs:name":"Takia Magam",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:name_adm2":"Anantnag",
+    "qs:name_local":"Anantnag",
+    "qs:photo_max":2,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424848,
+    "qs:woe_adm1":2345746,
+    "qs:woe_adm2":24505169,
+    "qs:woe_lau":0,
+    "qs:woe_local":2273102,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Takia Magam",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":960980,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":29196924,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85632427,
+        102191569,
+        85632659,
+        1108695721,
+        85672137,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29196924,
+        "qs:id":960980,
+        "qs_pg:id":960980
+    },
+    "wof:country":"XX",
+    "wof:geomhash":"66cb4e28a256ad2224f691c0795ffd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695721,
+            "disputed_id":85632427,
+            "locality_id":-1,
+            "neighbourhood_id":85927795,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695721,
+            "disputed_id":85632427,
+            "locality_id":-1,
+            "neighbourhood_id":85927795,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":85927795,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379828,
+    "wof:name":"Takia Magam",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126064563
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.125427,
+    33.741852,
+    75.125427,
+    33.741852
+],
+  "geometry": {"coordinates":[75.125427,33.741852],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 1125768189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.798689,46.402725,15.798689,46.402725",
+    "geom:latitude":46.402725,
+    "geom:longitude":15.798689,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.402725,
+    "lbl:longitude":15.798689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:dut_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:eng_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:rum_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:slv_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0434\u0440\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0434\u0440\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kidri\u010devo",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Ptuj",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075923,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530396,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Ptuj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959739,
+        85633779,
+        1108959961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":530396,
+        "qs_pg:id":1075923,
+        "wd:id":"Q3503676"
+    },
+    "wof:country":"XX",
+    "wof:created":1497289970,
+    "wof:geomhash":"e54208794691a83d7191bd047dcbec11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959739,
+            "locality_id":1125768189,
+            "region_id":1108959961
+        }
+    ],
+    "wof:id":1125768189,
+    "wof:lastmodified":1531170953,
+    "wof:name":"Kidri\u010devo",
+    "wof:parent_id":1108959739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.798689,
+    46.402725,
+    15.798689,
+    46.402725
+],
+  "geometry": {"coordinates":[15.798689,46.402725],"type":"Point"}
+}

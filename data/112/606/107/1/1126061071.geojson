@@ -1,0 +1,83 @@
+{
+  "id": 1126061071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-100.122596,19.17549,-100.122596,19.17549",
+    "geom:latitude":19.17549,
+    "geom:longitude":-100.122596,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.17549,
+    "lbl:longitude":-100.122596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Monte Alto",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":491,
+    "qs_pg:photos_1k":99,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":491,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155358,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55908001,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991621,
+        102074001,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55908001,
+        "qs_pg:id":1155358
+    },
+    "wof:country":"XX",
+    "wof:created":1497308129,
+    "wof:geomhash":"c97a8c24ce978fa7d81b51af266263e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074001,
+            "locality_id":101991621,
+            "neighbourhood_id":1126061071,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126061071,
+    "wof:lastmodified":1509410192,
+    "wof:name":"Monte Alto",
+    "wof:parent_id":101991621,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -100.122596,
+    19.17549,
+    -100.122596,
+    19.17549
+],
+  "geometry": {"coordinates":[-100.122596,19.17549],"type":"Point"}
+}

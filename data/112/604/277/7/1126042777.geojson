@@ -1,0 +1,104 @@
+{
+  "id": 1126042777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.511619,41.998028,21.511619,41.998028",
+    "geom:latitude":41.998028,
+    "geom:longitude":21.511619,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.998028,
+    "lbl:longitude":21.511619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Madzhari"
+    ],
+    "name:eng_x_preferred":[
+        "Madzhari"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u045f\u0430\u0440\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Madzhari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u0456"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mad\u017eari",
+    "qs_pg:name_adm0":"Macedonia",
+    "qs_pg:name_adm1":"Kisela Voda",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1055702,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424890,
+    "qs_pg:woe_id":482475,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424890,
+    "woe:name_adm0":"Macedonia",
+    "woe:name_adm1":"Kisela Voda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85632373,
+        85674297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":482475,
+        "qs_pg:id":1055702,
+        "wd:id":"Q12285546"
+    },
+    "wof:country":"XX",
+    "wof:created":1497302255,
+    "wof:geomhash":"296eded795b2471e53ee9c7865e33f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":1126042777,
+            "region_id":85674297
+        }
+    ],
+    "wof:id":1126042777,
+    "wof:lastmodified":1553816721,
+    "wof:name":"Mad\u017eari",
+    "wof:parent_id":85674297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.511619,
+    41.998028,
+    21.511619,
+    41.998028
+],
+  "geometry": {"coordinates":[21.511619,41.998028],"type":"Point"}
+}

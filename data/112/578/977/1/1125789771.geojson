@@ -1,0 +1,83 @@
+{
+  "id": 1125789771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.612741,44.983299,19.612741,44.983299",
+    "geom:latitude":44.983299,
+    "geom:longitude":19.612741,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.983299,
+    "lbl:longitude":19.612741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sremska Mitrovica",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Srem",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":470595,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Srem",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688291,
+        102191581,
+        1108810087,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":536820,
+        "qs_pg:id":470595
+    },
+    "wof:country":"XX",
+    "wof:created":1497290823,
+    "wof:geomhash":"af41c8043d0362af9381c6d71949f692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810087,
+            "locality_id":1125789771,
+            "macroregion_id":404227537,
+            "region_id":85688291
+        }
+    ],
+    "wof:id":1125789771,
+    "wof:lastmodified":1509392239,
+    "wof:name":"Sremska Mitrovica",
+    "wof:parent_id":1108810087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.612741,
+    44.983299,
+    19.612741,
+    44.983299
+],
+  "geometry": {"coordinates":[19.612741,44.983299],"type":"Point"}
+}

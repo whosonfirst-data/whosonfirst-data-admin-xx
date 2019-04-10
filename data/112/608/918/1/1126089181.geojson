@@ -1,0 +1,82 @@
+{
+  "id": 1126089181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.890418,16.822673,-90.890418,16.822673",
+    "geom:latitude":16.822673,
+    "geom:longitude":-90.890418,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":16.822673,
+    "lbl:longitude":-90.890418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Barrio Nuevo Tila",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chiapas",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1079193,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55918123,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chiapas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102075509,
+        85686611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55918123,
+        "qs_pg:id":1079193
+    },
+    "wof:country":"XX",
+    "wof:created":1497313365,
+    "wof:geomhash":"f6b7044c84993a6f5d1cb78d4d7fa1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075509,
+            "locality_id":-1,
+            "neighbourhood_id":1126089181,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1126089181,
+    "wof:lastmodified":1509411556,
+    "wof:name":"Barrio Nuevo Tila",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.890418,
+    16.822673,
+    -90.890418,
+    16.822673
+],
+  "geometry": {"coordinates":[-90.890418,16.822673],"type":"Point"}
+}

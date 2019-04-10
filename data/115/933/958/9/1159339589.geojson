@@ -1,0 +1,217 @@
+{
+  "id": 1159339589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:bbox":"-5.42084009,35.910874356,-5.415969541,35.915597312",
+    "geom:latitude":35.913205,
+    "geom:longitude":-5.418612,
+    "iso:country":"XX",
+    "lbl:latitude":35.913174,
+    "lbl:longitude":-5.418658,
+    "mps:latitude":35.913174,
+    "mps:longitude":-5.418658,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u062a\u0648\u0631\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Isla del Perejil"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b5\u03c7\u03af\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Perejil Island"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eelot Persil"
+    ],
+    "name:hun_x_preferred":[
+        "Petrezselyem-sziget"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Perejil"
+    ],
+    "name:ita_x_preferred":[
+        "Perejil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ec\u30d2\u30eb\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Peterselie-eiland"
+    ],
+    "name:pol_x_preferred":[
+        "Perejil"
+    ],
+    "name:por_x_preferred":[
+        "Ilha de Perejil"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0445\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de Perejil"
+    ],
+    "name:swe_x_preferred":[
+        "Isla Perejil"
+    ],
+    "name:tur_x_preferred":[
+        "Perejil Adas\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u96f7\u5e0c\u723e\u5cf6"
+    ],
+    "ne:ABBREV":"I. Per.",
+    "ne:ABBREV_LEN":7,
+    "ne:ADM0_A3":"ESP",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"ESP",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":0,
+    "ne:ADMIN":"Spain",
+    "ne:BRK_A3":"B62",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Isla del Perejil",
+    "ne:CONTINENT":"Africa",
+    "ne:ECONOMY":"2. Developed region: nonG7",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"Spain",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"ESP",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"1. High income: OECD",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":9,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":5,
+    "ne:LONG_LEN":5,
+    "ne:MAPCOLOR13":5,
+    "ne:MAPCOLOR7":4,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":5,
+    "ne:MAX_LABEL":9,
+    "ne:MIN_LABEL":7,
+    "ne:MIN_ZOOM":7,
+    "ne:NAME":"Spain",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u062c\u0632\u064a\u0631\u0629 \u062a\u0648\u0631\u0629",
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Isla del Perejil",
+    "ne:NAME_EL":"\u03a0\u03b5\u03c1\u03b5\u03c7\u03af\u03bb",
+    "ne:NAME_EN":"Perejil Island",
+    "ne:NAME_ES":"Isla de Perejil",
+    "ne:NAME_FR":"\u00eelot Persil",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":"Petrezselyem-sziget",
+    "ne:NAME_ID":"Pulau Perejil",
+    "ne:NAME_IT":"Perejil",
+    "ne:NAME_JA":"\u30da\u30ec\u30d2\u30eb\u5cf6",
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":5,
+    "ne:NAME_LONG":"Spain",
+    "ne:NAME_NL":"Peterselie-eiland",
+    "ne:NAME_PL":"Perejil",
+    "ne:NAME_PT":"Ilha de Perejil",
+    "ne:NAME_RU":"\u041f\u0435\u0440\u0435\u0445\u0438\u043b\u044c",
+    "ne:NAME_SORT":null,
+    "ne:NAME_SV":"Isla Perejil",
+    "ne:NAME_TR":"Perejil Adas\u0131",
+    "ne:NAME_VI":null,
+    "ne:NAME_ZH":"\u4f69\u96f7\u5e0c\u723e\u5cf6",
+    "ne:NE_ID":1159320601,
+    "ne:NOTE_ADM0":"Sp.",
+    "ne:NOTE_BRK":"Admin. by Spain; Claimed by Morocco",
+    "ne:POP_EST":0,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"IP",
+    "ne:REGION_UN":"Africa",
+    "ne:REGION_WB":"Europe & Central Asia",
+    "ne:SOVEREIGNT":"Spain",
+    "ne:SOV_A3":"ESP",
+    "ne:SUBREGION":"Northern Africa",
+    "ne:SUBUNIT":"Spain",
+    "ne:SU_A3":"ESX",
+    "ne:SU_DIF":1,
+    "ne:TINY":-99,
+    "ne:TYPE":"Disputed",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q191750",
+    "ne:WIKIPEDIA":0,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"Not yet investigated.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        102191573,
+        85632693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159320601,
+        "wd:id":"Q191750"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"416c71bb8e81c791887d98fd2014c39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "disputed_id":1159339589
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "disputed_id":1159339589
+        }
+    ],
+    "wof:id":1159339589,
+    "wof:lastmodified":1528912040,
+    "wof:name":"Perejil Island",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42084008999996,
+    35.91087435600008,
+    -5.41596954099992,
+    35.91559731200005
+],
+  "geometry": {"coordinates":[[[-5.41877379599993,35.91559731200005],[-5.41596954099992,35.91353101900006],[-5.41788824199995,35.91087435600008],[-5.42024971999996,35.91161231800004],[-5.42084008999996,35.91426898100008],[-5.41877379599993,35.91559731200005]]],"type":"Polygon"}
+}

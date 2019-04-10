@@ -1,0 +1,83 @@
+{
+  "id": 1126084459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.797821,32.099517,34.797821,32.099517",
+    "geom:latitude":32.099517,
+    "geom:longitude":34.797821,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.099517,
+    "lbl:longitude":34.797821,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bavli",
+    "qs_pg:name_adm0":"Israel",
+    "qs_pg:name_adm1":"Tel Aviv",
+    "qs_pg:photos":494,
+    "qs_pg:photos_1k":100,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":494,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897016,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424852,
+    "qs_pg:woe_id":22725107,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424852,
+    "woe:name_adm0":"Israel",
+    "woe:name_adm1":"Tel Aviv",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632315,
+        1125955239,
+        1108720837,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22725107,
+        "qs_pg:id":897016
+    },
+    "wof:country":"XX",
+    "wof:created":1497312522,
+    "wof:geomhash":"d4eb7815725bd5eda8c36ec69a61c5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632315,
+            "county_id":1108720837,
+            "locality_id":1125955239,
+            "neighbourhood_id":1126084459,
+            "region_id":85672549
+        }
+    ],
+    "wof:id":1126084459,
+    "wof:lastmodified":1549930554,
+    "wof:name":"Bavli",
+    "wof:parent_id":1125955239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.797821,
+    32.099517,
+    34.797821,
+    32.099517
+],
+  "geometry": {"coordinates":[34.797821,32.099517],"type":"Point"}
+}

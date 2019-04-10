@@ -1,0 +1,93 @@
+{
+  "id": 1125901301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.893605,32.811074,74.893605,32.811074",
+    "geom:latitude":32.811074,
+    "geom:longitude":74.893605,
+    "gn:gn_country":"XX",
+    "iso:country":"XX",
+    "lbl:latitude":32.811074,
+    "lbl:longitude":74.893605,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"XX",
+    "qs_pg:gn_country":"XX",
+    "qs_pg:name":"Rotore Dhok",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":921067,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":29197684,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Jammu and Kashmir",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695733,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29197684,
+        "qs_pg:id":921067
+    },
+    "wof:country":"XX",
+    "wof:created":1497295819,
+    "wof:geomhash":"918d0e23ee206923d1eec731d72fd638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695733,
+            "disputed_id":85632427,
+            "locality_id":1125901301,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695733,
+            "disputed_id":85632427,
+            "locality_id":1125901301,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1125901301,
+    "wof:lastmodified":1533678802,
+    "wof:name":"Rotore Dhok",
+    "wof:parent_id":1108695733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.893605,
+    32.811074,
+    74.893605,
+    32.811074
+],
+  "geometry": {"coordinates":[74.89360499999999,32.811074],"type":"Point"}
+}

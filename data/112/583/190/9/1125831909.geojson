@@ -1,0 +1,79 @@
+{
+  "id": 1125831909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.663362,47.656614,24.663362,47.656614",
+    "geom:latitude":47.656614,
+    "geom:longitude":24.663362,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":47.656614,
+    "lbl:longitude":24.663362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bor\u0219a",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Maramures",
+    "qs_pg:photos":159,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":159,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091234,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":867802,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Maramures",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":867802,
+        "qs_pg:id":1091234
+    },
+    "wof:country":"XX",
+    "wof:created":1497292537,
+    "wof:geomhash":"2e0f5c19351a73c1466af0988b2d2cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125831909,
+            "region_id":85687761
+        }
+    ],
+    "wof:id":1125831909,
+    "wof:lastmodified":1509394749,
+    "wof:name":"Bor\u0219a",
+    "wof:parent_id":85687761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.663362,
+    47.656614,
+    24.663362,
+    47.656614
+],
+  "geometry": {"coordinates":[24.663362,47.656614],"type":"Point"}
+}

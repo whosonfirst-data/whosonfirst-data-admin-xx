@@ -1,0 +1,81 @@
+{
+  "id": 1125887321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.065402,-12.699459,45.065402,-12.699459",
+    "geom:latitude":-12.699459,
+    "geom:longitude":45.065402,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-12.699459,
+    "lbl:longitude":45.065402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mtzamboro",
+    "qs_pg:name_adm0":"Mayotte",
+    "qs_pg:name_adm1":"Mtsamboro",
+    "qs_pg:photos":112,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":112,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115824,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424886,
+    "qs_pg:woe_id":1365579,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424886,
+    "woe:name_adm0":"Mayotte",
+    "woe:name_adm1":"Mtsamboro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1365579,
+        "qs_pg:id":1115824
+    },
+    "wof:country":"XX",
+    "wof:created":1497295143,
+    "wof:geomhash":"fbca41aaeb517a3e9ee1306d22d4adb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125887321,
+            "region_id":85671203
+        }
+    ],
+    "wof:id":1125887321,
+    "wof:lastmodified":1531422070,
+    "wof:name":"Mtzamboro",
+    "wof:parent_id":85671203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.065402,
+    -12.699459,
+    45.065402,
+    -12.699459
+],
+  "geometry": {"coordinates":[45.065402,-12.699459],"type":"Point"}
+}

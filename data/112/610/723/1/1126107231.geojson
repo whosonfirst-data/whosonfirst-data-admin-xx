@@ -1,0 +1,82 @@
+{
+  "id": 1126107231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.645646,37.234291,-76.645646,37.234291",
+    "geom:latitude":37.234291,
+    "geom:longitude":-76.645646,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.234291,
+    "lbl:longitude":-76.645646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kingsmill",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":3406,
+    "qs_pg:photos_1k":690,
+    "qs_pg:photos_9k":15,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3406,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":479422,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55995679,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085967,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55995679,
+        "qs_pg:id":479422
+    },
+    "wof:country":"XX",
+    "wof:created":1497317333,
+    "wof:geomhash":"89ebb475202d305bc0ed551954a66bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "locality_id":-1,
+            "neighbourhood_id":1126107231,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126107231,
+    "wof:lastmodified":1509412431,
+    "wof:name":"Kingsmill",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.645646,
+    37.234291,
+    -76.645646,
+    37.234291
+],
+  "geometry": {"coordinates":[-76.645646,37.234291],"type":"Point"}
+}

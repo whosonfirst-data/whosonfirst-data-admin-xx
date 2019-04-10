@@ -1,0 +1,82 @@
+{
+  "id": 1125765545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.966793,18.335767,-64.966793,18.335767",
+    "geom:latitude":18.335767,
+    "geom:longitude":-64.966793,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":18.335767,
+    "lbl:longitude":-64.966793,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cabritaberg",
+    "qs_pg:name_adm0":"US Virgin Islands",
+    "qs_pg:name_adm1":"Saint Thomas Island",
+    "qs_pg:photos":213,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":213,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074917,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424985,
+    "qs_pg:woe_id":329652,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424985,
+    "woe:name_adm0":"US Virgin Islands",
+    "woe:name_adm1":"Saint Thomas Island",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632169,
+        85680571,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":329652,
+        "qs_pg:id":1074917
+    },
+    "wof:country":"XX",
+    "wof:created":1497289878,
+    "wof:geomhash":"fdd74905054cb3cecbc430ee12ac3e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632169,
+            "empire_id":136253057,
+            "locality_id":1125765545,
+            "region_id":85680571
+        }
+    ],
+    "wof:id":1125765545,
+    "wof:lastmodified":1509998023,
+    "wof:name":"Cabritaberg",
+    "wof:parent_id":85680571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.966793,
+    18.335767,
+    -64.966793,
+    18.335767
+],
+  "geometry": {"coordinates":[-64.966793,18.335767],"type":"Point"}
+}

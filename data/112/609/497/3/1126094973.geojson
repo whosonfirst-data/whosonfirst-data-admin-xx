@@ -1,0 +1,86 @@
+{
+  "id": 1126094973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.055616,38.80644,-77.055616,38.80644",
+    "geom:latitude":38.80644,
+    "geom:longitude":-77.055616,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.80644,
+    "lbl:longitude":-77.055616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Parker Gray",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":864,
+    "qs_pg:photos_1k":175,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":864,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1089604,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55857734,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55857734,
+        "qs_pg:id":1089604
+    },
+    "wof:country":"XX",
+    "wof:created":1497314974,
+    "wof:geomhash":"31e98d8d0c66b30a81db03cd052bac7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1126094973,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126094973,
+    "wof:lastmodified":1511998875,
+    "wof:name":"Parker Gray",
+    "wof:parent_id":101728581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[
+        85875843
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.055616,
+    38.80644,
+    -77.055616,
+    38.80644
+],
+  "geometry": {"coordinates":[-77.055616,38.80644],"type":"Point"}
+}

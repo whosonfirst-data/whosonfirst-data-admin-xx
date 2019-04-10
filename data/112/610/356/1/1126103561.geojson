@@ -1,0 +1,79 @@
+{
+  "id": 1126103561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.975334,20.480471,-86.975334,20.480471",
+    "geom:latitude":20.480471,
+    "geom:longitude":-86.975334,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":20.480471,
+    "lbl:longitude":-86.975334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ix Chil",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Quintana Roo",
+    "qs_pg:photos":2950,
+    "qs_pg:photos_1k":598,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2950,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244057,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899942,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Quintana Roo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899942,
+        "qs_pg:id":244057
+    },
+    "wof:country":"XX",
+    "wof:created":1497316520,
+    "wof:geomhash":"8cc6ee5bcada7037ae21a8f06d1e40d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":-1,
+            "neighbourhood_id":1126103561,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126103561,
+    "wof:lastmodified":1509412250,
+    "wof:name":"Ix Chil",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.975334,
+    20.480471,
+    -86.975334,
+    20.480471
+],
+  "geometry": {"coordinates":[-86.975334,20.480471],"type":"Point"}
+}

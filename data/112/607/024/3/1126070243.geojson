@@ -1,0 +1,83 @@
+{
+  "id": 1126070243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.788053,40.455161,-106.788053,40.455161",
+    "geom:latitude":40.455161,
+    "geom:longitude":-106.788053,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.455161,
+    "lbl:longitude":-106.788053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ski Trails",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Colorado",
+    "qs_pg:photos":137,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":137,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230930,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55974484,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Colorado",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85929277,
+        102086129,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55974484,
+        "qs_pg:id":230930
+    },
+    "wof:country":"XX",
+    "wof:created":1497309814,
+    "wof:geomhash":"037fdf5fbd013dde4db64274ad5b9756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086129,
+            "locality_id":85929277,
+            "neighbourhood_id":1126070243,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":1126070243,
+    "wof:lastmodified":1509410636,
+    "wof:name":"Ski Trails",
+    "wof:parent_id":85929277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.788053,
+    40.455161,
+    -106.788053,
+    40.455161
+],
+  "geometry": {"coordinates":[-106.788053,40.455161],"type":"Point"}
+}

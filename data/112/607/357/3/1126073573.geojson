@@ -1,0 +1,83 @@
+{
+  "id": 1126073573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.240875,19.493295,-99.240875,19.493295",
+    "geom:latitude":19.493295,
+    "geom:longitude":-99.240875,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.493295,
+    "lbl:longitude":-99.240875,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Boulevares",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":993114,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903550,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101992499,
+        102074109,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55903550,
+        "qs_pg:id":993114
+    },
+    "wof:country":"XX",
+    "wof:created":1497310441,
+    "wof:geomhash":"049efae168851ec4219cb66db1d5b2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074109,
+            "locality_id":101992499,
+            "neighbourhood_id":1126073573,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126073573,
+    "wof:lastmodified":1509410800,
+    "wof:name":"Boulevares",
+    "wof:parent_id":101992499,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.240875,
+    19.493295,
+    -99.240875,
+    19.493295
+],
+  "geometry": {"coordinates":[-99.240875,19.493295],"type":"Point"}
+}

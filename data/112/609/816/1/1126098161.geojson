@@ -1,0 +1,83 @@
+{
+  "id": 1126098161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.918907,32.220498,-116.918907,32.220498",
+    "geom:latitude":32.220498,
+    "geom:longitude":-116.918907,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.220498,
+    "lbl:longitude":-116.918907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Campo Reynoso",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1341440,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55895258,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993583,
+        102074505,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55895258,
+        "qs_pg:id":1341440
+    },
+    "wof:country":"XX",
+    "wof:created":1497315574,
+    "wof:geomhash":"b1999f85a718e3968473134df860ba55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074505,
+            "locality_id":101993583,
+            "neighbourhood_id":1126098161,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126098161,
+    "wof:lastmodified":1509411984,
+    "wof:name":"Campo Reynoso",
+    "wof:parent_id":101993583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.918907,
+    32.220498,
+    -116.918907,
+    32.220498
+],
+  "geometry": {"coordinates":[-116.918907,32.220498],"type":"Point"}
+}

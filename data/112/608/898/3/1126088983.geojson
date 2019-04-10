@@ -1,0 +1,80 @@
+{
+  "id": 1126088983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.257743,-30.094123,-51.257743,-30.094123",
+    "geom:latitude":-30.094123,
+    "geom:longitude":-51.257743,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-30.094123,
+    "lbl:longitude":-51.257743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Assun\u00e7\u00e3o Vila",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Rio Grande do Sul",
+    "qs_pg:photos":2051,
+    "qs_pg:photos_1k":416,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2051,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1076206,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":422669,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Rio Grande do Sul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85633009,
+        102060157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":422669,
+        "qs_pg:id":1076206
+    },
+    "wof:country":"XX",
+    "wof:created":1497313312,
+    "wof:geomhash":"a2c6e07ec550fb931ecffcb59f173486",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633009,
+            "county_id":102060157,
+            "locality_id":-1,
+            "neighbourhood_id":1126088983,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126088983,
+    "wof:lastmodified":1509411547,
+    "wof:name":"Assun\u00e7\u00e3o Vila",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.257743,
+    -30.094123,
+    -51.257743,
+    -30.094123
+],
+  "geometry": {"coordinates":[-51.257743,-30.094123],"type":"Point"}
+}

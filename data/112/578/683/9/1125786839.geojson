@@ -1,0 +1,79 @@
+{
+  "id": 1125786839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.009584,65.259257,-14.009584,65.259257",
+    "geom:latitude":65.259257,
+    "geom:longitude":-14.009584,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":65.259257,
+    "lbl:longitude":-14.009584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Seydisfoerdur",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Seydisfjordur",
+    "qs_pg:photos":1119,
+    "qs_pg:photos_1k":227,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1119,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1079778,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":980416,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Seydisfjordur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633249,
+        85672501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":980416,
+        "qs_pg:id":1079778
+    },
+    "wof:country":"XX",
+    "wof:created":1497290716,
+    "wof:geomhash":"15356216ee4b4c8f30bfdaf7f5cf1476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633249,
+            "locality_id":1125786839,
+            "region_id":85672501
+        }
+    ],
+    "wof:id":1125786839,
+    "wof:lastmodified":1509392026,
+    "wof:name":"Seydisfoerdur",
+    "wof:parent_id":85672501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.009584,
+    65.259257,
+    -14.009584,
+    65.259257
+],
+  "geometry": {"coordinates":[-14.009584,65.25925700000001],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108950215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0361506391,41.1517636358,29.0361506391,41.1517636358",
+    "geom:latitude":41.151764,
+    "geom:longitude":29.036151,
+    "iso:country":"XX",
+    "lbl:latitude":41.151764,
+    "lbl:longitude":29.036151,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Kefelik\u00f6y"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"XX",
+    "wof:created":1491368201,
+    "wof:geomhash":"63a50a7e7bdd0722a730bc89a2cb734b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "neighbourhood_id":1108950215,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950215,
+    "wof:lastmodified":1497292379,
+    "wof:name":"Kefelikoy",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03615063911876,
+    41.15176363584694,
+    29.03615063911876,
+    41.15176363584694
+],
+  "geometry": {"coordinates":[29.03615063911876,41.15176363584694],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 1125774799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.864509,43.64175,21.864509,43.64175",
+    "geom:latitude":43.64175,
+    "geom:longitude":21.864509,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":43.64175,
+    "lbl:longitude":21.864509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043a\u043e \u0431\u0430\u043d\u044f"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d22\u79d1\u7926\u6cc9\u6751"
+    ],
+    "name:cze_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:dut_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:eng_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:fre_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:ger_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:hrv_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:hun_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:ita_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30b3\u30d0\u30cb\u30e3"
+    ],
+    "name:may_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0628\u0627\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:por_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0431\u0430\u043d\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0431\u0430\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0431\u0430\u043d\u04d9"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Soko Banja",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Zajechar",
+    "qs_pg:photos":107,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":107,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":470594,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536775,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Zajechar",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108810079,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":536775,
+        "qs_pg:id":470594,
+        "wd:id":"Q772805"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290212,
+    "wof:geomhash":"19ccd1249d241f16b1ccb908664dd6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810079,
+            "locality_id":1125774799,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1125774799,
+    "wof:lastmodified":1514503099,
+    "wof:name":"Soko Banja",
+    "wof:parent_id":1108810079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.864509,
+    43.64175,
+    21.864509,
+    43.64175
+],
+  "geometry": {"coordinates":[21.864509,43.64175],"type":"Point"}
+}

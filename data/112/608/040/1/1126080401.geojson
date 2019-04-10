@@ -1,0 +1,78 @@
+{
+  "id": 1126080401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-14",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.950583,40.818892,-73.950583,40.818892",
+    "geom:latitude":40.818892,
+    "geom:longitude":-73.950583,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.818892,
+    "lbl:longitude":-73.950583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Uptown",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"New York",
+    "qs_pg:photos":15830,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":70,
+    "qs_pg:photos_9r":19,
+    "qs_pg:photos_all":15830,
+    "qs_pg:photos_sr":27,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1335967,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55864590,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"New York",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85633793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55864590,
+        "qs_pg:id":1335967
+    },
+    "wof:country":"XX",
+    "wof:created":1497311845,
+    "wof:geomhash":"dd7c4e5b7a2f7e76f5c7645c225dcca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":1126080401
+        }
+    ],
+    "wof:id":1126080401,
+    "wof:lastmodified":1511998873,
+    "wof:name":"Uptown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[
+        85867075
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.950583,
+    40.818892,
+    -73.950583,
+    40.818892
+],
+  "geometry": {"coordinates":[-73.95058299999999,40.818892],"type":"Point"}
+}

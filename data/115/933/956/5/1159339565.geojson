@@ -1,0 +1,207 @@
+{
+  "id": 1159339565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:bbox":"-171.086537239,-11.066094659,-171.072824674,-11.051364842",
+    "geom:latitude":-11.057943,
+    "geom:longitude":-171.079758,
+    "iso:country":"XX",
+    "lbl:latitude":-11.058187,
+    "lbl:longitude":-171.079888,
+    "mps:latitude":-11.058187,
+    "mps:longitude":-171.079888,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Swains Island"
+    ],
+    "name:eng_x_preferred":[
+        "Swains Island"
+    ],
+    "name:fra_x_preferred":[
+        "Swains"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Swains"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30a6\u30a7\u30a4\u30f3\u30ba\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Swains"
+    ],
+    "name:pol_x_preferred":[
+        "Swains Island"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Swains"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u044d\u0439\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Swains"
+    ],
+    "name:swe_x_preferred":[
+        "Swains\u00f6n"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6e29\u65af\u5c9b"
+    ],
+    "ne:ABBREV":"Swains I.",
+    "ne:ABBREV_LEN":9,
+    "ne:ADM0_A3":"ASM",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"ASM",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"American Samoa",
+    "ne:BRK_A3":"B71",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Swains Island",
+    "ne:CONTINENT":"Oceania",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":0,
+    "ne:GEOUNIT":"American Samoa",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"ASM",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":7,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":5,
+    "ne:LONG_LEN":14,
+    "ne:MAPCOLOR13":1,
+    "ne:MAPCOLOR7":4,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":1,
+    "ne:MAX_LABEL":9,
+    "ne:MIN_LABEL":6.5,
+    "ne:MIN_ZOOM":7,
+    "ne:NAME":"American Samoa",
+    "ne:NAME_ALT":"Olohega",
+    "ne:NAME_AR":null,
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Swains Island",
+    "ne:NAME_EL":null,
+    "ne:NAME_EN":"Swains Island",
+    "ne:NAME_ES":"Isla Swains",
+    "ne:NAME_FR":"Swains",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":null,
+    "ne:NAME_ID":null,
+    "ne:NAME_IT":"Isola Swains",
+    "ne:NAME_JA":"\u30b9\u30a6\u30a7\u30a4\u30f3\u30ba\u5cf6",
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":14,
+    "ne:NAME_LONG":"American Samoa",
+    "ne:NAME_NL":"Swains",
+    "ne:NAME_PL":"Swains Island",
+    "ne:NAME_PT":"Ilha Swains",
+    "ne:NAME_RU":"\u0421\u0443\u044d\u0439\u043d\u0441",
+    "ne:NAME_SORT":"Swains Island",
+    "ne:NAME_SV":"Swains\u00f6n",
+    "ne:NAME_TR":null,
+    "ne:NAME_VI":null,
+    "ne:NAME_ZH":"\u65af\u6e29\u65af\u5c9b",
+    "ne:NE_ID":1159321403,
+    "ne:NOTE_ADM0":"Amer. Samoa for U.S.A.",
+    "ne:NOTE_BRK":"Admin. by American Samoa for U.S.A.; Claimed by Tokelau",
+    "ne:POP_EST":37,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":0,
+    "ne:POSTAL":"SI",
+    "ne:REGION_UN":"Oceania",
+    "ne:REGION_WB":"East Asia & Pacific",
+    "ne:SOVEREIGNT":"United States of America",
+    "ne:SOV_A3":"US1",
+    "ne:SUBREGION":"Polynesia",
+    "ne:SUBUNIT":"American Samoa",
+    "ne:SU_A3":"ASM",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Disputed",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q1128488",
+    "ne:WIKIPEDIA":0,
+    "ne:WOE_ID":12485832,
+    "ne:WOE_ID_EH":12485832,
+    "ne:WOE_NOTE":"WOE physical feature",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":6,
+    "src:geom":"naturalearth",
+    "src:population":"naturalearth",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        136253057,
+        102191583,
+        85633345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159321403,
+        "wd:id":"Q1128488"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"06d0e56ac7fe36300d999b47a261cca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "disputed_id":1159339565,
+            "empire_id":136253057
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "disputed_id":1159339565
+        }
+    ],
+    "wof:id":1159339565,
+    "wof:lastmodified":1528909940,
+    "wof:name":"Swains Island",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:population":37,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.0865372389999,
+    -11.06609465899993,
+    -171.07282467399992,
+    -11.05136484199994
+],
+  "geometry": {"coordinates":[[[-171.07282467399992,-11.05250416499996],[-171.07347571499992,-11.06210702899995],[-171.08153235599991,-11.06609465899993],[-171.08653723899991,-11.06031666499996],[-171.08564205599993,-11.05136484199994],[-171.07282467399992,-11.05250416499996]]],"type":"Polygon"}
+}

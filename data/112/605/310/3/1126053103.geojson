@@ -1,0 +1,142 @@
+{
+  "id": 1126053103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.133645,60.657688,23.133645,60.657688",
+    "geom:latitude":60.657688,
+    "geom:longitude":23.133645,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":60.657688,
+    "lbl:longitude":23.133645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u65af\u57fa\u6258"
+    ],
+    "name:dut_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:eng_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:fin_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:fre_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:ger_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:ita_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:koi_x_preferred":[
+        "\u041a\u043e\u0441\u043a\u0438 \u0422\u043b"
+    ],
+    "name:lat_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:nob_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:pol_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:rum_x_preferred":[
+        "Koski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u043a\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:sme_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:swe_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:vie_x_preferred":[
+        "Koski Tl"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Koski Tl",
+    "qs_pg:name_adm0":"Suomi",
+    "qs_pg:name_adm1":"Varsinais-Suomen maakunta",
+    "qs_pg:photos":80,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":80,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060761,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424812,
+    "qs_pg:woe_id":25946767,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424812,
+    "woe:name_adm0":"Suomi",
+    "woe:name_adm1":"Varsinais-Suomen maakunta",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85683073,
+        102191581,
+        907199647,
+        85633143,
+        404227405,
+        136253047,
+        1159321505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":25946767,
+        "qs_pg:id":1060761,
+        "wd:id":"Q1017142"
+    },
+    "wof:country":"XX",
+    "wof:created":1497302906,
+    "wof:geomhash":"fb4808e85c373cbdd298d865ab4ebcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "county_id":1159321505,
+            "empire_id":136253047,
+            "localadmin_id":907199647,
+            "locality_id":1126053103,
+            "macroregion_id":404227405,
+            "region_id":85683073
+        }
+    ],
+    "wof:id":1126053103,
+    "wof:lastmodified":1529706482,
+    "wof:name":"Koski Tl",
+    "wof:parent_id":907199647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.133645,
+    60.657688,
+    23.133645,
+    60.657688
+],
+  "geometry": {"coordinates":[23.133645,60.657688],"type":"Point"}
+}

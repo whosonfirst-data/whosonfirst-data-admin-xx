@@ -1,0 +1,159 @@
+{
+  "id": 1125867383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.96127,44.369652,20.96127,44.369652",
+    "geom:latitude":44.369652,
+    "geom:longitude":20.96127,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.369652,
+    "lbl:longitude":20.96127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u0441\u043a\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u6885\u4ee3\u96f7\u6c83\u5e15\u862d\u5361"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0645\u06ce\u062f\u06ce\u0631\u06ce\u06a4\u0633\u06a9\u0627 \u067e\u0627\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:cze_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:dut_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:eng_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:fre_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:ger_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:hrv_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:ita_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30e1\u30c7\u30ec\u30f4\u30b9\u30ab\u30fb\u30d1\u30e9\u30f3\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\uba54\ub370\ub808\ube0c\uc2a4\uce74\ud314\ub780\uce74"
+    ],
+    "name:may_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u0645\u062f\u0631\u0641\u0633\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0645\u06cc\u062f\u06cc\u0631\u06cc\u0648\u0633\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:por_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u0441\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:slv_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u0441\u043a\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043c\u0435\u0434\u0435\u0440\u0435\u0432\u0441\u043a\u0430-\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Smederevska Palanka"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Smederevska Palanka",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Podunavlje",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327093,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536750,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Podunavlje",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810077,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":536750,
+        "qs_pg:id":1327093,
+        "wd:id":"Q715716"
+    },
+    "wof:country":"XX",
+    "wof:created":1497294108,
+    "wof:geomhash":"3fcfe084ee4b18ebc0b4429114672a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810077,
+            "locality_id":1125867383,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1125867383,
+    "wof:lastmodified":1514503099,
+    "wof:name":"Smederevska Palanka",
+    "wof:parent_id":1108810077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.96127,
+    44.369652,
+    20.96127,
+    44.369652
+],
+  "geometry": {"coordinates":[20.96127,44.369652],"type":"Point"}
+}

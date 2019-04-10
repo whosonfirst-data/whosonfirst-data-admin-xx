@@ -1,0 +1,82 @@
+{
+  "id": 1125775923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.173471,62.053925,-7.173471,62.053925",
+    "geom:latitude":62.053925,
+    "geom:longitude":-7.173471,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":62.053925,
+    "lbl:longitude":-7.173471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mi\u00ffv\u00e1gur",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"V\u00e1ga",
+    "qs_pg:photos":274,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":274,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077645,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472694,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"V\u00e1ga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        85671213,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472694,
+        "qs_pg:id":1077645
+    },
+    "wof:country":"XX",
+    "wof:created":1497290256,
+    "wof:geomhash":"ee33fc04f5efac7976a71a5a858b1b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1125775923,
+            "region_id":85671213
+        }
+    ],
+    "wof:id":1125775923,
+    "wof:lastmodified":1509998566,
+    "wof:name":"Mi\u00ffv\u00e1gur",
+    "wof:parent_id":85671213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.173471,
+    62.053925,
+    -7.173471,
+    62.053925
+],
+  "geometry": {"coordinates":[-7.173471,62.053925],"type":"Point"}
+}

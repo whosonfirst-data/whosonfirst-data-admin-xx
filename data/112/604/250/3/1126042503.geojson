@@ -1,0 +1,81 @@
+{
+  "id": 1126042503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.68621,62.067518,-6.68621,62.067518",
+    "geom:latitude":62.067518,
+    "geom:longitude":-6.68621,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":62.067518,
+    "lbl:longitude":-6.68621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00c6\u00ffuv\u00edk",
+    "qs_pg:name_adm0":"F\u00e6r\u00f8erne",
+    "qs_pg:name_adm1":"Sy\u00f0ra Eysturoy",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1055540,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424816,
+    "qs_pg:woe_id":472608,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424816,
+    "woe:name_adm0":"F\u00e6r\u00f8erne",
+    "woe:name_adm1":"Sy\u00f0ra Eysturoy",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85633153,
+        102191581,
+        136253045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":472608,
+        "qs_pg:id":1055540
+    },
+    "wof:country":"XX",
+    "wof:created":1497302242,
+    "wof:geomhash":"db8d12d3544909d355ea602ea33804a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633153,
+            "empire_id":136253045,
+            "locality_id":1126042503,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126042503,
+    "wof:lastmodified":1529340824,
+    "wof:name":"\u00c6\u00ffuv\u00edk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.68621,
+    62.067518,
+    -6.68621,
+    62.067518
+],
+  "geometry": {"coordinates":[-6.68621,62.067518],"type":"Point"}
+}

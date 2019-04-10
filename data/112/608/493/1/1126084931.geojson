@@ -1,0 +1,83 @@
+{
+  "id": 1126084931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.969869,52.320622,20.969869,52.320622",
+    "geom:latitude":52.320622,
+    "geom:longitude":20.969869,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":52.320622,
+    "lbl:longitude":20.969869,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nowy Tarchomin",
+    "qs_pg:name_adm0":"Polska",
+    "qs_pg:name_adm1":"Mazowieckie",
+    "qs_pg:photos":232,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":232,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":481875,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424923,
+    "qs_pg:woe_id":22724259,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424923,
+    "woe:name_adm0":"Polska",
+    "woe:name_adm1":"Mazowieckie",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85633723,
+        101752777,
+        102079951,
+        85687257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724259,
+        "qs_pg:id":481875
+    },
+    "wof:country":"XX",
+    "wof:created":1497312601,
+    "wof:geomhash":"d3f1842c8c81d7f60b2f4c9f831295f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079951,
+            "locality_id":101752777,
+            "neighbourhood_id":1126084931,
+            "region_id":85687257
+        }
+    ],
+    "wof:id":1126084931,
+    "wof:lastmodified":1509411354,
+    "wof:name":"Nowy Tarchomin",
+    "wof:parent_id":101752777,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.969869,
+    52.320622,
+    20.969869,
+    52.320622
+],
+  "geometry": {"coordinates":[20.969869,52.320622],"type":"Point"}
+}

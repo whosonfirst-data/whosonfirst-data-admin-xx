@@ -1,0 +1,78 @@
+{
+  "id": 1126072159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.125244,38.416476,27.125244,38.416476",
+    "geom:latitude":38.416476,
+    "geom:longitude":27.125244,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.416476,
+    "lbl:longitude":27.125244,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ye\u015filtepe",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130zmir",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1197703,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55865551,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130zmir",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55865551,
+        "qs_pg:id":1197703
+    },
+    "wof:country":"XX",
+    "wof:created":1497310150,
+    "wof:geomhash":"3292b6628cf36b74969d80957a9def2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1126072159,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126072159,
+    "wof:lastmodified":1509410732,
+    "wof:name":"Ye\u015filtepe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.125244,
+    38.416476,
+    27.125244,
+    38.416476
+],
+  "geometry": {"coordinates":[27.125244,38.416476],"type":"Point"}
+}

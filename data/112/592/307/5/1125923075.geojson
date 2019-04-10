@@ -1,0 +1,83 @@
+{
+  "id": 1125923075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1525125,42.264102,3.1525125,42.264102",
+    "geom:latitude":42.264102,
+    "geom:longitude":3.152512,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":42.264102,
+    "lbl:longitude":3.152512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Santa Margarida-Salatar",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Catalunya",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":215915,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":20226044,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Catalunya",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682721,
+        102191581,
+        404334871,
+        85633129,
+        404227379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20226044,
+        "qs_pg:id":215915
+    },
+    "wof:country":"XX",
+    "wof:created":1497296549,
+    "wof:geomhash":"fec929fcf891a9514dc8157e571e60a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404334871,
+            "locality_id":1125923075,
+            "macroregion_id":404227379,
+            "region_id":85682721
+        }
+    ],
+    "wof:id":1125923075,
+    "wof:lastmodified":1509400927,
+    "wof:name":"Santa Margarida-Salatar",
+    "wof:parent_id":404334871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1525125,
+    42.264102,
+    3.1525125,
+    42.264102
+],
+  "geometry": {"coordinates":[3.1525125,42.264102],"type":"Point"}
+}

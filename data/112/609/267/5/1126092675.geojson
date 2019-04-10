@@ -1,0 +1,82 @@
+{
+  "id": 1126092675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.217396,34.052881,-81.217396,34.052881",
+    "geom:latitude":34.052881,
+    "geom:longitude":-81.217396,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":34.052881,
+    "lbl:longitude":-81.217396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Murraywood",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"South Carolina",
+    "qs_pg:photos":394,
+    "qs_pg:photos_1k":80,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":394,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":220656,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":56022617,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"South Carolina",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085573,
+        85688683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56022617,
+        "qs_pg:id":220656
+    },
+    "wof:country":"XX",
+    "wof:created":1497314306,
+    "wof:geomhash":"6c4a69461121a2903d02ebb1f99bb64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085573,
+            "locality_id":-1,
+            "neighbourhood_id":1126092675,
+            "region_id":85688683
+        }
+    ],
+    "wof:id":1126092675,
+    "wof:lastmodified":1509411732,
+    "wof:name":"Murraywood",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.217396,
+    34.052881,
+    -81.217396,
+    34.052881
+],
+  "geometry": {"coordinates":[-81.21739599999999,34.052881],"type":"Point"}
+}

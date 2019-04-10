@@ -1,0 +1,75 @@
+{
+  "id": 1125766361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "gn:gn_country":"AR",
+    "iso:country":"XX",
+    "lbl:latitude":0.0,
+    "lbl:longitude":0.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":"AR",
+    "qs_pg:name":"Puerto Madryn",
+    "qs_pg:name_adm0":"Argentina",
+    "qs_pg:name_adm1":"Chubut",
+    "qs_pg:photos":4356,
+    "qs_pg:photos_1k":883,
+    "qs_pg:photos_9k":19,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4356,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":470278,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424747,
+    "qs_pg:woe_id":467032,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424747,
+    "woe:name_adm0":"Argentina",
+    "woe:name_adm1":"Chubut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":467032,
+        "qs_pg:id":470278
+    },
+    "wof:country":"XX",
+    "wof:created":1497289910,
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632505,
+            "locality_id":1125766361
+        }
+    ],
+    "wof:id":1125766361,
+    "wof:lastmodified":1505248248,
+    "wof:name":"Puerto Madryn",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

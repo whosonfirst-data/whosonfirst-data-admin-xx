@@ -1,0 +1,80 @@
+{
+  "id": 1125918569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.422218,-7.315816,72.422218,-7.315816",
+    "geom:latitude":-7.315816,
+    "geom:longitude":72.422218,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-7.315816,
+    "lbl:longitude":72.422218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Diego Garcia",
+    "qs_pg:name_adm0":"British Indian Ocean Territory",
+    "qs_pg:photos":192,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":192,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":561008,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424849,
+    "qs_pg:woe_id":1339594,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424849,
+    "woe:name_adm0":"British Indian Ocean Territory",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632459,
+        85681249,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1339594,
+        "qs_pg:id":561008
+    },
+    "wof:country":"XX",
+    "wof:created":1497296403,
+    "wof:geomhash":"0b5a6179bcf91cfdaf71654156dd3252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632459,
+            "empire_id":136253055,
+            "locality_id":1125918569,
+            "region_id":85681249
+        }
+    ],
+    "wof:id":1125918569,
+    "wof:lastmodified":1509998379,
+    "wof:name":"Diego Garcia",
+    "wof:parent_id":85681249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.422218,
+    -7.315816,
+    72.422218,
+    -7.315816
+],
+  "geometry": {"coordinates":[72.422218,-7.315816],"type":"Point"}
+}

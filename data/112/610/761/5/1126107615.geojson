@@ -1,0 +1,83 @@
+{
+  "id": 1126107615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.452712,37.547792,-77.452712,37.547792",
+    "geom:latitude":37.547792,
+    "geom:longitude":-77.452712,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.547792,
+    "lbl:longitude":-77.452712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"West Franklin Street",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":4521,
+    "qs_pg:photos_1k":916,
+    "qs_pg:photos_9k":20,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4521,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135992,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55861443,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55861443,
+        "qs_pg:id":1135992
+    },
+    "wof:country":"XX",
+    "wof:created":1497317433,
+    "wof:geomhash":"ea9d0e92b2c7945ad51773cc770f6fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":1126107615,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126107615,
+    "wof:lastmodified":1509412451,
+    "wof:name":"West Franklin Street",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.452712,
+    37.547792,
+    -77.452712,
+    37.547792
+],
+  "geometry": {"coordinates":[-77.45271200000001,37.547792],"type":"Point"}
+}

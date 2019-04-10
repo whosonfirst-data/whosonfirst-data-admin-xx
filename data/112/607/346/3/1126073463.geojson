@@ -1,0 +1,82 @@
+{
+  "id": 1126073463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.061391,40.195709,29.061391,40.195709",
+    "geom:latitude":40.195709,
+    "geom:longitude":29.061391,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.195709,
+    "lbl:longitude":29.061391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ulu",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Bursa",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":473484,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55870945,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Bursa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890463107,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870945,
+        "qs_pg:id":473484
+    },
+    "wof:country":"XX",
+    "wof:created":1497310420,
+    "wof:geomhash":"f6abdacf10807c2d677b4b2e1e34df1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463107,
+            "locality_id":-1,
+            "neighbourhood_id":1126073463,
+            "region_id":85679231
+        }
+    ],
+    "wof:id":1126073463,
+    "wof:lastmodified":1509410795,
+    "wof:name":"Ulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.061391,
+    40.195709,
+    29.061391,
+    40.195709
+],
+  "geometry": {"coordinates":[29.061391,40.195709],"type":"Point"}
+}

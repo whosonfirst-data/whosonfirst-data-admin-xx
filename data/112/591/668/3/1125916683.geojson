@@ -1,0 +1,83 @@
+{
+  "id": 1125916683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.327019,44.176025,8.327019,44.176025",
+    "geom:latitude":44.176025,
+    "geom:longitude":8.327019,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.176025,
+    "lbl:longitude":8.327019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Finalborgo",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Liguria",
+    "qs_pg:photos":807,
+    "qs_pg:photos_1k":164,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":807,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1132631,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":29333784,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Liguria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685215,
+        102191581,
+        404467455,
+        85633253,
+        404227507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29333784,
+        "qs_pg:id":1132631
+    },
+    "wof:country":"XX",
+    "wof:created":1497296343,
+    "wof:geomhash":"7b534c82e2dc237dcb0aebde8d6c9e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404467455,
+            "locality_id":1125916683,
+            "macroregion_id":404227507,
+            "region_id":85685215
+        }
+    ],
+    "wof:id":1125916683,
+    "wof:lastmodified":1509400590,
+    "wof:name":"Finalborgo",
+    "wof:parent_id":404467455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.327019,
+    44.176025,
+    8.327019,
+    44.176025
+],
+  "geometry": {"coordinates":[8.327019,44.176025],"type":"Point"}
+}

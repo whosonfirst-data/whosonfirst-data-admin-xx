@@ -1,0 +1,93 @@
+{
+  "id": 1126058087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.383132,33.403787,76.383132,33.403787",
+    "geom:latitude":33.403787,
+    "geom:longitude":76.383132,
+    "gn:gn_country":"XX",
+    "iso:country":"XX",
+    "lbl:latitude":33.403787,
+    "lbl:longitude":76.383132,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"XX",
+    "qs_pg:gn_country":"XX",
+    "qs_pg:name":"Bhuswas",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1069441,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":2274881,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Jammu and Kashmir",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695729,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2274881,
+        "qs_pg:id":1069441
+    },
+    "wof:country":"XX",
+    "wof:created":1497303532,
+    "wof:geomhash":"29d3132187da34ad28bf003217e5f8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695729,
+            "disputed_id":85632427,
+            "locality_id":1126058087,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695729,
+            "disputed_id":85632427,
+            "locality_id":1126058087,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1126058087,
+    "wof:lastmodified":1533678806,
+    "wof:name":"Bhuswas",
+    "wof:parent_id":1108695729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.383132,
+    33.403787,
+    76.383132,
+    33.403787
+],
+  "geometry": {"coordinates":[76.383132,33.403787],"type":"Point"}
+}

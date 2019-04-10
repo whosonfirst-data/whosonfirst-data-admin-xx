@@ -1,0 +1,82 @@
+{
+  "id": 1126097741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-107.792667,37.938422,-107.792667,37.938422",
+    "geom:latitude":37.938422,
+    "geom:longitude":-107.792667,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.938422,
+    "lbl:longitude":-107.792667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"East Pandora",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Colorado",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":19704,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":56019836,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Colorado",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102084125,
+        85688603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56019836,
+        "qs_pg:id":19704
+    },
+    "wof:country":"XX",
+    "wof:created":1497315510,
+    "wof:geomhash":"44a6af1ab799ee4a0b6d1830256f864d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084125,
+            "locality_id":-1,
+            "neighbourhood_id":1126097741,
+            "region_id":85688603
+        }
+    ],
+    "wof:id":1126097741,
+    "wof:lastmodified":1509411966,
+    "wof:name":"East Pandora",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -107.792667,
+    37.938422,
+    -107.792667,
+    37.938422
+],
+  "geometry": {"coordinates":[-107.79266699999999,37.938422],"type":"Point"}
+}

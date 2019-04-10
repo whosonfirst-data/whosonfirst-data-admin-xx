@@ -1,0 +1,124 @@
+{
+  "id": 890442019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.857406,34.112088,74.857406,34.112088",
+    "geom:latitude":34.112088,
+    "geom:longitude":74.857406,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u09ac\u09be\u09a6\u09be\u09ae\u09bf \u09ac\u09be\u0997"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u8fbe\u7c73\u5df4\u683c"
+    ],
+    "name:dut_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:eng_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:fre_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:ita_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:may_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:mlg_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:nan_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093e\u0926\u093e\u092e\u0940 \u092c\u093e\u0917"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a3e\u0a26\u0a3e\u0a2e\u0a40 \u0a2c\u0a3e\u0a17"
+    ],
+    "name:por_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:spa_x_preferred":[
+        "Badami Bagh"
+    ],
+    "name:vie_x_preferred":[
+        "Badami Bagh"
+    ],
+    "qs:name":"Badami Bagh",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":517,
+    "qs:photos_1k":105,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":517,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695711,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2290366,
+        "qs:id":1313591,
+        "wd:id":"Q582982",
+        "wk:page":"Badami Bagh"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052346,
+    "wof:geomhash":"06247589caaf9f1c9d74a4cc18883aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":890442019,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":890442019,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890442019,
+    "wof:lastmodified":1533678791,
+    "wof:name":"Badami Bagh",
+    "wof:parent_id":1108695711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.857406,
+    34.112088,
+    74.857406,
+    34.112088
+],
+  "geometry": {"coordinates":[74.857406,34.112088],"type":"Point"}
+}

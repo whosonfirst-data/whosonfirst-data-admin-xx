@@ -1,0 +1,83 @@
+{
+  "id": 1126073751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.027408,-3.100521,-60.027408,-3.100521",
+    "geom:latitude":-3.100521,
+    "geom:longitude":-60.027408,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-3.100521,
+    "lbl:longitude":-60.027408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"S\u00e3o Geraldo",
+    "qs_pg:name_adm0":"Brasil",
+    "qs_pg:name_adm1":"Amazonas",
+    "qs_pg:photos":380,
+    "qs_pg:photos_1k":77,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":380,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1249496,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424768,
+    "qs_pg:woe_id":56066796,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424768,
+    "woe:name_adm0":"Brasil",
+    "woe:name_adm1":"Amazonas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191577,
+        85633009,
+        101941913,
+        102050371,
+        85681885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56066796,
+        "qs_pg:id":1249496
+    },
+    "wof:country":"XX",
+    "wof:created":1497310480,
+    "wof:geomhash":"78234714061fa1900b1c5eb0959a3513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050371,
+            "locality_id":101941913,
+            "neighbourhood_id":1126073751,
+            "region_id":85681885
+        }
+    ],
+    "wof:id":1126073751,
+    "wof:lastmodified":1509410811,
+    "wof:name":"S\u00e3o Geraldo",
+    "wof:parent_id":101941913,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.027408,
+    -3.100521,
+    -60.027408,
+    -3.100521
+],
+  "geometry": {"coordinates":[-60.027408,-3.100521],"type":"Point"}
+}

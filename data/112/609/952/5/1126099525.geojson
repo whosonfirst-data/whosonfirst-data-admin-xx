@@ -1,0 +1,83 @@
+{
+  "id": 1126099525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.837635,18.664542,-91.837635,18.664542",
+    "geom:latitude":18.664542,
+    "geom:longitude":-91.837635,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":18.664542,
+    "lbl:longitude":-91.837635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Playa Norte",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Campeche",
+    "qs_pg:photos":383,
+    "qs_pg:photos_1k":78,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":383,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115839,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55882812,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Campeche",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102001433,
+        102079211,
+        85686707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55882812,
+        "qs_pg:id":1115839
+    },
+    "wof:country":"XX",
+    "wof:created":1497315804,
+    "wof:geomhash":"15451f8552b058df6c441be3e4125242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102079211,
+            "locality_id":102001433,
+            "neighbourhood_id":1126099525,
+            "region_id":85686707
+        }
+    ],
+    "wof:id":1126099525,
+    "wof:lastmodified":1509412048,
+    "wof:name":"Playa Norte",
+    "wof:parent_id":102001433,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.837635,
+    18.664542,
+    -91.837635,
+    18.664542
+],
+  "geometry": {"coordinates":[-91.83763500000001,18.664542],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1125877551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94666,14.59474,-60.94666,14.59474",
+    "geom:latitude":14.59474,
+    "geom:longitude":-60.94666,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"XX",
+    "lbl:latitude":14.59474,
+    "lbl:longitude":-60.94666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "La Saint-Pierre"
+    ],
+    "name:unk_x_variant":[
+        "Quartier Saint-Pierre"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3569908,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St.-Pierre",
+    "qs_pg:name_adm0":"Martinique",
+    "qs_pg:name_adm1":"Marin",
+    "qs_pg:photos":204,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":204,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":474808,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424884,
+    "qs_pg:woe_id":110800,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424884,
+    "woe:name_adm0":"Martinique",
+    "woe:name_adm1":"Marin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3569908,
+        "gp:id":110800,
+        "qs_pg:id":474808
+    },
+    "wof:country":"XX",
+    "wof:created":1497294619,
+    "wof:geomhash":"1aad1dab9986e7f5ded5c00d16ee06dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125877551,
+            "region_id":85671191
+        }
+    ],
+    "wof:id":1125877551,
+    "wof:lastmodified":1531422123,
+    "wof:name":"St.-Pierre",
+    "wof:parent_id":85671191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94666,
+    14.59474,
+    -60.94666,
+    14.59474
+],
+  "geometry": {"coordinates":[-60.94666,14.59474],"type":"Point"}
+}

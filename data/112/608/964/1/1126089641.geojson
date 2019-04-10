@@ -1,0 +1,83 @@
+{
+  "id": 1126089641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.062263,36.754898,-76.062263,36.754898",
+    "geom:latitude":36.754898,
+    "geom:longitude":-76.062263,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":36.754898,
+    "lbl:longitude":-76.062263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Virginia Beach Municipal Center",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":295,
+    "qs_pg:photos_1k":60,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":295,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327151,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55806038,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101728745,
+        102081929,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55806038,
+        "qs_pg:id":1327151
+    },
+    "wof:country":"XX",
+    "wof:created":1497313478,
+    "wof:geomhash":"555d6b42b346ce5ddd01a8c3a3f4c118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":1126089641,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126089641,
+    "wof:lastmodified":1509411582,
+    "wof:name":"Virginia Beach Municipal Center",
+    "wof:parent_id":101728745,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.062263,
+    36.754898,
+    -76.062263,
+    36.754898
+],
+  "geometry": {"coordinates":[-76.062263,36.754898],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1125779991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.646797,44.873457,20.646797,44.873457",
+    "geom:latitude":44.873457,
+    "geom:longitude":20.646797,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.873457,
+    "lbl:longitude":20.646797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pan\u010devo",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Juzhni Banat",
+    "qs_pg:photos":1600,
+    "qs_pg:photos_1k":324,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1600,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078941,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":535844,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Juzhni Banat",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688321,
+        102191581,
+        1108810019,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":535844,
+        "qs_pg:id":1078941
+    },
+    "wof:country":"XX",
+    "wof:created":1497290424,
+    "wof:geomhash":"d71398cd12878d20c59e26ee28f469b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810019,
+            "locality_id":1125779991,
+            "macroregion_id":404227537,
+            "region_id":85688321
+        }
+    ],
+    "wof:id":1125779991,
+    "wof:lastmodified":1509391497,
+    "wof:name":"Pan\u010devo",
+    "wof:parent_id":1108810019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.646797,
+    44.873457,
+    20.646797,
+    44.873457
+],
+  "geometry": {"coordinates":[20.646797,44.873457],"type":"Point"}
+}

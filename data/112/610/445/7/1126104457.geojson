@@ -1,0 +1,81 @@
+{
+  "id": 1126104457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.985908,14.60739,120.985908,14.60739",
+    "geom:latitude":14.60739,
+    "geom:longitude":120.985908,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":14.60739,
+    "lbl:longitude":120.985908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kiyabo",
+    "qs_pg:name_adm0":"Philippines",
+    "qs_pg:name_adm1":"National Capital Region",
+    "qs_pg:photos":5268,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":23,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5268,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":493241,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424934,
+    "qs_pg:woe_id":1176666,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424934,
+    "woe:name_adm0":"Philippines",
+    "woe:name_adm1":"National Capital Region",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        1159397249,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1176666,
+        "qs_pg:id":493241
+    },
+    "wof:country":"XX",
+    "wof:created":1497316674,
+    "wof:geomhash":"36a049c8acf9e067d0a58f008a99c878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1159397249,
+            "neighbourhood_id":1126104457,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1126104457,
+    "wof:lastmodified":1533169689,
+    "wof:name":"Kiyabo",
+    "wof:parent_id":1159397249,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.985908,
+    14.60739,
+    120.985908,
+    14.60739
+],
+  "geometry": {"coordinates":[120.98590799999999,14.60739],"type":"Point"}
+}

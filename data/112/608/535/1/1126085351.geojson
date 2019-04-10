@@ -1,0 +1,82 @@
+{
+  "id": 1126085351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.946313,41.0375,28.946313,41.0375",
+    "geom:latitude":41.0375,
+    "geom:longitude":28.946313,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.0375,
+    "lbl:longitude":28.946313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Balat Karaba\u015f",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":327,
+    "qs_pg:photos_1k":66,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":327,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":899058,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724067,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709385,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724067,
+        "qs_pg:id":899058
+    },
+    "wof:country":"XX",
+    "wof:created":1497312682,
+    "wof:geomhash":"7e8762d353596b0b2fe640419ddfcaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709385,
+            "locality_id":-1,
+            "neighbourhood_id":1126085351,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126085351,
+    "wof:lastmodified":1509411373,
+    "wof:name":"Balat Karaba\u015f",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.946313,
+    41.0375,
+    28.946313,
+    41.0375
+],
+  "geometry": {"coordinates":[28.946313,41.0375],"type":"Point"}
+}

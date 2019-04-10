@@ -1,0 +1,83 @@
+{
+  "id": 1125971517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.273149,43.902801,22.273149,43.902801",
+    "geom:latitude":43.902801,
+    "geom:longitude":22.273149,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":43.902801,
+    "lbl:longitude":22.273149,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zaje\u010dar",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Zajechar",
+    "qs_pg:photos":166,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":166,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233933,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":537685,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Zajechar",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688277,
+        102191581,
+        1108810163,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":537685,
+        "qs_pg:id":233933
+    },
+    "wof:country":"XX",
+    "wof:created":1497298187,
+    "wof:geomhash":"efaff62d49742bdb170f82ad7b89baac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810163,
+            "locality_id":1125971517,
+            "macroregion_id":404228357,
+            "region_id":85688277
+        }
+    ],
+    "wof:id":1125971517,
+    "wof:lastmodified":1509404019,
+    "wof:name":"Zaje\u010dar",
+    "wof:parent_id":1108810163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.273149,
+    43.902801,
+    22.273149,
+    43.902801
+],
+  "geometry": {"coordinates":[22.273149,43.902801],"type":"Point"}
+}

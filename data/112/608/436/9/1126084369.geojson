@@ -1,0 +1,83 @@
+{
+  "id": 1126084369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-115.488646,32.63305,-115.488646,32.63305",
+    "geom:latitude":32.63305,
+    "geom:longitude":-115.488646,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.63305,
+    "lbl:longitude":-115.488646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fracc Jardines de San Marcos",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":310,
+    "qs_pg:photos_1k":63,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":310,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475049,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55896367,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993461,
+        102074507,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55896367,
+        "qs_pg:id":475049
+    },
+    "wof:country":"XX",
+    "wof:created":1497312502,
+    "wof:geomhash":"1bc3c311f11ab9d96e5a68e671626eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074507,
+            "locality_id":101993461,
+            "neighbourhood_id":1126084369,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126084369,
+    "wof:lastmodified":1509411328,
+    "wof:name":"Fracc Jardines de San Marcos",
+    "wof:parent_id":101993461,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -115.488646,
+    32.63305,
+    -115.488646,
+    32.63305
+],
+  "geometry": {"coordinates":[-115.488646,32.63305],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126070279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.099194,32.430206,-117.099194,32.430206",
+    "geom:latitude":32.430206,
+    "geom:longitude":-117.099194,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.430206,
+    "lbl:longitude":-117.099194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Los Delfines",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":911865,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55883114,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102074501,
+        85686541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55883114,
+        "qs_pg:id":911865
+    },
+    "wof:country":"XX",
+    "wof:created":1497309821,
+    "wof:geomhash":"819e39d7cd5855df9c9f0ed1c487c6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":-1,
+            "neighbourhood_id":1126070279,
+            "region_id":85686541
+        }
+    ],
+    "wof:id":1126070279,
+    "wof:lastmodified":1509410638,
+    "wof:name":"Los Delfines",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.099194,
+    32.430206,
+    -117.099194,
+    32.430206
+],
+  "geometry": {"coordinates":[-117.099194,32.430206],"type":"Point"}
+}

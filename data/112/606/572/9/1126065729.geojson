@@ -1,0 +1,82 @@
+{
+  "id": 1126065729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.045923,24.857702,67.045923,24.857702",
+    "geom:latitude":24.857702,
+    "geom:longitude":67.045923,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":24.857702,
+    "lbl:longitude":67.045923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bizerta",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Sindh",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1031264,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":22726263,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Sindh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726263,
+        "qs_pg:id":1031264
+    },
+    "wof:country":"XX",
+    "wof:created":1497308855,
+    "wof:geomhash":"5c384af4c6c487a1beb4fb014f57e267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":-1,
+            "neighbourhood_id":1126065729,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1126065729,
+    "wof:lastmodified":1509410411,
+    "wof:name":"Bizerta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.045923,
+    24.857702,
+    67.045923,
+    24.857702
+],
+  "geometry": {"coordinates":[67.045923,24.857702],"type":"Point"}
+}

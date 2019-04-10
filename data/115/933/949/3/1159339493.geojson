@@ -1,0 +1,201 @@
+{
+  "id": 1159339493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001421,
+    "geom:bbox":"35.6121399706,4.58911053079,35.7058456047,4.61949738318",
+    "geom:latitude":4.609352,
+    "geom:longitude":35.672783,
+    "iso:country":"XX",
+    "lbl:latitude":4.607691,
+    "lbl:longitude":35.680592,
+    "mps:latitude":4.607691,
+    "mps:longitude":35.680592,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Ilemi-Dreieck"
+    ],
+    "name:eng_x_preferred":[
+        "Ilemi Triangle"
+    ],
+    "name:fra_x_preferred":[
+        "Triangle d'Ilemi"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0932\u0947\u092e\u0940 \u0924\u094d\u0930\u093f\u0915\u094b\u0923"
+    ],
+    "name:ita_x_preferred":[
+        "Triangolo di Ilemi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ec\u30df\u30fb\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub808\ubbf8 \uc0bc\uac01\uc9c0\uad6c"
+    ],
+    "name:nld_x_preferred":[
+        "Ilemi-driehoek"
+    ],
+    "name:pol_x_preferred":[
+        "Tr\u00f3jk\u0105t Ilemi"
+    ],
+    "name:por_x_preferred":[
+        "Tri\u00e2ngulo de Ilemi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a \u0418\u043b\u0435\u043c\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Tri\u00e1ngulo de Ilemi"
+    ],
+    "ne:ABBREV":"S. Sud.",
+    "ne:ABBREV_LEN":7,
+    "ne:ADM0_A3":"SDS",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"B74",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":0,
+    "ne:ADMIN":"South Sudan",
+    "ne:BRK_A3":"B74",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Ilemi Triange",
+    "ne:CONTINENT":"Africa",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":-99,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"South Sudan",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"SDS",
+    "ne:HOMEPART":1,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":9,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":5,
+    "ne:LONG_LEN":11,
+    "ne:MAPCOLOR13":5,
+    "ne:MAPCOLOR7":1,
+    "ne:MAPCOLOR8":3,
+    "ne:MAPCOLOR9":3,
+    "ne:MAX_LABEL":9,
+    "ne:MIN_LABEL":7,
+    "ne:MIN_ZOOM":5,
+    "ne:NAME":"S. Sudan",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":null,
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Ilemi-Dreieck",
+    "ne:NAME_EL":null,
+    "ne:NAME_EN":"Ilemi Triangle",
+    "ne:NAME_ES":"Tri\u00e1ngulo de Ilemi",
+    "ne:NAME_FR":"Triangle d'Ilemi",
+    "ne:NAME_HI":"\u0907\u0932\u0947\u092e\u0940 \u0924\u094d\u0930\u093f\u0915\u094b\u0923",
+    "ne:NAME_HU":null,
+    "ne:NAME_ID":null,
+    "ne:NAME_IT":"Triangolo di Ilemi",
+    "ne:NAME_JA":"\u30a4\u30ec\u30df\u30fb\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
+    "ne:NAME_KO":"\uc77c\ub808\ubbf8 \uc0bc\uac01\uc9c0\uad6c",
+    "ne:NAME_LEN":8,
+    "ne:NAME_LONG":"South Sudan",
+    "ne:NAME_NL":"Ilemi-driehoek",
+    "ne:NAME_PL":"Tr\u00f3jk\u0105t Ilemi",
+    "ne:NAME_PT":"Tri\u00e2ngulo de Ilemi",
+    "ne:NAME_RU":"\u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a \u0418\u043b\u0435\u043c\u0438",
+    "ne:NAME_SORT":"South Sudan",
+    "ne:NAME_SV":null,
+    "ne:NAME_TR":null,
+    "ne:NAME_VI":null,
+    "ne:NAME_ZH":null,
+    "ne:NE_ID":1159321237,
+    "ne:NOTE_ADM0":"S. Sudan",
+    "ne:NOTE_BRK":null,
+    "ne:POP_EST":-99,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"IT",
+    "ne:REGION_UN":"Africa",
+    "ne:REGION_WB":"Sub-Saharan Africa",
+    "ne:SOVEREIGNT":"South Sudan",
+    "ne:SOV_A3":"SDS",
+    "ne:SUBREGION":"Eastern Africa",
+    "ne:SUBUNIT":"South Sudan",
+    "ne:SU_A3":"SDS",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Disputed",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q973527",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"No WOE equivalent.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":0,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1159321237,
+        "wd:id":"Q973527"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"1c0cd4745c35fe19ee80d8ae553ce821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "disputed_id":1159339493
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "disputed_id":1159339493
+        }
+    ],
+    "wof:id":1159339493,
+    "wof:lastmodified":1528909938,
+    "wof:name":"Ilemi Triangle",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61213997060418,
+    4.58911053079331,
+    35.70584560472605,
+    4.61949738317803
+],
+  "geometry": {"coordinates":[[[35.61213997060418,4.61949738317803],[35.63227421100012,4.61948659300013],[35.70584560472605,4.61944708053936],[35.70036487866076,4.58911053079331],[35.61213997060418,4.61949738317803]]],"type":"Polygon"}
+}

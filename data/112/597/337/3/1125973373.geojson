@@ -1,0 +1,83 @@
+{
+  "id": 1125973373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.971452,39.345818,8.971452,39.345818",
+    "geom:latitude":39.345818,
+    "geom:longitude":8.971452,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":39.345818,
+    "lbl:longitude":8.971452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aeroporto",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Sardegna",
+    "qs_pg:photos":229,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":229,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1154129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":20109334,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Sardegna",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        1360702181,
+        102191581,
+        404466923,
+        85633253,
+        404227535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20109334,
+        "qs_pg:id":1154129
+    },
+    "wof:country":"XX",
+    "wof:created":1497298256,
+    "wof:geomhash":"7ea1f2c4c53cc1b61f013caf2b0beac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404466923,
+            "locality_id":1125973373,
+            "macroregion_id":404227535,
+            "region_id":1360702181
+        }
+    ],
+    "wof:id":1125973373,
+    "wof:lastmodified":1543971247,
+    "wof:name":"Aeroporto",
+    "wof:parent_id":404466923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.971452,
+    39.345818,
+    8.971452,
+    39.345818
+],
+  "geometry": {"coordinates":[8.971452,39.345818],"type":"Point"}
+}

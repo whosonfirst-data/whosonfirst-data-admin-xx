@@ -1,0 +1,85 @@
+{
+  "id": 890442401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.802947,34.076101,74.802947,34.076101",
+    "geom:latitude":34.076101,
+    "geom:longitude":74.802947,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Karan Nagar",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":191,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        102028565,
+        1108695707,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55957837,
+        "qs:id":1322516,
+        "wd:id":"Q19892519",
+        "wk:page":"Karan Nagar"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052361,
+    "wof:geomhash":"52c1c3ad68c5ce9aee56419ceae772ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695707,
+            "disputed_id":85632427,
+            "locality_id":102028565,
+            "neighbourhood_id":890442401,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695707,
+            "disputed_id":85632427,
+            "locality_id":102028565,
+            "neighbourhood_id":890442401,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890442401,
+    "wof:lastmodified":1533678808,
+    "wof:name":"Karan Nagar",
+    "wof:parent_id":102028565,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.802947,
+    34.076101,
+    74.802947,
+    34.076101
+],
+  "geometry": {"coordinates":[74.802947,34.076101],"type":"Point"}
+}

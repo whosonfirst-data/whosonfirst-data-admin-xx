@@ -1,0 +1,353 @@
+{
+  "id": 1125928429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.49329,16.20685,-61.49329,16.20685",
+    "geom:latitude":16.20685,
+    "geom:longitude":-61.49329,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":28698,
+    "gn:population":28698,
+    "iso:country":"XX",
+    "lbl:latitude":16.20685,
+    "lbl:longitude":-61.49329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648 \u063a\u0648\u0633\u064a\u064a\u0647"
+    ],
+    "name:arg_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ast_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:bam_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:baq_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:bar_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:bre_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:bug_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:cat_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:cos_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:cze_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:dan_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:dut_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:eng_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:epo_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:est_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:fao_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648 \u06af\u0648\u0633\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:frc_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:fre_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:frp_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:fur_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ger_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:gla_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:gle_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:glg_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:gsw_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:hrv_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:hun_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ice_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ido_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ile_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ina_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ind_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ita_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:jam_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\uff1d\u30b4\u30b7\u30a8"
+    ],
+    "name:kab_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:kal_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:kon_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:lat_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:lav_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:lij_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:lim_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:lit_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ltz_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:may_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:min_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:mlg_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648 \u06af\u0648\u0633\u06cc\u0647"
+    ],
+    "name:nap_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:nds_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:nno_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:nob_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:nrm_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:oci_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:pap_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:pcd_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648 \u06af\u0648\u0633\u06cc\u0647"
+    ],
+    "name:pms_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:pol_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:por_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:prg_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:rgn_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:roh_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:rum_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:scn_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:sco_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:slo_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:spa_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:srd_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435 \u0413\u043e\u0437\u0458\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:swe_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:tur_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0413\u043e\u0437\u044c\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Gozier"
+    ],
+    "name:vec_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:vie_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:vls_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:vmf_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:vol_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:war_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:wel_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:wln_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:wol_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:zul_x_preferred":[
+        "Le Gosier"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3578978,
+    "qs_pg:gn_pop":28698,
+    "qs_pg:name":"Le Gosier",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Pointe-\u00c0-Pitre",
+    "qs_pg:photos":646,
+    "qs_pg:photos_1k":131,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":646,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":489125,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80728,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Pointe-\u00c0-Pitre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578978,
+        "gp:id":80728,
+        "qs_pg:id":489125,
+        "wd:id":"Q918874"
+    },
+    "wof:country":"XX",
+    "wof:created":1497296724,
+    "wof:geomhash":"02f619f6633128711f411c64b4551edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125928429,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125928429,
+    "wof:lastmodified":1531422102,
+    "wof:name":"Le Gosier",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":28698,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.49329,
+    16.20685,
+    -61.49329,
+    16.20685
+],
+  "geometry": {"coordinates":[-61.49329,16.20685],"type":"Point"}
+}

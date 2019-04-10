@@ -1,0 +1,82 @@
+{
+  "id": 1126069361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.040805,24.875425,67.040805,24.875425",
+    "geom:latitude":24.875425,
+    "geom:longitude":67.040805,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":24.875425,
+    "lbl:longitude":67.040805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Patel-ka-bara",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Sindh",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985265,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":22726251,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Sindh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726251,
+        "qs_pg:id":985265
+    },
+    "wof:country":"XX",
+    "wof:created":1497309562,
+    "wof:geomhash":"ad40a58aabbc675f9566a5e92564a593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":-1,
+            "neighbourhood_id":1126069361,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1126069361,
+    "wof:lastmodified":1509410592,
+    "wof:name":"Patel-ka-bara",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.040805,
+    24.875425,
+    67.040805,
+    24.875425
+],
+  "geometry": {"coordinates":[67.04080500000001,24.875425],"type":"Point"}
+}

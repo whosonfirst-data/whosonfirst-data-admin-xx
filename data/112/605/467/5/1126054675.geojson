@@ -1,0 +1,83 @@
+{
+  "id": 1126054675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1783195,40.927521,15.1783195,40.927521",
+    "geom:latitude":40.927521,
+    "geom:longitude":15.17832,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.927521,
+    "lbl:longitude":15.17832,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sant'Angelo de' Lombardi",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Campania",
+    "qs_pg:photos":88,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1061343,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":723335,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Campania",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685493,
+        102191581,
+        404465401,
+        85633253,
+        404227525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":723335,
+        "qs_pg:id":1061343
+    },
+    "wof:country":"XX",
+    "wof:created":1497303021,
+    "wof:geomhash":"0a096f47573a3b49eaf61d693db34a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404465401,
+            "locality_id":1126054675,
+            "macroregion_id":404227525,
+            "region_id":85685493
+        }
+    ],
+    "wof:id":1126054675,
+    "wof:lastmodified":1509409532,
+    "wof:name":"Sant'Angelo de' Lombardi",
+    "wof:parent_id":404465401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1783195,
+    40.927521,
+    15.1783195,
+    40.927521
+],
+  "geometry": {"coordinates":[15.1783195,40.927521],"type":"Point"}
+}

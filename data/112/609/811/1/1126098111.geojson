@@ -1,0 +1,83 @@
+{
+  "id": 1126098111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-106.4674,31.752198,-106.4674,31.752198",
+    "geom:latitude":31.752198,
+    "geom:longitude":-106.4674,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":31.752198,
+    "lbl:longitude":-106.4674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hidalgo",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Chihuahua",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1341266,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55893735,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Chihuahua",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101994153,
+        102075223,
+        85686581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55893735,
+        "qs_pg:id":1341266
+    },
+    "wof:country":"XX",
+    "wof:created":1497315568,
+    "wof:geomhash":"9ef1c763447239991202b9fabaf04e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075223,
+            "locality_id":101994153,
+            "neighbourhood_id":1126098111,
+            "region_id":85686581
+        }
+    ],
+    "wof:id":1126098111,
+    "wof:lastmodified":1509411982,
+    "wof:name":"Hidalgo",
+    "wof:parent_id":101994153,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -106.4674,
+    31.752198,
+    -106.4674,
+    31.752198
+],
+  "geometry": {"coordinates":[-106.4674,31.752198],"type":"Point"}
+}

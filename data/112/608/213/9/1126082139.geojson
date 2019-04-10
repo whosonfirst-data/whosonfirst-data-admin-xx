@@ -1,0 +1,83 @@
+{
+  "id": 1126082139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-109.015789,25.775295,-109.015789,25.775295",
+    "geom:latitude":25.775295,
+    "geom:longitude":-109.015789,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":25.775295,
+    "lbl:longitude":-109.015789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Fracc Guadalupe",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Sinaloa",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1018963,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55884424,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Sinaloa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993793,
+        102074339,
+        85686535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55884424,
+        "qs_pg:id":1018963
+    },
+    "wof:country":"XX",
+    "wof:created":1497312084,
+    "wof:geomhash":"8a7689fde11040a4d3a1147fa9e3772e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074339,
+            "locality_id":101993793,
+            "neighbourhood_id":1126082139,
+            "region_id":85686535
+        }
+    ],
+    "wof:id":1126082139,
+    "wof:lastmodified":1509411216,
+    "wof:name":"Fracc Guadalupe",
+    "wof:parent_id":101993793,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -109.015789,
+    25.775295,
+    -109.015789,
+    25.775295
+],
+  "geometry": {"coordinates":[-109.015789,25.775295],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1126092619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-08",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.048334,38.7968075,-77.048334,38.7968075",
+    "geom:latitude":38.796807,
+    "geom:longitude":-77.048334,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.796807,
+    "lbl:longitude":-77.048334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Soutwest Quadrant",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":1844,
+    "qs_pg:photos_1k":374,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1844,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":220556,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55857737,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55857737,
+        "qs_pg:id":220556
+    },
+    "wof:country":"XX",
+    "wof:created":1497314281,
+    "wof:geomhash":"7f7756167a93fbb5416b8628a4c0de5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1126092619,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126092619,
+    "wof:lastmodified":1511998874,
+    "wof:name":"Soutwest Quadrant",
+    "wof:parent_id":101728581,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[
+        85875851
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.048334,
+    38.7968075,
+    -77.048334,
+    38.7968075
+],
+  "geometry": {"coordinates":[-77.048334,38.7968075],"type":"Point"}
+}

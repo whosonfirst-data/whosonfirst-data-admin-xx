@@ -1,0 +1,88 @@
+{
+  "id": 1125992137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.175308,16.249286,-61.175308,16.249286",
+    "geom:latitude":16.249286,
+    "geom:longitude":-61.175308,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":16.249286,
+    "lbl:longitude":-61.175308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kahouanne"
+    ],
+    "name:eng_x_preferred":[
+        "Kahouanne"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kahouanne",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Pointe-\u00c0-Pitre",
+    "qs_pg:photos":573,
+    "qs_pg:photos_1k":116,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":573,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074063,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80689,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Pointe-\u00c0-Pitre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80689,
+        "qs_pg:id":1074063,
+        "wd:id":"Q15232446"
+    },
+    "wof:country":"XX",
+    "wof:created":1497299112,
+    "wof:geomhash":"b9a131eae492b43a775e4a1f5a38bbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125992137,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1125992137,
+    "wof:lastmodified":1514503049,
+    "wof:name":"Kahouanne",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.175308,
+    16.249286,
+    -61.175308,
+    16.249286
+],
+  "geometry": {"coordinates":[-61.175308,16.249286],"type":"Point"}
+}

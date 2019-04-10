@@ -1,0 +1,83 @@
+{
+  "id": 1125982325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.075068,45.443873,12.075068,45.443873",
+    "geom:latitude":45.443873,
+    "geom:longitude":12.075068,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.443873,
+    "lbl:longitude":12.075068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cazzago-ex Polo",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Veneto",
+    "qs_pg:photos":129,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":129,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236697,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":20119551,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Veneto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685305,
+        102191581,
+        404470165,
+        85633253,
+        404227501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20119551,
+        "qs_pg:id":236697
+    },
+    "wof:country":"XX",
+    "wof:created":1497298615,
+    "wof:geomhash":"f5518ca4cbb65f5d018e84e744c605db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404470165,
+            "locality_id":1125982325,
+            "macroregion_id":404227501,
+            "region_id":85685305
+        }
+    ],
+    "wof:id":1125982325,
+    "wof:lastmodified":1509404853,
+    "wof:name":"Cazzago-ex Polo",
+    "wof:parent_id":404470165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.075068,
+    45.443873,
+    12.075068,
+    45.443873
+],
+  "geometry": {"coordinates":[12.075068,45.443873],"type":"Point"}
+}

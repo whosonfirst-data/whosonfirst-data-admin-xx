@@ -1,0 +1,83 @@
+{
+  "id": 1126106499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.74889,3.22887,101.74889,3.22887",
+    "geom:latitude":3.22887,
+    "geom:longitude":101.74889,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":3.22887,
+    "lbl:longitude":101.74889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Desa Melawati",
+    "qs_pg:name_adm0":"Malaysia",
+    "qs_pg:name_adm1":"Kuala Lumpur",
+    "qs_pg:photos":131,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":131,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":472806,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424901,
+    "qs_pg:woe_id":55862690,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424901,
+    "woe:name_adm0":"Malaysia",
+    "woe:name_adm1":"Kuala Lumpur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632739,
+        102023407,
+        890490945,
+        85675181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55862690,
+        "qs_pg:id":472806
+    },
+    "wof:country":"XX",
+    "wof:created":1497317155,
+    "wof:geomhash":"b0e95ef9bd862cb7cf849677917e8f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632739,
+            "county_id":890490945,
+            "locality_id":102023407,
+            "neighbourhood_id":1126106499,
+            "region_id":85675181
+        }
+    ],
+    "wof:id":1126106499,
+    "wof:lastmodified":1509412398,
+    "wof:name":"Desa Melawati",
+    "wof:parent_id":102023407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.74889,
+    3.22887,
+    101.74889,
+    3.22887
+],
+  "geometry": {"coordinates":[101.74889,3.22887],"type":"Point"}
+}

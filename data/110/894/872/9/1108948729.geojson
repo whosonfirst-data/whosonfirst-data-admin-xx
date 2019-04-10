@@ -1,0 +1,86 @@
+{
+  "id": 1108948729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93738407962,44.4009223136,8.93738407962,44.4009223136",
+    "geom:latitude":44.400922,
+    "geom:longitude":8.937384,
+    "iso:country":"XX",
+    "lbl:latitude":44.400922,
+    "lbl:longitude":8.937384,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Carignano"
+    ],
+    "name:eng_x_preferred":[
+        "Carignano"
+    ],
+    "name:fre_x_preferred":[
+        "Carignano"
+    ],
+    "name:ger_x_preferred":[
+        "Carignano"
+    ],
+    "name:ita_x_preferred":[
+        "Carignano"
+    ],
+    "name:lij_x_preferred":[
+        "Caignan"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        404471975,
+        85633253,
+        404227507,
+        101752663,
+        85685219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q683384"
+    },
+    "wof:country":"XX",
+    "wof:created":1491367196,
+    "wof:geomhash":"8a25c3b2237dd5dae7698999e0fc9479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404471975,
+            "locality_id":101752663,
+            "macroregion_id":404227507,
+            "neighbourhood_id":1108948729,
+            "region_id":85685219
+        }
+    ],
+    "wof:id":1108948729,
+    "wof:lastmodified":1514502971,
+    "wof:name":"Carignano",
+    "wof:parent_id":101752663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93738407961808,
+    44.40092231356613,
+    8.93738407961808,
+    44.40092231356613
+],
+  "geometry": {"coordinates":[8.93738407961808,44.40092231356613],"type":"Point"}
+}

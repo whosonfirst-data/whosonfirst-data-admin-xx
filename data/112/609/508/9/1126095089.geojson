@@ -1,0 +1,83 @@
+{
+  "id": 1126095089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.101362,47.403926,19.101362,47.403926",
+    "geom:latitude":47.403926,
+    "geom:longitude":19.101362,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":47.403926,
+    "lbl:longitude":19.101362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Csillagtelep",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Budapest",
+    "qs_pg:photos":25,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":25,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":228896,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":805011,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Budapest",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85684881,
+        102191581,
+        85633237,
+        404227489,
+        101751703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":805011,
+        "qs_pg:id":228896
+    },
+    "wof:country":"XX",
+    "wof:created":1497315003,
+    "wof:geomhash":"53015ed9fca8752cf8efc929fad644d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1126095089,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1126095089,
+    "wof:lastmodified":1509411843,
+    "wof:name":"Csillagtelep",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.101362,
+    47.403926,
+    19.101362,
+    47.403926
+],
+  "geometry": {"coordinates":[19.101362,47.403926],"type":"Point"}
+}

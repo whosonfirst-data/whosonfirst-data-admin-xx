@@ -1,0 +1,83 @@
+{
+  "id": 1126065055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.1910235,19.691306,-99.1910235,19.691306",
+    "geom:latitude":19.691306,
+    "geom:longitude":-99.191024,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.691306,
+    "lbl:longitude":-99.191024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zona Industrial Xhala",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":961983,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55903754,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101991533,
+        102073975,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55903754,
+        "qs_pg:id":961983
+    },
+    "wof:country":"XX",
+    "wof:created":1497308736,
+    "wof:geomhash":"b666b589dfc5b28177b6eed102883302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102073975,
+            "locality_id":101991533,
+            "neighbourhood_id":1126065055,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126065055,
+    "wof:lastmodified":1509410382,
+    "wof:name":"Zona Industrial Xhala",
+    "wof:parent_id":101991533,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.1910235,
+    19.691306,
+    -99.1910235,
+    19.691306
+],
+  "geometry": {"coordinates":[-99.1910235,19.691306],"type":"Point"}
+}

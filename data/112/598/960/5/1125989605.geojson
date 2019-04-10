@@ -1,0 +1,82 @@
+{
+  "id": 1125989605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.7186495,15.1740045,145.7186495,15.1740045",
+    "geom:latitude":15.174005,
+    "geom:longitude":145.718649,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":15.174005,
+    "lbl:longitude":145.718649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Chalan Kiya",
+    "qs_pg:name_adm0":"Northern Mariana Islands",
+    "qs_pg:name_adm1":"Saipan",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996705,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424788,
+    "qs_pg:woe_id":29389663,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424788,
+    "woe:name_adm0":"Northern Mariana Islands",
+    "woe:name_adm1":"Saipan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29389663,
+        "qs_pg:id":996705
+    },
+    "wof:country":"XX",
+    "wof:created":1497298995,
+    "wof:geomhash":"231edd85ae8fc436f564745d135ddbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1125989605,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1125989605,
+    "wof:lastmodified":1509405304,
+    "wof:name":"Chalan Kiya",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.7186495,
+    15.1740045,
+    145.7186495,
+    15.1740045
+],
+  "geometry": {"coordinates":[145.7186495,15.1740045],"type":"Point"}
+}

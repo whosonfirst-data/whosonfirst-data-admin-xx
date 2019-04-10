@@ -1,0 +1,82 @@
+{
+  "id": 1126070149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.598468,36.832844,30.598468,36.832844",
+    "geom:latitude":36.832844,
+    "geom:longitude":30.598468,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":36.832844,
+    "lbl:longitude":30.598468,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sarisu",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Antalya",
+    "qs_pg:photos":77,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":77,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986681,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55871452,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Antalya",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709665,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55871452,
+        "qs_pg:id":986681
+    },
+    "wof:country":"XX",
+    "wof:created":1497309798,
+    "wof:geomhash":"625b56ec45a41e4310fda1a7bb2007df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709665,
+            "locality_id":-1,
+            "neighbourhood_id":1126070149,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1126070149,
+    "wof:lastmodified":1509410632,
+    "wof:name":"Sarisu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.598468,
+    36.832844,
+    30.598468,
+    36.832844
+],
+  "geometry": {"coordinates":[30.598468,36.832844],"type":"Point"}
+}

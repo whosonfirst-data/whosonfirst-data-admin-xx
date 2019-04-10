@@ -1,0 +1,82 @@
+{
+  "id": 1126094495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.690755,-45.024402,168.690755,-45.024402",
+    "geom:latitude":-45.024402,
+    "geom:longitude":168.690755,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-45.024402,
+    "lbl:longitude":168.690755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Wakatipu Heights",
+    "qs_pg:name_adm0":"New Zealand",
+    "qs_pg:name_adm1":"Otago",
+    "qs_pg:photos":1189,
+    "qs_pg:photos_1k":241,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1189,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088585,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424916,
+    "qs_pg:woe_id":28644789,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424916,
+    "woe:name_adm0":"New Zealand",
+    "woe:name_adm1":"Otago",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191583,
+        85633345,
+        102079385,
+        85687201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28644789,
+        "qs_pg:id":1088585
+    },
+    "wof:country":"XX",
+    "wof:created":1497314864,
+    "wof:geomhash":"63a049db1ec242143dce4c1a923a3d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":-1,
+            "neighbourhood_id":1126094495,
+            "region_id":85687201
+        }
+    ],
+    "wof:id":1126094495,
+    "wof:lastmodified":1509411817,
+    "wof:name":"Wakatipu Heights",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.690755,
+    -45.024402,
+    168.690755,
+    -45.024402
+],
+  "geometry": {"coordinates":[168.690755,-45.024402],"type":"Point"}
+}

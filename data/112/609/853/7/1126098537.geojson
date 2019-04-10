@@ -1,0 +1,82 @@
+{
+  "id": 1126098537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-98.84659,19.689081,-98.84659,19.689081",
+    "geom:latitude":19.689081,
+    "geom:longitude":-98.84659,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.689081,
+    "lbl:longitude":-98.84659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zona Arqueologica de Teotihuacan",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":5663,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":25,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5663,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342498,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55902910,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102074039,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55902910,
+        "qs_pg:id":1342498
+    },
+    "wof:country":"XX",
+    "wof:created":1497315621,
+    "wof:geomhash":"afd43b21057f4760816212f287bd7b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074039,
+            "locality_id":-1,
+            "neighbourhood_id":1126098537,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126098537,
+    "wof:lastmodified":1509412001,
+    "wof:name":"Zona Arqueologica de Teotihuacan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.84659,
+    19.689081,
+    -98.84659,
+    19.689081
+],
+  "geometry": {"coordinates":[-98.84659000000001,19.689081],"type":"Point"}
+}

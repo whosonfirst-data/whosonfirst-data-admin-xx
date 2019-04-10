@@ -1,0 +1,83 @@
+{
+  "id": 1126101371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.5131,25.960436,-97.5131,25.960436",
+    "geom:latitude":25.960436,
+    "geom:longitude":-97.5131,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":25.960436,
+    "lbl:longitude":-97.5131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"West End",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Texas",
+    "qs_pg:photos":227,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":237999,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55858369,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Texas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101724157,
+        102086761,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55858369,
+        "qs_pg:id":237999
+    },
+    "wof:country":"XX",
+    "wof:created":1497316117,
+    "wof:geomhash":"0c7b3da87f04d681400d1a25974e69eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086761,
+            "locality_id":101724157,
+            "neighbourhood_id":1126101371,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1126101371,
+    "wof:lastmodified":1509412136,
+    "wof:name":"West End",
+    "wof:parent_id":101724157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.5131,
+    25.960436,
+    -97.5131,
+    25.960436
+],
+  "geometry": {"coordinates":[-97.51309999999999,25.960436],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126065373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.670946,30.569642,-97.670946,30.569642",
+    "geom:latitude":30.569642,
+    "geom:longitude":-97.670946,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":30.569642,
+    "lbl:longitude":-97.670946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Teravista 60s",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Texas",
+    "qs_pg:photos":93,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":93,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":986967,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55998060,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Texas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        102085993,
+        85688753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55998060,
+        "qs_pg:id":986967
+    },
+    "wof:country":"XX",
+    "wof:created":1497308793,
+    "wof:geomhash":"ad12c158030196ec5ed67c3b6bbcc508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085993,
+            "locality_id":-1,
+            "neighbourhood_id":1126065373,
+            "region_id":85688753
+        }
+    ],
+    "wof:id":1126065373,
+    "wof:lastmodified":1509410396,
+    "wof:name":"Teravista 60s",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.670946,
+    30.569642,
+    -97.670946,
+    30.569642
+],
+  "geometry": {"coordinates":[-97.670946,30.569642],"type":"Point"}
+}

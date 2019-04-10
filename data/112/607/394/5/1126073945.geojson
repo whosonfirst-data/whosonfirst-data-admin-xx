@@ -1,0 +1,82 @@
+{
+  "id": 1126073945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.365711,35.46794,44.365711,35.46794",
+    "geom:latitude":35.46794,
+    "geom:longitude":44.365711,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":35.46794,
+    "lbl:longitude":44.365711,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Arrapha",
+    "qs_pg:name_adm0":"Iraq",
+    "qs_pg:name_adm1":"At Ta'mim",
+    "qs_pg:photos":169,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":169,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900320,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424855,
+    "qs_pg:woe_id":1971678,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424855,
+    "woe:name_adm0":"Iraq",
+    "woe:name_adm1":"At Ta'mim",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632191,
+        421199293,
+        1108804831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1971678,
+        "qs_pg:id":900320
+    },
+    "wof:country":"XX",
+    "wof:created":1497310550,
+    "wof:geomhash":"edd865f97d5119aa789abce35b72f89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":421199293,
+            "locality_id":-1,
+            "neighbourhood_id":1126073945,
+            "region_id":1108804831
+        }
+    ],
+    "wof:id":1126073945,
+    "wof:lastmodified":1509410819,
+    "wof:name":"Arrapha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.365711,
+    35.46794,
+    44.365711,
+    35.46794
+],
+  "geometry": {"coordinates":[44.365711,35.46794],"type":"Point"}
+}

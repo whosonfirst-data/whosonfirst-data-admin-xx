@@ -1,0 +1,83 @@
+{
+  "id": 1126102225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-96.93439,18.893557,-96.93439,18.893557",
+    "geom:latitude":18.893557,
+    "geom:longitude":-96.93439,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":18.893557,
+    "lbl:longitude":-96.93439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Centro",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Veracruz-Llave",
+    "qs_pg:photos":470,
+    "qs_pg:photos_1k":95,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":470,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239571,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55888394,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Veracruz-Llave",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101998261,
+        102077479,
+        85686671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55888394,
+        "qs_pg:id":239571
+    },
+    "wof:country":"XX",
+    "wof:created":1497316278,
+    "wof:geomhash":"163c25e74b66e037a67f3853978e2f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102077479,
+            "locality_id":101998261,
+            "neighbourhood_id":1126102225,
+            "region_id":85686671
+        }
+    ],
+    "wof:id":1126102225,
+    "wof:lastmodified":1509412186,
+    "wof:name":"Centro",
+    "wof:parent_id":101998261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.93439,
+    18.893557,
+    -96.93439,
+    18.893557
+],
+  "geometry": {"coordinates":[-96.93438999999999,18.893557],"type":"Point"}
+}

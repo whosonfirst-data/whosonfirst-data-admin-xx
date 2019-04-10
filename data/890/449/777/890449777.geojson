@@ -1,0 +1,81 @@
+{
+  "id": 890449777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.169597,34.23327,77.169597,34.23327",
+    "geom:latitude":34.23327,
+    "geom:longitude":77.169597,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Suspol",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":181,
+    "qs:photos_1k":37,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":181,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":15,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695697,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2290486,
+        "qs:id":1133753,
+        "wk:page":"Suspol"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052709,
+    "wof:geomhash":"c5a3dcb574562574b3f2abbb0481afbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890449777,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695697,
+            "disputed_id":85632427,
+            "locality_id":890449777,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890449777,
+    "wof:lastmodified":1533678793,
+    "wof:name":"Suspol",
+    "wof:parent_id":1108695697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.169597,
+    34.23327,
+    77.169597,
+    34.23327
+],
+  "geometry": {"coordinates":[77.169597,34.23327],"type":"Point"}
+}

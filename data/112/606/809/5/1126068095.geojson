@@ -1,0 +1,83 @@
+{
+  "id": 1126068095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-117.123645,32.53439,-117.123645,32.53439",
+    "geom:latitude":32.53439,
+    "geom:longitude":-117.123645,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":32.53439,
+    "lbl:longitude":-117.123645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Playas de Tijuana Secc Monumental",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":1075,
+    "qs_pg:photos_1k":218,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1075,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":242166,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55882116,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85922257,
+        102083569,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55882116,
+        "qs_pg:id":242166
+    },
+    "wof:country":"XX",
+    "wof:created":1497309265,
+    "wof:geomhash":"240d5a2652ca9c32e96329fb67fdc1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922257,
+            "neighbourhood_id":1126068095,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1126068095,
+    "wof:lastmodified":1509410528,
+    "wof:name":"Playas de Tijuana Secc Monumental",
+    "wof:parent_id":85922257,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -117.123645,
+    32.53439,
+    -117.123645,
+    32.53439
+],
+  "geometry": {"coordinates":[-117.123645,32.53439],"type":"Point"}
+}

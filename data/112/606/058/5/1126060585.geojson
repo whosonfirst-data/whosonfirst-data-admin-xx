@@ -1,0 +1,112 @@
+{
+  "id": 1126060585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77904,59.4259305,24.77904,59.4259305",
+    "geom:latitude":59.42593,
+    "geom:longitude":24.77904,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":59.42593,
+    "lbl:longitude":24.77904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:dut_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:eng_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:est_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:fre_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:ger_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:oci_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0445\u043a\u0435\u043d\u0442\u0430\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Juhkentali"
+    ],
+    "name:swe_x_preferred":[
+        "Juhkentali"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Juhkentali",
+    "qs_pg:name_adm0":"Eesti",
+    "qs_pg:name_adm1":"Harjumaa",
+    "qs_pg:photos":248,
+    "qs_pg:photos_1k":50,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":248,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891827,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424805,
+    "qs_pg:woe_id":23701396,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424805,
+    "woe:name_adm0":"Eesti",
+    "woe:name_adm1":"Harjumaa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101748153,
+        85633135,
+        85683055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23701396,
+        "qs_pg:id":891827,
+        "wd:id":"Q59957"
+    },
+    "wof:country":"XX",
+    "wof:created":1497308025,
+    "wof:geomhash":"60b6ea1ac6eacd2e869d28a0bf4acbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633135,
+            "locality_id":101748153,
+            "neighbourhood_id":1126060585,
+            "region_id":85683055
+        }
+    ],
+    "wof:id":1126060585,
+    "wof:lastmodified":1514503049,
+    "wof:name":"Juhkentali",
+    "wof:parent_id":101748153,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77904,
+    59.4259305,
+    24.77904,
+    59.4259305
+],
+  "geometry": {"coordinates":[24.77904,59.4259305],"type":"Point"}
+}

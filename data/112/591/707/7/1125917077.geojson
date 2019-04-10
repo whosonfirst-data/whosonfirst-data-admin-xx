@@ -1,0 +1,133 @@
+{
+  "id": 1125917077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.885215,34.053086,74.885215,34.053086",
+    "geom:latitude":34.053086,
+    "geom:longitude":74.885215,
+    "gn:gn_country":"XX",
+    "iso:country":"XX",
+    "lbl:latitude":34.053086,
+    "lbl:longitude":74.885215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09aa\u09be\u09ae\u09cd\u09aa\u09c1\u09b0\u09c7"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u59c6\u6ce2\u96f7"
+    ],
+    "name:dut_x_preferred":[
+        "Pampore"
+    ],
+    "name:eng_x_preferred":[
+        "Pampore"
+    ],
+    "name:ita_x_preferred":[
+        "Pampore"
+    ],
+    "name:may_x_preferred":[
+        "Pampore"
+    ],
+    "name:mlg_x_preferred":[
+        "Pampore"
+    ],
+    "name:nan_x_preferred":[
+        "Pampore"
+    ],
+    "name:por_x_preferred":[
+        "Pampore"
+    ],
+    "name:san_x_preferred":[
+        "\u092a\u093e\u092e\u094d\u092a\u094b\u0930"
+    ],
+    "name:spa_x_preferred":[
+        "Pampore"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0645\u067e\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Pampore"
+    ],
+    "qs_pg:aaroncc":"XX",
+    "qs_pg:gn_country":"XX",
+    "qs_pg:name":"Pampore",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Jammu and Kashmir",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1132947,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":2283790,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Jammu and Kashmir",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695711,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2283790,
+        "qs_pg:id":1132947,
+        "wd:id":"Q2558539"
+    },
+    "wof:country":"XX",
+    "wof:created":1497296356,
+    "wof:geomhash":"b85d5eeca308407598fce40cfcca5e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":1125917077,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695711,
+            "disputed_id":85632427,
+            "locality_id":1125917077,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1125917077,
+    "wof:lastmodified":1533678805,
+    "wof:name":"Pampore",
+    "wof:parent_id":1108695711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.885215,
+    34.053086,
+    74.885215,
+    34.053086
+],
+  "geometry": {"coordinates":[74.885215,34.053086],"type":"Point"}
+}

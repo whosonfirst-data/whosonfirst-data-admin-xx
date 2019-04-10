@@ -1,0 +1,83 @@
+{
+  "id": 1125796301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.566524,38.601335,16.566524,38.601335",
+    "geom:latitude":38.601335,
+    "geom:longitude":16.566524,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":38.601335,
+    "lbl:longitude":16.566524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Isca Marina",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Calabria",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":130645,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":20127722,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Calabria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685569,
+        102191581,
+        404464369,
+        85633253,
+        404227531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20127722,
+        "qs_pg:id":130645
+    },
+    "wof:country":"XX",
+    "wof:created":1497291062,
+    "wof:geomhash":"cb6a9ceef829e3898d960563c201229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404464369,
+            "locality_id":1125796301,
+            "macroregion_id":404227531,
+            "region_id":85685569
+        }
+    ],
+    "wof:id":1125796301,
+    "wof:lastmodified":1509392621,
+    "wof:name":"Isca Marina",
+    "wof:parent_id":404464369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.566524,
+    38.601335,
+    16.566524,
+    38.601335
+],
+  "geometry": {"coordinates":[16.566524,38.601335],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1126108447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.984272,41.013462,28.984272,41.013462",
+    "geom:latitude":41.013462,
+    "geom:longitude":28.984272,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.013462,
+    "lbl:longitude":28.984272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Hocapa\u015fa"
+    ],
+    "name:tur_x_preferred":[
+        "Hocapa\u015fa"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hocapa\u015fa",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":5347,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":24,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5347,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":501192,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724013,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724013,
+        "qs_pg:id":501192,
+        "wd:id":"Q12809982"
+    },
+    "wof:country":"XX",
+    "wof:created":1497317656,
+    "wof:geomhash":"5983c4720f4a49048ba4fe339b1ca190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":-1,
+            "neighbourhood_id":1126108447,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126108447,
+    "wof:lastmodified":1553816734,
+    "wof:name":"Hocapa\u015fa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.984272,
+    41.013462,
+    28.984272,
+    41.013462
+],
+  "geometry": {"coordinates":[28.984272,41.013462],"type":"Point"}
+}

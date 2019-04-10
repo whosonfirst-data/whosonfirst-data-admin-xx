@@ -1,0 +1,81 @@
+{
+  "id": 890449787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.375236,34.015245,76.375236,34.015245",
+    "geom:latitude":34.015245,
+    "geom:longitude":76.375236,
+    "gn:country":"XX",
+    "gp:adm0":23424848,
+    "iso:country":"XX",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Tashi",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695701,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2290503,
+        "qs:id":1133763,
+        "wk:page":"Tashi"
+    },
+    "wof:country":"XX",
+    "wof:created":1469052710,
+    "wof:geomhash":"4c579f8a58b30bb7d196f3fba0d76c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695701,
+            "disputed_id":85632427,
+            "locality_id":890449787,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695701,
+            "disputed_id":85632427,
+            "locality_id":890449787,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":890449787,
+    "wof:lastmodified":1533678793,
+    "wof:name":"Tashi",
+    "wof:parent_id":1108695701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.375236,
+    34.015245,
+    76.375236,
+    34.015245
+],
+  "geometry": {"coordinates":[76.375236,34.015245],"type":"Point"}
+}

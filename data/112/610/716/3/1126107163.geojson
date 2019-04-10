@@ -1,0 +1,82 @@
+{
+  "id": 1126107163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.541649,34.0087,71.541649,34.0087",
+    "geom:latitude":34.0087,
+    "geom:longitude":71.541649,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":34.0087,
+    "lbl:longitude":71.541649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nautheh\u00e5n",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Federally Administered Tribal Areas",
+    "qs_pg:photos":362,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":362,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1130142,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":2204745,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Federally Administered Tribal Areas",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2204745,
+        "qs_pg:id":1130142
+    },
+    "wof:country":"XX",
+    "wof:created":1497317320,
+    "wof:geomhash":"5ce602570d86b0b96471e56cfc85969e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1126107163,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1126107163,
+    "wof:lastmodified":1543515827,
+    "wof:name":"Nautheh\u00e5n",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.541649,
+    34.0087,
+    71.541649,
+    34.0087
+],
+  "geometry": {"coordinates":[71.54164900000001,34.0087],"type":"Point"}
+}

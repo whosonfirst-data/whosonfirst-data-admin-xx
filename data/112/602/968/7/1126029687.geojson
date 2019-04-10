@@ -1,0 +1,83 @@
+{
+  "id": 1126029687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.112259,40.93851,15.112259,40.93851",
+    "geom:latitude":40.93851,
+    "geom:longitude":15.112259,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.93851,
+    "lbl:longitude":15.112259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Torella de' Lombardi",
+    "qs_pg:name_adm0":"Italia",
+    "qs_pg:name_adm1":"Campania",
+    "qs_pg:photos":39,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1193648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424853,
+    "qs_pg:woe_id":724999,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424853,
+    "woe:name_adm0":"Italia",
+    "woe:name_adm1":"Campania",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85685493,
+        102191581,
+        404465437,
+        85633253,
+        404227525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":724999,
+        "qs_pg:id":1193648
+    },
+    "wof:country":"XX",
+    "wof:created":1497301382,
+    "wof:geomhash":"e99baf0f47a2f763d43eff1e2fa0a7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404465437,
+            "locality_id":1126029687,
+            "macroregion_id":404227525,
+            "region_id":85685493
+        }
+    ],
+    "wof:id":1126029687,
+    "wof:lastmodified":1509407827,
+    "wof:name":"Torella de' Lombardi",
+    "wof:parent_id":404465437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.112259,
+    40.93851,
+    15.112259,
+    40.93851
+],
+  "geometry": {"coordinates":[15.112259,40.93851],"type":"Point"}
+}

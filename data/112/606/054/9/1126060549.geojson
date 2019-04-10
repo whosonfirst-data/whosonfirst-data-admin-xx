@@ -1,0 +1,83 @@
+{
+  "id": 1126060549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.071855,35.1285935,-90.071855,35.1285935",
+    "geom:latitude":35.128594,
+    "geom:longitude":-90.071855,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":35.128594,
+    "lbl:longitude":-90.071855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"South Bluff",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Tennessee",
+    "qs_pg:photos":834,
+    "qs_pg:photos_1k":169,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":834,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891085,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55992977,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Tennessee",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85688701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55992977,
+        "qs_pg:id":891085
+    },
+    "wof:country":"XX",
+    "wof:created":1497308010,
+    "wof:geomhash":"56ca251f77c416ca480791f4bab072d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":1126060549,
+            "region_id":85688701
+        }
+    ],
+    "wof:id":1126060549,
+    "wof:lastmodified":1509410167,
+    "wof:name":"South Bluff",
+    "wof:parent_id":101722645,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.071855,
+    35.1285935,
+    -90.071855,
+    35.1285935
+],
+  "geometry": {"coordinates":[-90.071855,35.1285935],"type":"Point"}
+}

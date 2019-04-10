@@ -1,0 +1,83 @@
+{
+  "id": 1126089157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.45342,37.530114,-77.45342,37.530114",
+    "geom:latitude":37.530114,
+    "geom:longitude":-77.45342,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":37.530114,
+    "lbl:longitude":-77.45342,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Belle Isle",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"Virginia",
+    "qs_pg:photos":1898,
+    "qs_pg:photos_1k":385,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1898,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897411,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":55861404,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"Virginia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        85688747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55861404,
+        "qs_pg:id":897411
+    },
+    "wof:country":"XX",
+    "wof:created":1497313360,
+    "wof:geomhash":"bf2351bbcf4b0b521d6a6e869ad7494b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":1126089157,
+            "region_id":85688747
+        }
+    ],
+    "wof:id":1126089157,
+    "wof:lastmodified":1509411555,
+    "wof:name":"Belle Isle",
+    "wof:parent_id":101728675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45342,
+    37.530114,
+    -77.45342,
+    37.530114
+],
+  "geometry": {"coordinates":[-77.45341999999999,37.530114],"type":"Point"}
+}

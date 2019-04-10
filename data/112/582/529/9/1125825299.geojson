@@ -1,0 +1,79 @@
+{
+  "id": 1125825299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.664688,45.148147,14.664688,45.148147",
+    "geom:latitude":45.148147,
+    "geom:longitude":14.664688,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.148147,
+    "lbl:longitude":14.664688,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u00c5 Ilo",
+    "qs_pg:name_adm0":"Hrvatska",
+    "qs_pg:name_adm1":"Primorsko-Goranska",
+    "qs_pg:photos":436,
+    "qs_pg:photos_1k":88,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":436,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1088222,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424843,
+    "qs_pg:woe_id":850212,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424843,
+    "woe:name_adm0":"Hrvatska",
+    "woe:name_adm1":"Primorsko-Goranska",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633229,
+        85684785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":850212,
+        "qs_pg:id":1088222
+    },
+    "wof:country":"XX",
+    "wof:created":1497292249,
+    "wof:geomhash":"caa0c832ccb849d3b26fa95f72b056c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":1125825299,
+            "region_id":85684785
+        }
+    ],
+    "wof:id":1125825299,
+    "wof:lastmodified":1509394365,
+    "wof:name":"\u00c5 Ilo",
+    "wof:parent_id":85684785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.664688,
+    45.148147,
+    14.664688,
+    45.148147
+],
+  "geometry": {"coordinates":[14.664688,45.148147],"type":"Point"}
+}

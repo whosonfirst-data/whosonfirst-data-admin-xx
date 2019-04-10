@@ -1,0 +1,83 @@
+{
+  "id": 1126098097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-99.30263,19.556838,-99.30263,19.556838",
+    "geom:latitude":19.556838,
+    "geom:longitude":-99.30263,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":19.556838,
+    "lbl:longitude":-99.30263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lomas de Valle Escondido",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Mexico",
+    "qs_pg:photos":111,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":111,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1341204,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55892979,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Mexico",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        101993137,
+        102074201,
+        85686527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55892979,
+        "qs_pg:id":1341204
+    },
+    "wof:country":"XX",
+    "wof:created":1497315566,
+    "wof:geomhash":"33ca29d05f253dbfe5a804377972200e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074201,
+            "locality_id":101993137,
+            "neighbourhood_id":1126098097,
+            "region_id":85686527
+        }
+    ],
+    "wof:id":1126098097,
+    "wof:lastmodified":1509411982,
+    "wof:name":"Lomas de Valle Escondido",
+    "wof:parent_id":101993137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -99.30263,
+    19.556838,
+    -99.30263,
+    19.556838
+],
+  "geometry": {"coordinates":[-99.30262999999999,19.556838],"type":"Point"}
+}

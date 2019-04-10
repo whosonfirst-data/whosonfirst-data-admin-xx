@@ -1,0 +1,83 @@
+{
+  "id": 1125973745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.127872,57.487,18.127872,57.487",
+    "geom:latitude":57.487,
+    "geom:longitude":18.127872,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":57.487,
+    "lbl:longitude":18.127872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tofta strand s\u00f6dra",
+    "qs_pg:name_adm0":"Sverige",
+    "qs_pg:name_adm1":"Gotlands L\u00e4n",
+    "qs_pg:photos":175,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":175,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1154192,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424954,
+    "qs_pg:woe_id":20150693,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424954,
+    "woe:name_adm0":"Sverige",
+    "woe:name_adm1":"Gotlands L\u00e4n",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688405,
+        102191581,
+        1159305801,
+        85633789,
+        1159303535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20150693,
+        "qs_pg:id":1154192
+    },
+    "wof:country":"XX",
+    "wof:created":1497298269,
+    "wof:geomhash":"0862bd7ac4acfb44c4c9f300dd8a23bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "county_id":1159303535,
+            "localadmin_id":1159305801,
+            "locality_id":1125973745,
+            "region_id":85688405
+        }
+    ],
+    "wof:id":1125973745,
+    "wof:lastmodified":1529702035,
+    "wof:name":"Tofta strand s\u00f6dra",
+    "wof:parent_id":1159305801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.127872,
+    57.487,
+    18.127872,
+    57.487
+],
+  "geometry": {"coordinates":[18.127872,57.487],"type":"Point"}
+}

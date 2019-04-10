@@ -1,0 +1,104 @@
+{
+  "id": 1126039823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.622171,44.428409,23.622171,44.428409",
+    "geom:latitude":44.428409,
+    "geom:longitude":23.622171,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.428409,
+    "lbl:longitude":23.622171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Co\u021bofenii din Dos"
+    ],
+    "name:eng_x_preferred":[
+        "Co\u021bofenii din Dos"
+    ],
+    "name:fre_x_preferred":[
+        "Co\u021bofenii din Dos"
+    ],
+    "name:ita_x_preferred":[
+        "Co\u021bofenii din Dos"
+    ],
+    "name:por_x_preferred":[
+        "Co\u021bofenii din Dos"
+    ],
+    "name:rum_x_preferred":[
+        "Co\u021bofenii din Dos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0446\u043e\u0444\u0435\u043d\u0456\u0439-\u0434\u0456\u043d-\u0414\u043e\u0441"
+    ],
+    "name:vol_x_preferred":[
+        "Co\u021bofenii din Dos"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Co\u021bofenii din Dos",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Dolj",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":262456,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":870498,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Dolj",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":870498,
+        "qs_pg:id":262456,
+        "wd:id":"Q1958148"
+    },
+    "wof:country":"XX",
+    "wof:created":1497302065,
+    "wof:geomhash":"92de5ad7202115200d22efaabbf5fc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1126039823,
+            "region_id":85687581
+        }
+    ],
+    "wof:id":1126039823,
+    "wof:lastmodified":1514502972,
+    "wof:name":"Co\u021bofenii din Dos",
+    "wof:parent_id":85687581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.622171,
+    44.428409,
+    23.622171,
+    44.428409
+],
+  "geometry": {"coordinates":[23.622171,44.428409],"type":"Point"}
+}

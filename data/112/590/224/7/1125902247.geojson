@@ -1,0 +1,81 @@
+{
+  "id": 1125902247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.810867,39.820254,34.810867,39.820254",
+    "geom:latitude":39.820254,
+    "geom:longitude":34.810867,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":39.820254,
+    "lbl:longitude":34.810867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Yozgat",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Yozgat",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":922401,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2344529,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Yozgat",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890461841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2344529,
+        "qs_pg:id":922401
+    },
+    "wof:country":"XX",
+    "wof:created":1497295856,
+    "wof:geomhash":"8997781e81c29c1f32ed1bd258a481ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461841,
+            "locality_id":1125902247,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1125902247,
+    "wof:lastmodified":1509399489,
+    "wof:name":"Yozgat",
+    "wof:parent_id":890461841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.810867,
+    39.820254,
+    34.810867,
+    39.820254
+],
+  "geometry": {"coordinates":[34.810867,39.820254],"type":"Point"}
+}

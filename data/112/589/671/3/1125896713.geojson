@@ -1,0 +1,75 @@
+{
+  "id": 1125896713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "gn:gn_country":"GY",
+    "iso:country":"XX",
+    "lbl:latitude":0.0,
+    "lbl:longitude":0.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":"GY",
+    "qs_pg:name":"Georgetown",
+    "qs_pg:name_adm0":"Guyana",
+    "qs_pg:name_adm1":"Demerara-Mahaica",
+    "qs_pg:photos":2521,
+    "qs_pg:photos_1k":511,
+    "qs_pg:photos_9k":23,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5282,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075743,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424836,
+    "qs_pg:woe_id":376765,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424836,
+    "woe:name_adm0":"Guyana",
+    "woe:name_adm1":"Demerara-Mahaica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":376765,
+        "qs_pg:id":1075743
+    },
+    "wof:country":"XX",
+    "wof:created":1497295606,
+    "wof:geomhash":"a4bb03cc4c85d9637292977b5e054a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632397,
+            "locality_id":1125896713
+        }
+    ],
+    "wof:id":1125896713,
+    "wof:lastmodified":1505248700,
+    "wof:name":"Georgetown",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1126109085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.840779,36.092014,-79.840779,36.092014",
+    "geom:latitude":36.092014,
+    "geom:longitude":-79.840779,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":36.092014,
+    "lbl:longitude":-79.840779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Green Valley",
+    "qs_pg:name_adm0":"United States",
+    "qs_pg:name_adm1":"North Carolina",
+    "qs_pg:photos":611,
+    "qs_pg:photos_1k":124,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":611,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1141193,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424977,
+    "qs_pg:woe_id":2414068,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424977,
+    "woe:name_adm0":"United States",
+    "woe:name_adm1":"North Carolina",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85980391,
+        102080985,
+        85688773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2414068,
+        "qs_pg:id":1141193
+    },
+    "wof:country":"XX",
+    "wof:created":1497317789,
+    "wof:geomhash":"dba0228de16e421c0f4ab4336d52f7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080985,
+            "locality_id":85980391,
+            "neighbourhood_id":1126109085,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":1126109085,
+    "wof:lastmodified":1509412516,
+    "wof:name":"Green Valley",
+    "wof:parent_id":85980391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.840779,
+    36.092014,
+    -79.840779,
+    36.092014
+],
+  "geometry": {"coordinates":[-79.840779,36.092014],"type":"Point"}
+}

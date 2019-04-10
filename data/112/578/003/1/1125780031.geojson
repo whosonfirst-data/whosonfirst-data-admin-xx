@@ -1,0 +1,83 @@
+{
+  "id": 1125780031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9313365,44.6673705,20.9313365,44.6673705",
+    "geom:latitude":44.66737,
+    "geom:longitude":20.931337,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":44.66737,
+    "lbl:longitude":20.931337,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Smederevo",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Podunavlje",
+    "qs_pg:photos":300,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":300,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078944,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536749,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Podunavlje",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688267,
+        102191581,
+        1108810075,
+        85633755,
+        404228357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":536749,
+        "qs_pg:id":1078944
+    },
+    "wof:country":"XX",
+    "wof:created":1497290426,
+    "wof:geomhash":"17ccdd400e84bd49970c96b7b1eb472c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810075,
+            "locality_id":1125780031,
+            "macroregion_id":404228357,
+            "region_id":85688267
+        }
+    ],
+    "wof:id":1125780031,
+    "wof:lastmodified":1509391499,
+    "wof:name":"Smederevo",
+    "wof:parent_id":1108810075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9313365,
+    44.6673705,
+    20.9313365,
+    44.6673705
+],
+  "geometry": {"coordinates":[20.9313365,44.6673705],"type":"Point"}
+}

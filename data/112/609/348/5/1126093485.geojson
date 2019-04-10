@@ -1,0 +1,82 @@
+{
+  "id": 1126093485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.050216,9.933425,-84.050216,9.933425",
+    "geom:latitude":9.933425,
+    "geom:longitude":-84.050216,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":9.933425,
+    "lbl:longitude":-84.050216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Yoses Sur",
+    "qs_pg:name_adm0":"Costa Rica",
+    "qs_pg:name_adm1":"San Jose",
+    "qs_pg:photos":1807,
+    "qs_pg:photos_1k":366,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1807,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":224732,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424791,
+    "qs_pg:woe_id":22723659,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424791,
+    "woe:name_adm0":"Costa Rica",
+    "woe:name_adm1":"San Jose",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421169975,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723659,
+        "qs_pg:id":224732
+    },
+    "wof:country":"XX",
+    "wof:created":1497314585,
+    "wof:geomhash":"4e77c86b8920adfa508eb816acfd706c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421169975,
+            "locality_id":-1,
+            "neighbourhood_id":1126093485,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1126093485,
+    "wof:lastmodified":1509411772,
+    "wof:name":"Yoses Sur",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.050216,
+    9.933425,
+    -84.050216,
+    9.933425
+],
+  "geometry": {"coordinates":[-84.05021600000001,9.933425],"type":"Point"}
+}

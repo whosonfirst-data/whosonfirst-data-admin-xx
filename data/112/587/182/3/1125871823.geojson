@@ -1,0 +1,81 @@
+{
+  "id": 1125871823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.207,22.32336,114.207,22.32336",
+    "geom:latitude":22.32336,
+    "geom:longitude":114.207,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":22.32336,
+    "lbl:longitude":114.207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"\u4e5d\u9f8d\u7063",
+    "qs_pg:name_adm0":"\u9999\u6e2f",
+    "qs_pg:name_adm1":"\u4e5d\u9f8d",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":890648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":24865698,
+    "qs_pg:woe_id":24702948,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":24865698,
+    "woe:name_adm0":"\u9999\u6e2f",
+    "woe:name_adm1":"\u4e5d\u9f8d",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632483,
+        85671809,
+        1159397231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24702948,
+        "qs_pg:id":890648
+    },
+    "wof:country":"XX",
+    "wof:created":1497294339,
+    "wof:geomhash":"2a7f36e98debd06d69fa99559b1005fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632483,
+            "locality_id":1125871823,
+            "macroregion_id":1159397231,
+            "region_id":85671809
+        }
+    ],
+    "wof:id":1125871823,
+    "wof:lastmodified":1532376787,
+    "wof:name":"\u4e5d\u9f8d\u7063",
+    "wof:parent_id":85671809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.207,
+    22.32336,
+    114.207,
+    22.32336
+],
+  "geometry": {"coordinates":[114.20699999999999,22.32336],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 85632567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000645,
+    "geom:area_square_m":7826104.597851,
+    "geom:bbox":"0.916667,10.999999,0.97142,11.023485",
+    "geom:latitude":11.008102,
+    "geom:longitude":0.944436,
+    "iso:country":"XX",
+    "lbl:latitude":11.0101,
+    "lbl:longitude":0.944851,
+    "mps:latitude":11.0101,
+    "mps:longitude":0.944851,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Disputed Territory"
+    ],
+    "name:eng_x_unknown":[
+        "XX"
+    ],
+    "name:fin_x_preferred":[
+        "kiistelty alue"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:nor_x_colloquial":[
+        "Omstridt omrade"
+    ],
+    "name:nor_x_preferred":[
+        "Omstridt omr\u00e5de"
+    ],
+    "name:swe_x_colloquial":[
+        "Omtvistat omrade"
+    ],
+    "name:swe_x_preferred":[
+        "Omtvistat omr\u00e5de"
+    ],
+    "name:zho_x_preferred":[
+        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+    ],
+    "name:zho_x_variant":[
+        "\u6709\u4e89\u8bae\u7684\u9886\u571f"
+    ],
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23424764,
+        "qs:id":928312
+    },
+    "wof:country":"XX",
+    "wof:geomhash":"5663951fa5112db104df24b81f925659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "disputed_id":85632567
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "disputed_id":85632567
+        }
+    ],
+    "wof:id":85632567,
+    "wof:lastmodified":1528909935,
+    "wof:name":"Benin (dispute with Burkina Faso)",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.916667,
+    10.999999,
+    0.97142,
+    11.023485
+],
+  "geometry": {"coordinates":[[[0.967019,11.002197],[0.97142,10.999999],[0.916667,11.000001],[0.94584,11.023485],[0.946091,11.023207],[0.947237,11.022646],[0.948694,11.021854],[0.949111,11.021563],[0.95465,11.016815],[0.955067,11.016523],[0.956878,11.01616950000005],[0.957399,11.015566],[0.95844,11.014337],[0.958398,11.013816],[0.95741950000007,11.01215050000008],[0.957524,11.011567],[0.958523,11.010443],[0.960689,11.00886],[0.964729,11.00532],[0.967019,11.002197]]],"type":"Polygon"}
+}

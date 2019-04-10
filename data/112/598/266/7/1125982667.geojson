@@ -1,0 +1,83 @@
+{
+  "id": 1125982667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.299272,36.29389,-5.299272,36.29389",
+    "geom:latitude":36.29389,
+    "geom:longitude":-5.299272,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":36.29389,
+    "lbl:longitude":-5.299272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pueblo Nuevo de Guadiaro",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Andaluc\u00eda",
+    "qs_pg:photos":418,
+    "qs_pg:photos_1k":85,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":418,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236856,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":20225419,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Andaluc\u00eda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682679,
+        102191581,
+        404333081,
+        85633129,
+        404227361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20225419,
+        "qs_pg:id":236856
+    },
+    "wof:country":"XX",
+    "wof:created":1497298633,
+    "wof:geomhash":"bf28937ab7d21272ea187762e7508479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333081,
+            "locality_id":1125982667,
+            "macroregion_id":404227361,
+            "region_id":85682679
+        }
+    ],
+    "wof:id":1125982667,
+    "wof:lastmodified":1509404867,
+    "wof:name":"Pueblo Nuevo de Guadiaro",
+    "wof:parent_id":404333081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.299272,
+    36.29389,
+    -5.299272,
+    36.29389
+],
+  "geometry": {"coordinates":[-5.299272,36.29389],"type":"Point"}
+}

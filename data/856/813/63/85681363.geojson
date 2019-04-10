@@ -1,0 +1,287 @@
+{
+  "id": 85681363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:bbox":"-78.6404109365,15.8620873073,-78.6368708983,15.8672956401",
+    "geom:latitude":15.864461,
+    "geom:longitude":-78.638119,
+    "gp:id":0,
+    "iso:country":"XX",
+    "lbl:latitude":15.864308,
+    "lbl:longitude":-78.63824,
+    "mps:latitude":15.864308,
+    "mps:longitude":-78.63824,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "mz:max_zoom":9.5,
+    "mz:min_zoom":4.5,
+    "name:ara_x_preferred":[
+        "\u0636\u0641\u0629 \u0633\u064a\u0631\u0627\u0646\u064a\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09b0\u09be\u09a8\u09bf\u09b2\u09be \u09a4\u09c0\u09b0"
+    ],
+    "name:deu_x_preferred":[
+        "Serranilla Bank"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03af \u03a3\u03b5\u03c1\u03c1\u03b1\u03bd\u03af\u03bb\u03bb\u03b1 \u039c\u03c0\u03b1\u03bd\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Serranilla Bank"
+    ],
+    "name:eus_x_preferred":[
+        "Serranilla"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0635\u062e\u0631\u0647 \u0633\u0631\u0627\u0646\u06cc\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Banc de Serranilla"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0930\u093e\u0928\u093f\u0932\u093e \u0924\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Serranilla-sziget"
+    ],
+    "name:ind_x_preferred":[
+        "Tepi Serranilla"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Serranilla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30e9\u30cb\u30e3\u30fb\u30d0\u30f3\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ub77c\ub0d0 \ubc45\ud06c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d46\u0d31\u0d3e\u0d28\u0d3f\u0d32\u0d4d\u0d32 \u0d2c\u0d3e\u0d19\u0d4d\u0d15\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0440\u0430\u043d\u0438\u043b\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Serranilla"
+    ],
+    "name:pol_x_preferred":[
+        "Isla Serranilla"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Serranilla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0430\u043d\u0438\u043b\u044c\u044f-\u0411\u0430\u043d\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Serranilla"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Serranilla"
+    ],
+    "name:sun_x_preferred":[
+        "Sisi S\u00e9rraniya"
+    ],
+    "name:swe_x_preferred":[
+        "Serranilla Bank"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e23\u0e4c\u0e23\u0e32\u0e19\u0e35\u0e22\u0e32\u0e41\u0e1a\u0e07\u0e01\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Serranilla Bank"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u0627\u0646\u06cc\u0644\u0627 \u06a9\u0646\u0627\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Serranilla Bank"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u62c9\u7eb3\u6d45\u6ee9"
+    ],
+    "name:zho_x_variant":[
+        "\u585e\u62c9\u5c3c\u62c9\u6d45\u6ee9"
+    ],
+    "ne:ABBREV":"S.B.",
+    "ne:ABBREV_LEN":4,
+    "ne:ADM0_A3":"SER",
+    "ne:ADM0_A3_IS":"-99",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"B42",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":0,
+    "ne:ADMIN":"Serranilla Bank",
+    "ne:BRK_A3":"B42",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Serranilla Bank",
+    "ne:CONTINENT":"North America",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"-99",
+    "ne:FORMAL_EN":null,
+    "ne:FORMAL_FR":null,
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":0,
+    "ne:GEOUNIT":"Serranilla Bank",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"SER",
+    "ne:HOMEPART":1,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":5,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":2,
+    "ne:LONG_LEN":15,
+    "ne:MAPCOLOR13":-99,
+    "ne:MAPCOLOR7":3,
+    "ne:MAPCOLOR8":7,
+    "ne:MAPCOLOR9":6,
+    "ne:MAX_LABEL":9.5,
+    "ne:MIN_LABEL":7,
+    "ne:MIN_ZOOM":7,
+    "ne:NAME":"Serranilla Bank",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u0636\u0641\u0629 \u0633\u064a\u0631\u0627\u0646\u064a\u0644\u0627",
+    "ne:NAME_BN":"\u09b8\u09c7\u09b0\u09be\u09a8\u09bf\u09b2\u09be \u09a4\u09c0\u09b0",
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Serranilla Bank",
+    "ne:NAME_EL":"\u039d\u03b7\u03c3\u03af \u03a3\u03b5\u03c1\u03c1\u03b1\u03bd\u03af\u03bb\u03bb\u03b1 \u039c\u03c0\u03b1\u03bd\u03ba",
+    "ne:NAME_EN":"Serranilla Bank",
+    "ne:NAME_ES":"Isla Serranilla",
+    "ne:NAME_FR":"Banc de Serranilla",
+    "ne:NAME_HI":"\u0938\u0947\u0930\u093e\u0928\u093f\u0932\u093e \u0924\u091f",
+    "ne:NAME_HU":"Serranilla-sziget",
+    "ne:NAME_ID":"Tepi Serranilla",
+    "ne:NAME_IT":"Isola Serranilla",
+    "ne:NAME_JA":"\u30bb\u30e9\u30cb\u30e3\u30fb\u30d0\u30f3\u30af",
+    "ne:NAME_KO":"\uc138\ub77c\ub0d0 \ubc45\ud06c",
+    "ne:NAME_LEN":15,
+    "ne:NAME_LONG":"Serranilla Bank",
+    "ne:NAME_NL":"Serranilla",
+    "ne:NAME_PL":"Isla Serranilla",
+    "ne:NAME_PT":"Ilha Serranilla",
+    "ne:NAME_RU":"\u0421\u0435\u0440\u0440\u0430\u043d\u0438\u043b\u044c\u044f-\u0411\u0430\u043d\u043a",
+    "ne:NAME_SORT":"Serranilla Bank",
+    "ne:NAME_SV":"Serranilla Bank",
+    "ne:NAME_TR":"Serranilla Bank",
+    "ne:NAME_VI":"Serranilla Bank",
+    "ne:NAME_ZH":"\u585e\u62c9\u7eb3\u6d45\u6ee9",
+    "ne:NE_ID":1159321245,
+    "ne:NOTE_ADM0":"Disputed",
+    "ne:NOTE_BRK":"Claimed by Columbia, Honduras, Nicaragua, and the United States",
+    "ne:POP_EST":0,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":0,
+    "ne:POSTAL":"SB",
+    "ne:REGION_UN":"Americas",
+    "ne:REGION_WB":"Latin America & Caribbean",
+    "ne:SOVEREIGNT":"Serranilla Bank",
+    "ne:SOV_A3":"SER",
+    "ne:SUBREGION":"Caribbean",
+    "ne:SUBUNIT":"Serranilla Bank",
+    "ne:SU_A3":"SER",
+    "ne:SU_DIF":0,
+    "ne:TINY":-99,
+    "ne:TYPE":"Indeterminate",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q1169008",
+    "ne:WIKIPEDIA":0,
+    "ne:WOE_ID":-99,
+    "ne:WOE_ID_EH":-99,
+    "ne:WOE_NOTE":"No WOE equivalent.",
+    "ne:featurecla":"Admin-0 indeterminant",
+    "ne:scalerank":6,
+    "qs:a0":"Serranilla Bank",
+    "qs:a0_lc":"-1",
+    "qs:a1":"Serranilla Bank",
+    "qs:a1_lc":"SER-5485",
+    "qs:adm0":"Serranilla Bank",
+    "qs:adm0_a3":"SER",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1604,
+    "wof:belongsto":[
+        102191575,
+        85632519,
+        85632323,
+        85632599,
+        85633793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4743759,
+        "ne:id":1159321245,
+        "wd:id":"Q1169008"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geomhash":"53ab8979fd992592faa18248f6c66b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632519,
+            "disputed_id":85681363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "disputed_id":85681363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "disputed_id":85681363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "disputed_id":85681363
+        }
+    ],
+    "wof:id":85681363,
+    "wof:lastmodified":1528909933,
+    "wof:name":"Serranilla Bank",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.64041093651548,
+    15.86208730728345,
+    -78.63687089827329,
+    15.86729564008175
+],
+  "geometry": {"coordinates":[[[-78.63707434830252,15.86208730728345],[-78.64041093651548,15.8639997425941],[-78.63687089827329,15.86729564008175],[-78.63707434830252,15.86208730728345]]],"type":"Polygon"}
+}

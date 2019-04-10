@@ -1,0 +1,83 @@
+{
+  "id": 1125918087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.602509,28.028323,-16.602509,28.028323",
+    "geom:latitude":28.028323,
+    "geom:longitude":-16.602509,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":28.028323,
+    "lbl:longitude":-16.602509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"El Guincho Golf del Sur",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Islas Canarias",
+    "qs_pg:photos":215,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":215,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1133623,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":29372767,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Islas Canarias",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85682831,
+        102191581,
+        404341995,
+        85633129,
+        404227369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29372767,
+        "qs_pg:id":1133623
+    },
+    "wof:country":"XX",
+    "wof:created":1497296387,
+    "wof:geomhash":"5e7c7c93f2131cfc287989dd65392e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404341995,
+            "locality_id":1125918087,
+            "macroregion_id":404227369,
+            "region_id":85682831
+        }
+    ],
+    "wof:id":1125918087,
+    "wof:lastmodified":1530590999,
+    "wof:name":"El Guincho Golf del Sur",
+    "wof:parent_id":404341995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.602509,
+    28.028323,
+    -16.602509,
+    28.028323
+],
+  "geometry": {"coordinates":[-16.602509,28.028323],"type":"Point"}
+}

@@ -1,0 +1,362 @@
+{
+  "id": 1125928409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.34728,16.33315,-61.34728,16.33315",
+    "geom:latitude":16.33315,
+    "geom:longitude":-61.34728,
+    "gn:gn_country":null,
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":22692,
+    "gn:population":22692,
+    "iso:country":"XX",
+    "lbl:latitude":16.33315,
+    "lbl:longitude":-61.34728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:arg_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ast_x_preferred":[
+        "Le Moule"
+    ],
+    "name:bam_x_preferred":[
+        "Le Moule"
+    ],
+    "name:baq_x_preferred":[
+        "Le Moule"
+    ],
+    "name:bar_x_preferred":[
+        "Le Moule"
+    ],
+    "name:bre_x_preferred":[
+        "Le Moule"
+    ],
+    "name:bug_x_preferred":[
+        "Le Moule"
+    ],
+    "name:cat_x_preferred":[
+        "Le Moule"
+    ],
+    "name:cos_x_preferred":[
+        "Le Moule"
+    ],
+    "name:cze_x_preferred":[
+        "Le Moule"
+    ],
+    "name:dan_x_preferred":[
+        "Le Moule"
+    ],
+    "name:dut_x_preferred":[
+        "Le Moule"
+    ],
+    "name:eng_x_preferred":[
+        "Le Moule"
+    ],
+    "name:epo_x_preferred":[
+        "Le Moule"
+    ],
+    "name:est_x_preferred":[
+        "Le Moule"
+    ],
+    "name:fao_x_preferred":[
+        "Le Moule"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Le Moule"
+    ],
+    "name:frc_x_preferred":[
+        "Le Moule"
+    ],
+    "name:fre_x_preferred":[
+        "Le Moule"
+    ],
+    "name:frp_x_preferred":[
+        "Le Moule"
+    ],
+    "name:fur_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ger_x_preferred":[
+        "Le Moule"
+    ],
+    "name:gla_x_preferred":[
+        "Le Moule"
+    ],
+    "name:gle_x_preferred":[
+        "Le Moule"
+    ],
+    "name:glg_x_preferred":[
+        "Le Moule"
+    ],
+    "name:gsw_x_preferred":[
+        "Le Moule"
+    ],
+    "name:hrv_x_preferred":[
+        "Le Moule"
+    ],
+    "name:hun_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ice_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ido_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ile_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ina_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ind_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ita_x_preferred":[
+        "Le Moule"
+    ],
+    "name:jam_x_preferred":[
+        "Le Moule"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\uff1d\u30e0\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Le Moule"
+    ],
+    "name:kal_x_preferred":[
+        "Le Moule"
+    ],
+    "name:kon_x_preferred":[
+        "Le Moule"
+    ],
+    "name:lat_x_preferred":[
+        "Le Moule"
+    ],
+    "name:lav_x_preferred":[
+        "Le Moule"
+    ],
+    "name:lij_x_preferred":[
+        "Le Moule"
+    ],
+    "name:lim_x_preferred":[
+        "Le Moule"
+    ],
+    "name:lit_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ltz_x_preferred":[
+        "Le Moule"
+    ],
+    "name:may_x_preferred":[
+        "Le Moule"
+    ],
+    "name:min_x_preferred":[
+        "Le Moule"
+    ],
+    "name:mlg_x_preferred":[
+        "Le Moule"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:nap_x_preferred":[
+        "Le Moule"
+    ],
+    "name:nds_x_preferred":[
+        "Le Moule"
+    ],
+    "name:nno_x_preferred":[
+        "Le Moule"
+    ],
+    "name:nob_x_preferred":[
+        "Le Moule"
+    ],
+    "name:nrm_x_preferred":[
+        "Le Moule"
+    ],
+    "name:oci_x_preferred":[
+        "Le Moule"
+    ],
+    "name:pap_x_preferred":[
+        "Le Moule"
+    ],
+    "name:pcd_x_preferred":[
+        "Le Moule"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
+    "name:pms_x_preferred":[
+        "Le Moule"
+    ],
+    "name:pol_x_preferred":[
+        "Le Moule"
+    ],
+    "name:por_x_preferred":[
+        "Le Moule"
+    ],
+    "name:prg_x_preferred":[
+        "Le Moule"
+    ],
+    "name:rgn_x_preferred":[
+        "Le Moule"
+    ],
+    "name:roh_x_preferred":[
+        "Le Moule"
+    ],
+    "name:rum_x_preferred":[
+        "Le Moule"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435-\u041c\u0443\u043b\u044c"
+    ],
+    "name:scn_x_preferred":[
+        "Le Moule"
+    ],
+    "name:sco_x_preferred":[
+        "Le Moule"
+    ],
+    "name:slo_x_preferred":[
+        "Le Moule"
+    ],
+    "name:spa_x_preferred":[
+        "Le Moule"
+    ],
+    "name:srd_x_preferred":[
+        "Le Moule"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435 \u041c\u0443\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Le Moule"
+    ],
+    "name:swe_x_preferred":[
+        "Le Moule"
+    ],
+    "name:tur_x_preferred":[
+        "Le Moule"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041c\u0443\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Moule"
+    ],
+    "name:vec_x_preferred":[
+        "Le Moule"
+    ],
+    "name:vie_x_preferred":[
+        "Le Moule"
+    ],
+    "name:vls_x_preferred":[
+        "Le Moule"
+    ],
+    "name:vmf_x_preferred":[
+        "Le Moule"
+    ],
+    "name:vol_x_preferred":[
+        "Le Moule"
+    ],
+    "name:war_x_preferred":[
+        "Le Moule"
+    ],
+    "name:wel_x_preferred":[
+        "Le Moule"
+    ],
+    "name:wln_x_preferred":[
+        "Le Moule"
+    ],
+    "name:wol_x_preferred":[
+        "Le Moule"
+    ],
+    "name:zul_x_preferred":[
+        "Le Moule"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3578967,
+    "qs_pg:gn_pop":22692,
+    "qs_pg:name":"Le Moule",
+    "qs_pg:name_adm0":"Guadeloupe",
+    "qs_pg:name_adm1":"Pointe-\u00c0-Pitre",
+    "qs_pg:photos":317,
+    "qs_pg:photos_1k":64,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":317,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":489124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424831,
+    "qs_pg:woe_id":80733,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424831,
+    "woe:name_adm0":"Guadeloupe",
+    "woe:name_adm1":"Pointe-\u00c0-Pitre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578967,
+        "gp:id":80733,
+        "qs_pg:id":489124,
+        "wd:id":"Q845039"
+    },
+    "wof:country":"XX",
+    "wof:created":1497296723,
+    "wof:geomhash":"df4b1434e43afac6064b12faf7fd0f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125928409,
+            "region_id":85671209
+        }
+    ],
+    "wof:id":1125928409,
+    "wof:lastmodified":1531422105,
+    "wof:name":"Le Moule",
+    "wof:parent_id":85671209,
+    "wof:placetype":"locality",
+    "wof:population":22692,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.34728,
+    16.33315,
+    -61.34728,
+    16.33315
+],
+  "geometry": {"coordinates":[-61.34728,16.33315],"type":"Point"}
+}

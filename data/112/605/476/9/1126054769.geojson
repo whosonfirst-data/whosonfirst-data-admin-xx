@@ -1,0 +1,134 @@
+{
+  "id": 1126054769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4364105,39.4622565,-8.4364105,39.4622565",
+    "geom:latitude":39.462257,
+    "geom:longitude":-8.43641,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":39.462257,
+    "lbl:longitude":-8.43641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u723e\u57fa\u5c3c\u4e9e\u65b0\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:eng_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:epo_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:fre_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:ger_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:ita_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0430-\u0411\u0430\u0440\u043a\u0438\u043d\u044c\u044f"
+    ],
+    "name:may_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:pol_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:por_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0430-\u0411\u0430\u0440\u043a\u0438\u043d\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:tur_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:vie_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:vol_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "name:war_x_preferred":[
+        "Vila Nova da Barquinha"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vila Nova da Barquinha",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Santar\u00e9m",
+    "qs_pg:photos":106,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":106,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1061437,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":750784,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Santar\u00e9m",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":750784,
+        "qs_pg:id":1061437,
+        "wd:id":"Q995176"
+    },
+    "wof:country":"XX",
+    "wof:created":1497303031,
+    "wof:geomhash":"b853206ccf00b021bd95fa5afc1b8412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126054769,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1126054769,
+    "wof:lastmodified":1514503116,
+    "wof:name":"Vila Nova da Barquinha",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4364105,
+    39.4622565,
+    -8.4364105,
+    39.4622565
+],
+  "geometry": {"coordinates":[-8.4364105,39.4622565],"type":"Point"}
+}

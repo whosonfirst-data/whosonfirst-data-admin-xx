@@ -1,0 +1,83 @@
+{
+  "id": 1126105811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.192771,47.535167,19.192771,47.535167",
+    "geom:latitude":47.535167,
+    "geom:longitude":19.192771,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":47.535167,
+    "lbl:longitude":19.192771,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Arpadfold",
+    "qs_pg:name_adm0":"Magyarorsz\u00e1g",
+    "qs_pg:name_adm1":"Budapest",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":466560,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424844,
+    "qs_pg:woe_id":802965,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424844,
+    "woe:name_adm0":"Magyarorsz\u00e1g",
+    "woe:name_adm1":"Budapest",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85684881,
+        102191581,
+        85633237,
+        404227489,
+        101751703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":802965,
+        "qs_pg:id":466560
+    },
+    "wof:country":"XX",
+    "wof:created":1497316917,
+    "wof:geomhash":"cc8589e2385c827e35d951e90e88dfff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633237,
+            "locality_id":101751703,
+            "macroregion_id":404227489,
+            "neighbourhood_id":1126105811,
+            "region_id":85684881
+        }
+    ],
+    "wof:id":1126105811,
+    "wof:lastmodified":1509412369,
+    "wof:name":"Arpadfold",
+    "wof:parent_id":101751703,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.192771,
+    47.535167,
+    19.192771,
+    47.535167
+],
+  "geometry": {"coordinates":[19.192771,47.535167],"type":"Point"}
+}

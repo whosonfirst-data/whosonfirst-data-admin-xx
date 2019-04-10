@@ -1,0 +1,116 @@
+{
+  "id": 1125779969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.940105,-51.796407,-58.940105,-51.796407",
+    "geom:latitude":-51.796407,
+    "geom:longitude":-58.940105,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":-51.796407,
+    "lbl:longitude":-58.940105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u9054\u723e\u6587"
+    ],
+    "name:dan_x_preferred":[
+        "Darwin"
+    ],
+    "name:dut_x_preferred":[
+        "Darwin"
+    ],
+    "name:eng_x_preferred":[
+        "Darwin"
+    ],
+    "name:fre_x_preferred":[
+        "Darwin"
+    ],
+    "name:ger_x_preferred":[
+        "Darwin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30fc\u30a6\u30a3\u30f3"
+    ],
+    "name:nob_x_preferred":[
+        "Darwin"
+    ],
+    "name:por_x_preferred":[
+        "Darwin"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Darwin"
+    ],
+    "name:swe_x_preferred":[
+        "Darwin"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Darwin",
+    "qs_pg:name_adm0":"Falkland Islands",
+    "qs_pg:name_adm1":"East Falkland",
+    "qs_pg:photos":101,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":101,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":464001,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424814,
+    "qs_pg:woe_id":420085,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424814,
+    "woe:name_adm0":"Falkland Islands",
+    "woe:name_adm1":"East Falkland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632211,
+        85681209,
+        102191577,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":420085,
+        "qs_pg:id":464001,
+        "wd:id":"Q725103"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290424,
+    "wof:geomhash":"abfe8e09f557926ae096217801731233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "dependency_id":85632211,
+            "empire_id":136253055,
+            "locality_id":1125779969,
+            "region_id":85681209
+        }
+    ],
+    "wof:id":1125779969,
+    "wof:lastmodified":1553816528,
+    "wof:name":"Darwin",
+    "wof:parent_id":85681209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.940105,
+    -51.796407,
+    -58.940105,
+    -51.796407
+],
+  "geometry": {"coordinates":[-58.940105,-51.796407],"type":"Point"}
+}

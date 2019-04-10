@@ -1,0 +1,79 @@
+{
+  "id": 1126104769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-116.627318,31.860127,-116.627318,31.860127",
+    "geom:latitude":31.860127,
+    "geom:longitude":-116.627318,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":31.860127,
+    "lbl:longitude":-116.627318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zona Federal",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California",
+    "qs_pg:photos":362,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":362,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115847,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55900264,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55900264,
+        "qs_pg:id":1115847
+    },
+    "wof:country":"XX",
+    "wof:created":1497316718,
+    "wof:geomhash":"cdd7946c94e216074723559ead4f7a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "locality_id":-1,
+            "neighbourhood_id":1126104769,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126104769,
+    "wof:lastmodified":1509412316,
+    "wof:name":"Zona Federal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -116.627318,
+    31.860127,
+    -116.627318,
+    31.860127
+],
+  "geometry": {"coordinates":[-116.627318,31.860127],"type":"Point"}
+}

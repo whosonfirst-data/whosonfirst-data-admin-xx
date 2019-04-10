@@ -1,0 +1,134 @@
+{
+  "id": 1126100759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.665478,40.39185,-3.665478,40.39185",
+    "geom:latitude":40.39185,
+    "geom:longitude":-3.665478,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":40.39185,
+    "lbl:longitude":-3.665478,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "San Diego"
+    ],
+    "name:cat_x_preferred":[
+        "San Diego"
+    ],
+    "name:cos_x_preferred":[
+        "San Diego"
+    ],
+    "name:dan_x_preferred":[
+        "San Diego"
+    ],
+    "name:dut_x_preferred":[
+        "San Diego"
+    ],
+    "name:eng_x_preferred":[
+        "San Diego"
+    ],
+    "name:fre_x_preferred":[
+        "San Diego"
+    ],
+    "name:ger_x_preferred":[
+        "San Diego"
+    ],
+    "name:ind_x_preferred":[
+        "San Diego"
+    ],
+    "name:ita_x_preferred":[
+        "San Diego"
+    ],
+    "name:nds_x_preferred":[
+        "San Diego"
+    ],
+    "name:por_x_preferred":[
+        "San Diego"
+    ],
+    "name:rum_x_preferred":[
+        "San Diego"
+    ],
+    "name:spa_x_preferred":[
+        "San Diego"
+    ],
+    "name:swe_x_preferred":[
+        "San Diego"
+    ],
+    "name:tah_x_preferred":[
+        "San Diego"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Diego",
+    "qs_pg:name_adm0":"Espa\u00f1a",
+    "qs_pg:name_adm1":"Comunidad de Madrid",
+    "qs_pg:photos":590,
+    "qs_pg:photos_1k":120,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":590,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":237657,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424950,
+    "qs_pg:woe_id":20219909,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424950,
+    "woe:name_adm0":"Espa\u00f1a",
+    "woe:name_adm1":"Comunidad de Madrid",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        1158846055,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20219909,
+        "qs_pg:id":237657,
+        "wd:id":"Q11946851"
+    },
+    "wof:country":"XX",
+    "wof:created":1497315995,
+    "wof:geomhash":"bf93b52bc30107168c1631e5efa78b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "locality_id":101748283,
+            "macrohood_id":1158846055,
+            "macroregion_id":404227387,
+            "neighbourhood_id":1126100759,
+            "region_id":85682783
+        }
+    ],
+    "wof:id":1126100759,
+    "wof:lastmodified":1553816734,
+    "wof:name":"San Diego",
+    "wof:parent_id":1158846055,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.665478,
+    40.39185,
+    -3.665478,
+    40.39185
+],
+  "geometry": {"coordinates":[-3.665478,40.39185],"type":"Point"}
+}

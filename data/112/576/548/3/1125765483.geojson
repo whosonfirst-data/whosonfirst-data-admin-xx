@@ -1,0 +1,80 @@
+{
+  "id": 1125765483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.673938,18.39004,-64.673938,18.39004",
+    "geom:latitude":18.39004,
+    "geom:longitude":-64.673938,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":18.39004,
+    "lbl:longitude":-64.673938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Great Carrot Bay",
+    "qs_pg:name_adm0":"British Virgin Islands",
+    "qs_pg:photos":2167,
+    "qs_pg:photos_1k":439,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2167,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1074911,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424983,
+    "qs_pg:woe_id":329605,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424983,
+    "woe:name_adm0":"British Virgin Islands",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632629,
+        85681419,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":329605,
+        "qs_pg:id":1074911
+    },
+    "wof:country":"XX",
+    "wof:created":1497289876,
+    "wof:geomhash":"b03d3ce193cb4fabf2aa0f996362dbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632629,
+            "empire_id":136253055,
+            "locality_id":1125765483,
+            "region_id":85681419
+        }
+    ],
+    "wof:id":1125765483,
+    "wof:lastmodified":1509998414,
+    "wof:name":"Great Carrot Bay",
+    "wof:parent_id":85681419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.673938,
+    18.39004,
+    -64.673938,
+    18.39004
+],
+  "geometry": {"coordinates":[-64.67393800000001,18.39004],"type":"Point"}
+}

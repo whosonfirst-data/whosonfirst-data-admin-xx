@@ -1,0 +1,122 @@
+{
+  "id": 1125953101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.702188,13.460201,144.702188,13.460201",
+    "geom:latitude":13.460201,
+    "geom:longitude":144.702188,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":13.460201,
+    "lbl:longitude":144.702188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cha_x_preferred":[
+        "Piti"
+    ],
+    "name:chi_x_preferred":[
+        "\u76ae\u8482"
+    ],
+    "name:dut_x_preferred":[
+        "Piti"
+    ],
+    "name:eng_x_preferred":[
+        "Piti"
+    ],
+    "name:fre_x_preferred":[
+        "Piti"
+    ],
+    "name:ita_x_preferred":[
+        "Piti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30c6\u30a3"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u06cc\u062a\u06cc\u060c \u06af\u0648\u0622\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Piti"
+    ],
+    "name:spa_x_preferred":[
+        "Piti"
+    ],
+    "name:swe_x_preferred":[
+        "Piti Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u062a\u06cc\u060c \u06af\u0648\u0627\u0645"
+    ],
+    "name:war_x_preferred":[
+        "Piti"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Piti",
+    "qs_pg:name_adm0":"Guam",
+    "qs_pg:name_adm1":"Piti",
+    "qs_pg:photos":216,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":216,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":219648,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424832,
+    "qs_pg:woe_id":15021085,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424832,
+    "woe:name_adm0":"Guam",
+    "woe:name_adm1":"Piti",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":15021085,
+        "qs_pg:id":219648,
+        "wd:id":"Q2482463"
+    },
+    "wof:country":"XX",
+    "wof:created":1497297528,
+    "wof:geomhash":"b737b109fb3f8401068da20093935854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1125953101,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":1125953101,
+    "wof:lastmodified":1514503081,
+    "wof:name":"Piti",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.702188,
+    13.460201,
+    144.702188,
+    13.460201
+],
+  "geometry": {"coordinates":[144.70218800000001,13.460201],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1126104337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-110.299957,24.191236,-110.299957,24.191236",
+    "geom:latitude":24.191236,
+    "geom:longitude":-110.299957,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":24.191236,
+    "lbl:longitude":-110.299957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"La Calavera",
+    "qs_pg:name_adm0":"M\u00e9xico",
+    "qs_pg:name_adm1":"Baja California Sur",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":135,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1342152,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424900,
+    "qs_pg:woe_id":55899877,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424900,
+    "woe:name_adm0":"M\u00e9xico",
+    "woe:name_adm1":"Baja California Sur",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        102074519,
+        85686555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55899877,
+        "qs_pg:id":1342152
+    },
+    "wof:country":"XX",
+    "wof:created":1497316656,
+    "wof:geomhash":"e3f7cd87189ad0dd29aa3645dead4d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074519,
+            "locality_id":-1,
+            "neighbourhood_id":1126104337,
+            "region_id":85686555
+        }
+    ],
+    "wof:id":1126104337,
+    "wof:lastmodified":1509412297,
+    "wof:name":"La Calavera",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -110.299957,
+    24.191236,
+    -110.299957,
+    24.191236
+],
+  "geometry": {"coordinates":[-110.29995700000001,24.191236],"type":"Point"}
+}

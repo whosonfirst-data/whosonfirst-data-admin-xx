@@ -1,0 +1,79 @@
+{
+  "id": 1126014987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.695924,45.036716,21.695924,45.036716",
+    "geom:latitude":45.036716,
+    "geom:longitude":21.695924,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":45.036716,
+    "lbl:longitude":21.695924,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Oravi\u021ba",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Caras-Severin",
+    "qs_pg:photos":85,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":85,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":288350,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876908,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Caras-Severin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":876908,
+        "qs_pg:id":288350
+    },
+    "wof:country":"XX",
+    "wof:created":1497300494,
+    "wof:geomhash":"348e064ac1b85331a12d8656d991d29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1126014987,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":1126014987,
+    "wof:lastmodified":1509406875,
+    "wof:name":"Oravi\u021ba",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.695924,
+    45.036716,
+    21.695924,
+    45.036716
+],
+  "geometry": {"coordinates":[21.695924,45.036716],"type":"Point"}
+}

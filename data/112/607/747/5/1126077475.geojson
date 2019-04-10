@@ -1,0 +1,89 @@
+{
+  "id": 1126077475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.983221,41.011446,28.983221,41.011446",
+    "geom:latitude":41.011446,
+    "geom:longitude":28.983221,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":41.011446,
+    "lbl:longitude":28.983221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Cankurtaran"
+    ],
+    "name:tur_x_preferred":[
+        "Cankurtaran"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cankurtaran",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":6191,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":27,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6191,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":221373,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724022,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724022,
+        "qs_pg:id":221373,
+        "wd:id":"Q6073520"
+    },
+    "wof:country":"XX",
+    "wof:created":1497311316,
+    "wof:geomhash":"57d00e643b164a83d7cbf4a8f9901c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":-1,
+            "neighbourhood_id":1126077475,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126077475,
+    "wof:lastmodified":1514502970,
+    "wof:name":"Cankurtaran",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.983221,
+    41.011446,
+    28.983221,
+    41.011446
+],
+  "geometry": {"coordinates":[28.983221,41.011446],"type":"Point"}
+}

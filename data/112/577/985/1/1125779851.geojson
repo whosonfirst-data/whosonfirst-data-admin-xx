@@ -1,0 +1,136 @@
+{
+  "id": 1125779851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.787927,46.486598,13.787927,46.486598",
+    "geom:latitude":46.486598,
+    "geom:longitude":13.787927,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.486598,
+    "lbl:longitude":13.787927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u043d\u0441\u043a\u0430 \u0433\u043e\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:eng_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:est_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:fin_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:fre_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:ger_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:ita_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:rum_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043d\u044c\u0441\u043a\u0430-\u0413\u043e\u0440\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:spa_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u045a\u0441\u043a\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e23\u0e32\u0e19\u0e2a\u0e01\u0e32\u0e01\u0e2d\u0e23\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043d\u044c\u0441\u043a\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0627\u0646\u0633\u06a9\u0627 \u06af\u0648\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Kranjska Gora"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kranjska Gora",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Jesenice",
+    "qs_pg:photos":2145,
+    "qs_pg:photos_1k":435,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2145,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078926,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":530496,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Jesenice",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959843,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":530496,
+        "qs_pg:id":1078926,
+        "wd:id":"Q2139428"
+    },
+    "wof:country":"XX",
+    "wof:created":1497290420,
+    "wof:geomhash":"2e59a6e3e9c90b2863d3c23a6683a8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959843,
+            "locality_id":1125779851,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125779851,
+    "wof:lastmodified":1531171361,
+    "wof:name":"Kranjska Gora",
+    "wof:parent_id":1108959843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.787927,
+    46.486598,
+    13.787927,
+    46.486598
+],
+  "geometry": {"coordinates":[13.787927,46.486598],"type":"Point"}
+}

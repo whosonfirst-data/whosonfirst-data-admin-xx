@@ -1,0 +1,113 @@
+{
+  "id": 1125836579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.534286,47.680703,25.534286,47.680703",
+    "geom:latitude":47.680703,
+    "geom:longitude":25.534286,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":47.680703,
+    "lbl:longitude":25.534286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "name:may_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "name:pol_x_preferred":[
+        "Mo\u0142dawica"
+    ],
+    "name:por_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043b\u0434\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Moldovita"
+    ],
+    "name:vol_x_preferred":[
+        "Moldovi\u021ba"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Moldovi\u021ba",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Suceava",
+    "qs_pg:photos":342,
+    "qs_pg:photos_1k":69,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":342,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1092345,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":876070,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Suceava",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":876070,
+        "qs_pg:id":1092345,
+        "wd:id":"Q2465505"
+    },
+    "wof:country":"XX",
+    "wof:created":1497292741,
+    "wof:geomhash":"c243e41487db15e43f786f2a33686c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1125836579,
+            "region_id":85687773
+        }
+    ],
+    "wof:id":1125836579,
+    "wof:lastmodified":1514503072,
+    "wof:name":"Moldovi\u021ba",
+    "wof:parent_id":85687773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.534286,
+    47.680703,
+    25.534286,
+    47.680703
+],
+  "geometry": {"coordinates":[25.534286,47.680703],"type":"Point"}
+}

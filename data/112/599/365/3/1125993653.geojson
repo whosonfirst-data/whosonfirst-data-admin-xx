@@ -1,0 +1,83 @@
+{
+  "id": 1125993653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.003069,60.009531,20.003069,60.009531",
+    "geom:latitude":60.009531,
+    "geom:longitude":20.003069,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":60.009531,
+    "lbl:longitude":20.003069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"J\u00e4rs\u00f6",
+    "qs_pg:name_adm0":"\u00c5land",
+    "qs_pg:name_adm1":"Lemland",
+    "qs_pg:photos":164,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":164,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239293,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":12577865,
+    "qs_pg:woe_id":23408584,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":12577865,
+    "woe:name_adm0":"\u00c5land",
+    "woe:name_adm1":"Lemland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632789,
+        102191581,
+        907198483,
+        136253047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23408584,
+        "qs_pg:id":239293
+    },
+    "wof:country":"XX",
+    "wof:created":1497299184,
+    "wof:geomhash":"a28a45fdbf61545abb11747d38435613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85632789,
+            "empire_id":136253047,
+            "localadmin_id":907198483,
+            "locality_id":1125993653,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125993653,
+    "wof:lastmodified":1509998558,
+    "wof:name":"J\u00e4rs\u00f6",
+    "wof:parent_id":907198483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.003069,
+    60.009531,
+    20.003069,
+    60.009531
+],
+  "geometry": {"coordinates":[20.003069,60.009531],"type":"Point"}
+}

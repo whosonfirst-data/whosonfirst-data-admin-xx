@@ -1,0 +1,82 @@
+{
+  "id": 1126107159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.316341,31.564097,74.316341,31.564097",
+    "geom:latitude":31.564097,
+    "geom:longitude":74.316341,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":31.564097,
+    "lbl:longitude":74.316341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Gw\u00e5l Mandi",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Punjab",
+    "qs_pg:photos":325,
+    "qs_pg:photos_1k":66,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":325,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1130102,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":2197276,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Punjab",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692273,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2197276,
+        "qs_pg:id":1130102
+    },
+    "wof:country":"XX",
+    "wof:created":1497317320,
+    "wof:geomhash":"9eaafbbbf4d70c8e40a7d24e261df047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":-1,
+            "neighbourhood_id":1126107159,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1126107159,
+    "wof:lastmodified":1509412427,
+    "wof:name":"Gw\u00e5l Mandi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.316341,
+    31.564097,
+    74.316341,
+    31.564097
+],
+  "geometry": {"coordinates":[74.31634099999999,31.564097],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1125780071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.672908,46.098412,19.672908,46.098412",
+    "geom:latitude":46.098412,
+    "geom:longitude":19.672908,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.098412,
+    "lbl:longitude":19.672908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Subotica",
+    "qs_pg:name_adm0":"Serbia",
+    "qs_pg:name_adm1":"Severna Bachka",
+    "qs_pg:photos":2027,
+    "qs_pg:photos_1k":411,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2027,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1078947,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":20069818,
+    "qs_pg:woe_id":536981,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":20069818,
+    "woe:name_adm0":"Serbia",
+    "woe:name_adm1":"Severna Bachka",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85688229,
+        102191581,
+        1108810097,
+        85633755,
+        404227537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":536981,
+        "qs_pg:id":1078947
+    },
+    "wof:country":"XX",
+    "wof:created":1497290427,
+    "wof:geomhash":"0f61fd81f7e2410945ade483e7a81fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633755,
+            "localadmin_id":1108810097,
+            "locality_id":1125780071,
+            "macroregion_id":404227537,
+            "region_id":85688229
+        }
+    ],
+    "wof:id":1125780071,
+    "wof:lastmodified":1509391501,
+    "wof:name":"Subotica",
+    "wof:parent_id":1108810097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.672908,
+    46.098412,
+    19.672908,
+    46.098412
+],
+  "geometry": {"coordinates":[19.672908,46.098412],"type":"Point"}
+}

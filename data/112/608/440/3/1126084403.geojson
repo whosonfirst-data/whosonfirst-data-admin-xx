@@ -1,0 +1,82 @@
+{
+  "id": 1126084403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.024024,25.382358,83.024024,25.382358",
+    "geom:latitude":25.382358,
+    "geom:longitude":83.024024,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":25.382358,
+    "lbl:longitude":83.024024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Mahabodhi Society",
+    "qs_pg:name_adm0":"India",
+    "qs_pg:name_adm1":"Uttar Pradesh",
+    "qs_pg:photos":1101,
+    "qs_pg:photos_1k":223,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1101,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1316664,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424848,
+    "qs_pg:woe_id":55951607,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424848,
+    "woe:name_adm0":"India",
+    "woe:name_adm1":"Uttar Pradesh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        890510613,
+        85672205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55951607,
+        "qs_pg:id":1316664
+    },
+    "wof:country":"XX",
+    "wof:created":1497312506,
+    "wof:geomhash":"7e150a359dcfb073339e42c477163589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890510613,
+            "locality_id":-1,
+            "neighbourhood_id":1126084403,
+            "region_id":85672205
+        }
+    ],
+    "wof:id":1126084403,
+    "wof:lastmodified":1509411330,
+    "wof:name":"Mahabodhi Society",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.024024,
+    25.382358,
+    83.024024,
+    25.382358
+],
+  "geometry": {"coordinates":[83.024024,25.382358],"type":"Point"}
+}

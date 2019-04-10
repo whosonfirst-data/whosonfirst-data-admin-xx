@@ -1,0 +1,160 @@
+{
+  "id": 1125833065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-19.125909,63.403667,-19.125909,63.403667",
+    "geom:latitude":63.403667,
+    "geom:longitude":-19.125909,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":63.403667,
+    "lbl:longitude":-19.125909,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054e\u056b\u0584"
+    ],
+    "name:baq_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0451\u0441\u043a\u0430 \u0412\u0456\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:chi_x_preferred":[
+        "\u7dad\u514b"
+    ],
+    "name:cze_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:dan_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:dut_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:eng_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:fre_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:ger_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:ice_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30fc\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ud06c"
+    ],
+    "name:lit_x_preferred":[
+        "Vikas"
+    ],
+    "name:nob_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0438\u043a"
+    ],
+    "name:pms_x_preferred":[
+        "V\u00edk"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:por_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:tur_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043a \u0456 \u041c\u0456\u0440\u0434\u0430\u043b"
+    ],
+    "name:vol_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vik I Myrdal",
+    "qs_pg:name_adm0":"\u00cdsland",
+    "qs_pg:name_adm1":"Vestur-Skaftafellssysla",
+    "qs_pg:photos":1016,
+    "qs_pg:photos_1k":206,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1016,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091420,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424845,
+    "qs_pg:woe_id":28752667,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424845,
+    "woe:name_adm0":"\u00cdsland",
+    "woe:name_adm1":"Vestur-Skaftafellssysla",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28752667,
+        "qs_pg:id":1091420,
+        "wd:id":"Q685369"
+    },
+    "wof:country":"XX",
+    "wof:created":1497292587,
+    "wof:geomhash":"ececbf6deead168a0e9c9d878b96d5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125833065,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125833065,
+    "wof:lastmodified":1553816559,
+    "wof:name":"Vik I Myrdal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -19.125909,
+    63.403667,
+    -19.125909,
+    63.403667
+],
+  "geometry": {"coordinates":[-19.125909,63.403667],"type":"Point"}
+}

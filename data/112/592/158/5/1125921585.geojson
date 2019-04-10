@@ -1,0 +1,81 @@
+{
+  "id": 1125921585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.083786,46.389835,14.083786,46.389835",
+    "geom:latitude":46.389835,
+    "geom:longitude":14.083786,
+    "gn:gn_country":null,
+    "iso:country":"XX",
+    "lbl:latitude":46.389835,
+    "lbl:longitude":14.083786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vintgar",
+    "qs_pg:name_adm0":"Slovenija",
+    "qs_pg:name_adm1":"Radovljica",
+    "qs_pg:photos":427,
+    "qs_pg:photos_1k":87,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":427,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1135597,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424945,
+    "qs_pg:woe_id":55849261,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424945,
+    "woe:name_adm0":"Slovenija",
+    "woe:name_adm1":"Radovljica",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        1108959735,
+        85633779,
+        1108959967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55849261,
+        "qs_pg:id":1135597
+    },
+    "wof:country":"XX",
+    "wof:created":1497296500,
+    "wof:geomhash":"ac098b0c151b7469f9a3b160f94ba1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633779,
+            "localadmin_id":1108959735,
+            "locality_id":1125921585,
+            "region_id":1108959967
+        }
+    ],
+    "wof:id":1125921585,
+    "wof:lastmodified":1531171369,
+    "wof:name":"Vintgar",
+    "wof:parent_id":1108959735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.083786,
+    46.389835,
+    14.083786,
+    46.389835
+],
+  "geometry": {"coordinates":[14.083786,46.389835],"type":"Point"}
+}
