@@ -41,7 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        890509125,
+        102029537,
+        890502919,
         85672245
     ],
     "wof:breaches":[],
@@ -56,16 +57,16 @@
         {
             "continent_id":102191569,
             "country_id":85632469,
-            "county_id":890509125,
-            "locality_id":-1,
+            "county_id":890502919,
+            "locality_id":102029537,
             "neighbourhood_id":1126073753,
             "region_id":85672245
         }
     ],
     "wof:id":1126073753,
-    "wof:lastmodified":1509410811,
+    "wof:lastmodified":1555547808,
     "wof:name":"Kundrathur",
-    "wof:parent_id":-1,
+    "wof:parent_id":102029537,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

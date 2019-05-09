@@ -41,6 +41,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
+        102028309,
         890510613,
         85672205
     ],
@@ -57,15 +58,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890510613,
-            "locality_id":-1,
+            "locality_id":102028309,
             "neighbourhood_id":1126084403,
             "region_id":85672205
         }
     ],
     "wof:id":1126084403,
-    "wof:lastmodified":1509411330,
+    "wof:lastmodified":1555547746,
     "wof:name":"Mahabodhi Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":102028309,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

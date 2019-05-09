@@ -12,6 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "label:eng_x_preferred_longname":[
+        "Leh County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "qs:name":"Leh",
@@ -28,9 +34,9 @@
     "wd:wordcount":3006,
     "wof:belongsto":[
         102191569,
+        85632427,
         85632659,
         85672137,
-        85632427,
         85632469
     ],
     "wof:breaches":[],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890440313,
-    "wof:lastmodified":1533678778,
+    "wof:lastmodified":1555095450,
     "wof:name":"Leh",
     "wof:parent_id":85672137,
     "wof:placetype":"county",

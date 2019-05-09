@@ -38,13 +38,7 @@
     "woe:name_adm0":"India",
     "woe:name_adm1":"Delhi",
     "woe:placetype":"Suburb",
-    "wof:belongsto":[
-        102191569,
-        85632469,
-        102031133,
-        890508371,
-        85672205
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29215888,
@@ -55,22 +49,31 @@
     "wof:geomhash":"690b6e8f96f5b2531ba47c8abd25c686",
     "wof:hierarchy":[
         {
-            "continent_id":102191569,
-            "country_id":85632469,
-            "county_id":890508371,
-            "locality_id":102031133,
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
             "neighbourhood_id":1126074759,
-            "region_id":85672205
+            "region_id":-1
         }
     ],
     "wof:id":1126074759,
-    "wof:lastmodified":1509410856,
+    "wof:lastmodified":1555547792,
     "wof:name":"Vasundhara Enclave",
-    "wof:parent_id":102031133,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.319073,
+    28.600611,
+    77.319073,
+    28.600611
+],
+  "geometry": {"coordinates":[77.319073,28.600611],"type":"Point"}
+},
     "wof:tags":[]
 },
   "bbox": [

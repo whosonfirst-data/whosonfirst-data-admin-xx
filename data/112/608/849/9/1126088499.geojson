@@ -64,9 +64,9 @@
         }
     ],
     "wof:id":1126088499,
-    "wof:lastmodified":1509411524,
+    "wof:lastmodified":1555547794,
     "wof:name":"Yakutpur",
-    "wof:parent_id":102030425,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
@@ -80,4 +80,5 @@
     28.731684
 ],
   "geometry": {"coordinates":[77.15119350000001,28.731684],"type":"Point"}
+}int"}
 }

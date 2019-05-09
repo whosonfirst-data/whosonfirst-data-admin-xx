@@ -41,6 +41,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
+        102030563,
         890507401,
         85672119
     ],
@@ -57,15 +58,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890507401,
-            "locality_id":-1,
+            "locality_id":102030563,
             "neighbourhood_id":1126103195,
             "region_id":85672119
         }
     ],
     "wof:id":1126103195,
-    "wof:lastmodified":1509412230,
+    "wof:lastmodified":1555547857,
     "wof:name":"Sector 1",
-    "wof:parent_id":-1,
+    "wof:parent_id":102030563,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

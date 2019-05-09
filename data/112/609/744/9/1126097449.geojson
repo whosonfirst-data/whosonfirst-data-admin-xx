@@ -41,6 +41,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
+        102029055,
         890504089,
         85672225
     ],
@@ -57,15 +58,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890504089,
-            "locality_id":-1,
+            "locality_id":102029055,
             "neighbourhood_id":1126097449,
             "region_id":85672225
         }
     ],
     "wof:id":1126097449,
-    "wof:lastmodified":1509411953,
+    "wof:lastmodified":1555547773,
     "wof:name":"Gulzar Bagh",
-    "wof:parent_id":-1,
+    "wof:parent_id":102029055,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

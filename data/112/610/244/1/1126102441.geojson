@@ -46,10 +46,11 @@
     "woe:name_adm1":"Kerala",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85672149,
         102191569,
         85632469,
-        890508831
+        102028407,
+        890508831,
+        85672149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,15 +66,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890508831,
-            "locality_id":-1,
+            "locality_id":102028407,
             "neighbourhood_id":1126102441,
             "region_id":85672149
         }
     ],
     "wof:id":1126102441,
-    "wof:lastmodified":1534379828,
+    "wof:lastmodified":1555547752,
     "wof:name":"Valia Veli",
-    "wof:parent_id":-1,
+    "wof:parent_id":102028407,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

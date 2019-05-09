@@ -41,6 +41,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
+        102030233,
         890511205,
         85672205
     ],
@@ -57,15 +58,15 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890511205,
-            "locality_id":-1,
+            "locality_id":102030233,
             "neighbourhood_id":1126102511,
             "region_id":85672205
         }
     ],
     "wof:id":1126102511,
-    "wof:lastmodified":1509412199,
+    "wof:lastmodified":1555547843,
     "wof:name":"Saboli",
-    "wof:parent_id":-1,
+    "wof:parent_id":102030233,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

@@ -12,6 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "label:eng_x_preferred_longname":[
+        "Kargil County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "qs:name":"Kargil",
@@ -28,9 +34,9 @@
     "wd:wordcount":1102,
     "wof:belongsto":[
         102191569,
+        85632427,
         85632659,
         85672137,
-        85632427,
         85632469
     ],
     "wof:breaches":[],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890445611,
-    "wof:lastmodified":1533678778,
+    "wof:lastmodified":1555095451,
     "wof:name":"Kargil",
     "wof:parent_id":85672137,
     "wof:placetype":"county",

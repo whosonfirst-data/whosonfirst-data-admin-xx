@@ -64,9 +64,9 @@
         }
     ],
     "wof:id":1126083595,
-    "wof:lastmodified":1509411286,
+    "wof:lastmodified":1555547790,
     "wof:name":"Shalimar Bagh Paschimi",
-    "wof:parent_id":102030425,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
@@ -80,4 +80,5 @@
     28.70659
 ],
   "geometry": {"coordinates":[77.159227,28.70659],"type":"Point"}
+}int"}
 }
