@@ -57,23 +57,13 @@
         }
     ],
     "wof:id":1126074759,
-    "wof:lastmodified":1555547792,
+    "wof:lastmodified":1559062088,
     "wof:name":"Vasundhara Enclave",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    77.319073,
-    28.600611,
-    77.319073,
-    28.600611
-],
-  "geometry": {"coordinates":[77.319073,28.600611],"type":"Point"}
-},
     "wof:tags":[]
 },
   "bbox": [
