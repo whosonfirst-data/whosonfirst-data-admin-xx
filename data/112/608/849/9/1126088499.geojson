@@ -39,11 +39,11 @@
     "woe:name_adm1":"Delhi",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672123,
         102191569,
         85632469,
         102030425,
-        890507423,
-        85672123
+        890507423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1126088499,
-    "wof:lastmodified":1555547794,
+    "wof:lastmodified":1559062083,
     "wof:name":"Yakutpur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -80,5 +80,4 @@
     28.731684
 ],
   "geometry": {"coordinates":[77.15119350000001,28.731684],"type":"Point"}
-}int"}
 }
