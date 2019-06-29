@@ -22,25 +22,19 @@
     "name:arg_x_preferred":[
         "Maria de la Salut"
     ],
-    "name:baq_x_preferred":[
-        "Maria de la Salut"
-    ],
     "name:cat_x_preferred":[
         "Maria de la Salut"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u91cc\u4e9a\u5fb7\u62c9\u8428\u5362\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maria de la Salut"
     ],
     "name:eng_x_preferred":[
         "Maria de la Salut"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Maria de la Salut"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Maria de la Salut"
     ],
     "name:glg_x_preferred":[
@@ -55,7 +49,10 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ea\u30fc\u30a2\u30fb\u30c0\u30fb\u30e9\u30fb\u30b5\u30eb"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Maria de la Salut"
+    ],
+    "name:nld_x_preferred":[
         "Maria de la Salut"
     ],
     "name:oci_x_preferred":[
@@ -90,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Maria de la Salut"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u91cc\u4e9a\u5fb7\u62c9\u8428\u5362\u7279"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Mar\u00eda de la Salud",
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1125898285,
-    "wof:lastmodified":1553816610,
+    "wof:lastmodified":1561837381,
     "wof:name":"Mar\u00eda de la Salud",
     "wof:parent_id":404330807,
     "wof:placetype":"locality",

@@ -23,7 +23,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Izrael"
     ],
     "name:eng_x_preferred":[
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":85632445,
-    "wof:lastmodified":1549930574,
+    "wof:lastmodified":1561837363,
     "wof:name":"No Man's Land (Fort Latrun)",
     "wof:parent_id":85632315,
     "wof:placetype":"disputed",

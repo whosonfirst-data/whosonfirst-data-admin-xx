@@ -19,13 +19,13 @@
     "name:bos_x_preferred":[
         "Ivan\u010dna Gorica"
     ],
-    "name:dut_x_preferred":[
-        "Ivan\u010dna Gorica"
-    ],
     "name:eng_x_preferred":[
         "Ivan\u010dna Gorica"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:ron_x_preferred":[
         "Ivan\u010dna Gorica"
     ],
     "name:slv_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125779839,
-    "wof:lastmodified":1531170279,
+    "wof:lastmodified":1561837413,
     "wof:name":"Ivan\u010dna Gorica",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

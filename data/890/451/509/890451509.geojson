@@ -17,25 +17,22 @@
     "name:bpy_x_preferred":[
         "\u09b0\u09b9\u09be\u09ae\u09ac\u09be\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u54c8\u59c6\u5df4\u5c14"
-    ],
-    "name:dut_x_preferred":[
-        "Rehambal"
-    ],
     "name:eng_x_preferred":[
         "Rehambal"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rehambal"
     ],
     "name:ita_x_preferred":[
         "Rehambal"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rehambal"
     ],
     "name:nan_x_preferred":[
+        "Rehambal"
+    ],
+    "name:nld_x_preferred":[
         "Rehambal"
     ],
     "name:por_x_preferred":[
@@ -43,6 +40,9 @@
     ],
     "name:vie_x_preferred":[
         "Rehambal"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u54c8\u59c6\u5df4\u5c14"
     ],
     "qs:name":"Rehambal",
     "qs:name_adm0":"India",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890451509,
-    "wof:lastmodified":1533678792,
+    "wof:lastmodified":1561837366,
     "wof:name":"Rehambal",
     "wof:parent_id":890506051,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330036,
-    "geom:area_square_m":3331453280.53299,
+    "geom:area_square_m":3331453280.533132,
     "geom:bbox":"32.59916687,35.002722473,34.594528198,35.69708252",
     "geom:latitude":35.279559,
     "geom:longitude":33.600843,
@@ -32,7 +32,7 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09b0\u09cd\u0995\u09c0 \u0989\u09a4\u09cd\u09a4\u09b0 \u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09be\u09b8 \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kypr"
     ],
     "name:dan_x_preferred":[
@@ -129,7 +129,7 @@
     "name:por_x_variant":[
         "Chipre"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cipru"
     ],
     "name:rus_x_preferred":[
@@ -312,7 +312,7 @@
         }
     ],
     "wof:id":85632375,
-    "wof:lastmodified":1528909930,
+    "wof:lastmodified":1561837363,
     "wof:name":"Northern Cyprus",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

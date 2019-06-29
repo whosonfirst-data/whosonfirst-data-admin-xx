@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Gros-Morne"
     ],
-    "name:baq_x_preferred":[
-        "Gros-Morne"
-    ],
     "name:bar_x_preferred":[
         "Gros-Morne"
     ],
@@ -43,17 +40,23 @@
     "name:cat_x_preferred":[
         "Le Gros-Morne"
     ],
+    "name:ces_x_preferred":[
+        "Gros-Morne"
+    ],
     "name:cos_x_preferred":[
         "Gros-Morne"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Gros-Morne"
     ],
     "name:dan_x_preferred":[
         "Gros-Morne"
     ],
-    "name:dut_x_preferred":[
-        "Le Gros-Morne"
+    "name:deu_x_preferred":[
+        "Gros-Morne"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03bf-\u039c\u03bf\u03c1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Gros-Morne"
@@ -64,25 +67,25 @@
     "name:est_x_preferred":[
         "Gros-Morne"
     ],
+    "name:eus_x_preferred":[
+        "Gros-Morne"
+    ],
     "name:fao_x_preferred":[
         "Gros-Morne"
     ],
     "name:fin_x_preferred":[
         "Gros-Morne"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Gros-Morne"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Gros-Morne"
     ],
     "name:frp_x_preferred":[
         "Gros-Morne"
     ],
     "name:fur_x_preferred":[
-        "Gros-Morne"
-    ],
-    "name:ger_x_preferred":[
         "Gros-Morne"
     ],
     "name:gla_x_preferred":[
@@ -94,9 +97,6 @@
     "name:glg_x_preferred":[
         "Gros-Morne"
     ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03bf-\u039c\u03bf\u03c1\u03bd"
-    ],
     "name:gsw_x_preferred":[
         "Gros-Morne"
     ],
@@ -104,9 +104,6 @@
         "Gros-Morne"
     ],
     "name:hun_x_preferred":[
-        "Gros-Morne"
-    ],
-    "name:ice_x_preferred":[
         "Gros-Morne"
     ],
     "name:ido_x_preferred":[
@@ -119,6 +116,9 @@
         "Gros-Morne"
     ],
     "name:ind_x_preferred":[
+        "Gros-Morne"
+    ],
+    "name:isl_x_preferred":[
         "Gros-Morne"
     ],
     "name:ita_x_preferred":[
@@ -154,13 +154,13 @@
     "name:ltz_x_preferred":[
         "Gros-Morne"
     ],
-    "name:may_x_preferred":[
-        "Gros-Morne"
-    ],
     "name:min_x_preferred":[
         "Gros-Morne"
     ],
     "name:mlg_x_preferred":[
+        "Gros-Morne"
+    ],
+    "name:msa_x_preferred":[
         "Gros-Morne"
     ],
     "name:nap_x_preferred":[
@@ -168,6 +168,9 @@
     ],
     "name:nds_x_preferred":[
         "Gros-Morne"
+    ],
+    "name:nld_x_preferred":[
+        "Le Gros-Morne"
     ],
     "name:nno_x_preferred":[
         "Gros-Morne"
@@ -205,7 +208,7 @@
     "name:roh_x_preferred":[
         "Gros-Morne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gros-Morne"
     ],
     "name:scn_x_preferred":[
@@ -214,7 +217,7 @@
     "name:sco_x_preferred":[
         "Gros-Morne"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gros-Morne"
     ],
     "name:spa_x_preferred":[
@@ -251,9 +254,6 @@
         "Gros-Morne"
     ],
     "name:war_x_preferred":[
-        "Gros-Morne"
-    ],
-    "name:wel_x_preferred":[
         "Gros-Morne"
     ],
     "name:wln_x_preferred":[
@@ -317,7 +317,7 @@
         }
     ],
     "wof:id":1125932295,
-    "wof:lastmodified":1531422128,
+    "wof:lastmodified":1561837366,
     "wof:name":"Gros-Morne",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

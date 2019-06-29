@@ -19,19 +19,13 @@
     "name:bos_x_preferred":[
         "Naklo"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u514b\u6d1b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Naklo"
     ],
     "name:eng_x_preferred":[
         "Naklo"
     ],
-    "name:fre_x_preferred":[
-        "Naklo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Naklo"
     ],
     "name:hrv_x_preferred":[
@@ -49,13 +43,16 @@
     "name:lit_x_preferred":[
         "Naklas"
     ],
+    "name:nld_x_preferred":[
+        "Naklo"
+    ],
     "name:pol_x_preferred":[
         "Gmina Naklo"
     ],
     "name:por_x_preferred":[
         "Naklo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Naklo"
     ],
     "name:slv_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "Naklo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u514b\u6d1b"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Naklo",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1125768313,
-    "wof:lastmodified":1531171368,
+    "wof:lastmodified":1561837406,
     "wof:name":"Naklo",
     "wof:parent_id":1108959497,
     "wof:placetype":"locality",

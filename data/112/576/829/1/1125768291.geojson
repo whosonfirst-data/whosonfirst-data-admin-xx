@@ -22,13 +22,13 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0442\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Muta"
-    ],
     "name:eng_x_preferred":[
         "Muta"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Muta"
+    ],
+    "name:ron_x_preferred":[
         "Muta"
     ],
     "name:rus_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125768291,
-    "wof:lastmodified":1531170445,
+    "wof:lastmodified":1561837406,
     "wof:name":"Muta",
     "wof:parent_id":1108959727,
     "wof:placetype":"locality",

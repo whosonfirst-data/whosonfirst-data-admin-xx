@@ -19,14 +19,11 @@
     "name:bos_x_preferred":[
         "Kanji\u017ea"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5c3c\u624e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kanji\u017ea"
     ],
-    "name:dut_x_preferred":[
-        "Kanji\u017ea"
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kanji\u017ea"
@@ -34,11 +31,8 @@
     "name:epo_x_preferred":[
         "Kanji\u0135a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kanji\u017ea"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bd\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:hrv_x_preferred":[
         "Kanji\u017ea"
@@ -52,10 +46,13 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30cb\u30b8\u30e3"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u0430\u045a\u0438\u0436\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kanji\u017ea"
+    ],
+    "name:nld_x_preferred":[
         "Kanji\u017ea"
     ],
     "name:pnb_x_preferred":[
@@ -64,7 +61,7 @@
     "name:pol_x_preferred":[
         "Kanji\u017ea"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kanji\u017ea"
     ],
     "name:rus_x_preferred":[
@@ -87,6 +84,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e7\u05d9\u05e0\u05d9\u05d6\u05e9\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c3c\u624e"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kanji\u017ea",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":1126051467,
-    "wof:lastmodified":1514503050,
+    "wof:lastmodified":1561837375,
     "wof:name":"Kanji\u017ea",
     "wof:parent_id":1108809911,
     "wof:placetype":"locality",

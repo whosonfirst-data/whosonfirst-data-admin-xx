@@ -16,13 +16,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u65b0\u5e15\u4f50\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nova Pazova"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nova Pazova"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +28,7 @@
     "name:epo_x_preferred":[
         "Nova Pazova"
     ],
-    "name:fre_x_preferred":[
-        "Nova Pazova"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nova Pazova"
     ],
     "name:hrv_x_preferred":[
@@ -46,7 +40,10 @@
     "name:ita_x_preferred":[
         "Nova Pazova"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:nld_x_preferred":[
         "Nova Pazova"
     ],
     "name:pol_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Nova Pazova"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e15\u4f50\u74e6"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Nova Pazova",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1125779977,
-    "wof:lastmodified":1514503074,
+    "wof:lastmodified":1561837413,
     "wof:name":"Nova Pazova",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

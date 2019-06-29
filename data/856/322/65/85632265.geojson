@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.858486,
-    "geom:area_square_m":10460753204.682858,
+    "geom:area_square_m":10460753204.682817,
     "geom:bbox":"27.833333327,9.347221,29.00000102,10.166667117",
     "geom:latitude":9.788911,
     "geom:longitude":28.412623,
@@ -33,23 +33,14 @@
     "name:ces_x_preferred":[
         "Oblast Abyei"
     ],
-    "name:chi_x_preferred":[
-        "\u6709\u722d\u8b70\u7684\u9818\u571f"
-    ],
     "name:chi_x_variant":[
         "\u6709\u4e89\u8bae\u7684\u9886\u571f",
         "\u963f\u535c\u8036\u4f0a"
-    ],
-    "name:cze_x_preferred":[
-        "Oblast Abyei"
     ],
     "name:dan_x_preferred":[
         "Abyei"
     ],
     "name:deu_x_preferred":[
-        "Abyei"
-    ],
-    "name:dut_x_preferred":[
         "Abyei"
     ],
     "name:eng_x_preferred":[
@@ -65,20 +56,14 @@
     "name:est_x_preferred":[
         "Abyei"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u06cc\u06cc"
+    ],
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
     "name:fra_x_preferred":[
         "Abiy\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Abiy\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d1\u10d8\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Abyei"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05d9\u05d9"
@@ -91,6 +76,9 @@
     ],
     "name:jpn_x_variant":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10d8\u10d4\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc544\ube44\uc5d0\uc774"
@@ -110,16 +98,13 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u06cc\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0628\u06cc\u0626\u06cc"
     ],
     "name:por_x_preferred":[
         "Abyei"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Abyei"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +133,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u535c\u8036\u4f0a"
+    ],
+    "name:zho_x_variant":[
+        "\u6709\u722d\u8b70\u7684\u9818\u571f"
     ],
     "ne:ABBREV":"Abyei",
     "ne:ABBREV_LEN":5,
@@ -288,7 +276,7 @@
         }
     ],
     "wof:id":85632265,
-    "wof:lastmodified":1553814705,
+    "wof:lastmodified":1561837364,
     "wof:name":"Abyei Special Administrative Area",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

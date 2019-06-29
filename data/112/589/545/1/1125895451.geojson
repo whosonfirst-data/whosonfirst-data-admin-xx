@@ -28,16 +28,10 @@
     "name:arg_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0582\u0561\u0576\u057f \u0561 \u054a\u056b\u057f\u0580"
-    ],
     "name:ast_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:bam_x_preferred":[
-        "Pointe-\u00e0-Pitre"
-    ],
-    "name:baq_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:bar_x_preferred":[
@@ -55,13 +49,13 @@
     "name:cat_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u7279\u5c14\u89d2\u57ce"
+    "name:ces_x_preferred":[
+        "Pointe-\u00e0-Pitre"
     ],
     "name:cos_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:dan_x_preferred":[
@@ -72,9 +66,6 @@
     ],
     "name:deu_x_variant":[
         "Pointe a Pitre"
-    ],
-    "name:dut_x_preferred":[
-        "Pointe-\u00e0-Pitre"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c5\u03ac\u03bd\u03c4-\u03b1-\u03a0\u03b9\u03c4\u03c1"
@@ -88,8 +79,14 @@
     "name:est_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
+    "name:eus_x_preferred":[
+        "Pointe-\u00e0-Pitre"
+    ],
     "name:fao_x_preferred":[
         "Pointe-\u00e0-Pitre"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0626\u0646\u062a-\u0627-\u067e\u06cc\u062a\u0631"
     ],
     "name:fin_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -100,19 +97,10 @@
     "name:frc_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:fre_x_preferred":[
-        "Pointe-\u00e0-Pitre"
-    ],
     "name:frp_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:fur_x_preferred":[
-        "Pointe-\u00e0-Pitre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d0\u10dc\u10e2-\u10d0-\u10de\u10d8\u10e2\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:gla_x_preferred":[
@@ -123,9 +111,6 @@
     ],
     "name:glg_x_preferred":[
         "Pointe-\u00e0-Pitre"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ac\u03bd\u03c4-\u03b1-\u03a0\u03b9\u03c4\u03c1"
     ],
     "name:gsw_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -139,8 +124,8 @@
     "name:hun_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:ice_x_preferred":[
-        "Pointe-\u00e0-Pitre"
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0561\u0576\u057f \u0561 \u054a\u056b\u057f\u0580"
     ],
     "name:ido_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -152,6 +137,9 @@
         "Pointe-\u00e0-Pitre"
     ],
     "name:ind_x_preferred":[
+        "Pointe-\u00e0-Pitre"
+    ],
+    "name:isl_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:ita_x_preferred":[
@@ -168,6 +156,9 @@
     ],
     "name:kal_x_preferred":[
         "Pointe-\u00e0-Pitre"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d0\u10dc\u10e2-\u10d0-\u10de\u10d8\u10e2\u10e0\u10d8"
     ],
     "name:kon_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -193,13 +184,13 @@
     "name:ltz_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:may_x_preferred":[
-        "Pointe-\u00e0-Pitre"
-    ],
     "name:min_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:mlg_x_preferred":[
+        "Pointe-\u00e0-Pitre"
+    ],
+    "name:msa_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:nap_x_preferred":[
@@ -229,9 +220,6 @@
     "name:pcd_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0626\u0646\u062a-\u0627-\u067e\u06cc\u062a\u0631"
-    ],
     "name:pms_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
@@ -250,7 +238,7 @@
     "name:roh_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:rus_x_preferred":[
@@ -262,7 +250,7 @@
     "name:sco_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:slv_x_preferred":[
@@ -308,9 +296,6 @@
         "Pointe-\u00e0-Pitre"
     ],
     "name:war_x_preferred":[
-        "Pointe-\u00e0-Pitre"
-    ],
-    "name:wel_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
     "name:wln_x_preferred":[
@@ -377,7 +362,7 @@
         }
     ],
     "wof:id":1125895451,
-    "wof:lastmodified":1531422108,
+    "wof:lastmodified":1561837381,
     "wof:name":"Pointe-\u00c0-Pitre",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

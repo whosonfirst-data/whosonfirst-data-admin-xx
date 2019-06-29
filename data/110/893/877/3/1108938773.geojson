@@ -21,28 +21,28 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bompard"
     ],
     "name:eng_x_preferred":[
         "Bompard"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bompard"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Bompard"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683441,
         102191581,
         85633147,
         404228029,
         404227445,
         101749199,
         1360698499,
-        102072499
+        102072499,
+        85683441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1108938773,
-    "wof:lastmodified":1545176979,
+    "wof:lastmodified":1561837365,
     "wof:name":"Bompard",
     "wof:parent_id":1360698499,
     "wof:placetype":"neighbourhood",

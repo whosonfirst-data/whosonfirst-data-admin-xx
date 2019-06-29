@@ -19,13 +19,13 @@
     "name:cha_x_preferred":[
         "Yo\u00f1a"
     ],
-    "name:dut_x_preferred":[
-        "Yona"
-    ],
     "name:eng_x_preferred":[
         "Yona"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0646\u0627\u060c \u06af\u0648\u0622\u0645"
+    ],
+    "name:fra_x_preferred":[
         "Yona"
     ],
     "name:ita_x_preferred":[
@@ -37,8 +37,8 @@
     "name:kor_x_preferred":[
         "\uc870\ub0d0"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u0646\u0627\u060c \u06af\u0648\u0622\u0645"
+    "name:nld_x_preferred":[
+        "Yona"
     ],
     "name:pol_x_preferred":[
         "Yona"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125909869,
-    "wof:lastmodified":1514503120,
+    "wof:lastmodified":1561837388,
     "wof:name":"Yona",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",

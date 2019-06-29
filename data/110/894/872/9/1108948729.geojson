@@ -21,16 +21,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Carignano"
     ],
     "name:eng_x_preferred":[
         "Carignano"
     ],
-    "name:fre_x_preferred":[
-        "Carignano"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Carignano"
     ],
     "name:ita_x_preferred":[
@@ -38,6 +35,9 @@
     ],
     "name:lij_x_preferred":[
         "Caignan"
+    ],
+    "name:nld_x_preferred":[
+        "Carignano"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1108948729,
-    "wof:lastmodified":1514502971,
+    "wof:lastmodified":1561837365,
     "wof:name":"Carignano",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",

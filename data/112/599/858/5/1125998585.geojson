@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Trois Rivi\u00e8res"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Trois Rivi\u00e8res"
     ],
     "qs_pg:gn_country":null,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1125998585,
-    "wof:lastmodified":1531422140,
+    "wof:lastmodified":1561837388,
     "wof:name":"Trois Rivi\u00e8res",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -25,17 +25,17 @@
     "name:bul_x_preferred":[
         "\u0410\u043f\u0430\u0442\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5e15\u4e01"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Apatin"
     ],
     "name:dan_x_preferred":[
         "Apatin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Apatin"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03b1\u03c4\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Apatin"
@@ -46,14 +46,8 @@
     "name:est_x_preferred":[
         "Apatin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Apatin"
-    ],
-    "name:ger_x_preferred":[
-        "Apatin"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c0\u03b1\u03c4\u03af\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e4\u05d0\u05d8\u05d9\u05df"
@@ -76,7 +70,10 @@
     "name:lit_x_preferred":[
         "Apatinas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Apatin"
+    ],
+    "name:nld_x_preferred":[
         "Apatin"
     ],
     "name:nob_x_preferred":[
@@ -88,7 +85,7 @@
     "name:pol_x_preferred":[
         "Apatin"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Apatin"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +111,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043f\u0430\u0442\u0438\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5e15\u4e01"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Apatin",
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":1126051431,
-    "wof:lastmodified":1514502961,
+    "wof:lastmodified":1561837374,
     "wof:name":"Apatin",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

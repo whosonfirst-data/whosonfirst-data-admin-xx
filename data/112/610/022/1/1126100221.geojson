@@ -16,19 +16,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u057f\u0578\u0582\u0580\u057d\u0565"
-    ],
     "name:cat_x_preferred":[
         "Santurce"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Santurce"
     ],
     "name:eng_x_preferred":[
         "Santurce"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santurce"
     ],
     "name:glg_x_preferred":[
@@ -37,6 +34,12 @@
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d8\u05d5\u05e8\u05e7\u05d4"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0578\u0582\u0580\u057d\u0565"
+    ],
+    "name:nld_x_preferred":[
+        "Santurce"
+    ],
     "name:pol_x_preferred":[
         "Santurce"
     ],
@@ -44,9 +47,6 @@
         "Santurce"
     ],
     "name:spa_x_preferred":[
-        "Santurce"
-    ],
-    "name:wel_x_preferred":[
         "Santurce"
     ],
     "qs_pg:gn_country":null,
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1126100221,
-    "wof:lastmodified":1514503094,
+    "wof:lastmodified":1561837371,
     "wof:name":"Santurce",
     "wof:parent_id":101919427,
     "wof:placetype":"neighbourhood",

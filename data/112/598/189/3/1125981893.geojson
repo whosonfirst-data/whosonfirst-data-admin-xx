@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Roura"
     ],
-    "name:baq_x_preferred":[
-        "Roura"
-    ],
     "name:bar_x_preferred":[
         "Roura"
     ],
@@ -46,17 +43,23 @@
     "name:cat_x_preferred":[
         "Roura"
     ],
+    "name:ces_x_preferred":[
+        "Roura"
+    ],
     "name:cos_x_preferred":[
         "Roura"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Roura"
     ],
     "name:dan_x_preferred":[
         "Roura"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Roura"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Roura"
@@ -67,25 +70,25 @@
     "name:est_x_preferred":[
         "Roura"
     ],
+    "name:eus_x_preferred":[
+        "Roura"
+    ],
     "name:fao_x_preferred":[
         "Roura"
     ],
     "name:fin_x_preferred":[
         "Roura"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Roura"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Roura"
     ],
     "name:frp_x_preferred":[
         "Roura"
     ],
     "name:fur_x_preferred":[
-        "Roura"
-    ],
-    "name:ger_x_preferred":[
         "Roura"
     ],
     "name:gla_x_preferred":[
@@ -97,9 +100,6 @@
     "name:glg_x_preferred":[
         "Roura"
     ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03bf\u03c5\u03c1\u03ac"
-    ],
     "name:gsw_x_preferred":[
         "Roura"
     ],
@@ -107,9 +107,6 @@
         "Roura"
     ],
     "name:hun_x_preferred":[
-        "Roura"
-    ],
-    "name:ice_x_preferred":[
         "Roura"
     ],
     "name:ido_x_preferred":[
@@ -122,6 +119,9 @@
         "Roura"
     ],
     "name:ind_x_preferred":[
+        "Roura"
+    ],
+    "name:isl_x_preferred":[
         "Roura"
     ],
     "name:ita_x_preferred":[
@@ -157,19 +157,22 @@
     "name:ltz_x_preferred":[
         "Roura"
     ],
-    "name:may_x_preferred":[
-        "Roura"
-    ],
     "name:min_x_preferred":[
         "Roura"
     ],
     "name:mlg_x_preferred":[
         "Roura"
     ],
+    "name:msa_x_preferred":[
+        "Roura"
+    ],
     "name:nap_x_preferred":[
         "Roura"
     ],
     "name:nds_x_preferred":[
+        "Roura"
+    ],
+    "name:nld_x_preferred":[
         "Roura"
     ],
     "name:nno_x_preferred":[
@@ -208,7 +211,7 @@
     "name:roh_x_preferred":[
         "Roura"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Roura"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +223,7 @@
     "name:sco_x_preferred":[
         "Roura"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Roura"
     ],
     "name:spa_x_preferred":[
@@ -257,9 +260,6 @@
         "Roura"
     ],
     "name:war_x_preferred":[
-        "Roura"
-    ],
-    "name:wel_x_preferred":[
         "Roura"
     ],
     "name:wln_x_preferred":[
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":1125981893,
-    "wof:lastmodified":1531422157,
+    "wof:lastmodified":1561837393,
     "wof:name":"Roura",
     "wof:parent_id":1091680907,
     "wof:placetype":"locality",

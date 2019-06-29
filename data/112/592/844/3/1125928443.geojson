@@ -22,9 +22,6 @@
     "name:afr_x_preferred":[
         "Baillif"
     ],
-    "name:alb_x_preferred":[
-        "Baillif"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0641"
     ],
@@ -35,9 +32,6 @@
         "Baillif"
     ],
     "name:bam_x_preferred":[
-        "Baillif"
-    ],
-    "name:baq_x_preferred":[
         "Baillif"
     ],
     "name:bar_x_preferred":[
@@ -52,16 +46,19 @@
     "name:cat_x_preferred":[
         "Baillif"
     ],
+    "name:ces_x_preferred":[
+        "Baillif"
+    ],
     "name:cos_x_preferred":[
         "Baillif"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Baillif"
     ],
     "name:dan_x_preferred":[
         "Baillif"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Baillif"
     ],
     "name:eng_x_preferred":[
@@ -73,25 +70,25 @@
     "name:est_x_preferred":[
         "Baillif"
     ],
+    "name:eus_x_preferred":[
+        "Baillif"
+    ],
     "name:fao_x_preferred":[
         "Baillif"
     ],
     "name:fin_x_preferred":[
         "Baillif"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Baillif"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Baillif"
     ],
     "name:frp_x_preferred":[
         "Baillif"
     ],
     "name:fur_x_preferred":[
-        "Baillif"
-    ],
-    "name:ger_x_preferred":[
         "Baillif"
     ],
     "name:gla_x_preferred":[
@@ -112,9 +109,6 @@
     "name:hun_x_preferred":[
         "Baillif"
     ],
-    "name:ice_x_preferred":[
-        "Baillif"
-    ],
     "name:ido_x_preferred":[
         "Baillif"
     ],
@@ -125,6 +119,9 @@
         "Baillif"
     ],
     "name:ind_x_preferred":[
+        "Baillif"
+    ],
+    "name:isl_x_preferred":[
         "Baillif"
     ],
     "name:ita_x_preferred":[
@@ -163,19 +160,22 @@
     "name:ltz_x_preferred":[
         "Baillif"
     ],
-    "name:may_x_preferred":[
-        "Baillif"
-    ],
     "name:min_x_preferred":[
         "Baillif"
     ],
     "name:mlg_x_preferred":[
         "Baillif"
     ],
+    "name:msa_x_preferred":[
+        "Baillif"
+    ],
     "name:nap_x_preferred":[
         "Baillif"
     ],
     "name:nds_x_preferred":[
+        "Baillif"
+    ],
+    "name:nld_x_preferred":[
         "Baillif"
     ],
     "name:nno_x_preferred":[
@@ -214,7 +214,7 @@
     "name:roh_x_preferred":[
         "Baillif"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Baillif"
     ],
     "name:scn_x_preferred":[
@@ -223,10 +223,13 @@
     "name:sco_x_preferred":[
         "Baillif"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Baillif"
     ],
     "name:spa_x_preferred":[
+        "Baillif"
+    ],
+    "name:sqi_x_preferred":[
         "Baillif"
     ],
     "name:srd_x_preferred":[
@@ -263,9 +266,6 @@
         "Baillif"
     ],
     "name:war_x_preferred":[
-        "Baillif"
-    ],
-    "name:wel_x_preferred":[
         "Baillif"
     ],
     "name:wln_x_preferred":[
@@ -323,7 +323,7 @@
         }
     ],
     "wof:id":1125928443,
-    "wof:lastmodified":1531422092,
+    "wof:lastmodified":1561837368,
     "wof:name":"Baillif",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

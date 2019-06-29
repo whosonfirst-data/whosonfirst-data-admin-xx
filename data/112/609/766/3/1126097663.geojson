@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Zona Norte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zona Norte"
     ],
     "qs_pg:gn_country":null,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1126097663,
-    "wof:lastmodified":1514503120,
+    "wof:lastmodified":1561837404,
     "wof:name":"Zona Norte",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

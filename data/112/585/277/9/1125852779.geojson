@@ -19,16 +19,16 @@
     "name:cha_x_preferred":[
         "Tutuhan"
     ],
-    "name:dut_x_preferred":[
-        "Agana Heights"
-    ],
     "name:eng_x_preferred":[
         "Agana Heights"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06af\u0627\u0646\u0627 \u0647\u0627\u06cc\u062a\u0632"
     ],
     "name:fin_x_preferred":[
         "Agana Heights"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Agana Heights"
     ],
     "name:ita_x_preferred":[
@@ -37,8 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ac\u30cb\u30e3\u30fb\u30cf\u30a4\u30c4"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u06af\u0627\u0646\u0627 \u0647\u0627\u06cc\u062a\u0632"
+    "name:nld_x_preferred":[
+        "Agana Heights"
     ],
     "name:pol_x_preferred":[
         "Hag\u00e5t\u00f1a Heights"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125852779,
-    "wof:lastmodified":1514502950,
+    "wof:lastmodified":1561837407,
     "wof:name":"Agana Heights",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",

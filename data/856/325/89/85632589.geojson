@@ -23,7 +23,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Izrael"
     ],
     "name:eng_x_preferred":[
@@ -158,7 +158,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930117,
+    "wof:lastmodified":1561837364,
     "wof:name":"No Man's Land (Jerusalem)",
     "wof:parent_id":-1,
     "wof:placetype":"disputed",

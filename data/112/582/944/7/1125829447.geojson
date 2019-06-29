@@ -33,9 +33,6 @@
     "name:bam_x_preferred":[
         "Saint-Louis"
     ],
-    "name:baq_x_preferred":[
-        "Saint-Louis"
-    ],
     "name:bar_x_preferred":[
         "Saint-Louis"
     ],
@@ -45,16 +42,19 @@
     "name:cat_x_preferred":[
         "Saint-Louis"
     ],
+    "name:ces_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:cos_x_preferred":[
         "Saint-Louis"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Saint-Louis"
     ],
     "name:dan_x_preferred":[
         "Saint-Louis"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saint-Louis"
     ],
     "name:eng_x_preferred":[
@@ -66,25 +66,25 @@
     "name:est_x_preferred":[
         "Saint-Louis"
     ],
+    "name:eus_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:fao_x_preferred":[
         "Saint-Louis"
     ],
     "name:fin_x_preferred":[
         "Saint-Louis"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Saint-Louis"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Saint-Louis"
     ],
     "name:frp_x_preferred":[
         "Saint-Louis"
     ],
     "name:fur_x_preferred":[
-        "Saint-Louis"
-    ],
-    "name:ger_x_preferred":[
         "Saint-Louis"
     ],
     "name:gla_x_preferred":[
@@ -105,9 +105,6 @@
     "name:hun_x_preferred":[
         "Saint-Louis"
     ],
-    "name:ice_x_preferred":[
-        "Saint-Louis"
-    ],
     "name:ido_x_preferred":[
         "Saint-Louis"
     ],
@@ -118,6 +115,9 @@
         "Saint-Louis"
     ],
     "name:ind_x_preferred":[
+        "Saint-Louis"
+    ],
+    "name:isl_x_preferred":[
         "Saint-Louis"
     ],
     "name:ita_x_preferred":[
@@ -159,19 +159,22 @@
     "name:ltz_x_preferred":[
         "Saint-Louis"
     ],
-    "name:may_x_preferred":[
-        "Saint-Louis"
-    ],
     "name:min_x_preferred":[
         "Saint-Louis"
     ],
     "name:mlg_x_preferred":[
         "Saint-Louis"
     ],
+    "name:msa_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:nap_x_preferred":[
         "Saint-Louis"
     ],
     "name:nds_x_preferred":[
+        "Saint-Louis"
+    ],
+    "name:nld_x_preferred":[
         "Saint-Louis"
     ],
     "name:nno_x_preferred":[
@@ -210,7 +213,7 @@
     "name:roh_x_preferred":[
         "Saint-Louis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saint-Louis"
     ],
     "name:scn_x_preferred":[
@@ -219,7 +222,7 @@
     "name:sco_x_preferred":[
         "Saint-Louis"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saint-Louis"
     ],
     "name:spa_x_preferred":[
@@ -262,9 +265,6 @@
         "Saint-Louis"
     ],
     "name:war_x_preferred":[
-        "Saint-Louis"
-    ],
-    "name:wel_x_preferred":[
         "Saint-Louis"
     ],
     "name:wln_x_preferred":[
@@ -321,7 +321,7 @@
         }
     ],
     "wof:id":1125829447,
-    "wof:lastmodified":1531422113,
+    "wof:lastmodified":1561837406,
     "wof:name":"St.-Louis",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

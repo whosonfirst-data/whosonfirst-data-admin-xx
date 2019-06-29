@@ -19,13 +19,10 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Be\u0219tepe"
-    ],
     "name:eng_x_preferred":[
         "Be\u0219tepe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Be\u0219tepe"
     ],
     "name:hun_x_preferred":[
@@ -34,13 +31,16 @@
     "name:ita_x_preferred":[
         "Be\u0219tepe"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:nld_x_preferred":[
         "Be\u0219tepe"
     ],
     "name:por_x_preferred":[
         "Be\u0219tepe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Be\u0219tepe"
     ],
     "name:ukr_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125831467,
-    "wof:lastmodified":1514502967,
+    "wof:lastmodified":1561837414,
     "wof:name":"Be\u0219tepe",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

@@ -19,17 +19,8 @@
     "name:ace_x_preferred":[
         "Pite\u0219ti"
     ],
-    "name:alb_x_preferred":[
-        "Pite\u0219ti"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u0634\u062a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u056b\u057f\u0565\u0577\u057f"
-    ],
-    "name:baq_x_preferred":[
-        "Pite\u0219ti"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a4\u09c7\u09b8\u09cd\u09a4\u09bf"
@@ -40,17 +31,17 @@
     "name:cat_x_preferred":[
         "Pite\u0219ti"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u7279\u4ec0\u8482"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pite\u0219ti"
     ],
     "name:dan_x_preferred":[
         "Pite\u0219ti"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pite\u0219ti"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c4\u03ad\u03c3\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Pite\u0219ti"
@@ -58,17 +49,17 @@
     "name:epo_x_preferred":[
         "Pite\u0219ti"
     ],
+    "name:eus_x_preferred":[
+        "Pite\u0219ti"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u062a\u0634\u062a"
+    ],
     "name:fin_x_preferred":[
         "Pite\u0219ti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pite\u0219ti"
-    ],
-    "name:ger_x_preferred":[
-        "Pite\u0219ti"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b9\u03c4\u03ad\u03c3\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abf\u0a9f\u0ac7\u0ab8\u0acd\u0a9f\u0ac0"
@@ -84,6 +75,9 @@
     ],
     "name:hun_x_preferred":[
         "Pite\u0219ti"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u057f\u0565\u0577\u057f"
     ],
     "name:ind_x_preferred":[
         "Pite\u0219ti"
@@ -115,29 +109,29 @@
     "name:lmo_x_preferred":[
         "Pite\u0219ti"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0438\u0442\u0435\u0448\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u092f\u091f\u0947\u0938\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Pite\u0219ti"
     ],
     "name:min_x_preferred":[
         "Pite\u0219ti"
     ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0442\u0435\u0448\u0442"
+    ],
     "name:mon_x_preferred":[
         "\u041f\u0438\u0442\u0435\u0448\u0442\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Pite\u0219ti"
+    ],
+    "name:nld_x_preferred":[
+        "Pite\u0219ti"
     ],
     "name:nno_x_preferred":[
         "Pite\u0219ti"
     ],
     "name:nob_x_preferred":[
         "Pite\u0219ti"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u062a\u0634\u062a"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u062a\u06cc\u0634\u062a\u06cc"
@@ -148,7 +142,7 @@
     "name:por_x_preferred":[
         "Pite\u0219ti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pite\u0219ti"
     ],
     "name:rup_x_preferred":[
@@ -167,6 +161,9 @@
         "Pite\u0219ti"
     ],
     "name:spa_x_preferred":[
+        "Pite\u0219ti"
+    ],
+    "name:sqi_x_preferred":[
         "Pite\u0219ti"
     ],
     "name:srp_x_preferred":[
@@ -204,6 +201,9 @@
     ],
     "name:war_x_preferred":[
         "Pite\u0219ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u7279\u4ec0\u8482"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pite\u0219ti",
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":1125837393,
-    "wof:lastmodified":1514503081,
+    "wof:lastmodified":1561837413,
     "wof:name":"Pite\u0219ti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

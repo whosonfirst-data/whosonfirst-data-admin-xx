@@ -28,9 +28,6 @@
     "name:bam_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:baq_x_preferred":[
-        "Dzaoudzi"
-    ],
     "name:bar_x_preferred":[
         "Dzaoudzi"
     ],
@@ -40,19 +37,19 @@
     "name:cat_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:chi_x_preferred":[
-        "\u85fb\u5fb7\u6d4e"
+    "name:ces_x_preferred":[
+        "Dzaoudzi"
     ],
     "name:cos_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Dzaoudzi"
     ],
     "name:dan_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dzaoudzi"
     ],
     "name:eng_x_preferred":[
@@ -64,25 +61,28 @@
     "name:est_x_preferred":[
         "Dzaoudzi"
     ],
+    "name:eus_x_preferred":[
+        "Dzaoudzi"
+    ],
     "name:fao_x_preferred":[
         "Dzaoudzi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u0627\u0627\u0648\u062f\u0632\u06cc"
     ],
     "name:fin_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Dzaoudzi"
     ],
     "name:frp_x_preferred":[
         "Dzaoudzi"
     ],
     "name:fur_x_preferred":[
-        "Dzaoudzi"
-    ],
-    "name:ger_x_preferred":[
         "Dzaoudzi"
     ],
     "name:gla_x_preferred":[
@@ -106,9 +106,6 @@
     "name:hun_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:ice_x_preferred":[
-        "Dzaoudzi"
-    ],
     "name:ido_x_preferred":[
         "Dzaoudzi"
     ],
@@ -119,6 +116,9 @@
         "Dzaoudzi"
     ],
     "name:ind_x_preferred":[
+        "Dzaoudzi"
+    ],
+    "name:isl_x_preferred":[
         "Dzaoudzi"
     ],
     "name:ita_x_preferred":[
@@ -160,22 +160,25 @@
     "name:ltz_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:mac_x_preferred":[
-        "\u0405\u0430\u0443\u0455\u0438"
-    ],
-    "name:may_x_preferred":[
-        "Dzaoudzi"
-    ],
     "name:min_x_preferred":[
         "Dzaoudzi"
     ],
+    "name:mkd_x_preferred":[
+        "\u0405\u0430\u0443\u0455\u0438"
+    ],
     "name:mlg_x_preferred":[
+        "Dzaoudzi"
+    ],
+    "name:msa_x_preferred":[
         "Dzaoudzi"
     ],
     "name:nap_x_preferred":[
         "Dzaoudzi"
     ],
     "name:nds_x_preferred":[
+        "Dzaoudzi"
+    ],
+    "name:nld_x_preferred":[
         "Dzaoudzi"
     ],
     "name:nno_x_preferred":[
@@ -196,9 +199,6 @@
     "name:pcd_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0632\u0627\u0627\u0648\u062f\u0632\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Dzaoudzi"
     ],
@@ -217,7 +217,7 @@
     "name:roh_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dzaoudzi"
     ],
     "name:rus_x_preferred":[
@@ -229,7 +229,7 @@
     "name:sco_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dzaoudzi"
     ],
     "name:spa_x_preferred":[
@@ -271,9 +271,6 @@
     "name:war_x_preferred":[
         "Dzaoudzi"
     ],
-    "name:wel_x_preferred":[
-        "Dzaoudzi"
-    ],
     "name:wln_x_preferred":[
         "Dzaoudzi"
     ],
@@ -285,6 +282,9 @@
     ],
     "name:yue_x_preferred":[
         "\u85fb\u5fb7\u6fdf"
+    ],
+    "name:zho_x_preferred":[
+        "\u85fb\u5fb7\u6d4e"
     ],
     "name:zul_x_preferred":[
         "Dzaoudzi"
@@ -336,7 +336,7 @@
         }
     ],
     "wof:id":1125840979,
-    "wof:lastmodified":1531422071,
+    "wof:lastmodified":1561837413,
     "wof:name":"Dzaoudzi",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",

@@ -19,16 +19,13 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0643\u0648\u0634"
     ],
-    "name:dut_x_preferred":[
-        "Arcu\u0219"
-    ],
     "name:eng_x_preferred":[
         "Arcu\u0219"
     ],
     "name:epo_x_preferred":[
         "Arcu\u0219"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arcu\u0219"
     ],
     "name:hun_x_preferred":[
@@ -37,10 +34,13 @@
     "name:ita_x_preferred":[
         "Arcu\u0219"
     ],
+    "name:nld_x_preferred":[
+        "Arcu\u0219"
+    ],
     "name:por_x_preferred":[
         "Arcu\u0219"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Arcu\u0219"
     ],
     "name:ukr_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125830067,
-    "wof:lastmodified":1514502961,
+    "wof:lastmodified":1561837413,
     "wof:name":"Arcu\u0219",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

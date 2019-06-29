@@ -28,16 +28,10 @@
     "name:arg_x_preferred":[
         "Saint-Paul"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0576 \u054a\u0578\u056c"
-    ],
     "name:ast_x_preferred":[
         "Saint-Paul"
     ],
     "name:bam_x_preferred":[
-        "Saint-Paul"
-    ],
-    "name:baq_x_preferred":[
         "Saint-Paul"
     ],
     "name:bar_x_preferred":[
@@ -52,19 +46,19 @@
     "name:cat_x_preferred":[
         "Saint-Paul"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u4fdd\u7f57"
+    "name:ces_x_preferred":[
+        "Saint-Paul"
     ],
     "name:cos_x_preferred":[
         "Saint-Paul"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Saint-Paul"
     ],
     "name:dan_x_preferred":[
         "Saint-Paul"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saint-Paul"
     ],
     "name:eng_x_preferred":[
@@ -76,25 +70,28 @@
     "name:est_x_preferred":[
         "Saint-Paul"
     ],
+    "name:eus_x_preferred":[
+        "Saint-Paul"
+    ],
     "name:fao_x_preferred":[
         "Saint-Paul"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u067e\u0648\u0644 \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Saint-Paul"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Saint-Paul"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Saint-Paul"
     ],
     "name:frp_x_preferred":[
         "Saint-Paul"
     ],
     "name:fur_x_preferred":[
-        "Saint-Paul"
-    ],
-    "name:ger_x_preferred":[
         "Saint-Paul"
     ],
     "name:gla_x_preferred":[
@@ -118,8 +115,8 @@
     "name:hun_x_preferred":[
         "Saint-Paul"
     ],
-    "name:ice_x_preferred":[
-        "Saint-Paul"
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576 \u054a\u0578\u056c"
     ],
     "name:ido_x_preferred":[
         "Saint-Paul"
@@ -131,6 +128,9 @@
         "Saint-Paul"
     ],
     "name:ind_x_preferred":[
+        "Saint-Paul"
+    ],
+    "name:isl_x_preferred":[
         "Saint-Paul"
     ],
     "name:ita_x_preferred":[
@@ -172,13 +172,13 @@
     "name:ltz_x_preferred":[
         "Saint-Paul"
     ],
-    "name:may_x_preferred":[
-        "Saint-Paul"
-    ],
     "name:min_x_preferred":[
         "Saint-Paul"
     ],
     "name:mlg_x_preferred":[
+        "Saint-Paul"
+    ],
+    "name:msa_x_preferred":[
         "Saint-Paul"
     ],
     "name:mzn_x_preferred":[
@@ -188,6 +188,9 @@
         "Saint-Paul"
     ],
     "name:nds_x_preferred":[
+        "Saint-Paul"
+    ],
+    "name:nld_x_preferred":[
         "Saint-Paul"
     ],
     "name:nno_x_preferred":[
@@ -207,9 +210,6 @@
     ],
     "name:pcd_x_preferred":[
         "Saint-Paul"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646 \u067e\u0648\u0644 \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
     ],
     "name:pms_x_preferred":[
         "Saint-Paul"
@@ -232,7 +232,7 @@
     "name:roh_x_preferred":[
         "Saint-Paul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saint-Paul"
     ],
     "name:rus_x_preferred":[
@@ -244,7 +244,7 @@
     "name:sco_x_preferred":[
         "Saint-Paul"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saint-Paul"
     ],
     "name:spa_x_preferred":[
@@ -292,9 +292,6 @@
     "name:war_x_preferred":[
         "Saint-Paul"
     ],
-    "name:wel_x_preferred":[
-        "Saint-Paul"
-    ],
     "name:wln_x_preferred":[
         "Saint-Paul"
     ],
@@ -306,6 +303,9 @@
     ],
     "name:yue_x_preferred":[
         "\u8056\u4fdd\u7f85"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u4fdd\u7f57"
     ],
     "name:zul_x_preferred":[
         "Saint-Paul"
@@ -362,7 +362,7 @@
         }
     ],
     "wof:id":1125952601,
-    "wof:lastmodified":1553816653,
+    "wof:lastmodified":1561837368,
     "wof:name":"Saint-Paul",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

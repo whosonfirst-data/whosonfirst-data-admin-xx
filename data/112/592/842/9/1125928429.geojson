@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Le Gosier"
     ],
-    "name:baq_x_preferred":[
-        "Le Gosier"
-    ],
     "name:bar_x_preferred":[
         "Le Gosier"
     ],
@@ -49,16 +46,19 @@
     "name:cat_x_preferred":[
         "Le Gosier"
     ],
+    "name:ces_x_preferred":[
+        "Le Gosier"
+    ],
     "name:cos_x_preferred":[
         "Le Gosier"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Le Gosier"
     ],
     "name:dan_x_preferred":[
         "Le Gosier"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Le Gosier"
     ],
     "name:eng_x_preferred":[
@@ -70,6 +70,9 @@
     "name:est_x_preferred":[
         "Le Gosier"
     ],
+    "name:eus_x_preferred":[
+        "Le Gosier"
+    ],
     "name:fao_x_preferred":[
         "Le Gosier"
     ],
@@ -79,19 +82,16 @@
     "name:fin_x_preferred":[
         "Le Gosier"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Le Gosier"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Le Gosier"
     ],
     "name:frp_x_preferred":[
         "Le Gosier"
     ],
     "name:fur_x_preferred":[
-        "Le Gosier"
-    ],
-    "name:ger_x_preferred":[
         "Le Gosier"
     ],
     "name:gla_x_preferred":[
@@ -112,9 +112,6 @@
     "name:hun_x_preferred":[
         "Le Gosier"
     ],
-    "name:ice_x_preferred":[
-        "Le Gosier"
-    ],
     "name:ido_x_preferred":[
         "Le Gosier"
     ],
@@ -125,6 +122,9 @@
         "Le Gosier"
     ],
     "name:ind_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:isl_x_preferred":[
         "Le Gosier"
     ],
     "name:ita_x_preferred":[
@@ -163,13 +163,13 @@
     "name:ltz_x_preferred":[
         "Le Gosier"
     ],
-    "name:may_x_preferred":[
-        "Le Gosier"
-    ],
     "name:min_x_preferred":[
         "Le Gosier"
     ],
     "name:mlg_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:msa_x_preferred":[
         "Le Gosier"
     ],
     "name:mzn_x_preferred":[
@@ -179,6 +179,9 @@
         "Le Gosier"
     ],
     "name:nds_x_preferred":[
+        "Le Gosier"
+    ],
+    "name:nld_x_preferred":[
         "Le Gosier"
     ],
     "name:nno_x_preferred":[
@@ -199,9 +202,6 @@
     "name:pcd_x_preferred":[
         "Le Gosier"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648 \u06af\u0648\u0633\u06cc\u0647"
-    ],
     "name:pms_x_preferred":[
         "Le Gosier"
     ],
@@ -220,7 +220,7 @@
     "name:roh_x_preferred":[
         "Le Gosier"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Le Gosier"
     ],
     "name:scn_x_preferred":[
@@ -229,7 +229,7 @@
     "name:sco_x_preferred":[
         "Le Gosier"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Le Gosier"
     ],
     "name:spa_x_preferred":[
@@ -272,9 +272,6 @@
         "Le Gosier"
     ],
     "name:war_x_preferred":[
-        "Le Gosier"
-    ],
-    "name:wel_x_preferred":[
         "Le Gosier"
     ],
     "name:wln_x_preferred":[
@@ -332,7 +329,7 @@
         }
     ],
     "wof:id":1125928429,
-    "wof:lastmodified":1531422102,
+    "wof:lastmodified":1561837368,
     "wof:name":"Le Gosier",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

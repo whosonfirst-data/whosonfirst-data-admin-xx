@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Les Avirons"
     ],
-    "name:baq_x_preferred":[
-        "Les Avirons"
-    ],
     "name:bar_x_preferred":[
         "Les Avirons"
     ],
@@ -43,16 +40,19 @@
     "name:cat_x_preferred":[
         "Les Avirons"
     ],
+    "name:ces_x_preferred":[
+        "Les Avirons"
+    ],
     "name:cos_x_preferred":[
         "Les Avirons"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Les Avirons"
     ],
     "name:dan_x_preferred":[
         "Les Avirons"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Les Avirons"
     ],
     "name:eng_x_preferred":[
@@ -64,25 +64,25 @@
     "name:est_x_preferred":[
         "Les Avirons"
     ],
+    "name:eus_x_preferred":[
+        "Les Avirons"
+    ],
     "name:fao_x_preferred":[
         "Les Avirons"
     ],
     "name:fin_x_preferred":[
         "Les Avirons"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Les Avirons"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Les Avirons"
     ],
     "name:frp_x_preferred":[
         "Les Avirons"
     ],
     "name:fur_x_preferred":[
-        "Les Avirons"
-    ],
-    "name:ger_x_preferred":[
         "Les Avirons"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +103,6 @@
     "name:hun_x_preferred":[
         "Les Avirons"
     ],
-    "name:ice_x_preferred":[
-        "Les Avirons"
-    ],
     "name:ido_x_preferred":[
         "Les Avirons"
     ],
@@ -116,6 +113,9 @@
         "Les Avirons"
     ],
     "name:ind_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:isl_x_preferred":[
         "Les Avirons"
     ],
     "name:ita_x_preferred":[
@@ -154,19 +154,22 @@
     "name:ltz_x_preferred":[
         "Les Avirons"
     ],
-    "name:may_x_preferred":[
-        "Les Avirons"
-    ],
     "name:min_x_preferred":[
         "Les Avirons"
     ],
     "name:mlg_x_preferred":[
         "Les Avirons"
     ],
+    "name:msa_x_preferred":[
+        "Les Avirons"
+    ],
     "name:nap_x_preferred":[
         "Les Avirons"
     ],
     "name:nds_x_preferred":[
+        "Les Avirons"
+    ],
+    "name:nld_x_preferred":[
         "Les Avirons"
     ],
     "name:nno_x_preferred":[
@@ -205,7 +208,7 @@
     "name:roh_x_preferred":[
         "Les Avirons"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Les Avirons"
     ],
     "name:scn_x_preferred":[
@@ -214,7 +217,7 @@
     "name:sco_x_preferred":[
         "Les Avirons"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Les Avirons"
     ],
     "name:spa_x_preferred":[
@@ -254,9 +257,6 @@
         "Les Avirons"
     ],
     "name:war_x_preferred":[
-        "Les Avirons"
-    ],
-    "name:wel_x_preferred":[
         "Les Avirons"
     ],
     "name:wln_x_preferred":[
@@ -320,7 +320,7 @@
         }
     ],
     "wof:id":1126050089,
-    "wof:lastmodified":1531422072,
+    "wof:lastmodified":1561837374,
     "wof:name":"Les Avirons",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

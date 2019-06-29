@@ -25,14 +25,17 @@
     "name:bos_x_preferred":[
         "Dobrovnik"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ob\u010dina Dobrovnik"
     ],
     "name:dan_x_preferred":[
         "Dobrovnik"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dobrovnik"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bc\u03c0\u03c1\u03bf\u03b2\u03bd\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Dobrovnik"
@@ -43,14 +46,8 @@
     "name:fin_x_preferred":[
         "Dobrovnik"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dobrovnik"
-    ],
-    "name:ger_x_preferred":[
-        "Dobrovnik"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03bc\u03c0\u03c1\u03bf\u03b2\u03bd\u03b9\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0aac\u0acd\u0ab0\u0acb\u0aa8\u0abf\u0a95"
@@ -88,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0921\u094b\u092c\u094d\u0930\u093e\u0928\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Dobrovnik"
+    ],
+    "name:nld_x_preferred":[
         "Dobrovnik"
     ],
     "name:nob_x_preferred":[
@@ -100,7 +100,7 @@
     "name:por_x_preferred":[
         "Dobrovnik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dobrovnik"
     ],
     "name:rus_x_preferred":[
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1125846799,
-    "wof:lastmodified":1531170199,
+    "wof:lastmodified":1561837413,
     "wof:name":"Dobrovnik",
     "wof:parent_id":1108959691,
     "wof:placetype":"locality",

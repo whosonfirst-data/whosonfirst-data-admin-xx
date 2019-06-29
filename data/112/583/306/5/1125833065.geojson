@@ -16,43 +16,37 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u0584"
-    ],
-    "name:baq_x_preferred":[
-        "V\u00edk \u00ed M\u00fdrdal"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u0412\u0456\u043a"
     ],
     "name:cat_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
     "name:dan_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
     "name:eng_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
     "name:hun_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
-    "name:ice_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0584"
+    ],
+    "name:isl_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
     ],
     "name:ita_x_preferred":[
@@ -66,6 +60,9 @@
     ],
     "name:lit_x_preferred":[
         "Vikas"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00edk \u00ed M\u00fdrdal"
     ],
     "name:nob_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
@@ -99,6 +96,9 @@
     ],
     "name:vol_x_preferred":[
         "V\u00edk \u00ed M\u00fdrdal"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u514b"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Vik I Myrdal",
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1125833065,
-    "wof:lastmodified":1553816559,
+    "wof:lastmodified":1561837413,
     "wof:name":"Vik I Myrdal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

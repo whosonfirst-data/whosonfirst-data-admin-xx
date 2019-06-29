@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:baq_x_preferred":[
-        "Vieux-Habitants"
-    ],
     "name:bar_x_preferred":[
         "Vieux-Habitants"
     ],
@@ -46,16 +43,19 @@
     "name:cat_x_preferred":[
         "Vieux-Habitants"
     ],
+    "name:ces_x_preferred":[
+        "Vieux-Habitants"
+    ],
     "name:cos_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:dan_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:eng_x_preferred":[
@@ -67,25 +67,25 @@
     "name:est_x_preferred":[
         "Vieux-Habitants"
     ],
+    "name:eus_x_preferred":[
+        "Vieux-Habitants"
+    ],
     "name:fao_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:fin_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:frp_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:fur_x_preferred":[
-        "Vieux-Habitants"
-    ],
-    "name:ger_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:gla_x_preferred":[
@@ -106,9 +106,6 @@
     "name:hun_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:ice_x_preferred":[
-        "Vieux-Habitants"
-    ],
     "name:ido_x_preferred":[
         "Vieux-Habitants"
     ],
@@ -119,6 +116,9 @@
         "Vieux-Habitants"
     ],
     "name:ind_x_preferred":[
+        "Vieux-Habitants"
+    ],
+    "name:isl_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:ita_x_preferred":[
@@ -157,19 +157,22 @@
     "name:ltz_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:may_x_preferred":[
-        "Vieux-Habitants"
-    ],
     "name:min_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:mlg_x_preferred":[
         "Vieux-Habitants"
     ],
+    "name:msa_x_preferred":[
+        "Vieux-Habitants"
+    ],
     "name:nap_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:nds_x_preferred":[
+        "Vieux-Habitants"
+    ],
+    "name:nld_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:nno_x_preferred":[
@@ -208,7 +211,7 @@
     "name:roh_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:scn_x_preferred":[
@@ -217,7 +220,7 @@
     "name:sco_x_preferred":[
         "Vieux-Habitants"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:spa_x_preferred":[
@@ -257,9 +260,6 @@
         "Vieux-Habitants"
     ],
     "name:war_x_preferred":[
-        "Vieux-Habitants"
-    ],
-    "name:wel_x_preferred":[
         "Vieux-Habitants"
     ],
     "name:wln_x_preferred":[
@@ -317,7 +317,7 @@
         }
     ],
     "wof:id":1125932097,
-    "wof:lastmodified":1531422119,
+    "wof:lastmodified":1561837366,
     "wof:name":"Vieux-Habitants",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

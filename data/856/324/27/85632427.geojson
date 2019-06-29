@@ -42,9 +42,6 @@
     "name:aze_x_preferred":[
         "K\u0259\u015fmir"
     ],
-    "name:baq_x_preferred":[
-        "Kaxmir"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0456\u0440"
     ],
@@ -66,14 +63,11 @@
     "name:cat_x_preferred":[
         "Caixmir"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u4ec0\u7c73\u5c14"
+    "name:ces_x_preferred":[
+        "Indie"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u0634\u0645\u06cc\u0631"
-    ],
-    "name:cze_x_preferred":[
-        "Indie"
     ],
     "name:dan_x_preferred":[
         "Indien"
@@ -87,9 +81,6 @@
     ],
     "name:diq_x_preferred":[
         "Ke\u015fmir"
-    ],
-    "name:dut_x_preferred":[
-        "Jammu en Kasjmir"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03bc\u03af\u03c1"
@@ -115,8 +106,14 @@
     "name:est_x_preferred":[
         "Kashmir"
     ],
+    "name:eus_x_preferred":[
+        "Kaxmir"
+    ],
     "name:fao_x_preferred":[
         "Kashmir"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0634\u0645\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Intia"
@@ -135,16 +132,7 @@
         "Jammu-et-Cachemire",
         "Inde"
     ],
-    "name:fre_x_preferred":[
-        "Cachemire"
-    ],
     "name:frr_x_preferred":[
-        "Kaschmir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10d0\u10e8\u10db\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kaschmir"
     ],
     "name:gle_x_preferred":[
@@ -152,9 +140,6 @@
     ],
     "name:glg_x_preferred":[
         "Caxemira"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03bc\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab6\u0acd\u0aae\u0ac0\u0ab0"
@@ -198,6 +183,9 @@
     "name:kas_x_preferred":[
         "\u091c\u094d\u0935\u092e \u0924\u0952 \u0915\u0945\u0936\u0940\u0930"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10e8\u10db\u10d8\u10e0\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0438\u0440"
     ],
@@ -219,20 +207,20 @@
     "name:ltz_x_preferred":[
         "Kaschmir"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0448\u043c\u0438\u0440"
-    ],
     "name:mal_x_preferred":[
         "\u0d15\u0d36\u0d4d\u0d2e\u0d40\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0936\u094d\u200d\u092e\u0940\u0930"
     ],
-    "name:may_x_preferred":[
-        "Kashmir"
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0448\u043c\u0438\u0440"
     ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Kashmir"
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0634\u0645\u06cc\u0631"
@@ -261,9 +249,6 @@
     "name:pan_x_preferred":[
         "\u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0634\u0645\u06cc\u0631"
-    ],
     "name:pms_x_preferred":[
         "Kashmir"
     ],
@@ -285,7 +270,7 @@
     "name:pus_x_preferred":[
         "\u06a9\u0634\u0645\u064a\u0631"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ca\u0219mir"
     ],
     "name:rus_x_preferred":[
@@ -511,7 +496,7 @@
         }
     ],
     "wof:id":85632427,
-    "wof:lastmodified":1536617531,
+    "wof:lastmodified":1561837362,
     "wof:name":"Jammu and Kashmir",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

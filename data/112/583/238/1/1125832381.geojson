@@ -28,16 +28,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5947\u5361\u5e15\u5170\u5361"
+    "name:ces_x_preferred":[
+        "Ba\u010dka Palanka"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0627\u0644\u0627\u0646\u06a9\u0627"
     ],
-    "name:cze_x_preferred":[
-        "Ba\u010dka Palanka"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ba\u010dka Palanka"
     ],
     "name:eng_x_preferred":[
@@ -49,10 +46,10 @@
     "name:est_x_preferred":[
         "Ba\u010dka Palanka"
     ],
-    "name:fre_x_preferred":[
-        "Ba\u010dka Palanka"
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ba\u010dka Palanka"
     ],
     "name:heb_x_preferred":[
@@ -76,14 +73,14 @@
     "name:lit_x_preferred":[
         "Ba\u010dka Palanka"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
+    "name:nld_x_preferred":[
         "Ba\u010dka Palanka"
     ],
     "name:nob_x_preferred":[
         "Ba\u010dka Palanka"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0686\u06a9\u0627 \u067e\u0644\u0627\u0646\u06a9\u0627"
@@ -94,7 +91,7 @@
     "name:por_x_preferred":[
         "Ba\u010dka Palanka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ba\u010dka Palanka"
     ],
     "name:rus_x_preferred":[
@@ -120,6 +117,9 @@
     ],
     "name:vie_x_preferred":[
         "Ba\u010dka Palanka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5947\u5361\u5e15\u5170\u5361"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Ba\u010dka Palanka",
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":1125832381,
-    "wof:lastmodified":1514502966,
+    "wof:lastmodified":1561837414,
     "wof:name":"Ba\u010dka Palanka",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

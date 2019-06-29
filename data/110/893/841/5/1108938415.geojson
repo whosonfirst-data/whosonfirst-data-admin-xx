@@ -27,7 +27,7 @@
     "name:fin_x_preferred":[
         "Villinki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Villinki"
     ],
     "name:swe_x_preferred":[
@@ -35,7 +35,6 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537275,
         907199715,
@@ -44,7 +43,8 @@
         101748417,
         136253047,
         890536883,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1108938415,
-    "wof:lastmodified":1529714743,
+    "wof:lastmodified":1561837365,
     "wof:name":"Villinki",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",
