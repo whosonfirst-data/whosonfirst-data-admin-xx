@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271665,
-    "geom:area_square_m":3347590684.719507,
+    "geom:area_square_m":3347590684.719505,
     "geom:bbox":"34.383781199,4.62053488285,35.7812825883,5.033421",
     "geom:latitude":4.760973,
     "geom:longitude":35.124871,
@@ -17,7 +17,7 @@
     "mps:longitude":35.175648,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ke\u0148a"
     ],
     "name:deu_x_preferred":[
@@ -196,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505342071,
+    "wof:lastmodified":1561837364,
     "wof:name":"Ilemi Triangle",
     "wof:parent_id":85632657,
     "wof:placetype":"disputed",

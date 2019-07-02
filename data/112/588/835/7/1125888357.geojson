@@ -19,7 +19,7 @@
     "name:cat_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
     "name:eng_x_preferred":[
@@ -28,10 +28,7 @@
     "name:epo_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
-    "name:fre_x_preferred":[
-        "Zlat\u00e9 Klasy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
     "name:hun_x_preferred":[
@@ -43,16 +40,19 @@
     "name:jpn_x_preferred":[
         "\u30ba\u30e9\u30c6\u30fc\u30fb\u30af\u30e9\u30b7"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
     "name:nan_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
+    "name:nld_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
     "name:por_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
     "name:srp_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1125888357,
-    "wof:lastmodified":1514503120,
+    "wof:lastmodified":1561837378,
     "wof:name":"Zlate Klasy",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

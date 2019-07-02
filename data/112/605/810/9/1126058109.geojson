@@ -19,16 +19,10 @@
     "name:afr_x_preferred":[
         "Steinfeld"
     ],
-    "name:alb_x_preferred":[
-        "Steinfeld"
-    ],
     "name:arg_x_preferred":[
         "Steinfeld"
     ],
     "name:ast_x_preferred":[
-        "Steinfeld"
-    ],
-    "name:baq_x_preferred":[
         "Steinfeld"
     ],
     "name:bar_x_preferred":[
@@ -40,16 +34,19 @@
     "name:cat_x_preferred":[
         "Steinfeld"
     ],
+    "name:ces_x_preferred":[
+        "Steinfeld"
+    ],
     "name:cos_x_preferred":[
         "Steinfeld"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Steinfeld"
     ],
     "name:dan_x_preferred":[
         "Steinfeld"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Steinfeld"
     ],
     "name:eng_x_preferred":[
@@ -61,19 +58,22 @@
     "name:est_x_preferred":[
         "Steinfeld"
     ],
+    "name:eus_x_preferred":[
+        "Steinfeld"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0627\u06cc\u0646\u0641\u0644\u062f"
+    ],
     "name:fin_x_preferred":[
         "Steinfeld"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Steinfeld"
     ],
     "name:frp_x_preferred":[
         "Steinfeld"
     ],
     "name:fur_x_preferred":[
-        "Steinfeld"
-    ],
-    "name:ger_x_preferred":[
         "Steinfeld"
     ],
     "name:gla_x_preferred":[
@@ -94,9 +94,6 @@
     "name:hun_x_preferred":[
         "Steinfeld"
     ],
-    "name:ice_x_preferred":[
-        "Steinfeld"
-    ],
     "name:ido_x_preferred":[
         "Steinfeld"
     ],
@@ -107,6 +104,9 @@
         "Steinfeld"
     ],
     "name:ind_x_preferred":[
+        "Steinfeld"
+    ],
+    "name:isl_x_preferred":[
         "Steinfeld"
     ],
     "name:ita_x_preferred":[
@@ -133,19 +133,22 @@
     "name:ltz_x_preferred":[
         "Steinfeld"
     ],
-    "name:may_x_preferred":[
-        "Steinfeld"
-    ],
     "name:min_x_preferred":[
         "Steinfeld"
     ],
     "name:mlg_x_preferred":[
         "Steinfeld"
     ],
+    "name:msa_x_preferred":[
+        "Steinfeld"
+    ],
     "name:nap_x_preferred":[
         "Steinfeld"
     ],
     "name:nds_x_preferred":[
+        "Steinfeld"
+    ],
+    "name:nld_x_preferred":[
         "Steinfeld"
     ],
     "name:nno_x_preferred":[
@@ -163,9 +166,6 @@
     "name:pcd_x_preferred":[
         "Steinfeld"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u062a\u0627\u06cc\u0646\u0641\u0644\u062f"
-    ],
     "name:pfl_x_preferred":[
         "Schd\u00e4\u00e4fld"
     ],
@@ -181,7 +181,7 @@
     "name:roh_x_preferred":[
         "Steinfeld"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Steinfeld"
     ],
     "name:rus_x_preferred":[
@@ -193,13 +193,16 @@
     "name:sco_x_preferred":[
         "Steinfeld"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Steinfeld"
     ],
     "name:slv_x_preferred":[
         "Steinfeld"
     ],
     "name:spa_x_preferred":[
+        "Steinfeld"
+    ],
+    "name:sqi_x_preferred":[
         "Steinfeld"
     ],
     "name:srd_x_preferred":[
@@ -236,9 +239,6 @@
         "Steinfeld"
     ],
     "name:war_x_preferred":[
-        "Steinfeld"
-    ],
-    "name:wel_x_preferred":[
         "Steinfeld"
     ],
     "name:wln_x_preferred":[
@@ -297,7 +297,7 @@
         }
     ],
     "wof:id":1126058109,
-    "wof:lastmodified":1553816731,
+    "wof:lastmodified":1561837374,
     "wof:name":"Steinfeld",
     "wof:parent_id":102063415,
     "wof:placetype":"locality",

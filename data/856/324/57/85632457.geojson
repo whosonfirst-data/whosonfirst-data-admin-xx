@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001056,
-    "geom:area_square_m":12516838.867709,
+    "geom:area_square_m":12516838.867723,
     "geom:bbox":"111.191253662,15.78125,112.740364075,16.982833862",
     "geom:latitude":16.592878,
     "geom:longitude":112.065475,
@@ -29,9 +29,6 @@
     "name:ast_x_preferred":[
         "Isles Paracelso"
     ],
-    "name:baq_x_preferred":[
-        "Paracel uharteak"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0441\u0435\u043b\u044c\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
     ],
@@ -47,10 +44,7 @@
     "name:cat_x_preferred":[
         "Illes Paracel"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u6c99\u7fa4\u5c9b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Paracelsk\u00e9 ostrovy"
     ],
     "name:dan_x_preferred":[
@@ -58,9 +52,6 @@
     ],
     "name:deu_x_preferred":[
         "Paracel-Inseln"
-    ],
-    "name:dut_x_preferred":[
-        "Paraceleilanden"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b7\u03c3\u03b9\u03ac \u03a0\u03b1\u03c1\u03b1\u03c3\u03ad\u03bb"
@@ -74,20 +65,17 @@
     "name:eng_x_variant":[
         "Disputed Territory"
     ],
+    "name:eus_x_preferred":[
+        "Paracel uharteak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u067e\u0627\u0631\u0627\u0633\u0644"
+    ],
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
     "name:fra_x_preferred":[
         "\u00celes Paracels"
-    ],
-    "name:fre_x_preferred":[
-        "\u00celes Paracels"
-    ],
-    "name:ger_x_preferred":[
-        "Paracel-Inseln"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b7\u03c3\u03b9\u03ac \u03a0\u03b1\u03c1\u03b1\u03c3\u03ad\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab0\u0abe\u0a95\u0ac7\u0ab2 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
@@ -128,16 +116,16 @@
     "name:lit_x_preferred":[
         "Paraselio salos"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u0440\u0430\u0446\u0435\u043b\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d3e\u0d30\u0d3e\u0d38\u0d46\u0d7d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u0930\u093e\u0938\u0947\u0932 \u0906\u0908\u0938\u0932\u0901\u0921\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0446\u0435\u043b\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:msa_x_preferred":[
         "Kepulauan Paracel"
     ],
     "name:nld_x_preferred":[
@@ -152,16 +140,13 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0632\u0627\u06cc\u0631 \u067e\u0627\u0631\u0627\u0633\u0644"
-    ],
     "name:pol_x_preferred":[
         "Wyspy Paracelskie"
     ],
     "name:por_x_preferred":[
         "Ilhas Paracel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Insulele Paracel"
     ],
     "name:rus_x_preferred":[
@@ -372,7 +357,7 @@
         }
     ],
     "wof:id":85632457,
-    "wof:lastmodified":1528909935,
+    "wof:lastmodified":1561837362,
     "wof:name":"Paracel Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

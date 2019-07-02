@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Jiblea Nou\u0103"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jiblea Nou\u0103"
     ],
     "name:ukr_x_preferred":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1125957779,
-    "wof:lastmodified":1514503049,
+    "wof:lastmodified":1561837368,
     "wof:name":"Jiblea Nou\u0103",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -25,22 +25,16 @@
     "name:ast_x_preferred":[
         "Lasarte-Oria"
     ],
-    "name:baq_x_preferred":[
-        "Lasarte-Oria"
-    ],
     "name:bre_x_preferred":[
         "Lasarte-Oria"
     ],
     "name:cat_x_preferred":[
         "Lasarte-Oria"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u8428\u5c14\u7279-\u5965\u91cc\u4e9a"
-    ],
     "name:dan_x_preferred":[
         "Lasarte-Oria"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lasarte-Oria"
     ],
     "name:eng_x_preferred":[
@@ -49,13 +43,13 @@
     "name:epo_x_preferred":[
         "Lasarto-Orio"
     ],
+    "name:eus_x_preferred":[
+        "Lasarte-Oria"
+    ],
     "name:fao_x_preferred":[
         "Lasarte-Oria"
     ],
-    "name:fre_x_preferred":[
-        "Lasarte-Oria"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lasarte-Oria"
     ],
     "name:glg_x_preferred":[
@@ -76,7 +70,10 @@
     "name:lit_x_preferred":[
         "Lasarte Orija"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Lasarte-Oria"
+    ],
+    "name:nld_x_preferred":[
         "Lasarte-Oria"
     ],
     "name:nno_x_preferred":[
@@ -114,6 +111,9 @@
     ],
     "name:war_x_preferred":[
         "Lasarte-Oria"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8428\u5c14\u7279-\u5965\u91cc\u4e9a"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Lasarte-Oria",
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":1125966323,
-    "wof:lastmodified":1514503057,
+    "wof:lastmodified":1561837392,
     "wof:name":"Lasarte-Oria",
     "wof:parent_id":404336269,
     "wof:placetype":"locality",

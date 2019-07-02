@@ -19,9 +19,6 @@
     "name:bos_x_preferred":[
         "Zasip"
     ],
-    "name:dut_x_preferred":[
-        "Zasip"
-    ],
     "name:eng_x_preferred":[
         "Zasip"
     ],
@@ -31,7 +28,10 @@
     "name:ita_x_preferred":[
         "Zasip"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Zasip"
+    ],
+    "name:ron_x_preferred":[
         "Zasip"
     ],
     "name:slv_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125822005,
-    "wof:lastmodified":1531508688,
+    "wof:lastmodified":1561837406,
     "wof:name":"Zasip",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

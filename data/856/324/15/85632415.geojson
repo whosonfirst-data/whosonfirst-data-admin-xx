@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.004716,
-    "geom:area_square_m":30421756978.187279,
+    "geom:area_square_m":30421756978.191551,
     "geom:bbox":"77.92412,33.386916,80.421723,35.987873",
     "geom:latitude":35.031389,
     "geom:longitude":79.132115,
@@ -27,25 +27,16 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u0633\u0627\u064a \u062a\u0634\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0584\u057d\u0561\u0575\u0579\u056b\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u0995\u09b8\u09be\u0987 \u099a\u09c0\u09a8"
     ],
     "name:cat_x_preferred":[
         "Aksai Chin"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u8d5b\u94a6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Aksai \u010cin"
     ],
     "name:deu_x_preferred":[
-        "Aksai Chin"
-    ],
-    "name:dut_x_preferred":[
         "Aksai Chin"
     ],
     "name:ell_x_preferred":[
@@ -66,16 +57,13 @@
     "name:est_x_preferred":[
         "Aksai Chin"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0633\u0627\u0626\u06cc \u0686\u0646"
+    ],
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
     "name:fra_x_preferred":[
-        "Aksai Chin"
-    ],
-    "name:fre_x_preferred":[
-        "Aksai Chin"
-    ],
-    "name:ger_x_preferred":[
         "Aksai Chin"
     ],
     "name:glg_x_preferred":[
@@ -86,6 +74,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0905\u0915\u094d\u0938\u093e\u0908 \u091a\u093f\u0928"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0584\u057d\u0561\u0575\u0579\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Aksai Chin"
@@ -108,14 +99,14 @@
     "name:lit_x_preferred":[
         "Aksai \u010cinas"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043a\u0441\u0430\u0458\u0447\u0438\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d15\u0d4d\u0d38\u0d3e\u0d2f\u0d4d \u0d1a\u0d3f\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0915\u094d\u0938\u093e\u0908 \u091a\u093f\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0458\u0447\u0438\u043d"
     ],
     "name:nep_x_preferred":[
         "\u0905\u0915\u094d\u0938\u093e\u0908 \u091a\u093f\u0928"
@@ -134,9 +125,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a15\u0a38\u0a3e\u0a08 \u0a1a\u0a3f\u0a28"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0633\u0627\u0626\u06cc \u0686\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u06a9\u0633\u0627\u0626\u06cc \u0686\u0646"
@@ -341,7 +329,7 @@
         }
     ],
     "wof:id":85632415,
-    "wof:lastmodified":1528909930,
+    "wof:lastmodified":1561837363,
     "wof:name":"Aksai Chin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

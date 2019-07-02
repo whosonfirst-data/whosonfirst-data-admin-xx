@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:baq_x_preferred":[
-        "Sainte-Anne"
-    ],
     "name:bar_x_preferred":[
         "Sainte-Anne"
     ],
@@ -46,17 +43,23 @@
     "name:cat_x_preferred":[
         "Sainte-Anne"
     ],
+    "name:ces_x_preferred":[
+        "Sainte-Anne"
+    ],
     "name:cos_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sainte-Anne"
     ],
     "name:dan_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sainte-Anne"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd\u03c4-\u0391\u03bd"
     ],
     "name:eng_x_preferred":[
         "Sainte-Anne"
@@ -67,25 +70,28 @@
     "name:est_x_preferred":[
         "Sainte-Anne"
     ],
+    "name:eus_x_preferred":[
+        "Sainte-Anne"
+    ],
     "name:fao_x_preferred":[
         "Sainte-Anne"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0646\u060c \u06af\u0648\u0622\u062f\u0648\u0644\u0648\u067e"
     ],
     "name:fin_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Sainte-Anne"
     ],
     "name:frp_x_preferred":[
         "Sainte-Anne"
     ],
     "name:fur_x_preferred":[
-        "Sainte-Anne"
-    ],
-    "name:ger_x_preferred":[
         "Sainte-Anne"
     ],
     "name:gla_x_preferred":[
@@ -96,9 +102,6 @@
     ],
     "name:glg_x_preferred":[
         "Sainte-Anne"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b9\u03bd\u03c4-\u0391\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Sainte-Anne"
@@ -112,9 +115,6 @@
     "name:hun_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:ice_x_preferred":[
-        "Sainte-Anne"
-    ],
     "name:ido_x_preferred":[
         "Sainte-Anne"
     ],
@@ -125,6 +125,9 @@
         "Sainte-Anne"
     ],
     "name:ind_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:isl_x_preferred":[
         "Sainte-Anne"
     ],
     "name:ita_x_preferred":[
@@ -163,13 +166,13 @@
     "name:ltz_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:may_x_preferred":[
-        "Sainte-Anne"
-    ],
     "name:min_x_preferred":[
         "Sainte-Anne"
     ],
     "name:mlg_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:msa_x_preferred":[
         "Sainte-Anne"
     ],
     "name:mzn_x_preferred":[
@@ -179,6 +182,9 @@
         "Sainte-Anne"
     ],
     "name:nds_x_preferred":[
+        "Sainte-Anne"
+    ],
+    "name:nld_x_preferred":[
         "Sainte-Anne"
     ],
     "name:nno_x_preferred":[
@@ -199,9 +205,6 @@
     "name:pcd_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062a\u0646\u060c \u06af\u0648\u0622\u062f\u0648\u0644\u0648\u067e"
-    ],
     "name:pms_x_preferred":[
         "Sainte-Anne"
     ],
@@ -220,7 +223,7 @@
     "name:roh_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sainte-Anne"
     ],
     "name:rus_x_preferred":[
@@ -232,7 +235,7 @@
     "name:sco_x_preferred":[
         "Sainte-Anne"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sainte-Anne"
     ],
     "name:spa_x_preferred":[
@@ -278,9 +281,6 @@
         "Sainte-Anne"
     ],
     "name:war_x_preferred":[
-        "Sainte-Anne"
-    ],
-    "name:wel_x_preferred":[
         "Sainte-Anne"
     ],
     "name:wln_x_preferred":[
@@ -343,7 +343,7 @@
         }
     ],
     "wof:id":1125952421,
-    "wof:lastmodified":1553816653,
+    "wof:lastmodified":1561837368,
     "wof:name":"Ste.-Anne",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

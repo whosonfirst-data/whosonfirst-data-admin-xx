@@ -21,19 +21,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Portoria"
     ],
     "name:eng_x_preferred":[
         "Portoria"
     ],
-    "name:fre_x_preferred":[
-        "Portoria"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Portoria"
     ],
     "name:ita_x_preferred":[
+        "Portoria"
+    ],
+    "name:nld_x_preferred":[
         "Portoria"
     ],
     "src:lbl:centroid":"mz",
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108948647,
-    "wof:lastmodified":1514503084,
+    "wof:lastmodified":1561837365,
     "wof:name":"Portoria",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",

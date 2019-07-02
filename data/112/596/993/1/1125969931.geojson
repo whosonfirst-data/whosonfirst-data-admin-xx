@@ -16,34 +16,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Aiguafreda"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u064a\u063a\u0648\u0627\u0641\u0631\u064a\u062f\u0627"
     ],
     "name:arg_x_preferred":[
         "Aiguafreda"
     ],
-    "name:baq_x_preferred":[
-        "Aiguafreda"
-    ],
     "name:cat_x_preferred":[
         "Aiguafreda"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u74dc\u592b\u96f7\u8fbe"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aiguafreda"
     ],
     "name:eng_x_preferred":[
         "Aiguafreda"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Aiguafreda"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0622\u06cc\u06af\u0648\u0627\u0641\u0631\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Aiguafreda"
     ],
     "name:glg_x_preferred":[
@@ -61,14 +55,14 @@
     "name:lat_x_preferred":[
         "Aiguafreda"
     ],
+    "name:nld_x_preferred":[
+        "Aiguafreda"
+    ],
     "name:oci_x_preferred":[
         "Aiguafreda"
     ],
     "name:pam_x_preferred":[
         "Aiguafreda"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u06cc\u06af\u0648\u0627\u0641\u0631\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "Aiguafreda"
@@ -76,13 +70,16 @@
     "name:por_x_preferred":[
         "Aiguafreda"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aiguafreda"
     ],
     "name:rup_x_preferred":[
         "Aiguafreda"
     ],
     "name:spa_x_preferred":[
+        "Aiguafreda"
+    ],
+    "name:sqi_x_preferred":[
         "Aiguafreda"
     ],
     "name:swe_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "Aiguafreda"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u74dc\u592b\u96f7\u8fbe"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Aiguafreda",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1125969931,
-    "wof:lastmodified":1514502950,
+    "wof:lastmodified":1561837392,
     "wof:name":"Aiguafreda",
     "wof:parent_id":404330909,
     "wof:placetype":"locality",

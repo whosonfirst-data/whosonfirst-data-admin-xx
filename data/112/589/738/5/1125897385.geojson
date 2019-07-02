@@ -25,19 +25,13 @@
     "name:cat_x_preferred":[
         "Serampore"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u862d\u5761"
-    ],
     "name:dan_x_preferred":[
-        "Serampore"
-    ],
-    "name:dut_x_preferred":[
         "Serampore"
     ],
     "name:eng_x_preferred":[
         "Serampore"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Serampore"
     ],
     "name:guj_x_preferred":[
@@ -55,10 +49,13 @@
     "name:ita_x_preferred":[
         "Serampore"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Serampore"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
+        "Serampore"
+    ],
+    "name:nld_x_preferred":[
         "Serampore"
     ],
     "name:nob_x_preferred":[
@@ -67,7 +64,7 @@
     "name:por_x_preferred":[
         "Serampore"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Serampore"
     ],
     "name:spa_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Serampore"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u862d\u5761"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Serampore",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1125897385,
-    "wof:lastmodified":1514503097,
+    "wof:lastmodified":1561837381,
     "wof:name":"Serampore",
     "wof:parent_id":1108696081,
     "wof:placetype":"locality",

@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:baq_x_preferred":[
-        "Grand-Bourg"
-    ],
     "name:bar_x_preferred":[
         "Grand-Bourg"
     ],
@@ -49,20 +46,23 @@
     "name:cat_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u6717\u5821"
+    "name:ces_x_preferred":[
+        "Grand-Bourg"
     ],
     "name:cos_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Grand-Bourg"
     ],
     "name:dan_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Grand-Bourg"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd-\u039c\u03c0\u03bf\u03c5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Grand-Bourg"
@@ -73,25 +73,25 @@
     "name:est_x_preferred":[
         "Grand-Bourg"
     ],
+    "name:eus_x_preferred":[
+        "Grand-Bourg"
+    ],
     "name:fao_x_preferred":[
         "Grand-Bourg"
     ],
     "name:fin_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Grand-Bourg"
     ],
     "name:frp_x_preferred":[
         "Grand-Bourg"
     ],
     "name:fur_x_preferred":[
-        "Grand-Bourg"
-    ],
-    "name:ger_x_preferred":[
         "Grand-Bourg"
     ],
     "name:gla_x_preferred":[
@@ -102,9 +102,6 @@
     ],
     "name:glg_x_preferred":[
         "Grand-Bourg"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03b1\u03bd-\u039c\u03c0\u03bf\u03c5\u03c1"
     ],
     "name:gsw_x_preferred":[
         "Grand-Bourg"
@@ -118,9 +115,6 @@
     "name:hun_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:ice_x_preferred":[
-        "Grand-Bourg"
-    ],
     "name:ido_x_preferred":[
         "Grand-Bourg"
     ],
@@ -131,6 +125,9 @@
         "Grand-Bourg"
     ],
     "name:ind_x_preferred":[
+        "Grand-Bourg"
+    ],
+    "name:isl_x_preferred":[
         "Grand-Bourg"
     ],
     "name:ita_x_preferred":[
@@ -169,19 +166,22 @@
     "name:ltz_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:may_x_preferred":[
-        "Grand-Bourg"
-    ],
     "name:min_x_preferred":[
         "Grand-Bourg"
     ],
     "name:mlg_x_preferred":[
         "Grand-Bourg"
     ],
+    "name:msa_x_preferred":[
+        "Grand-Bourg"
+    ],
     "name:nap_x_preferred":[
         "Grand-Bourg"
     ],
     "name:nds_x_preferred":[
+        "Grand-Bourg"
+    ],
+    "name:nld_x_preferred":[
         "Grand-Bourg"
     ],
     "name:nno_x_preferred":[
@@ -220,7 +220,7 @@
     "name:roh_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Grand-Bourg"
     ],
     "name:scn_x_preferred":[
@@ -229,7 +229,7 @@
     "name:sco_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Grand-Bourg"
     ],
     "name:spa_x_preferred":[
@@ -268,14 +268,14 @@
     "name:war_x_preferred":[
         "Grand-Bourg"
     ],
-    "name:wel_x_preferred":[
-        "Grand-Bourg"
-    ],
     "name:wln_x_preferred":[
         "Grand-Bourg"
     ],
     "name:wol_x_preferred":[
         "Grand-Bourg"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u6717\u5821"
     ],
     "name:zul_x_preferred":[
         "Grand-Bourg"
@@ -326,7 +326,7 @@
         }
     ],
     "wof:id":1125891263,
-    "wof:lastmodified":1553816606,
+    "wof:lastmodified":1561837381,
     "wof:name":"Grand-Bourg",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

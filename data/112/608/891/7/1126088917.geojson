@@ -16,7 +16,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lamed"
     ],
     "name:eng_x_preferred":[
@@ -51,11 +51,11 @@
     "woe:name_adm1":"Tel Aviv",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1126088917,
-    "wof:lastmodified":1549930554,
+    "wof:lastmodified":1561837395,
     "wof:name":"Shikun Lamed",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

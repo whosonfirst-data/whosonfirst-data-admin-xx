@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Hamilton Central"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hamilton Tengah"
     ],
     "qs_pg:gn_country":null,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1126092491,
-    "wof:lastmodified":1514502996,
+    "wof:lastmodified":1561837405,
     "wof:name":"Hamilton Central",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

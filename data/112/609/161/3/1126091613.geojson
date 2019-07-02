@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Walnut Hill"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Walnut Hill"
     ],
     "qs_pg:gn_country":null,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1126091613,
-    "wof:lastmodified":1514503118,
+    "wof:lastmodified":1561837402,
     "wof:name":"Walnut Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

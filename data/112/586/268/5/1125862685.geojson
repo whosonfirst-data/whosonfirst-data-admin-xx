@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "La Possession"
     ],
-    "name:baq_x_preferred":[
-        "La Possession"
-    ],
     "name:bar_x_preferred":[
         "La Possession"
     ],
@@ -46,19 +43,19 @@
     "name:cat_x_preferred":[
         "La Possession"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u585e\u96c4"
+    "name:ces_x_preferred":[
+        "La Possession"
     ],
     "name:cos_x_preferred":[
         "La Possession"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "La Possession"
     ],
     "name:dan_x_preferred":[
         "La Possession"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Possession"
     ],
     "name:eng_x_preferred":[
@@ -70,6 +67,9 @@
     "name:est_x_preferred":[
         "La Possession"
     ],
+    "name:eus_x_preferred":[
+        "La Possession"
+    ],
     "name:fao_x_preferred":[
         "La Possession"
     ],
@@ -79,19 +79,16 @@
     "name:fin_x_preferred":[
         "La Possession"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "La Possession"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "La Possession"
     ],
     "name:frp_x_preferred":[
         "La Possession"
     ],
     "name:fur_x_preferred":[
-        "La Possession"
-    ],
-    "name:ger_x_preferred":[
         "La Possession"
     ],
     "name:gla_x_preferred":[
@@ -112,9 +109,6 @@
     "name:hun_x_preferred":[
         "La Possession"
     ],
-    "name:ice_x_preferred":[
-        "La Possession"
-    ],
     "name:ido_x_preferred":[
         "La Possession"
     ],
@@ -125,6 +119,9 @@
         "La Possession"
     ],
     "name:ind_x_preferred":[
+        "La Possession"
+    ],
+    "name:isl_x_preferred":[
         "La Possession"
     ],
     "name:ita_x_preferred":[
@@ -160,13 +157,13 @@
     "name:ltz_x_preferred":[
         "La Possession"
     ],
-    "name:may_x_preferred":[
-        "La Possession"
-    ],
     "name:min_x_preferred":[
         "La Possession"
     ],
     "name:mlg_x_preferred":[
+        "La Possession"
+    ],
+    "name:msa_x_preferred":[
         "La Possession"
     ],
     "name:mzn_x_preferred":[
@@ -176,6 +173,9 @@
         "La Possession"
     ],
     "name:nds_x_preferred":[
+        "La Possession"
+    ],
+    "name:nld_x_preferred":[
         "La Possession"
     ],
     "name:nno_x_preferred":[
@@ -196,9 +196,6 @@
     "name:pcd_x_preferred":[
         "La Possession"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u067e\u0648\u0633\u0633\u06cc\u0648\u0646"
-    ],
     "name:pms_x_preferred":[
         "La Possession"
     ],
@@ -217,7 +214,7 @@
     "name:roh_x_preferred":[
         "La Possession"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "La Possession"
     ],
     "name:rus_x_preferred":[
@@ -229,7 +226,7 @@
     "name:sco_x_preferred":[
         "La Possession"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "La Possession"
     ],
     "name:spa_x_preferred":[
@@ -277,14 +274,14 @@
     "name:war_x_preferred":[
         "La Possession"
     ],
-    "name:wel_x_preferred":[
-        "La Possession"
-    ],
     "name:wln_x_preferred":[
         "La Possession"
     ],
     "name:wol_x_preferred":[
         "La Possession"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u585e\u96c4"
     ],
     "name:zul_x_preferred":[
         "La Possession"
@@ -341,7 +338,7 @@
         }
     ],
     "wof:id":1125862685,
-    "wof:lastmodified":1531422077,
+    "wof:lastmodified":1561837377,
     "wof:name":"La Possession",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

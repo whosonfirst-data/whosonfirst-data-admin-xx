@@ -16,34 +16,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Top\u00e7ular"
-    ],
     "name:cat_x_preferred":[
         "Top\u00e7ular"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Top\u00e7ular"
     ],
     "name:dan_x_preferred":[
         "Top\u00e7ular"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Top\u00e7ular"
     ],
     "name:eng_x_preferred":[
         "Top\u00e7ular"
     ],
-    "name:fin_x_preferred":[
+    "name:eus_x_preferred":[
         "Top\u00e7ular"
     ],
-    "name:ger_x_preferred":[
+    "name:fin_x_preferred":[
         "Top\u00e7ular"
     ],
     "name:glg_x_preferred":[
         "Top\u00e7ular"
     ],
     "name:ita_x_preferred":[
+        "Top\u00e7ular"
+    ],
+    "name:nld_x_preferred":[
         "Top\u00e7ular"
     ],
     "name:nno_x_preferred":[
@@ -61,13 +61,13 @@
     "name:por_x_preferred":[
         "Top\u00e7ular"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Top\u00e7ular"
     ],
     "name:sco_x_preferred":[
         "Top\u00e7ular"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Top\u00e7ular"
     ],
     "name:slv_x_preferred":[
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1126095935,
-    "wof:lastmodified":1514503111,
+    "wof:lastmodified":1561837402,
     "wof:name":"Top\u00e7ular",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

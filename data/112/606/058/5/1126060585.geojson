@@ -19,7 +19,7 @@
     "name:cat_x_preferred":[
         "Juhkentali"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Juhkentali"
     ],
     "name:eng_x_preferred":[
@@ -28,10 +28,10 @@
     "name:est_x_preferred":[
         "Juhkentali"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Juhkentali"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Juhkentali"
     ],
     "name:oci_x_preferred":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1126060585,
-    "wof:lastmodified":1514503049,
+    "wof:lastmodified":1561837397,
     "wof:name":"Juhkentali",
     "wof:parent_id":101748153,
     "wof:placetype":"neighbourhood",

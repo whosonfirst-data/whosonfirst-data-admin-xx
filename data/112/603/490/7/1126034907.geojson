@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Bouillante"
     ],
-    "name:baq_x_preferred":[
-        "Bouillante"
-    ],
     "name:bar_x_preferred":[
         "Bouillante"
     ],
@@ -49,16 +46,19 @@
     "name:cat_x_preferred":[
         "Bouillante"
     ],
+    "name:ces_x_preferred":[
+        "Bouillante"
+    ],
     "name:cos_x_preferred":[
         "Bouillante"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bouillante"
     ],
     "name:dan_x_preferred":[
         "Bouillante"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bouillante"
     ],
     "name:eng_x_preferred":[
@@ -70,25 +70,25 @@
     "name:est_x_preferred":[
         "Bouillante"
     ],
+    "name:eus_x_preferred":[
+        "Bouillante"
+    ],
     "name:fao_x_preferred":[
         "Bouillante"
     ],
     "name:fin_x_preferred":[
         "Bouillante"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Bouillante"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Bouillante"
     ],
     "name:frp_x_preferred":[
         "Bouillante"
     ],
     "name:fur_x_preferred":[
-        "Bouillante"
-    ],
-    "name:ger_x_preferred":[
         "Bouillante"
     ],
     "name:gla_x_preferred":[
@@ -109,9 +109,6 @@
     "name:hun_x_preferred":[
         "Bouillante"
     ],
-    "name:ice_x_preferred":[
-        "Bouillante"
-    ],
     "name:ido_x_preferred":[
         "Bouillante"
     ],
@@ -122,6 +119,9 @@
         "Bouillante"
     ],
     "name:ind_x_preferred":[
+        "Bouillante"
+    ],
+    "name:isl_x_preferred":[
         "Bouillante"
     ],
     "name:ita_x_preferred":[
@@ -160,19 +160,22 @@
     "name:ltz_x_preferred":[
         "Bouillante"
     ],
-    "name:may_x_preferred":[
-        "Bouillante"
-    ],
     "name:min_x_preferred":[
         "Bouillante"
     ],
     "name:mlg_x_preferred":[
         "Bouillante"
     ],
+    "name:msa_x_preferred":[
+        "Bouillante"
+    ],
     "name:nap_x_preferred":[
         "Bouillante"
     ],
     "name:nds_x_preferred":[
+        "Bouillante"
+    ],
+    "name:nld_x_preferred":[
         "Bouillante"
     ],
     "name:nno_x_preferred":[
@@ -211,7 +214,7 @@
     "name:roh_x_preferred":[
         "Bouillante"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bouillante"
     ],
     "name:scn_x_preferred":[
@@ -220,7 +223,7 @@
     "name:sco_x_preferred":[
         "Bouillante"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bouillante"
     ],
     "name:spa_x_preferred":[
@@ -257,9 +260,6 @@
         "Bouillante"
     ],
     "name:war_x_preferred":[
-        "Bouillante"
-    ],
-    "name:wel_x_preferred":[
         "Bouillante"
     ],
     "name:wln_x_preferred":[
@@ -317,7 +317,7 @@
         }
     ],
     "wof:id":1126034907,
-    "wof:lastmodified":1531422094,
+    "wof:lastmodified":1561837375,
     "wof:name":"Bouillante",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

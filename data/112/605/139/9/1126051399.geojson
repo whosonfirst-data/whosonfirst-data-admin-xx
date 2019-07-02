@@ -22,22 +22,16 @@
     "name:cat_x_preferred":[
         "Cerkno"
     ],
-    "name:chi_x_preferred":[
-        "\u91c7\u723e\u514b\u8afe"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ob\u010dina Cerkno"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cerkno"
     ],
     "name:eng_x_preferred":[
         "Cerkno"
     ],
-    "name:fre_x_preferred":[
-        "Cerkno"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cerkno"
     ],
     "name:hrv_x_preferred":[
@@ -58,13 +52,16 @@
     "name:lit_x_preferred":[
         "Cerknas"
     ],
+    "name:nld_x_preferred":[
+        "Cerkno"
+    ],
     "name:pol_x_preferred":[
         "Gmina Cerkno"
     ],
     "name:por_x_preferred":[
         "Cerkno"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cerkno"
     ],
     "name:slv_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "Cerkno"
+    ],
+    "name:zho_x_preferred":[
+        "\u91c7\u723e\u514b\u8afe"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Cerkno",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1126051399,
-    "wof:lastmodified":1531170231,
+    "wof:lastmodified":1561837374,
     "wof:name":"Cerkno",
     "wof:parent_id":1108959577,
     "wof:placetype":"locality",

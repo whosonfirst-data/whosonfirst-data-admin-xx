@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:baq_x_preferred":[
-        "Petit-Bourg"
-    ],
     "name:bar_x_preferred":[
         "Petit-Bourg"
     ],
@@ -49,16 +46,19 @@
     "name:cat_x_preferred":[
         "Petit-Bourg"
     ],
+    "name:ces_x_preferred":[
+        "Petit-Bourg"
+    ],
     "name:cos_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Petit-Bourg"
     ],
     "name:dan_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Petit-Bourg"
     ],
     "name:eng_x_preferred":[
@@ -70,6 +70,9 @@
     "name:est_x_preferred":[
         "Petit-Bourg"
     ],
+    "name:eus_x_preferred":[
+        "Petit-Bourg"
+    ],
     "name:fao_x_preferred":[
         "Petit-Bourg"
     ],
@@ -79,19 +82,16 @@
     "name:fin_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Petit-Bourg"
     ],
     "name:frp_x_preferred":[
         "Petit-Bourg"
     ],
     "name:fur_x_preferred":[
-        "Petit-Bourg"
-    ],
-    "name:ger_x_preferred":[
         "Petit-Bourg"
     ],
     "name:gla_x_preferred":[
@@ -112,9 +112,6 @@
     "name:hun_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:ice_x_preferred":[
-        "Petit-Bourg"
-    ],
     "name:ido_x_preferred":[
         "Petit-Bourg"
     ],
@@ -125,6 +122,9 @@
         "Petit-Bourg"
     ],
     "name:ind_x_preferred":[
+        "Petit-Bourg"
+    ],
+    "name:isl_x_preferred":[
         "Petit-Bourg"
     ],
     "name:ita_x_preferred":[
@@ -163,13 +163,13 @@
     "name:ltz_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:may_x_preferred":[
-        "Petit-Bourg"
-    ],
     "name:min_x_preferred":[
         "Petit-Bourg"
     ],
     "name:mlg_x_preferred":[
+        "Petit-Bourg"
+    ],
+    "name:msa_x_preferred":[
         "Petit-Bourg"
     ],
     "name:mzn_x_preferred":[
@@ -179,6 +179,9 @@
         "Petit-Bourg"
     ],
     "name:nds_x_preferred":[
+        "Petit-Bourg"
+    ],
+    "name:nld_x_preferred":[
         "Petit-Bourg"
     ],
     "name:nno_x_preferred":[
@@ -199,9 +202,6 @@
     "name:pcd_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u062a\u06cc \u0628\u0648\u0631"
-    ],
     "name:pms_x_preferred":[
         "Petit-Bourg"
     ],
@@ -220,7 +220,7 @@
     "name:roh_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Petit-Bourg"
     ],
     "name:rus_x_preferred":[
@@ -232,7 +232,7 @@
     "name:sco_x_preferred":[
         "Petit-Bourg"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Petit-Bourg"
     ],
     "name:spa_x_preferred":[
@@ -272,9 +272,6 @@
         "Petit-Bourg"
     ],
     "name:war_x_preferred":[
-        "Petit-Bourg"
-    ],
-    "name:wel_x_preferred":[
         "Petit-Bourg"
     ],
     "name:wln_x_preferred":[
@@ -338,7 +335,7 @@
         }
     ],
     "wof:id":1125932127,
-    "wof:lastmodified":1531422106,
+    "wof:lastmodified":1561837366,
     "wof:name":"Petit-Bourg",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

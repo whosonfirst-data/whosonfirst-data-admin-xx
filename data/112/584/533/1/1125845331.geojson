@@ -20,17 +20,17 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u0440\u043b\u0435\u0440\u0431\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Heerlerbaan"
-    ],
     "name:eng_x_preferred":[
         "Heerlerbaan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Heerlerbaan"
     ],
     "name:lim_x_preferred":[
         "He\u00eblebaan"
+    ],
+    "name:nld_x_preferred":[
+        "Heerlerbaan"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Heerlerbaan",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125845331,
-    "wof:lastmodified":1524506002,
+    "wof:lastmodified":1561837412,
     "wof:name":"Heerlerbaan",
     "wof:parent_id":404474485,
     "wof:placetype":"locality",

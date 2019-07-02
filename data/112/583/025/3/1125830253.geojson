@@ -16,13 +16,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Afuma\u021bi"
-    ],
     "name:eng_x_preferred":[
         "Afuma\u021bi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Afuma\u021bi"
     ],
     "name:hun_x_preferred":[
@@ -31,7 +28,10 @@
     "name:ita_x_preferred":[
         "Afuma\u021bi"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Afuma\u021bi"
+    ],
+    "name:ron_x_preferred":[
         "Afuma\u021bi"
     ],
     "name:ukr_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125830253,
-    "wof:lastmodified":1514502950,
+    "wof:lastmodified":1561837413,
     "wof:name":"Afuma\u021bi",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

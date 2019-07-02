@@ -16,22 +16,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0576\u057f\u056b\u0579\u0565\u056c\u056c\u0578 \u0532\u0580\u056b\u0561\u0576\u0581\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Monticello Brianza"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0438\u0447\u0435\u043b\u043e \u0411\u0440\u0438\u0430\u043d\u0446\u0430"
     ],
     "name:cat_x_preferred":[
         "Monticello Brianza"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u8482\u5207\u6d1b\u5e03\u91cc\u4e9a\u6069\u624e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Monticello Brianza"
     ],
     "name:eng_x_preferred":[
@@ -40,14 +31,17 @@
     "name:epo_x_preferred":[
         "Monticello Brianza"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Monticello Brianza"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Monticello Brianza"
     ],
     "name:hun_x_preferred":[
         "Monticello Brianza"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u056b\u0579\u0565\u056c\u056c\u0578 \u0532\u0580\u056b\u0561\u0576\u0581\u0561"
     ],
     "name:ita_x_preferred":[
         "Monticello Brianza"
@@ -64,13 +58,16 @@
     "name:lmo_x_preferred":[
         "Muntisel"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Monticello Brianza"
     ],
     "name:nan_x_preferred":[
         "Monticello Brianza"
     ],
     "name:nap_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:nld_x_preferred":[
         "Monticello Brianza"
     ],
     "name:oci_x_preferred":[
@@ -85,7 +82,7 @@
     "name:por_x_preferred":[
         "Monticello Brianza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Monticello Brianza"
     ],
     "name:rus_x_preferred":[
@@ -114,6 +111,9 @@
     ],
     "name:war_x_preferred":[
         "Monticello Brianza"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u8482\u5207\u6d1b\u5e03\u91cc\u4e9a\u6069\u624e"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Monticello Brianza",
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":1125883267,
-    "wof:lastmodified":1514503072,
+    "wof:lastmodified":1561837378,
     "wof:name":"Monticello Brianza",
     "wof:parent_id":404469343,
     "wof:placetype":"locality",

@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Les Abymes"
     ],
-    "name:baq_x_preferred":[
-        "Les Abymes"
-    ],
     "name:bar_x_preferred":[
         "Les Abymes"
     ],
@@ -49,20 +46,23 @@
     "name:cat_x_preferred":[
         "Les Abymes"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u840a\u6bd4\u6885"
+    "name:ces_x_preferred":[
+        "Les Abymes"
     ],
     "name:cos_x_preferred":[
         "Les Abymes"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Les Abymes"
     ],
     "name:dan_x_preferred":[
         "Les Abymes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Les Abymes"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03b6 \u0391\u03bc\u03c0\u03af\u03bc"
     ],
     "name:eng_x_preferred":[
         "Les Abymes"
@@ -71,6 +71,9 @@
         "Les Abymes"
     ],
     "name:est_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:eus_x_preferred":[
         "Les Abymes"
     ],
     "name:fao_x_preferred":[
@@ -82,19 +85,16 @@
     "name:fin_x_preferred":[
         "Les Abymes"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Les Abymes"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Les Abymes"
     ],
     "name:frp_x_preferred":[
         "Les Abymes"
     ],
     "name:fur_x_preferred":[
-        "Les Abymes"
-    ],
-    "name:ger_x_preferred":[
         "Les Abymes"
     ],
     "name:gla_x_preferred":[
@@ -105,9 +105,6 @@
     ],
     "name:glg_x_preferred":[
         "Les Abymes"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03b6 \u0391\u03bc\u03c0\u03af\u03bc"
     ],
     "name:gsw_x_preferred":[
         "Les Abymes"
@@ -121,9 +118,6 @@
     "name:hun_x_preferred":[
         "Les Abymes"
     ],
-    "name:ice_x_preferred":[
-        "Les Abymes"
-    ],
     "name:ido_x_preferred":[
         "Les Abymes"
     ],
@@ -134,6 +128,9 @@
         "Les Abymes"
     ],
     "name:ind_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:isl_x_preferred":[
         "Les Abymes"
     ],
     "name:ita_x_preferred":[
@@ -175,13 +172,13 @@
     "name:ltz_x_preferred":[
         "Les Abymes"
     ],
-    "name:may_x_preferred":[
-        "Les Abymes"
-    ],
     "name:min_x_preferred":[
         "Les Abymes"
     ],
     "name:mlg_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:msa_x_preferred":[
         "Les Abymes"
     ],
     "name:mzn_x_preferred":[
@@ -191,6 +188,9 @@
         "Les Abymes"
     ],
     "name:nds_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:nld_x_preferred":[
         "Les Abymes"
     ],
     "name:nno_x_preferred":[
@@ -211,9 +211,6 @@
     "name:pcd_x_preferred":[
         "Les Abymes"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0632\u0628\u06cc\u0645"
-    ],
     "name:pms_x_preferred":[
         "Les Abymes"
     ],
@@ -232,7 +229,7 @@
     "name:roh_x_preferred":[
         "Les Abymes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Les Abymes"
     ],
     "name:rus_x_preferred":[
@@ -244,7 +241,7 @@
     "name:sco_x_preferred":[
         "Les Abymes"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Les Abymes"
     ],
     "name:spa_x_preferred":[
@@ -284,9 +281,6 @@
         "Les Abymes"
     ],
     "name:war_x_preferred":[
-        "Les Abymes"
-    ],
-    "name:wel_x_preferred":[
         "Les Abymes"
     ],
     "name:wln_x_preferred":[
@@ -353,7 +347,7 @@
         }
     ],
     "wof:id":1125847519,
-    "wof:lastmodified":1531422089,
+    "wof:lastmodified":1561837413,
     "wof:name":"Les Abymes",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

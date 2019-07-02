@@ -28,17 +28,17 @@
     "name:bul_x_preferred":[
         "\u0416\u0443\u0436\u0435\u043c\u0431\u0435\u0440\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u7956\u71b1\u59c6\u5e03\u723e\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u017du\u017eemberk"
     ],
     "name:dan_x_preferred":[
         "\u017du\u017eemberk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u017du\u017eemberk"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03b6\u03ad\u03bc\u03c0\u03b5\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
         "\u017du\u017eemberk"
@@ -46,14 +46,8 @@
     "name:fin_x_preferred":[
         "\u017du\u017eemberk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u017du\u017eemberk"
-    ],
-    "name:ger_x_preferred":[
-        "\u017du\u017eemberk"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03c5\u03b6\u03ad\u03bc\u03c0\u03b5\u03c1\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac1\u0a9d\u0ac7\u0aae\u0aac\u0ab0\u0acd\u0a95"
@@ -91,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u091d\u0941\u091d\u0947\u092e\u092c\u0930\u094d\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zuzemberk"
+    ],
+    "name:nld_x_preferred":[
+        "\u017du\u017eemberk"
     ],
     "name:nob_x_preferred":[
         "Zuzenberk"
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "\u017du\u017eemberk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u017du\u017eemberk"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "\u017du\u017eemberk"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u71b1\u59c6\u5e03\u723e\u514b"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"\u017du\u017eemberk",
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":1125888725,
-    "wof:lastmodified":1531170063,
+    "wof:lastmodified":1561837378,
     "wof:name":"\u017du\u017eemberk",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

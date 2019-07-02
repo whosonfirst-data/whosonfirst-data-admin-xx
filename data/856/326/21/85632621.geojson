@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00072,
-    "geom:area_square_m":8016137.617822,
+    "geom:area_square_m":8016137.617826,
     "geom:bbox":"123.509552002,25.738721848,124.570358276,25.931222916",
     "geom:latitude":25.795292,
     "geom:longitude":123.589121,
@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0633\u064a\u0646\u0643\u0627\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Senkaku uharteak"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u0995\u09be\u0995\u09c1 \u09a6\u09cd\u09ac\u09c0\u09aa"
     ],
@@ -48,20 +45,17 @@
     "name:cdo_x_preferred":[
         "Di\u00e9u-ng\u1e73\u0300-d\u00e0i Li\u0115k-d\u014d\u0324"
     ],
-    "name:chi_x_preferred":[
-        "\u91e3\u9b5a\u53f0\u5217\u5dbc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Senkaku"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Senkaku"
     ],
     "name:dan_x_preferred":[
         "Senkaku\u00f8erne"
     ],
     "name:deu_x_preferred":[
         "Senkaku-Inseln"
-    ],
-    "name:dut_x_preferred":[
-        "Senkaku-eilanden"
     ],
     "name:eng_x_preferred":[
         "Senkaku Islands"
@@ -75,20 +69,23 @@
     "name:epo_x_preferred":[
         "Senkaku-insuloj"
     ],
+    "name:eus_x_preferred":[
+        "Senkaku uharteak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u200c\u06a9\u0627\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
     "name:fra_x_preferred":[
         "\u00eeles Senkaku"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "\u00celes Senkaku"
     ],
     "name:gan_x_preferred":[
         "\u91e3\u9b5a\u81fa"
-    ],
-    "name:ger_x_preferred":[
-        "Senkaku-Inseln"
     ],
     "name:glg_x_preferred":[
         "Illas Senkaku"
@@ -132,11 +129,11 @@
     "name:lzh_x_preferred":[
         "\u91e3\u9b5a\u81fa\u5217\u5dbc"
     ],
-    "name:may_x_preferred":[
-        "Kepulauan Senkaku"
-    ],
     "name:mon_x_preferred":[
         "\u0421\u044d\u043d\u043a\u0430\u043a\u04af"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Senkaku"
     ],
     "name:nan_x_preferred":[
         "Ti\u00f2-h\u00ee-t\u00e2i Lia\u030dt-t\u00f3"
@@ -156,16 +153,13 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u200c\u06a9\u0627\u06a9\u0648"
-    ],
     "name:pol_x_preferred":[
         "Wyspy Senkaku"
     ],
     "name:por_x_preferred":[
         "Ilhas Senkaku"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Arhipelagul Senkaku"
     ],
     "name:rus_x_preferred":[
@@ -177,7 +171,7 @@
     "name:sco_x_preferred":[
         "Senkaku Islands"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Senkaku"
     ],
     "name:spa_x_preferred":[
@@ -218,9 +212,6 @@
     ],
     "name:vie_x_preferred":[
         "Senkaku"
-    ],
-    "name:wel_x_preferred":[
-        "Ynysoedd Senkaku"
     ],
     "name:yue_x_preferred":[
         "\u91e3\u9b5a\u53f0"
@@ -371,7 +362,7 @@
         }
     ],
     "wof:id":85632621,
-    "wof:lastmodified":1528909932,
+    "wof:lastmodified":1561837364,
     "wof:name":"Pinnacle Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:baq_x_preferred":[
-        "Le Fran\u00e7ois"
-    ],
     "name:bar_x_preferred":[
         "Le Fran\u00e7ois"
     ],
@@ -43,16 +40,19 @@
     "name:cat_x_preferred":[
         "Le Fran\u00e7ois"
     ],
+    "name:ces_x_preferred":[
+        "Le Fran\u00e7ois"
+    ],
     "name:cos_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:dan_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:eng_x_preferred":[
@@ -64,25 +64,25 @@
     "name:est_x_preferred":[
         "Le Fran\u00e7ois"
     ],
+    "name:eus_x_preferred":[
+        "Le Fran\u00e7ois"
+    ],
     "name:fao_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:fin_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:frp_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:fur_x_preferred":[
-        "Le Fran\u00e7ois"
-    ],
-    "name:ger_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +103,6 @@
     "name:hun_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:ice_x_preferred":[
-        "Le Fran\u00e7ois"
-    ],
     "name:ido_x_preferred":[
         "Le Fran\u00e7ois"
     ],
@@ -116,6 +113,9 @@
         "Le Fran\u00e7ois"
     ],
     "name:ind_x_preferred":[
+        "Le Fran\u00e7ois"
+    ],
+    "name:isl_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:ita_x_preferred":[
@@ -151,19 +151,22 @@
     "name:ltz_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:may_x_preferred":[
-        "Le Fran\u00e7ois"
-    ],
     "name:min_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:mlg_x_preferred":[
         "Le Fran\u00e7ois"
     ],
+    "name:msa_x_preferred":[
+        "Le Fran\u00e7ois"
+    ],
     "name:nap_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:nds_x_preferred":[
+        "Le Fran\u00e7ois"
+    ],
+    "name:nld_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:nno_x_preferred":[
@@ -202,7 +205,7 @@
     "name:roh_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:scn_x_preferred":[
@@ -211,7 +214,7 @@
     "name:sco_x_preferred":[
         "Le Fran\u00e7ois"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:spa_x_preferred":[
@@ -251,9 +254,6 @@
         "Le Fran\u00e7ois"
     ],
     "name:war_x_preferred":[
-        "Le Fran\u00e7ois"
-    ],
-    "name:wel_x_preferred":[
         "Le Fran\u00e7ois"
     ],
     "name:wln_x_preferred":[
@@ -317,7 +317,7 @@
         }
     ],
     "wof:id":1125804137,
-    "wof:lastmodified":1531422126,
+    "wof:lastmodified":1561837382,
     "wof:name":"Le Fran\u00e7ois",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

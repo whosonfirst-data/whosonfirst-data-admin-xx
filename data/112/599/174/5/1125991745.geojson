@@ -22,25 +22,22 @@
     "name:arg_x_preferred":[
         "Dulantzi"
     ],
-    "name:baq_x_preferred":[
-        "Dulantzi"
-    ],
     "name:bre_x_preferred":[
         "Dulantzi"
     ],
     "name:cat_x_preferred":[
         "Dulantzi"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u83b1\u683c\u91cc\u4e9a-\u675c\u5170\u7279\u897f"
-    ],
-    "name:dut_x_preferred":[
-        "Alegr\u00eda-Dulantzi"
-    ],
     "name:eng_x_preferred":[
         "Alegr\u00eda-Dulantzi"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Dulantzi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u06af\u0631\u06cc\u0627 \u062f \u0622\u0644\u0627\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Alegr\u00eda-Dulantzi"
     ],
     "name:glg_x_preferred":[
@@ -55,13 +52,16 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ec\u30b0\u30ea\u30a2\uff1d\u30c9\u30a5\u30e9\u30f3\u30c4\u30a3"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043b\u0435\u0433\u0440\u0438\u0458\u0430 \u0434\u0435 \u0410\u043b\u0430\u0432\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Alegr\u00eda-Dulantzi"
     ],
     "name:nan_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
+    "name:nld_x_preferred":[
         "Alegr\u00eda-Dulantzi"
     ],
     "name:oci_x_preferred":[
@@ -69,9 +69,6 @@
     ],
     "name:pam_x_preferred":[
         "Alegr\u00eda-Dulantzi"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u06af\u0631\u06cc\u0627 \u062f \u0622\u0644\u0627\u0628\u0627"
     ],
     "name:pol_x_preferred":[
         "Alegr\u00eda-Dulantzi"
@@ -105,6 +102,9 @@
     ],
     "name:war_x_preferred":[
         "Alegr\u00eda de \u00c1lava"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u83b1\u683c\u91cc\u4e9a-\u675c\u5170\u7279\u897f"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Alegia Dulantzi",
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":1125991745,
-    "wof:lastmodified":1514502960,
+    "wof:lastmodified":1561837388,
     "wof:name":"Alegia Dulantzi",
     "wof:parent_id":404328935,
     "wof:placetype":"locality",

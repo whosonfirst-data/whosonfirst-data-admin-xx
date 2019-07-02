@@ -19,7 +19,7 @@
     "name:cat_x_preferred":[
         "Likir"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Likir"
     ],
     "name:eng_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125916109,
-    "wof:lastmodified":1533678805,
+    "wof:lastmodified":1561837393,
     "wof:name":"Likir",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

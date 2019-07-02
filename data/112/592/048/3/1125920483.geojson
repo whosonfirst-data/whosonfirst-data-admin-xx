@@ -19,16 +19,16 @@
     "name:bos_x_preferred":[
         "Starod"
     ],
-    "name:dut_x_preferred":[
-        "Starod"
-    ],
     "name:eng_x_preferred":[
         "Starod"
     ],
     "name:hrv_x_preferred":[
         "Starod"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Starod"
+    ],
+    "name:ron_x_preferred":[
         "Starod"
     ],
     "name:slv_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125920483,
-    "wof:lastmodified":1531170331,
+    "wof:lastmodified":1561837368,
     "wof:name":"Starod",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

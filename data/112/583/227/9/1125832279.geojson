@@ -19,16 +19,16 @@
     "name:bos_x_preferred":[
         "\u0160en\u010dur"
     ],
-    "name:dut_x_preferred":[
-        "\u0160en\u010dur"
-    ],
     "name:eng_x_preferred":[
         "\u0160en\u010dur"
     ],
     "name:hrv_x_preferred":[
         "\u0160en\u010dur"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "\u0160en\u010dur"
+    ],
+    "name:ron_x_preferred":[
         "\u0160en\u010dur"
     ],
     "name:slv_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125832279,
-    "wof:lastmodified":1531171365,
+    "wof:lastmodified":1561837413,
     "wof:name":"\u0160en\u010dur",
     "wof:parent_id":1108959647,
     "wof:placetype":"locality",

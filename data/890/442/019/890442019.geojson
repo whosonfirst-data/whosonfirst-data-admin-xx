@@ -17,25 +17,19 @@
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09a6\u09be\u09ae\u09bf \u09ac\u09be\u0997"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u8fbe\u7c73\u5df4\u683c"
-    ],
-    "name:dut_x_preferred":[
-        "Badami Bagh"
-    ],
     "name:eng_x_preferred":[
         "Badami Bagh"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Badami Bagh"
     ],
     "name:ita_x_preferred":[
         "Badami Bagh"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Badami Bagh"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Badami Bagh"
     ],
     "name:nan_x_preferred":[
@@ -43,6 +37,9 @@
     ],
     "name:new_x_preferred":[
         "\u092c\u093e\u0926\u093e\u092e\u0940 \u092c\u093e\u0917"
+    ],
+    "name:nld_x_preferred":[
+        "Badami Bagh"
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a3e\u0a26\u0a3e\u0a2e\u0a40 \u0a2c\u0a3e\u0a17"
@@ -55,6 +52,9 @@
     ],
     "name:vie_x_preferred":[
         "Badami Bagh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8fbe\u7c73\u5df4\u683c"
     ],
     "qs:name":"Badami Bagh",
     "qs:name_adm0":"India",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":890442019,
-    "wof:lastmodified":1533678791,
+    "wof:lastmodified":1561837366,
     "wof:name":"Badami Bagh",
     "wof:parent_id":1108695711,
     "wof:placetype":"locality",

@@ -19,7 +19,7 @@
     "name:eng_x_preferred":[
         "Tobacco Row"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tobacco Row"
     ],
     "qs_pg:gn_country":null,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1126093189,
-    "wof:lastmodified":1514503111,
+    "wof:lastmodified":1561837405,
     "wof:name":"Tobacco Row",
     "wof:parent_id":101728675,
     "wof:placetype":"neighbourhood",

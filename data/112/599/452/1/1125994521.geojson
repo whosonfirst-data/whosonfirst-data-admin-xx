@@ -25,10 +25,7 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0447"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5947"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ba\u010d"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +34,7 @@
     "name:epo_x_preferred":[
         "Ba\u010d"
     ],
-    "name:fre_x_preferred":[
-        "Ba\u010d"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ba\u010d"
     ],
     "name:heb_x_preferred":[
@@ -64,7 +58,10 @@
     "name:lit_x_preferred":[
         "Ba\u010das"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ba\u010d"
+    ],
+    "name:nld_x_preferred":[
         "Ba\u010d"
     ],
     "name:pnb_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0447"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5947"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Ba\u010d",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1125994521,
-    "wof:lastmodified":1514502965,
+    "wof:lastmodified":1561837387,
     "wof:name":"Ba\u010d",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",

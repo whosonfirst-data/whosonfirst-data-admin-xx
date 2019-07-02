@@ -30,9 +30,6 @@
     "name:bam_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:baq_x_preferred":[
-        "Les Anses-d'Arlet"
-    ],
     "name:bar_x_preferred":[
         "Les Anses-d'Arlet"
     ],
@@ -42,16 +39,19 @@
     "name:cat_x_preferred":[
         "Les Anses-d'Arlet"
     ],
+    "name:ces_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
     "name:cos_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:dan_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:eng_x_preferred":[
@@ -63,25 +63,25 @@
     "name:est_x_preferred":[
         "Les Anses-d'Arlet"
     ],
+    "name:eus_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
     "name:fao_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:fin_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:frp_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:fur_x_preferred":[
-        "Les Anses-d'Arlet"
-    ],
-    "name:ger_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:gla_x_preferred":[
@@ -102,9 +102,6 @@
     "name:hun_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:ice_x_preferred":[
-        "Les Anses-d'Arlet"
-    ],
     "name:ido_x_preferred":[
         "Les Anses-d'Arlet"
     ],
@@ -115,6 +112,9 @@
         "Les Anses-d'Arlet"
     ],
     "name:ind_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:isl_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:ita_x_preferred":[
@@ -153,19 +153,22 @@
     "name:ltz_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:may_x_preferred":[
-        "Les Anses-d'Arlet"
-    ],
     "name:min_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:mlg_x_preferred":[
         "Les Anses-d'Arlet"
     ],
+    "name:msa_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
     "name:nap_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:nds_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
+    "name:nld_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:nno_x_preferred":[
@@ -204,7 +207,7 @@
     "name:roh_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:scn_x_preferred":[
@@ -213,7 +216,7 @@
     "name:sco_x_preferred":[
         "Les Anses-d'Arlet"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Les Anses-d\u2019Arlet"
     ],
     "name:spa_x_preferred":[
@@ -253,9 +256,6 @@
         "Les Anses-d'Arlet"
     ],
     "name:war_x_preferred":[
-        "Les Anses-d'Arlet"
-    ],
-    "name:wel_x_preferred":[
         "Les Anses-d'Arlet"
     ],
     "name:wln_x_preferred":[
@@ -312,7 +312,7 @@
         }
     ],
     "wof:id":1125804665,
-    "wof:lastmodified":1514503067,
+    "wof:lastmodified":1561837382,
     "wof:name":"Les Anses-d'Arlets",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

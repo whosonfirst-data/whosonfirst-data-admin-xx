@@ -19,7 +19,7 @@
     "name:dan_x_preferred":[
         "F\u00e6r\u00f8ernes Kommando"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mj\u00f8rkadalur"
     ],
     "name:eng_x_preferred":[
@@ -28,19 +28,19 @@
     "name:fao_x_preferred":[
         "Mj\u00f8rkadalur"
     ],
-    "name:ger_x_preferred":[
-        "Mj\u00f8rkadalur"
-    ],
     "name:hrv_x_preferred":[
         "Mj\u00f8rkadalur"
     ],
     "name:hun_x_preferred":[
         "Mj\u00f8rkadalur"
     ],
+    "name:nld_x_preferred":[
+        "Mj\u00f8rkadalur"
+    ],
     "name:nob_x_preferred":[
         "Mj\u00f8rkadalur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mj\u00f8rkadalur"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125963227,
-    "wof:lastmodified":1514503072,
+    "wof:lastmodified":1561837392,
     "wof:name":"Mjorkadalur",
     "wof:parent_id":85671213,
     "wof:placetype":"locality",

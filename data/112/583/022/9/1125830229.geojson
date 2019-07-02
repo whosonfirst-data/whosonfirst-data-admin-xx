@@ -16,19 +16,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Ytre Enebakk"
-    ],
     "name:eng_x_preferred":[
         "Ytre Enebakk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ytre Enebakk"
     ],
     "name:jav_x_preferred":[
         "Ytre Enebakk"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ytre Enebakk"
+    ],
+    "name:nld_x_preferred":[
         "Ytre Enebakk"
     ],
     "name:nno_x_preferred":[
@@ -37,7 +37,7 @@
     "name:nob_x_preferred":[
         "Ytre Enebakk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ytre Enebakk"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125830229,
-    "wof:lastmodified":1529699768,
+    "wof:lastmodified":1561837413,
     "wof:name":"Ytre-enebakk",
     "wof:parent_id":1159297449,
     "wof:placetype":"locality",

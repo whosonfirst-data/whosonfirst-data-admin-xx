@@ -21,13 +21,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Molo"
-    ],
     "name:eng_x_preferred":[
         "Molo"
     ],
     "name:ita_x_preferred":[
+        "Molo"
+    ],
+    "name:nld_x_preferred":[
         "Molo"
     ],
     "src:lbl:centroid":"mz",
@@ -58,7 +58,7 @@
         }
     ],
     "wof:id":1108948711,
-    "wof:lastmodified":1514503072,
+    "wof:lastmodified":1561837365,
     "wof:name":"Molo",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",

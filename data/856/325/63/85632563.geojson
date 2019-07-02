@@ -31,7 +31,7 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u099c\u09cb \u09a8\u09c1\u09af\u09bc\u09c7\u09ad\u09cb \u09a4\u09c0\u09b0"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Spojen\u00e9 St\u00e1ty Americk\u00e9"
     ],
     "name:cze_x_variant":[
@@ -159,7 +159,7 @@
         "Estados Unidos da Am\u00e9rica",
         "Estados Unidos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statele Unite Ale Americii"
     ],
     "name:rum_x_variant":[
@@ -382,12 +382,12 @@
         },
         {
             "continent_id":102191575,
-            "empire_id":136253057,
-            "disputed_id":85632563
+            "disputed_id":85632563,
+            "empire_id":136253057
         }
     ],
     "wof:id":85632563,
-    "wof:lastmodified":1530229217,
+    "wof:lastmodified":1561837364,
     "wof:name":"Bajo Nuevo Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

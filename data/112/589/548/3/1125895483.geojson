@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Le Robert"
     ],
-    "name:baq_x_preferred":[
-        "Le Robert"
-    ],
     "name:bar_x_preferred":[
         "Le Robert"
     ],
@@ -46,16 +43,19 @@
     "name:cat_x_preferred":[
         "Le Robert"
     ],
+    "name:ces_x_preferred":[
+        "Le Robert"
+    ],
     "name:cos_x_preferred":[
         "Le Robert"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Le Robert"
     ],
     "name:dan_x_preferred":[
         "Le Robert"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Le Robert"
     ],
     "name:ell_x_preferred":[
@@ -70,6 +70,9 @@
     "name:est_x_preferred":[
         "Le Robert"
     ],
+    "name:eus_x_preferred":[
+        "Le Robert"
+    ],
     "name:fao_x_preferred":[
         "Le Robert"
     ],
@@ -79,19 +82,16 @@
     "name:fin_x_preferred":[
         "Le Robert"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Le Robert"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Le Robert"
     ],
     "name:frp_x_preferred":[
         "Le Robert"
     ],
     "name:fur_x_preferred":[
-        "Le Robert"
-    ],
-    "name:ger_x_preferred":[
         "Le Robert"
     ],
     "name:gla_x_preferred":[
@@ -102,9 +102,6 @@
     ],
     "name:glg_x_preferred":[
         "Le Robert"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5 \u03a1\u03bf\u03bc\u03c0\u03ad\u03c1"
     ],
     "name:gsw_x_preferred":[
         "Le Robert"
@@ -118,9 +115,6 @@
     "name:hun_x_preferred":[
         "Le Robert"
     ],
-    "name:ice_x_preferred":[
-        "Le Robert"
-    ],
     "name:ido_x_preferred":[
         "Le Robert"
     ],
@@ -131,6 +125,9 @@
         "Le Robert"
     ],
     "name:ind_x_preferred":[
+        "Le Robert"
+    ],
+    "name:isl_x_preferred":[
         "Le Robert"
     ],
     "name:ita_x_preferred":[
@@ -166,13 +163,13 @@
     "name:ltz_x_preferred":[
         "Le Robert"
     ],
-    "name:may_x_preferred":[
-        "Le Robert"
-    ],
     "name:min_x_preferred":[
         "Le Robert"
     ],
     "name:mlg_x_preferred":[
+        "Le Robert"
+    ],
+    "name:msa_x_preferred":[
         "Le Robert"
     ],
     "name:mzn_x_preferred":[
@@ -182,6 +179,9 @@
         "Le Robert"
     ],
     "name:nds_x_preferred":[
+        "Le Robert"
+    ],
+    "name:nld_x_preferred":[
         "Le Robert"
     ],
     "name:nno_x_preferred":[
@@ -202,9 +202,6 @@
     "name:pcd_x_preferred":[
         "Le Robert"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648 \u0631\u0648\u0628\u0631"
-    ],
     "name:pms_x_preferred":[
         "Le Robert"
     ],
@@ -223,7 +220,7 @@
     "name:roh_x_preferred":[
         "Le Robert"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Le Robert"
     ],
     "name:scn_x_preferred":[
@@ -232,7 +229,7 @@
     "name:sco_x_preferred":[
         "Le Robert"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Le Robert"
     ],
     "name:spa_x_preferred":[
@@ -275,9 +272,6 @@
         "Le Robert"
     ],
     "name:war_x_preferred":[
-        "Le Robert"
-    ],
-    "name:wel_x_preferred":[
         "Le Robert"
     ],
     "name:wln_x_preferred":[
@@ -341,7 +335,7 @@
         }
     ],
     "wof:id":1125895483,
-    "wof:lastmodified":1531422136,
+    "wof:lastmodified":1561837381,
     "wof:name":"Le Robert",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

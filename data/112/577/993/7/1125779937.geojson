@@ -19,26 +19,20 @@
     "name:bul_x_preferred":[
         "\u041a\u043d\u044f\u0436\u0435\u0432\u0430\u0446"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u5c3c\u4e9e\u71b1\u74e6\u8328"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Knja\u017eevac"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Knja\u017eevac"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bd\u03b9\u03ad\u03b6\u03b5\u03b2\u03b1\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Knja\u017eevac"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Knja\u017eevac"
-    ],
-    "name:ger_x_preferred":[
-        "Knja\u017eevac"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bd\u03b9\u03ad\u03b6\u03b5\u03b2\u03b1\u03c4\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e0\u05d9\u05d0\u05d6'\u05d1\u05d0\u05e5"
@@ -55,7 +49,10 @@
     "name:lit_x_preferred":[
         "Knia\u017eevacas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Knja\u017eevac"
+    ],
+    "name:nld_x_preferred":[
         "Knja\u017eevac"
     ],
     "name:pnb_x_preferred":[
@@ -67,7 +64,7 @@
     "name:por_x_preferred":[
         "Knja\u017eevac"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Knja\u017eevac"
     ],
     "name:rus_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u043d\u04d9\u0436\u0435\u0432\u0430\u0442\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5c3c\u4e9e\u71b1\u74e6\u8328"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Knja\u017eevac",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1125779937,
-    "wof:lastmodified":1514503051,
+    "wof:lastmodified":1561837413,
     "wof:name":"Knja\u017eevac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

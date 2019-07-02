@@ -16,9 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:alb_x_preferred":[
-        "Alibunari"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0628\u0648\u0646\u0627\u0631"
     ],
@@ -28,13 +25,7 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0438\u0431\u0443\u043d\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5229\u5e03\u8afe\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Alibunar"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Alibunar"
     ],
     "name:eng_x_preferred":[
@@ -43,7 +34,10 @@
     "name:epo_x_preferred":[
         "Alibunar"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0628\u0648\u0646\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Alibunar"
     ],
     "name:hrv_x_preferred":[
@@ -58,11 +52,11 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ea\u30d6\u30ca\u30eb"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Alibunar"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u06cc\u0628\u0648\u0646\u0627\u0631"
+    "name:nld_x_preferred":[
+        "Alibunar"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u06cc\u0628\u0648\u0646\u0627\u0631"
@@ -70,7 +64,7 @@
     "name:pol_x_preferred":[
         "Alibunar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Alibunar"
     ],
     "name:rus_x_preferred":[
@@ -79,11 +73,17 @@
     "name:slv_x_preferred":[
         "Alibunar"
     ],
+    "name:sqi_x_preferred":[
+        "Alibunari"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043b\u0438\u0431\u0443\u043d\u0430\u0440"
     ],
     "name:tat_x_preferred":[
         "\u0410\u043b\u0438\u0431\u0443\u043d\u0430\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5229\u5e03\u8afe\u723e"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Alibunar",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1125772701,
-    "wof:lastmodified":1514502960,
+    "wof:lastmodified":1561837413,
     "wof:name":"Alibunar",
     "wof:parent_id":1108809813,
     "wof:placetype":"locality",

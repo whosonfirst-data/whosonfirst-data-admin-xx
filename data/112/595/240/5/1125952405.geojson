@@ -34,9 +34,6 @@
     "name:bam_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:baq_x_preferred":[
-        "Sainte-Rose"
-    ],
     "name:bar_x_preferred":[
         "Sainte-Rose"
     ],
@@ -49,16 +46,19 @@
     "name:cat_x_preferred":[
         "Sainte-Rose"
     ],
+    "name:ces_x_preferred":[
+        "Sainte-Rose"
+    ],
     "name:cos_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sainte-Rose"
     ],
     "name:dan_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sainte-Rose"
     ],
     "name:eng_x_preferred":[
@@ -70,25 +70,25 @@
     "name:est_x_preferred":[
         "Sainte-Rose"
     ],
+    "name:eus_x_preferred":[
+        "Sainte-Rose"
+    ],
     "name:fao_x_preferred":[
         "Sainte-Rose"
     ],
     "name:fin_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Sainte-Rose"
     ],
     "name:frp_x_preferred":[
         "Sainte-Rose"
     ],
     "name:fur_x_preferred":[
-        "Sainte-Rose"
-    ],
-    "name:ger_x_preferred":[
         "Sainte-Rose"
     ],
     "name:gla_x_preferred":[
@@ -112,9 +112,6 @@
     "name:hun_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:ice_x_preferred":[
-        "Sainte-Rose"
-    ],
     "name:ido_x_preferred":[
         "Sainte-Rose"
     ],
@@ -125,6 +122,9 @@
         "Sainte-Rose"
     ],
     "name:ind_x_preferred":[
+        "Sainte-Rose"
+    ],
+    "name:isl_x_preferred":[
         "Sainte-Rose"
     ],
     "name:ita_x_preferred":[
@@ -163,19 +163,22 @@
     "name:ltz_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:may_x_preferred":[
-        "Sainte-Rose"
-    ],
     "name:min_x_preferred":[
         "Sainte-Rose"
     ],
     "name:mlg_x_preferred":[
         "Sainte-Rose"
     ],
+    "name:msa_x_preferred":[
+        "Sainte-Rose"
+    ],
     "name:nap_x_preferred":[
         "Sainte-Rose"
     ],
     "name:nds_x_preferred":[
+        "Sainte-Rose"
+    ],
+    "name:nld_x_preferred":[
         "Sainte-Rose"
     ],
     "name:nno_x_preferred":[
@@ -214,7 +217,7 @@
     "name:roh_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sainte-Rose"
     ],
     "name:rus_x_preferred":[
@@ -226,7 +229,7 @@
     "name:sco_x_preferred":[
         "Sainte-Rose"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sainte-Rose"
     ],
     "name:spa_x_preferred":[
@@ -272,9 +275,6 @@
         "Sainte-Rose"
     ],
     "name:war_x_preferred":[
-        "Sainte-Rose"
-    ],
-    "name:wel_x_preferred":[
         "Sainte-Rose"
     ],
     "name:wln_x_preferred":[
@@ -338,7 +338,7 @@
         }
     ],
     "wof:id":1125952405,
-    "wof:lastmodified":1553816653,
+    "wof:lastmodified":1561837368,
     "wof:name":"Ste.-Rose",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

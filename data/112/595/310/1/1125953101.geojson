@@ -19,16 +19,13 @@
     "name:cha_x_preferred":[
         "Piti"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u8482"
-    ],
-    "name:dut_x_preferred":[
-        "Piti"
-    ],
     "name:eng_x_preferred":[
         "Piti"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u062a\u06cc\u060c \u06af\u0648\u0622\u0645"
+    ],
+    "name:fra_x_preferred":[
         "Piti"
     ],
     "name:ita_x_preferred":[
@@ -37,8 +34,8 @@
     "name:jpn_x_preferred":[
         "\u30d4\u30c6\u30a3"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u062a\u06cc\u060c \u06af\u0648\u0622\u0645"
+    "name:nld_x_preferred":[
+        "Piti"
     ],
     "name:pol_x_preferred":[
         "Piti"
@@ -54,6 +51,9 @@
     ],
     "name:war_x_preferred":[
         "Piti"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u8482"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Piti",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1125953101,
-    "wof:lastmodified":1514503081,
+    "wof:lastmodified":1561837368,
     "wof:name":"Piti",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",

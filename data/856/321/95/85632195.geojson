@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283404,
-    "geom:area_square_m":3500675660.571769,
+    "geom:area_square_m":3500675660.571381,
     "geom:bbox":"-54.5544035,2.113982,-53.972850708,3.300678",
     "geom:latitude":2.60566,
     "geom:longitude":-54.198991,
@@ -24,14 +24,11 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6cd5\u5c6c\u572d\u4e9e\u90a3"
+    "name:ces_x_preferred":[
+        "Francouzsk\u00e1 Guyana"
     ],
     "name:chi_x_variant":[
         "\u6cd5\u5c5e\u572d\u4e9a\u90a3"
-    ],
-    "name:cze_x_preferred":[
-        "Francouzsk\u00e1 Guyana"
     ],
     "name:dan_x_preferred":[
         "Fransk Guyana"
@@ -39,8 +36,8 @@
     "name:dan_x_variant":[
         "Fransk Guiana"
     ],
-    "name:dut_x_preferred":[
-        "Frans-Guyana"
+    "name:deu_x_preferred":[
+        "Franz\u00f6sisch-Guayana"
     ],
     "name:dut_x_variant":[
         "Frans Guyana"
@@ -62,20 +59,17 @@
     "name:fin_x_variant":[
         "Ranskan Guajana"
     ],
+    "name:fra_x_preferred":[
+        "Guyane Fran\u00e7aise"
+    ],
     "name:fre_x_colloquial":[
         "Guyane Francaise"
-    ],
-    "name:fre_x_preferred":[
-        "Guyane Fran\u00e7aise"
     ],
     "name:fre_x_variant":[
         "Guyane"
     ],
     "name:ger_x_colloquial":[
         "Franzosisch Guyana"
-    ],
-    "name:ger_x_preferred":[
-        "Franz\u00f6sisch-Guayana"
     ],
     "name:ger_x_variant":[
         "Franzoesisch Guyana",
@@ -106,6 +100,9 @@
         "\uae30\uc544\ub098",
         "\ubd88\ub839 \uac00\uc774\uc544\ub098"
     ],
+    "name:nld_x_preferred":[
+        "Frans-Guyana"
+    ],
     "name:nor_x_preferred":[
         "Fransk Guyana"
     ],
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Guiana Francesa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guiana Francez\u0103"
     ],
     "name:spa_x_preferred":[
@@ -129,6 +126,9 @@
     ],
     "name:und_x_variant":[
         "Department of French Guiana"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u5c6c\u572d\u4e9e\u90a3"
     ],
     "ne:ABBREV":"L.H.",
     "ne:ABBREV_LEN":4,
@@ -264,7 +264,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1528909937,
+    "wof:lastmodified":1561837364,
     "wof:name":"Lawa Headwaters",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

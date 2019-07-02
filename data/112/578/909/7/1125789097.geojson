@@ -23,22 +23,19 @@
     "name:cat_x_preferred":[
         "Zaanse Schans"
     ],
-    "name:chi_x_preferred":[
-        "\u8d5e\u745f\u65af\u6c49\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zaanse Schans"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zaanse Schans"
     ],
     "name:eng_x_preferred":[
         "Zaanse Schans"
     ],
-    "name:fre_x_preferred":[
-        "Zaanse Schans"
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u0633 \u0634\u0627\u0646\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zaanse Schans"
     ],
     "name:heb_x_preferred":[
@@ -50,11 +47,11 @@
     "name:kor_x_preferred":[
         "\uc794\uc11c\uc2a4\ud55c\uc2a4"
     ],
-    "name:oci_x_preferred":[
+    "name:nld_x_preferred":[
         "Zaanse Schans"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0646\u0633 \u0634\u0627\u0646\u0633"
+    "name:oci_x_preferred":[
+        "Zaanse Schans"
     ],
     "name:pol_x_preferred":[
         "Zaanse Schans"
@@ -73,6 +70,9 @@
     ],
     "name:vie_x_preferred":[
         "Zaanse Schans"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d5e\u745f\u65af\u6c49\u65af"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Zaanse Schans",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1125789097,
-    "wof:lastmodified":1524505994,
+    "wof:lastmodified":1561837407,
     "wof:name":"Zaanse Schans",
     "wof:parent_id":404474143,
     "wof:placetype":"locality",

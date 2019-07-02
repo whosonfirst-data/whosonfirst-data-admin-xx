@@ -19,14 +19,8 @@
     "name:cat_x_preferred":[
         "Pulau Tekong"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u5149\u5cf6"
-    ],
     "name:dan_x_preferred":[
         "Pulau Tekong"
-    ],
-    "name:dut_x_preferred":[
-        "Tekong"
     ],
     "name:eng_x_preferred":[
         "Pulau Tekong"
@@ -37,7 +31,7 @@
     "name:fin_x_preferred":[
         "Pulau Tekong"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pulau Tekong"
     ],
     "name:ind_x_preferred":[
@@ -46,8 +40,11 @@
     "name:jpn_x_preferred":[
         "\u30c6\u30b3\u30f3\u5cf6"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pulau Tekong"
+    ],
+    "name:nld_x_preferred":[
+        "Tekong"
     ],
     "name:nob_x_preferred":[
         "Pulau Tekong"
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Tekong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5149\u5cf6"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pulau Tekong",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1125820435,
-    "wof:lastmodified":1514503086,
+    "wof:lastmodified":1561837406,
     "wof:name":"Pulau Tekong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
