@@ -44,6 +44,12 @@
     "name:cat_x_preferred":[
         "Illes Paracel"
     ],
+    "name:cat_x_variant":[
+        "illes Paracel"
+    ],
+    "name:ceb_x_preferred":[
+        "Paracel Islands"
+    ],
     "name:ces_x_preferred":[
         "Paracelsk\u00e9 ostrovy"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:fin_x_preferred":[
         "kiistelty alue"
+    ],
+    "name:fin_x_variant":[
+        "Paracelsaaret"
     ],
     "name:fra_x_preferred":[
         "\u00celes Paracels"
@@ -127,6 +136,9 @@
     ],
     "name:msa_x_preferred":[
         "Kepulauan Paracel"
+    ],
+    "name:nan_x_preferred":[
+        "Sai-soa K\u00fbn-t\u00f3"
     ],
     "name:nld_x_preferred":[
         "Paraceleilanden"
@@ -196,6 +208,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Ho\u00e0ng Sa"
+    ],
+    "name:vie_x_variant":[
+        "qu\u1ea7n \u0111\u1ea3o Ho\u00e0ng Sa"
     ],
     "name:yue_x_preferred":[
         "\u897f\u6c99"
@@ -357,7 +372,7 @@
         }
     ],
     "wof:id":85632457,
-    "wof:lastmodified":1561837362,
+    "wof:lastmodified":1563321730,
     "wof:name":"Paracel Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

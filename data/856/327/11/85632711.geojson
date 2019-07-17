@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0648\u0629 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0644\u0645\u0631\u0627\u0642\u0628\u0629 \u0641\u0636 \u0627\u0644\u0627\u0634\u062a\u0628\u0627\u0643"
     ],
+    "name:ces_x_preferred":[
+        "Pozorovatelsk\u00e1 mise OSN pro uvol\u0148ov\u00e1n\u00ed nap\u011bt\u00ed"
+    ],
     "name:deu_x_preferred":[
         "United Nations Disengagement Observer Force"
     ],
@@ -37,6 +40,9 @@
         "UN Disengagement Observer Force",
         "U.N. Disengagement Observer Force",
         "United Nations Disengagement Observer Force"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u062d\u0627\u0641\u0638 \u0635\u0644\u062d \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u062a\u062d\u062f"
     ],
     "name:fra_x_preferred":[
         "Force des Nations unies charg\u00e9e d\u2019observer le d\u00e9gagement"
@@ -61,6 +67,9 @@
     ],
     "name:spa_x_preferred":[
         "Fuerza de las Naciones Unidas de Observaci\u00f3n de la Separaci\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u043d\u0430 \u0421\u0438\u043b \u041e\u041e\u041d \u043f\u043e \u043d\u0430\u0433\u043b\u044f\u0434\u0443 \u0437\u0430 \u0440\u043e\u0437'\u0454\u0434\u043d\u0430\u043d\u043d\u044f\u043c"
     ],
     "name:zho_x_preferred":[
         "\u806f\u5408\u570b\u812b\u96e2\u63a5\u89f8\u89c0\u5bdf\u54e1\u90e8\u968a"
@@ -210,7 +219,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930000,
+    "wof:lastmodified":1563321748,
     "wof:name":"United Nations Disengagement Observer Force Zone",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

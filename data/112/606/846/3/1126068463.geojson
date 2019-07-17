@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Yavuzsinan"
     ],
+    "name:ceb_x_preferred":[
+        "Yavuzsinan"
+    ],
     "name:ces_x_preferred":[
         "Yavuzsinan"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1126068463,
-    "wof:lastmodified":1561837396,
+    "wof:lastmodified":1563323652,
     "wof:name":"Yavuz Sinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

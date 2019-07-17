@@ -49,6 +49,9 @@
     "name:hrv_x_preferred":[
         "Ka\u0161tela"
     ],
+    "name:hsb_x_preferred":[
+        "Ka\u0161tela"
+    ],
     "name:hun_x_preferred":[
         "Ka\u0161tela"
     ],
@@ -102,6 +105,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u0448\u0442\u0435\u043b\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ka\u0161tela"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u0442\u0435\u043b\u0430"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1125980029,
-    "wof:lastmodified":1561837393,
+    "wof:lastmodified":1563323495,
     "wof:name":"Ka\u0161tela",
     "wof:parent_id":85684781,
     "wof:placetype":"locality",

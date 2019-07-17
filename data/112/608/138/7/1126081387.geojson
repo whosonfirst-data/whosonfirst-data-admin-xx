@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Ey\u00fcp Merkez"
     ],
+    "name:ceb_x_preferred":[
+        "Ey\u00fcp Merkez"
+    ],
     "name:ces_x_preferred":[
         "Ey\u00fcp Merkez"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1126081387,
-    "wof:lastmodified":1561837394,
+    "wof:lastmodified":1563323551,
     "wof:name":"Ey\u00fcp Merkez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

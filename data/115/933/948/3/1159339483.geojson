@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.627556,
+    "geom:area_square_m":133774450985.409424,
     "geom:bbox":"-70.631612255,-23.8375797185,-67.013966838,-17.506588198",
     "geom:latitude":-21.43361,
     "geom:longitude":-69.170543,
@@ -27,6 +28,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30bf\u30ab\u30de\u7d1b\u4e89"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10d0\u10d9\u10d0\u10db\u10d8\u10e1 \u10e1\u10d0\u10e1\u10d0\u10d6\u10e6\u10d5\u10e0\u10dd \u10d3\u10d0\u10d5\u10d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0447\u0435\u043d \u0441\u043f\u043e\u0440 \u0432\u043e \u0410\u0442\u0430\u043a\u0430\u043c\u0430"
     ],
     "name:spa_x_preferred":[
         "Corredor de Atacama"
@@ -157,7 +164,7 @@
         }
     ],
     "wof:id":1159339483,
-    "wof:lastmodified":1528909938,
+    "wof:lastmodified":1563324508,
     "wof:name":"Atacama border dispute",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

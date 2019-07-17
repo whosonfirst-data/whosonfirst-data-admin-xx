@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Les Abymes"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0632\u0628\u06cc\u0645"
+    ],
     "name:bam_x_preferred":[
         "Les Abymes"
     ],
@@ -44,6 +47,9 @@
         "Les Abymes"
     ],
     "name:cat_x_preferred":[
+        "Les Abymes"
+    ],
+    "name:ceb_x_preferred":[
         "Les Abymes"
     ],
     "name:ces_x_preferred":[
@@ -347,7 +353,7 @@
         }
     ],
     "wof:id":1125847519,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324456,
     "wof:name":"Les Abymes",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

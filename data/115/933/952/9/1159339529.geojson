@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363134,
+    "geom:area_square_m":3043687985.134894,
     "geom:bbox":"28.501081584,46.553128561,29.95262089,48.155950623",
     "geom:latitude":47.322637,
     "geom:longitude":29.312036,
@@ -22,14 +23,86 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Transnistri\u00eb"
+    ],
+    "name:amh_x_preferred":[
+        "\u1275\u122b\u1295\u1235\u1292\u1235\u1275\u122a\u12eb"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0631\u0627\u0646\u0633\u0646\u064a\u0633\u062a\u0631\u064a\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Transnistria"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u0627\u0646\u0633\u0646\u064a\u0633\u062a\u0631\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Transnistria"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0627\u0646\u0633\u0646\u06cc\u0633\u062a\u0631\u06cc\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Dnestryan\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u043d\u0435\u0441\u0442\u0440 \u0431\u0443\u0439\u044b \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u0434\u043d\u044f\u0441\u0442\u0440\u043e\u045e\u0435"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09a8\u09bf\u09b8\u09cd\u09a4\u09cd\u09b0\u09bf\u09af\u09bc\u09be"
     ],
+    "name:bos_x_preferred":[
+        "Pridnjestrovska Moldavska Republika"
+    ],
+    "name:bre_x_preferred":[
+        "Treuznistria"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0438\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Transn\u00edstria"
+    ],
+    "name:cdo_x_preferred":[
+        "Transnistria"
+    ],
+    "name:ces_x_preferred":[
+        "Podn\u011bst\u0159\u00ed"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u044c\u0430\u043b\u0445\u0430\u0440\u0430\u043d\u0435\u0441\u0442\u0440\u0430 \u041c\u043e\u043b\u0434\u0430\u0432\u043d\u043e\u0439\u043d \u041f\u0430\u0447\u0445\u044c\u0430\u043b\u043a\u0445"
+    ],
+    "name:chu_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u044a\u043d\u0463\u0441\u0442\u0440\u0438\u0465"
+    ],
+    "name:cor_x_preferred":[
+        "Transnistri"
+    ],
+    "name:crh_x_preferred":[
+        "Pridnestrovye"
+    ],
+    "name:cym_x_preferred":[
+        "Transnistria"
+    ],
+    "name:dan_x_preferred":[
+        "Transnistrien"
+    ],
     "name:deu_x_preferred":[
         "Transnistrien"
+    ],
+    "name:diq_x_preferred":[
+        "Transdinyester"
+    ],
+    "name:div_x_preferred":[
+        "\u0793\u07aa\u0783\u07a7\u0782\u07b0\u0790\u07b0\u0782\u07a8\u0790\u07b0\u0793\u07aa\u0783\u07a8\u0787\u07a7"
+    ],
+    "name:dsb_x_preferred":[
+        "P\u00f3dnjesterska"
     ],
     "name:ell_x_preferred":[
         "\u03a5\u03c0\u03b5\u03c1\u03b4\u03bd\u03b5\u03b9\u03c3\u03c4\u03b5\u03c1\u03af\u03b1"
@@ -37,29 +110,170 @@
     "name:eng_x_preferred":[
         "Pridnestrovian Moldavian Republic"
     ],
+    "name:eng_x_variant":[
+        "Transnistria"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108ednestrio"
+    ],
+    "name:est_x_preferred":[
+        "Transnistria"
+    ],
+    "name:eus_x_preferred":[
+        "Transnistria"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0646\u0633\u0646\u06cc\u0633\u062a\u0631\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Transnistria"
+    ],
     "name:fra_x_preferred":[
         "Transnistrie"
+    ],
+    "name:frr_x_preferred":[
+        "Transnistrien"
+    ],
+    "name:gag_x_preferred":[
+        "Transnistriya"
+    ],
+    "name:glg_x_preferred":[
+        "Transnistria"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0aa8\u0abf\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abf\u0a86"
+    ],
+    "name:hak_x_preferred":[
+        "Transnistria"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05e0\u05e1\u05e0\u05d9\u05e1\u05d8\u05e8\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091f\u094d\u0930\u093e\u0902\u0938\u0928\u093f\u0938\u094d\u0924\u094d\u0930\u093f\u092f\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Pridnjestrovska Moldavska Republika"
+    ],
+    "name:hsb_x_preferred":[
+        "Podnjesterska"
+    ],
     "name:hun_x_preferred":[
         "Dnyeszter Menti K\u00f6zt\u00e1rsas\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0580\u0571\u0564\u0576\u0565\u057d\u057f\u0580\u056b \u0544\u0578\u056c\u0564\u0578\u057e\u0561\u056f\u0561\u0576 \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Transnistria"
     ],
     "name:ind_x_preferred":[
         "Transnistria"
     ],
+    "name:isl_x_preferred":[
+        "Transnistr\u00eda"
+    ],
     "name:ita_x_preferred":[
+        "Transnistria"
+    ],
+    "name:jav_x_preferred":[
         "Transnistria"
     ],
     "name:jpn_x_preferred":[
         "\u6cbf\u30c9\u30cb\u30a8\u30b9\u30c8\u30eb\u5171\u548c\u56fd"
     ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0ccd\u0cb0\u0cbe\u0ca8\u0ccd\u0cb8\u0ccd\u0ca8\u0cbf\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dc\u10d4\u10e1\u10e2\u10e0\u10d8\u10e1\u10de\u10d8\u10e0\u10d4\u10d7\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0430\u043d\u0441\u043d\u0438\u0441\u0442\u0440\u0438\u044f"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0414\u043d\u0435\u0441\u0442\u044b\u0440\u043f\u044b\u0442 \u041c\u043e\u043b\u0434\u043e\u0432\u044d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d"
+    ],
+    "name:kom_x_preferred":[
+        "\u0414\u043d\u0435\u0441\u0442\u0440\u0434\u043e\u0440"
+    ],
     "name:kor_x_preferred":[
         "\ud2b8\ub780\uc2a4\ub2c8\uc2a4\ud2b8\ub9ac\uc544"
     ],
+    "name:kur_x_preferred":[
+        "Transn\u00eestriya"
+    ],
+    "name:lat_x_preferred":[
+        "Transnistria"
+    ],
+    "name:lav_x_preferred":[
+        "Pied\u0146estra"
+    ],
+    "name:lim_x_preferred":[
+        "Transnistri\u00eb"
+    ],
+    "name:lit_x_preferred":[
+        "Padniestr\u0117"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5fb7\u6d85\u65af\u7279\u6cb3\u6cbf\u5cb8"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d4d\u0d30\u0d3e\u0d7b\u0d38\u0d4d\u0d28\u0d3f\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d3f\u0d2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094d\u0930\u093e\u0928\u094d\u0938\u0928\u093f\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0414\u043d\u0435\u0441\u0442\u0440\u0441\u0435\u0440"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0438\u0435"
+    ],
+    "name:mlt_x_preferred":[
+        "Transnistrija"
+    ],
+    "name:mon_x_preferred":[
+        "\u180c\u180c\u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Transnistria"
+    ],
+    "name:nan_x_preferred":[
+        "Transnistria"
+    ],
+    "name:nap_x_preferred":[
+        "Transnistria"
+    ],
+    "name:nds_x_preferred":[
+        "Transnistrien"
+    ],
     "name:nld_x_preferred":[
         "Transnistri\u00eb"
+    ],
+    "name:nno_x_preferred":[
+        "Transnistria"
+    ],
+    "name:nob_x_preferred":[
+        "Transnistria"
+    ],
+    "name:nov_x_preferred":[
+        "Transnistria"
+    ],
+    "name:oci_x_preferred":[
+        "Transn\u00edstria"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u044c\u0435"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1f\u0a30\u0a3e\u0a02\u0a38\u0a28\u0a3f\u0a38\u0a24\u0a30\u0a40\u0a06"
+    ],
+    "name:pms_x_preferred":[
+        "Transnistria"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0679\u0631\u0627\u0646\u0633\u0646\u0633\u0679\u0631\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Naddniestrze"
@@ -67,20 +281,104 @@
     "name:por_x_preferred":[
         "Transn\u00edstria"
     ],
+    "name:ron_x_preferred":[
+        "Transnistria"
+    ],
+    "name:rue_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043d\u0457\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0430 \u041c\u043e\u043b\u0434\u0430\u0432\u0441\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u041c\u043e\u043b\u0434\u0430\u0432\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
+    "name:scn_x_preferred":[
+        "Transnistria"
+    ],
+    "name:sco_x_preferred":[
+        "Transnistrie"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dca\u0dbb\u0dcf\u0db1\u0dd2\u0dc3\u0dca\u0da7\u0dca\u0dbb\u0dd2\u0dba\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Podnestersko"
+    ],
+    "name:slv_x_preferred":[
+        "Pridnjestrska republika"
+    ],
+    "name:snd_x_preferred":[
+        "\u067d\u0631\u0627\u0646\u0633 \u0646\u0633\u067d\u0631\u064a\u0627"
+    ],
     "name:spa_x_preferred":[
+        "Transnistria"
+    ],
+    "name:srd_x_preferred":[
+        "Transn\u00ecstria"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u045a\u0435\u0441\u0442\u0440\u043e\u0432\u0459\u0435"
+    ],
+    "name:sun_x_preferred":[
+        "Transnistria"
+    ],
+    "name:swa_x_preferred":[
         "Transnistria"
     ],
     "name:swe_x_preferred":[
         "Transnistrien"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0b9a\u0bc1\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043d\u0435\u0441\u0442\u0440 \u0431\u0443\u0435 \u041c\u043e\u043b\u0434\u043e\u0432\u0430\u043d \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c3f\u0c28\u0c3f\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Transnistria"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e23\u0e32\u0e19\u0e2a\u0e4c\u0e19\u0e35\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"
+    ],
+    "name:tuk_x_preferred":[
+        "Transnister"
+    ],
     "name:tur_x_preferred":[
         "Transdinyester"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0434\u043d\u0456\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u041c\u043e\u043b\u0434\u0430\u0432\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u06cc\u0646\u0633\u0646\u06cc\u0633\u0679\u0631\u06cc\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Dnestranrand"
+    ],
     "name:vie_x_preferred":[
         "Transnistria"
+    ],
+    "name:war_x_preferred":[
+        "Transnistria"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8076\u65af\u7279\u6cb3\u6cbf\u5cb8"
+    ],
+    "name:xal_x_preferred":[
+        "\u0414\u043d\u0435\u0441\u0442\u0440 \u041a\u0435\u0432\u0441\u0438\u043d \u041c\u043e\u043b\u0434\u0430\u0432\u043c\u0443\u0434\u0438\u043d \u0422\u0430\u04a3\u04bb\u0447"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10dc\u10d4\u10e1\u10e2\u10e0\u10d8\u10e8\u10de\u10d8\u10ef\u10d4\u10d7\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05e8\u05d0\u05e0\u05e1\u05e0\u05d9\u05e1\u05d8\u05e8\u05d9\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "Transnistria"
+    ],
+    "name:yue_x_preferred":[
+        "\u5fb7\u6d85\u65af\u7279\u6cb3\u6cbf\u5cb8\u5171\u548c\u570b"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u6d85\u65af\u7279\u6cb3\u6cbf\u5cb8"
@@ -208,7 +506,7 @@
         }
     ],
     "wof:id":1159339529,
-    "wof:lastmodified":1528909939,
+    "wof:lastmodified":1563324497,
     "wof:name":"Pridnestrovian Moldavian Republic",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

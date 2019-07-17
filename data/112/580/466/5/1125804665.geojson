@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Les Anses-d'Arlet"
     ],
+    "name:ceb_x_preferred":[
+        "Les Anses-d'Arlet"
+    ],
     "name:ces_x_preferred":[
         "Les Anses-d'Arlet"
     ],
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":1125804665,
-    "wof:lastmodified":1561837382,
+    "wof:lastmodified":1563322591,
     "wof:name":"Les Anses-d'Arlets",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

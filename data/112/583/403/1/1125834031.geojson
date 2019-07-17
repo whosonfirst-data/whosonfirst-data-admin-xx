@@ -16,11 +16,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0634\u0648\u06cc\u0645\u0686\u06cc\u0646"
+    ],
     "name:aze_x_preferred":[
         "Osvensim"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0441\u0432\u0435\u043d\u0446\u0456\u043c"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0441\u0432\u0435\u043d\u0446\u0456\u043c"
     ],
     "name:bos_x_preferred":[
         "O\u015bwi\u0119cim"
@@ -30,6 +36,9 @@
     ],
     "name:cat_x_preferred":[
         "O\u015bwi\u0119cim"
+    ],
+    "name:ceb_x_preferred":[
+        "Auschwitz"
     ],
     "name:ces_x_preferred":[
         "Osv\u011btim"
@@ -52,6 +61,12 @@
     "name:epo_x_preferred":[
         "O\u015bwi\u0119cim"
     ],
+    "name:est_x_preferred":[
+        "O\u015bwi\u0119cim"
+    ],
+    "name:eus_x_preferred":[
+        "O\u015bwi\u0119cim"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0634\u0648\u06cc\u0645\u0686\u06cc\u0646"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e9\u05d5\u05d5\u05d9\u05d9\u05e0\u05e6'\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0914\u0938\u0935\u0947\u0938\u093f\u092e"
     ],
     "name:hrv_x_preferred":[
         "O\u015bwi\u0119cim"
@@ -118,11 +136,17 @@
     "name:lmo_x_preferred":[
         "O\u015bwi\u0119cim"
     ],
+    "name:ltz_x_preferred":[
+        "Auschwitz"
+    ],
     "name:mar_x_preferred":[
         "\u0913\u0936\u094d\u092b\u093f\u0928\u094d\u091a\u093f\u092e"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0441\u0432\u0458\u0435\u043d\u045c\u0438\u043c"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u0448\u0432\u0458\u0435\u043d\u045c\u0438\u043c"
     ],
     "name:msa_x_preferred":[
         "O\u015bwi\u0119cim"
@@ -196,6 +220,9 @@
     "name:yid_x_preferred":[
         "\u05d0\u05e9\u05e4\u05e2\u05e6\u05d9\u05df"
     ],
+    "name:yue_x_preferred":[
+        "\u5967\u65af\u5a01\u8f9b"
+    ],
     "name:zho_x_preferred":[
         "\u5965\u65af\u5a01\u8f9b"
     ],
@@ -246,7 +273,7 @@
         }
     ],
     "wof:id":1125834031,
-    "wof:lastmodified":1561837414,
+    "wof:lastmodified":1563324487,
     "wof:name":"Oswiecim",
     "wof:parent_id":102079465,
     "wof:placetype":"locality",

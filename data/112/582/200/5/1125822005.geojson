@@ -19,7 +19,16 @@
     "name:bos_x_preferred":[
         "Zasip"
     ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0441\u0438\u043f"
+    ],
+    "name:ceb_x_preferred":[
+        "Zasip"
+    ],
     "name:eng_x_preferred":[
+        "Zasip"
+    ],
+    "name:fra_x_preferred":[
         "Zasip"
     ],
     "name:hrv_x_preferred":[
@@ -29,6 +38,9 @@
         "Zasip"
     ],
     "name:nld_x_preferred":[
+        "Zasip"
+    ],
+    "name:pol_x_preferred":[
         "Zasip"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":1125822005,
-    "wof:lastmodified":1561837406,
+    "wof:lastmodified":1563324065,
     "wof:name":"Zasip",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Miejsce Piastowe"
+    ],
+    "name:ceb_x_preferred":[
+        "Miejsce Piastowe"
+    ],
     "name:deu_x_preferred":[
         "Miejsce Piastowe"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:pol_x_preferred":[
         "Miejsce Piastowe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0439\u0441\u0446\u0435-\u041f\u044f\u0441\u0442\u043e\u0432\u0435"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Miejsce Piastowe",
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1126051331,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322161,
     "wof:name":"Miejsce Piastowe",
     "wof:parent_id":102079455,
     "wof:placetype":"locality",

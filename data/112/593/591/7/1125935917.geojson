@@ -43,11 +43,17 @@
     "name:ron_x_preferred":[
         "Mere\u0219ti"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0440\u0435\u0448\u0442\u0438"
+    ],
     "name:vie_x_preferred":[
         "Meresti"
     ],
     "name:vol_x_preferred":[
         "Mere\u0219ti"
+    ],
+    "name:war_x_preferred":[
+        "Maripasoula"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Mere\u0219ti",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125935917,
-    "wof:lastmodified":1561837366,
+    "wof:lastmodified":1563321797,
     "wof:name":"Mere\u0219ti",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.954993,
+    "geom:area_square_m":8622833834.473461,
     "geom:bbox":"39.9859763554,42.406457421,42.154333961,43.57584259",
     "geom:latitude":43.095246,
     "geom:longitude":41.172434,
@@ -22,14 +23,98 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:abk_x_preferred":[
+        "\u0410\u0525\u0441\u043d\u044b"
+    ],
+    "name:ady_x_preferred":[
+        "\u0410\u0434\u0437\u044b\u0433\u044a\u044d\u0439"
+    ],
+    "name:afr_x_preferred":[
+        "Abchasi\u00eb"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a0\u1265\u12ab\u12dd\u12eb"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0628\u062e\u0627\u0632\u064a\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Abkhasia"
+    ],
+    "name:ast_x_preferred":[
+        "Ab\u1e25asia"
+    ],
+    "name:ava_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0628\u062e\u0627\u0632\u06cc \u06cc\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Abxaziya"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:bar_x_preferred":[
+        "Abchasien"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u0996\u09be\u099c\u09bf\u09af\u09bc\u09be"
     ],
+    "name:bos_x_preferred":[
+        "Abhazija"
+    ],
+    "name:bre_x_preferred":[
+        "Abc'hazia"
+    ],
+    "name:brh_x_preferred":[
+        "Abx\u00e1z\u00ed\u00e1"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Abkh\u00e0zia"
+    ],
+    "name:cdo_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:ceb_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:ces_x_preferred":[
+        "Abch\u00e1zie"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438"
+    ],
+    "name:chu_x_preferred":[
+        "\u0410\u0431\u0445\u0430\ua641\u0457\ua657"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0628\u062e\u0627\u0632\u06cc\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Abhaziya"
+    ],
+    "name:cym_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:dan_x_preferred":[
+        "Abkhasien"
+    ],
     "name:deu_x_preferred":[
         "Abchasien"
+    ],
+    "name:diq_x_preferred":[
+        "Abxazya"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03c0\u03c7\u03b1\u03b6\u03af\u03b1"
@@ -37,29 +122,230 @@
     "name:eng_x_preferred":[
         "Abkhazia"
     ],
+    "name:epo_x_preferred":[
+        "Ab\u0125azio"
+    ],
+    "name:est_x_preferred":[
+        "Abhaasia"
+    ],
+    "name:eus_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:fao_x_preferred":[
+        "Abkasia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u062e\u0627\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Abhasia"
+    ],
     "name:fra_x_preferred":[
         "Abkhazie"
+    ],
+    "name:frp_x_preferred":[
+        "Abkhazie"
+    ],
+    "name:frr_x_preferred":[
+        "Abchaasien"
+    ],
+    "name:fry_x_preferred":[
+        "Abgaazje"
+    ],
+    "name:gag_x_preferred":[
+        "Abhaziya"
+    ],
+    "name:gle_x_preferred":[
+        "An Abc\u00e1is"
+    ],
+    "name:glg_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:glv_x_preferred":[
+        "Yn Abcaaish"
+    ],
+    "name:grn_x_preferred":[
+        "Avek\u00e1sia"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0aac\u0a96\u0abe\u0a9d\u0abf\u0aaf\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d7\u05d6\u05d9\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Abkhazia"
     ],
     "name:hin_x_preferred":[
         "\u0905\u092c\u0916\u093c\u093e\u091c\u093c\u093f\u092f\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Abhazija"
+    ],
+    "name:hsb_x_preferred":[
+        "Abchaziska"
+    ],
     "name:hun_x_preferred":[
         "Abh\u00e1zia"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0562\u056d\u0561\u0566\u056b\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:ile_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:ilo_x_preferred":[
+        "Abkhazia"
     ],
     "name:ind_x_preferred":[
         "Abkhazia"
     ],
+    "name:inh_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438"
+    ],
+    "name:isl_x_preferred":[
+        "Abkas\u00eda"
+    ],
     "name:ita_x_preferred":[
         "Abcasia"
+    ],
+    "name:jav_x_preferred":[
+        "Abkhazia"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d6\u30cf\u30b8\u30a2"
     ],
+    "name:kab_x_preferred":[
+        "Abxazya"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cac\u0ccd\u0c96\u0cbe\u0c9c\u0cbf\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e4\u10ee\u10d0\u10d6\u10d4\u10d7\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0410\u0437\u0433\u044a\u0435\u0439"
+    ],
+    "name:kin_x_preferred":[
+        "Abukaziya"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:kom_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
     "name:kor_x_preferred":[
         "\uc555\ud558\uc9c0\uc57c"
     ],
+    "name:krc_x_preferred":[
+        "\u0425\u0430\u0447\u044b\u043f\u0441\u044b"
+    ],
+    "name:kur_x_preferred":[
+        "Abxazya"
+    ],
+    "name:lad_x_preferred":[
+        "Abhazia"
+    ],
+    "name:lat_x_preferred":[
+        "Abascia"
+    ],
+    "name:lav_x_preferred":[
+        "Abh\u0101zija"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:lim_x_preferred":[
+        "Abchazi\u00eb"
+    ],
+    "name:lit_x_preferred":[
+        "Abchazija"
+    ],
+    "name:lmo_x_preferred":[
+        "Abcasia"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u092c\u0916\u093e\u091c\u093f\u092f\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2c\u0d4d\u0d16\u0d3e\u0d38\u0d3f\u0d2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u092c\u0916\u093e\u091d\u093f\u092f\u093e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043f\u0445\u0430\u0437\u0438\u0458\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Abka\u017cja"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0622\u0628\u062e\u0627\u0632\u06cc\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Abcasia"
+    ],
+    "name:nan_x_preferred":[
+        "Abkhazia"
+    ],
     "name:nld_x_preferred":[
         "Abchazi\u00eb"
+    ],
+    "name:nno_x_preferred":[
+        "Abkhasia"
+    ],
+    "name:nob_x_preferred":[
+        "Abkhasia"
+    ],
+    "name:nov_x_preferred":[
+        "Abkasia"
+    ],
+    "name:oci_x_preferred":[
+        "Abcazia"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b06\u0b2c\u0b3e\u0b16\u0b3e\u0b1c\u0b3f\u0b06"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438"
+    ],
+    "name:pam_x_preferred":[
+        "Abhasya"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a2c\u0a16\u0a3c\u0a3e\u0a1c\u0a3c\u0a40\u0a06"
+    ],
+    "name:pli_x_preferred":[
+        "\u0905\u092c\u094d\u0916\u093e\u091c\u093f\u092f\u093e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0628\u062e\u0627\u0632\u06cc\u06c1"
     ],
     "name:pol_x_preferred":[
         "Abchazja"
@@ -67,20 +353,131 @@
     "name:por_x_preferred":[
         "Abec\u00e1sia"
     ],
+    "name:ron_x_preferred":[
+        "Abhazia"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:scn_x_preferred":[
+        "Abkh\u00e0zzia"
+    ],
+    "name:sco_x_preferred":[
+        "Abkhazie"
+    ],
+    "name:sgs_x_preferred":[
+        "Abkaz\u0117j\u0117"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db6\u0dca\u0d9c\u0dcf\u0dc3\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "Abch\u00e1zsko"
+    ],
+    "name:slv_x_preferred":[
+        "Abhazija"
+    ],
+    "name:sma_x_preferred":[
+        "Absjasia"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0628\u062e\u0627\u0632\u064a\u06c1"
+    ],
+    "name:som_x_preferred":[
+        "Abkhazia"
     ],
     "name:spa_x_preferred":[
         "Abjasia"
     ],
+    "name:sqi_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:srd_x_preferred":[
+        "Abc\u00e0sia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u0458\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:swa_x_preferred":[
+        "Abkhazia"
+    ],
     "name:swe_x_preferred":[
         "Abchazien"
+    ],
+    "name:szl_x_preferred":[
+        "Abchazyjo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0baa\u0bcd\u0b95\u0bbe\u0b9a\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c2c\u0c4d\u200c\u0c16\u0c1c\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0431\u0445\u043e\u0437\u0438\u0441\u0442\u043e\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Abkasya"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e1a\u0e04\u0e32\u0e40\u0e0b\u0e35\u0e22"
+    ],
+    "name:tuk_x_preferred":[
+        "Abhazi\u00fda"
     ],
     "name:tur_x_preferred":[
         "Abhazya"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0445\u0430\u0437\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u062e\u0627\u0632\u064a\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Abxaziya"
+    ],
+    "name:vec_x_preferred":[
+        "Abcaxia"
+    ],
+    "name:vep_x_preferred":[
+        "Abhazii"
+    ],
     "name:vie_x_preferred":[
         "Abkhazia"
+    ],
+    "name:vol_x_preferred":[
+        "Labkas\u00e4n"
+    ],
+    "name:war_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:xal_x_preferred":[
+        "\u0410\u043f\u0441\u0438\u043d \u0422\u0430\u04a3\u04bb\u0447"
+    ],
+    "name:xho_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e4\u10ee\u10d0\u10d6\u10d4\u10d7\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Abkhazia"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u5e03\u54c8\u8332"
+    ],
+    "name:zea_x_preferred":[
+        "Abchazi\u00eb"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5e03\u54c8\u8332"
@@ -209,7 +606,7 @@
         }
     ],
     "wof:id":1159339513,
-    "wof:lastmodified":1528909938,
+    "wof:lastmodified":1563324540,
     "wof:name":"Abkhazia",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Kourou"
     ],
+    "name:aze_x_preferred":[
+        "Kuru"
+    ],
     "name:bam_x_preferred":[
         "Kourou"
     ],
@@ -44,6 +47,9 @@
         "\u041a\u0443\u0440\u0443"
     ],
     "name:cat_x_preferred":[
+        "Kourou"
+    ],
+    "name:ceb_x_preferred":[
         "Kourou"
     ],
     "name:ces_x_preferred":[
@@ -292,6 +298,9 @@
     "name:wol_x_preferred":[
         "Kourou"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u9c81"
+    ],
     "name:zho_x_preferred":[
         "\u5e93\u9c81"
     ],
@@ -362,7 +371,7 @@
         }
     ],
     "wof:id":1125993615,
-    "wof:lastmodified":1561837388,
+    "wof:lastmodified":1563323203,
     "wof:name":"Kourou",
     "wof:parent_id":1091680649,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Be\u0219tepe"
+    ],
     "name:eng_x_preferred":[
         "Be\u0219tepe"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ron_x_preferred":[
         "Be\u0219tepe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125831467,
-    "wof:lastmodified":1561837414,
+    "wof:lastmodified":1563324489,
     "wof:name":"Be\u0219tepe",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Lifford"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0456\u0444\u0430\u0440\u0434"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:cat_x_preferred":[
         "Lifford"
+    ],
+    "name:ceb_x_preferred":[
+        "Leifear"
     ],
     "name:cym_x_preferred":[
         "Lifford"
@@ -36,6 +42,9 @@
     ],
     "name:eus_x_preferred":[
         "Lifford"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0641\u0648\u0631\u062f"
     ],
     "name:fra_x_preferred":[
         "Lifford"
@@ -161,7 +170,7 @@
         }
     ],
     "wof:id":1125868813,
-    "wof:lastmodified":1561837377,
+    "wof:lastmodified":1563322304,
     "wof:name":"Lifford",
     "wof:parent_id":1360699233,
     "wof:placetype":"locality",

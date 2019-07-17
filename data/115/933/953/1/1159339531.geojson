@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.141998,
+    "geom:area_square_m":17706658174.703957,
     "geom:bbox":"37.4933097399,47.026353257,39.993248332,48.7056134126",
     "geom:latitude":48.045796,
     "geom:longitude":38.637499,
@@ -25,6 +26,24 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0636 \u062f\u0648\u0646\u064a\u062a\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u0648\u0646\u0628\u0627\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043d\u0435\u0446\u043a\u0456 \u0440\u044d\u0433\u0456\u0451\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043d\u0431\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Donbass"
+    ],
+    "name:ces_x_preferred":[
+        "Donbas"
+    ],
+    "name:dan_x_preferred":[
+        "Donbass"
+    ],
     "name:deu_x_preferred":[
         "Donezbecken"
     ],
@@ -34,8 +53,35 @@
     "name:eng_x_preferred":[
         "Donbass"
     ],
+    "name:eng_x_variant":[
+        "Donets Basin"
+    ],
+    "name:epo_x_preferred":[
+        "Donbaso"
+    ],
+    "name:est_x_preferred":[
+        "Donetsi s\u00f6ebassein"
+    ],
+    "name:eus_x_preferred":[
+        "Donbass"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u0628\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Donetsin allas"
+    ],
     "name:fra_x_preferred":[
         "Donbass"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d1\u05d0\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Donbas"
+    ],
+    "name:hun_x_preferred":[
+        "Donyec-medence"
     ],
     "name:ind_x_preferred":[
         "Donbas"
@@ -49,8 +95,26 @@
     "name:kor_x_preferred":[
         "\ub3c8\ubc14\uc2a4"
     ],
+    "name:lav_x_preferred":[
+        "Donbass"
+    ],
+    "name:lit_x_preferred":[
+        "Donbasas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d21\u0d4a\u0d28\u0d46\u0d31\u0d4d\u0d31\u0d4d\u0d38\u0d4d \u0d24\u0d1f\u0d02"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0447\u043a\u0438 \u0431\u0430\u0441\u0435\u043d"
+    ],
     "name:nld_x_preferred":[
         "Donetsbekken"
+    ],
+    "name:nno_x_preferred":[
+        "Donetsbekkenet"
+    ],
+    "name:nob_x_preferred":[
+        "Donetsbekkenet"
     ],
     "name:pol_x_preferred":[
         "Donieckie Zag\u0142\u0119bie W\u0119glowe"
@@ -58,17 +122,41 @@
     "name:por_x_preferred":[
         "Bacia Donets"
     ],
+    "name:ron_x_preferred":[
+        "Donbas"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043d\u0431\u0430\u0441\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u043e\u043d\u0435\u0442\u0447\u0438\u043d\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Donbass"
+    ],
+    "name:slk_x_preferred":[
+        "Doneck\u00e1 panva"
+    ],
+    "name:slv_x_preferred":[
+        "Donbas"
     ],
     "name:spa_x_preferred":[
         "Cuenca Don\u00e9ts"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0435\u0446\u043a\u0438 \u0431\u0430\u0441\u0435\u043d"
+    ],
     "name:swe_x_preferred":[
         "Donetsb\u00e4ckenet"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0430\u043d\u0431\u0430\u0441"
+    ],
     "name:tur_x_preferred":[
         "Donets Havzas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0431\u0430\u0441"
     ],
     "name:vie_x_preferred":[
         "Donbas"
@@ -200,7 +288,7 @@
         }
     ],
     "wof:id":1159339531,
-    "wof:lastmodified":1528909939,
+    "wof:lastmodified":1563324493,
     "wof:name":"Donbass",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

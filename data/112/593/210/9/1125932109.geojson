@@ -40,7 +40,13 @@
     "name:bug_x_preferred":[
         "Trois-Rivi\u00e8res"
     ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u043e\u0430 \u0420\u0438\u0432\u0438\u0435\u0440"
+    ],
     "name:cat_x_preferred":[
+        "Trois-Rivi\u00e8res"
+    ],
+    "name:ceb_x_preferred":[
         "Trois-Rivi\u00e8res"
     ],
     "name:ces_x_preferred":[
@@ -320,7 +326,7 @@
         }
     ],
     "wof:id":1125932109,
-    "wof:lastmodified":1561837366,
+    "wof:lastmodified":1563321794,
     "wof:name":"Trois-Rivi\u00e8res",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

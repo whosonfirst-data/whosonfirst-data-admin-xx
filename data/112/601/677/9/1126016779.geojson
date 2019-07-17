@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "V\u00e5g\u00e5"
+    ],
     "name:bar_x_preferred":[
         "V\u00e5g\u00e5"
     ],
@@ -26,6 +29,9 @@
         "\u09ad\u0997\u09cb"
     ],
     "name:cat_x_preferred":[
+        "V\u00e5g\u00e5"
+    ],
+    "name:ceb_x_preferred":[
         "V\u00e5g\u00e5"
     ],
     "name:ces_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:eus_x_preferred":[
         "V\u00e5g\u00e5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06af\u0648"
     ],
     "name:fin_x_preferred":[
         "V\u00e5g\u00e5"
@@ -133,6 +142,9 @@
     "name:swe_x_preferred":[
         "V\u00e5g\u00e5"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0433\u043e"
+    ],
     "name:vie_x_preferred":[
         "V\u00e5g\u00e5"
     ],
@@ -189,7 +201,7 @@
         }
     ],
     "wof:id":1126016779,
-    "wof:lastmodified":1561837397,
+    "wof:lastmodified":1563323687,
     "wof:name":"V\u00e5g\u00e5",
     "wof:parent_id":1159296879,
     "wof:placetype":"locality",

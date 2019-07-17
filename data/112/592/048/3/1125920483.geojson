@@ -22,10 +22,16 @@
     "name:eng_x_preferred":[
         "Starod"
     ],
+    "name:fra_x_preferred":[
+        "Starod"
+    ],
     "name:hrv_x_preferred":[
         "Starod"
     ],
     "name:nld_x_preferred":[
+        "Starod"
+    ],
+    "name:pol_x_preferred":[
         "Starod"
     ],
     "name:ron_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125920483,
-    "wof:lastmodified":1561837368,
+    "wof:lastmodified":1563321879,
     "wof:name":"Starod",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",

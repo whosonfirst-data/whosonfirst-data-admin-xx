@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0633\u064a\u0646\u0643\u0627\u0643\u0648"
     ],
+    "name:aze_x_preferred":[
+        "Senkaku adalar\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u0995\u09be\u0995\u09c1 \u09a6\u09cd\u09ac\u09c0\u09aa"
     ],
@@ -77,6 +80,9 @@
     ],
     "name:fin_x_preferred":[
         "kiistelty alue"
+    ],
+    "name:fin_x_variant":[
+        "Senkakusaaret"
     ],
     "name:fra_x_preferred":[
         "\u00eeles Senkaku"
@@ -187,7 +193,8 @@
         "Senkaku-\u00f6arna"
     ],
     "name:swe_x_variant":[
-        "Omtvistat omr\u00e5de"
+        "Omtvistat omr\u00e5de",
+        "Senkaku\u00f6arna"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0ba9\u0bcd\u0b95\u0bbe\u0b95\u0bc1 \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
@@ -362,7 +369,7 @@
         }
     ],
     "wof:id":85632621,
-    "wof:lastmodified":1561837364,
+    "wof:lastmodified":1563321752,
     "wof:name":"Pinnacle Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

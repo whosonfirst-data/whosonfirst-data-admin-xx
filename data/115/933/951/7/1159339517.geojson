@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004265,
+    "geom:area_square_m":42727885.678392,
     "geom:bbox":"-5.398858679,35.847357489,-5.283070442,35.926174221",
     "geom:latitude":35.892449,
     "geom:longitude":-5.347382,
@@ -22,13 +23,70 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Ceuta"
+    ],
+    "name:amh_x_preferred":[
+        "\u1234\u12cd\u1273"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0628\u062a\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Ceuta"
+    ],
+    "name:arz_x_preferred":[
+        "\u062b\u064a\u0648\u064a\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ceuta"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0626\u0648\u062a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Seuta"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u045e\u0442\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0989\u099a\u09be"
     ],
+    "name:bos_x_preferred":[
+        "Ceuta"
+    ],
+    "name:bre_x_preferred":[
+        "Ceuta"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ceuta"
+    ],
+    "name:ceb_x_preferred":[
+        "Ceuta"
+    ],
+    "name:ces_x_preferred":[
+        "Ceuta"
+    ],
+    "name:cor_x_preferred":[
+        "Ceuta"
+    ],
+    "name:cym_x_preferred":[
+        "Ceuta"
+    ],
+    "name:dan_x_preferred":[
+        "Ceuta"
+    ],
     "name:deu_x_preferred":[
+        "Ceuta"
+    ],
+    "name:diq_x_preferred":[
+        "Ceuta"
+    ],
+    "name:dsb_x_preferred":[
         "Ceuta"
     ],
     "name:ell_x_preferred":[
@@ -37,28 +95,190 @@
     "name:eng_x_preferred":[
         "Ceuta"
     ],
+    "name:epo_x_preferred":[
+        "Ce\u016dto"
+    ],
+    "name:est_x_preferred":[
+        "Ceuta"
+    ],
+    "name:eus_x_preferred":[
+        "Ceuta"
+    ],
+    "name:ext_x_preferred":[
+        "Ceuta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u062a\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Ceuta"
+    ],
     "name:fra_x_preferred":[
+        "Ceuta"
+    ],
+    "name:frp_x_preferred":[
+        "Ceuta"
+    ],
+    "name:frr_x_preferred":[
+        "Ceuta"
+    ],
+    "name:gag_x_preferred":[
+        "Ceuta"
+    ],
+    "name:gla_x_preferred":[
+        "Ceuta"
+    ],
+    "name:gle_x_preferred":[
+        "Ceuta"
+    ],
+    "name:glg_x_preferred":[
+        "Ceuta"
+    ],
+    "name:gsw_x_preferred":[
+        "Ceuta"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0aaf\u0ac1\u0a9f\u0abe"
+    ],
+    "name:hat_x_preferred":[
+        "Ceuta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d5\u05d8\u05d4"
+    ],
+    "name:hif_x_preferred":[
         "Ceuta"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0909\u091f\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Ceuta"
+    ],
+    "name:hsb_x_preferred":[
+        "Ceuta"
+    ],
     "name:hun_x_preferred":[
+        "Ceuta"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0578\u0582\u057f\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Ceuta"
+    ],
+    "name:ile_x_preferred":[
+        "Ceuta"
+    ],
+    "name:ina_x_preferred":[
         "Ceuta"
     ],
     "name:ind_x_preferred":[
         "Ceuta"
     ],
+    "name:isl_x_preferred":[
+        "Ceuta"
+    ],
     "name:ita_x_preferred":[
+        "Ceuta"
+    ],
+    "name:jam_x_preferred":[
+        "Siuta"
+    ],
+    "name:jav_x_preferred":[
         "Ceuta"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30a6\u30bf"
     ],
+    "name:kab_x_preferred":[
+        "Sebta"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbf\u0caf\u0cc1\u0c9f\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10e3\u10e2\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
+    ],
     "name:kor_x_preferred":[
         "\uc138\uc6b0\ud0c0"
     ],
+    "name:kur_x_preferred":[
+        "Ceuta"
+    ],
+    "name:lad_x_preferred":[
+        "Seuta"
+    ],
+    "name:lat_x_preferred":[
+        "Septa"
+    ],
+    "name:lav_x_preferred":[
+        "Seuta"
+    ],
+    "name:lfn_x_preferred":[
+        "Ceuta"
+    ],
+    "name:lij_x_preferred":[
+        "Ceuta"
+    ],
+    "name:lim_x_preferred":[
+        "Ceuta"
+    ],
+    "name:lit_x_preferred":[
+        "Seuta"
+    ],
+    "name:lmo_x_preferred":[
+        "Ceuta"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0633\u0626\u0648\u062a\u0627"
+    ],
+    "name:ltz_x_preferred":[
+        "Ceuta"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0909\u0924\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Ceuta"
+    ],
+    "name:nah_x_preferred":[
+        "Ceuta"
+    ],
+    "name:nan_x_preferred":[
+        "Ceuta"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0947\u0909\u091f\u093e"
+    ],
     "name:nld_x_preferred":[
+        "Ceuta"
+    ],
+    "name:nno_x_preferred":[
+        "Ceuta"
+    ],
+    "name:nob_x_preferred":[
+        "Ceuta"
+    ],
+    "name:nso_x_preferred":[
+        "Ceuta"
+    ],
+    "name:oci_x_preferred":[
+        "Ceuta"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u00e6"
+    ],
+    "name:pam_x_preferred":[
+        "Ceuta"
+    ],
+    "name:pms_x_preferred":[
         "Ceuta"
     ],
     "name:pol_x_preferred":[
@@ -67,23 +287,107 @@
     "name:por_x_preferred":[
         "Ceuta"
     ],
+    "name:ron_x_preferred":[
+        "Ceuta"
+    ],
+    "name:rup_x_preferred":[
+        "Ceuta"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0443\u0442\u0430"
     ],
+    "name:scn_x_preferred":[
+        "Ceuta"
+    ],
+    "name:sco_x_preferred":[
+        "Ceuta"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0dba\u0dd4\u0da7\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Ceuta"
+    ],
+    "name:slv_x_preferred":[
+        "Ceuta"
+    ],
+    "name:sme_x_preferred":[
+        "Ceuta"
+    ],
     "name:spa_x_preferred":[
+        "Ceuta"
+    ],
+    "name:sqi_x_preferred":[
+        "Ceuta"
+    ],
+    "name:srd_x_preferred":[
+        "Ceuta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "C\u00e9uta"
+    ],
+    "name:swa_x_preferred":[
         "Ceuta"
     ],
     "name:swe_x_preferred":[
         "Ceuta"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baf\u0bc2\u0b9f\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c2f\u0c42\u0c1f\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Ceuta"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e27\u0e15\u0e32"
+    ],
     "name:tur_x_preferred":[
+        "Ceuta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u062a\u06c1"
+    ],
+    "name:vec_x_preferred":[
         "Ceuta"
     ],
     "name:vie_x_preferred":[
         "Ceuta"
     ],
+    "name:war_x_preferred":[
+        "Ceuta"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f11\u8fbe"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d4\u10e3\u10e2\u10d0"
+    ],
+    "name:yor_x_preferred":[
+        "Ceuta"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f11\u9054"
+    ],
+    "name:zea_x_preferred":[
+        "Ceuta"
+    ],
     "name:zho_x_preferred":[
         "\u4f11\u8fbe"
+    ],
+    "name:zul_x_preferred":[
+        "Ceuta"
     ],
     "ne:ABBREV":"Ceut.",
     "ne:ABBREV_LEN":5,
@@ -212,7 +516,7 @@
         }
     ],
     "wof:id":1159339517,
-    "wof:lastmodified":1528909938,
+    "wof:lastmodified":1563324535,
     "wof:name":"Ceuta",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -17,8 +17,14 @@
     "name:eng_x_preferred":[
         "Karzok"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0632\u0648\u06a9"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0930\u091c\u093c\u094b\u0915"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d3e\u0d7c\u0d38\u0d4b\u0d15\u0d4d"
     ],
     "name:nld_x_preferred":[
         "Karzok"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890449783,
-    "wof:lastmodified":1561837366,
+    "wof:lastmodified":1563321772,
     "wof:name":"Karzok",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

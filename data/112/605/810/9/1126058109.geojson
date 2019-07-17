@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Steinfeld"
     ],
+    "name:ceb_x_preferred":[
+        "Steinfeld"
+    ],
     "name:ces_x_preferred":[
         "Steinfeld"
     ],
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":1126058109,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322163,
     "wof:name":"Steinfeld",
     "wof:parent_id":102063415,
     "wof:placetype":"locality",

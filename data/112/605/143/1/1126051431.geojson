@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0410\u043f\u0430\u0442\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Apatin"
+    ],
     "name:ces_x_preferred":[
         "Apatin"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:est_x_preferred":[
         "Apatin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0627\u062a\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Apatin"
@@ -69,6 +75,9 @@
     ],
     "name:lit_x_preferred":[
         "Apatinas"
+    ],
+    "name:ltz_x_preferred":[
+        "Apatin"
     ],
     "name:msa_x_preferred":[
         "Apatin"
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":1126051431,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322167,
     "wof:name":"Apatin",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

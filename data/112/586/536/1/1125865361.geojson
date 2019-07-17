@@ -79,6 +79,9 @@
     "name:slv_x_preferred":[
         "Dimitrovgrad"
     ],
+    "name:spa_x_preferred":[
+        "Dimitrovgrad"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
     ],
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125865361,
-    "wof:lastmodified":1561837377,
+    "wof:lastmodified":1563322310,
     "wof:name":"Dimitrovgrad",
     "wof:parent_id":1108809887,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Theranda"
     ],
+    "name:ceb_x_preferred":[
+        "Komuna e Th\u00ebrand\u00ebs"
+    ],
     "name:ces_x_preferred":[
         "Suva Reka"
     ],
@@ -151,6 +154,9 @@
     "name:vie_x_preferred":[
         "Suva Reka"
     ],
+    "name:zho_x_preferred":[
+        "\u8607\u74e6\u96f7\u5361"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Suva Reka",
     "qs_pg:name_adm0":"Serbia",
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":1125829155,
-    "wof:lastmodified":1561837406,
+    "wof:lastmodified":1563324063,
     "wof:name":"Suva Reka",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

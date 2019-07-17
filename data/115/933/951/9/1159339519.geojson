@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.61915,
+    "geom:area_square_m":143028273583.168945,
     "geom:bbox":"-61.396712809,1.185820211,-58.149281378,8.558010158",
     "geom:latitude":5.103315,
     "geom:longitude":-59.485633,
@@ -22,14 +23,41 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "name:arg_x_preferred":[
+        "Guayana Esequiba"
+    ],
+    "name:ast_x_preferred":[
+        "Guayana Esequiba"
+    ],
+    "name:cat_x_preferred":[
+        "Guaiana Essequiba"
+    ],
+    "name:ces_x_preferred":[
+        "Guayana Esequiba"
+    ],
+    "name:dan_x_preferred":[
+        "Guayana Esequiba"
+    ],
     "name:deu_x_preferred":[
         "Guayana Esequiba"
     ],
     "name:eng_x_preferred":[
         "Guayana Esequiba"
     ],
+    "name:eus_x_preferred":[
+        "Esekibar Guyana"
+    ],
+    "name:fin_x_preferred":[
+        "Guayana Esequiba"
+    ],
     "name:fra_x_preferred":[
         "Guayana Esequiba"
+    ],
+    "name:glg_x_preferred":[
+        "G\u00fciana Esequiba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d0\u05e0\u05d4 \u05d0\u05e1\u05e7\u05d9\u05d1\u05d4"
     ],
     "name:ind_x_preferred":[
         "Guayana Esequiba"
@@ -43,11 +71,23 @@
     "name:kor_x_preferred":[
         "\uacfc\uc57c\ub098\uc5d0\uc138\ud0a4\ubc14"
     ],
+    "name:lat_x_preferred":[
+        "Guaiana Essequiba"
+    ],
+    "name:lit_x_preferred":[
+        "Guajana Esekiba"
+    ],
     "name:nld_x_preferred":[
+        "Guayana Esequiba"
+    ],
+    "name:nob_x_preferred":[
         "Guayana Esequiba"
     ],
     "name:por_x_preferred":[
         "Guaiana Essequiba"
+    ],
+    "name:ron_x_preferred":[
+        "Guayana Esequiba"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0439\u0430\u043d\u0430-\u042d\u0441\u0441\u0435\u043a\u0438\u0431\u043e"
@@ -55,8 +95,17 @@
     "name:spa_x_preferred":[
         "Guayana Esequiba"
     ],
+    "name:srp_x_preferred":[
+        "\u0413\u0432\u0430\u0458\u0430\u043d\u0430 \u0415\u0441\u0435\u043a\u0438\u0431\u0430"
+    ],
     "name:swe_x_preferred":[
         "Guayana Esequiba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u044f\u043d\u0430-\u0415\u0441\u0441\u0435\u043a\u0456\u0431\u043e"
+    ],
+    "name:wuu_x_preferred":[
+        "\u897f\u5c5e\u572d\u4e9a\u90a3"
     ],
     "name:zho_x_preferred":[
         "\u897f\u5c5e\u572d\u4e9a\u90a3"
@@ -185,7 +234,7 @@
         }
     ],
     "wof:id":1159339519,
-    "wof:lastmodified":1528909938,
+    "wof:lastmodified":1563324533,
     "wof:name":"Guayana Esequiba",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

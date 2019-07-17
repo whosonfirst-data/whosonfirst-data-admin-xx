@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Saint-Louis"
     ],
+    "name:ceb_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:ces_x_preferred":[
         "Saint-Louis"
     ],
@@ -249,6 +252,9 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0644\u0648\u0626\u06cc\u0633\u060c \u06af\u0627\u062f\u0644\u0648\u067e\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u0644\u0648\u0626\u06cc\u0633"
+    ],
     "name:vec_x_preferred":[
         "Saint-Louis"
     ],
@@ -321,7 +327,7 @@
         }
     ],
     "wof:id":1125829447,
-    "wof:lastmodified":1561837406,
+    "wof:lastmodified":1563324069,
     "wof:name":"St.-Louis",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
+    "geom:area_square_m":1976196.090611,
     "geom:bbox":"47.28793379,-11.569919529,47.306407097,-11.55063242",
     "geom:latitude":-11.562026,
     "geom:longitude":47.297971,
@@ -25,6 +26,24 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0643\u0644\u0648\u0631\u064a\u0648\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Islles Glorioses"
+    ],
+    "name:aze_x_preferred":[
+        "Qloryoz adalar\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u0413\u043b\u0430\u0440\u044b\u0451\u0441\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "illes Glorioses"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00celes Glorieuses"
+    ],
+    "name:ces_x_preferred":[
+        "Glorieuses"
+    ],
     "name:deu_x_preferred":[
         "\u00celes Glorieuses"
     ],
@@ -34,11 +53,35 @@
     "name:eng_x_preferred":[
         "Glorioso Islands"
     ],
+    "name:epo_x_preferred":[
+        "Insularo Glorioso"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u06af\u0644\u0648\u0631\u06cc\u0648\u0633\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Gloriososaaret"
+    ],
     "name:fra_x_preferred":[
         "\u00eeles Glorieuses"
     ],
+    "name:glg_x_preferred":[
+        "Illas Gloriosas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05d2\u05dc\u05d5\u05e8\u05d9\u05d9\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0932\u094b\u0930\u093f\u092f\u094b\u0938 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Oto\u010dje Glorieuses"
+    ],
     "name:hun_x_preferred":[
         "Glorioso-szigetek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u056c\u0578\u0580\u0575\u0578\u0566"
     ],
     "name:ind_x_preferred":[
         "Kepulauan Glorioso"
@@ -49,8 +92,32 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30ed\u30ea\u30aa\u30bd\u8af8\u5cf6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10dd\u10e0\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u043b\u043e\u0440\u044c\u0435\u0437"
+    ],
+    "name:lav_x_preferred":[
+        "Glorj\u0113zu salas"
+    ],
+    "name:lij_x_preferred":[
+        "Isoe Glorioso"
+    ],
+    "name:lit_x_preferred":[
+        "Glorioso salos"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043b\u043e\u0440\u0458\u0435\u0437"
+    ],
     "name:nld_x_preferred":[
         "Glorieuzen"
+    ],
+    "name:nob_x_preferred":[
+        "Glorieuses\u00f8yene"
+    ],
+    "name:oci_x_preferred":[
+        "Illas Gloriosas"
     ],
     "name:pol_x_preferred":[
         "Glorieuses"
@@ -58,17 +125,35 @@
     "name:por_x_preferred":[
         "Ilhas Gloriosas"
     ],
+    "name:ron_x_preferred":[
+        "Insulele Glorioase"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u043e\u0440\u044c\u0451\u0437"
     ],
+    "name:sco_x_preferred":[
+        "Glorioso Islands"
+    ],
+    "name:slk_x_preferred":[
+        "Glorieuses"
+    ],
     "name:spa_x_preferred":[
         "Islas Gloriosas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u0413\u043b\u043e\u0440\u0438\u043e\u0437\u043e"
     ],
     "name:swe_x_preferred":[
         "Glorieuses\u00f6arna"
     ],
     "name:tur_x_preferred":[
         "Glorioso Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u043e\u0440\u0439\u043e\u0437"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u06af\u0644\u0648\u0631\u06cc\u0648\u0633\u0648"
     ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Glorieuses"
@@ -205,7 +290,7 @@
         }
     ],
     "wof:id":1159339577,
-    "wof:lastmodified":1528909940,
+    "wof:lastmodified":1563324522,
     "wof:name":"Glorioso Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

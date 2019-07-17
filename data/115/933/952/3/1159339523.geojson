@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001793,
+    "geom:area_square_m":18096638.985867,
     "geom:bbox":"-2.966920126,35.267874248,-2.912912564,35.329779364",
     "geom:latitude":35.295351,
     "geom:longitude":-2.944446,
@@ -22,13 +23,67 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Melilla"
+    ],
+    "name:amh_x_preferred":[
+        "\u121c\u120a\u12eb"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u0644\u064a\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Melilla"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0644\u064a\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Melilla"
+    ],
+    "name:aze_x_preferred":[
+        "Melilya"
+    ],
+    "name:bcl_x_preferred":[
+        "Melilla"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u043b\u0456\u043b\u044c\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b2\u09bf\u09b2\u09be"
     ],
+    "name:bos_x_preferred":[
+        "Melilla"
+    ],
+    "name:bre_x_preferred":[
+        "Melilla"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043b\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Melilla"
+    ],
+    "name:ceb_x_preferred":[
+        "Melilla"
+    ],
+    "name:ces_x_preferred":[
+        "Melilla"
+    ],
+    "name:cor_x_preferred":[
+        "Melilla"
+    ],
+    "name:cym_x_preferred":[
+        "Melilla"
+    ],
+    "name:dan_x_preferred":[
+        "Melilla"
+    ],
     "name:deu_x_preferred":[
+        "Melilla"
+    ],
+    "name:diq_x_preferred":[
         "Melilla"
     ],
     "name:ell_x_preferred":[
@@ -37,28 +92,181 @@
     "name:eng_x_preferred":[
         "Melilla"
     ],
+    "name:epo_x_preferred":[
+        "Melilo"
+    ],
+    "name:est_x_preferred":[
+        "Melilla"
+    ],
+    "name:eus_x_preferred":[
+        "Melilla"
+    ],
+    "name:ext_x_preferred":[
+        "Melilla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06cc\u0644\u06cc\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Melilla"
+    ],
     "name:fra_x_preferred":[
         "Melilla"
+    ],
+    "name:frp_x_preferred":[
+        "Melilya"
+    ],
+    "name:frr_x_preferred":[
+        "Melilla"
+    ],
+    "name:gag_x_preferred":[
+        "Melilla"
+    ],
+    "name:gla_x_preferred":[
+        "Melilla"
+    ],
+    "name:gle_x_preferred":[
+        "Melilla"
+    ],
+    "name:glg_x_preferred":[
+        "Melilla"
+    ],
+    "name:gsw_x_preferred":[
+        "Melilla"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0ab2\u0abf\u0ab2\u0abe"
+    ],
+    "name:hat_x_preferred":[
+        "Melilla"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05d9\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0932\u093f\u0932\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Melilla"
+    ],
     "name:hun_x_preferred":[
+        "Melilla"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056c\u056b\u056c\u0575\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Melilla"
+    ],
+    "name:ina_x_preferred":[
         "Melilla"
     ],
     "name:ind_x_preferred":[
         "Melilla"
     ],
+    "name:isl_x_preferred":[
+        "Melilla"
+    ],
     "name:ita_x_preferred":[
+        "Melilla"
+    ],
+    "name:jam_x_preferred":[
+        "Meliya"
+    ],
+    "name:jav_x_preferred":[
         "Melilla"
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30ea\u30ea\u30e3"
     ],
+    "name:kab_x_preferred":[
+        "Mlilt"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc6\u0cb2\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10da\u10d8\u10da\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043b\u044c\u044f"
+    ],
     "name:kor_x_preferred":[
         "\uba5c\ub9ac\uc57c"
     ],
+    "name:kur_x_preferred":[
+        "Melilla"
+    ],
+    "name:lad_x_preferred":[
+        "Meliya"
+    ],
+    "name:lat_x_preferred":[
+        "Rusadir"
+    ],
+    "name:lav_x_preferred":[
+        "Melilja"
+    ],
+    "name:lfn_x_preferred":[
+        "Melilla"
+    ],
+    "name:lij_x_preferred":[
+        "Melilla"
+    ],
+    "name:lim_x_preferred":[
+        "Melilla"
+    ],
+    "name:lit_x_preferred":[
+        "Melilja"
+    ],
+    "name:lmo_x_preferred":[
+        "Melilla"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0645\u0626\u0644\u06cc\u0644\u0627"
+    ],
+    "name:ltz_x_preferred":[
+        "Melilla"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u0932\u093f\u092f\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u0459\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Melilla"
+    ],
+    "name:msa_x_preferred":[
+        "Melilla"
+    ],
+    "name:nah_x_preferred":[
+        "Melilla"
+    ],
+    "name:nan_x_preferred":[
+        "Melilla"
+    ],
     "name:nld_x_preferred":[
+        "Melilla"
+    ],
+    "name:nno_x_preferred":[
+        "Melilla"
+    ],
+    "name:nob_x_preferred":[
+        "Melilla"
+    ],
+    "name:nso_x_preferred":[
+        "Melilla"
+    ],
+    "name:oci_x_preferred":[
+        "Melilla"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043b\u044c\u044f"
+    ],
+    "name:pam_x_preferred":[
+        "Melilla"
+    ],
+    "name:pms_x_preferred":[
         "Melilla"
     ],
     "name:pol_x_preferred":[
@@ -67,23 +275,110 @@
     "name:por_x_preferred":[
         "Melilla"
     ],
+    "name:ron_x_preferred":[
+        "Melilla"
+    ],
+    "name:rup_x_preferred":[
+        "Melilla"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u0438\u043b\u044c\u044f"
     ],
+    "name:scn_x_preferred":[
+        "Melilla"
+    ],
+    "name:sco_x_preferred":[
+        "Melilla"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd9\u0dbd\u0dd2\u0dbd\u0dca\u0dbd\u0dcf"
+    ],
+    "name:slk_x_preferred":[
+        "Melilla"
+    ],
+    "name:slv_x_preferred":[
+        "Melilla"
+    ],
+    "name:sme_x_preferred":[
+        "Melilla"
+    ],
     "name:spa_x_preferred":[
+        "Melilla"
+    ],
+    "name:sqi_x_preferred":[
+        "Melilla"
+    ],
+    "name:srd_x_preferred":[
+        "Melilla"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u0459\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "M\u00e9lilya"
+    ],
+    "name:swa_x_preferred":[
         "Melilla"
     ],
     "name:swe_x_preferred":[
         "Melilla"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc6\u0bb2\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043b\u044c\u044f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c46\u0c32\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043b\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Melilla"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e25\u0e35\u0e22\u0e32"
+    ],
     "name:tur_x_preferred":[
+        "Melilla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0456\u043b\u044c\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0644\u06cc\u0644\u06c1"
+    ],
+    "name:vec_x_preferred":[
         "Melilla"
     ],
     "name:vie_x_preferred":[
         "Melilla"
     ],
+    "name:war_x_preferred":[
+        "Melilla"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6885\u5229\u5229\u4e9a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d4\u10da\u10d8\u10da\u10d8\u10d0"
+    ],
+    "name:yor_x_preferred":[
+        "Melilla"
+    ],
+    "name:yue_x_preferred":[
+        "\u6885\u5229\u5229\u4e9e"
+    ],
+    "name:zea_x_preferred":[
+        "Melilla"
+    ],
     "name:zho_x_preferred":[
         "\u6885\u5229\u5229\u4e9a"
+    ],
+    "name:zul_x_preferred":[
+        "IMelilla"
     ],
     "ne:ABBREV":"Mel.",
     "ne:ABBREV_LEN":4,
@@ -212,7 +507,7 @@
         }
     ],
     "wof:id":1159339523,
-    "wof:lastmodified":1528909938,
+    "wof:lastmodified":1563324501,
     "wof:name":"Melilla",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

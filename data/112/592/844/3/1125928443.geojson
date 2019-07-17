@@ -46,6 +46,9 @@
     "name:cat_x_preferred":[
         "Baillif"
     ],
+    "name:ceb_x_preferred":[
+        "Baillif"
+    ],
     "name:ces_x_preferred":[
         "Baillif"
     ],
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":1125928443,
-    "wof:lastmodified":1561837368,
+    "wof:lastmodified":1563321879,
     "wof:name":"Baillif",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

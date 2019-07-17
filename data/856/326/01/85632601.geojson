@@ -26,11 +26,29 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0623\u0628\u0648 \u0645\u0648\u0633\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0623\u0628\u0648\u0645\u0648\u0633\u0649"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0645\u0648\u0633\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fbumusa"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09c1 \u09ae\u09c1\u09b8\u09be \u09a6\u09cd\u09ac\u09c0\u09aa"
     ],
+    "name:cat_x_preferred":[
+        "Abu Musa"
+    ],
+    "name:ceb_x_preferred":[
+        "Abu Musa Island"
+    ],
     "name:deu_x_preferred":[
         "Abu Musa"
+    ],
+    "name:diq_x_preferred":[
+        "Ebu Musa"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03c0\u03bf\u03cd \u039c\u03bf\u03cd\u03c3\u03b1"
@@ -44,18 +62,34 @@
     "name:eng_x_variant":[
         "Disputed Territory"
     ],
+    "name:eus_x_preferred":[
+        "Abu Musa"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0628\u0648 \u0645\u0648\u0633\u06cc\u0670"
     ],
     "name:fas_x_variant":[
         "Shahrest\u0101n-e Ab\u016b M\u016bs\u00e1",
-        "\u0627\u0628\u0648 \u0645\u0648\u0633\u06cc\u0670"
+        "\u0627\u0628\u0648 \u0645\u0648\u0633\u06cc\u0670",
+        "\u062c\u0632\u06cc\u0631\u0647 \u0627\u0628\u0648\u0645\u0648\u0633\u06cc"
     ],
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:fin_x_variant":[
+        "Abu Musa"
+    ],
     "name:fra_x_preferred":[
         "Abu Moussa"
+    ],
+    "name:fra_x_variant":[
+        "Abou Moussa"
+    ],
+    "name:glk_x_preferred":[
+        "\u0627\u0628\u0648\u0645\u0648\u0633\u06cc"
+    ],
+    "name:hrv_x_preferred":[
+        "Abu Musa"
     ],
     "name:ind_x_preferred":[
         "Abu Musa"
@@ -71,6 +105,15 @@
     ],
     "name:kor_x_preferred":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ubd80\ubb34\uc0ac\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Abu Musa"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0628\u0648\u0645\u0648\u0633\u06cc"
     ],
     "name:nld_x_preferred":[
         "Abu Musa"
@@ -104,6 +147,9 @@
     ],
     "name:unk_x_variant":[
         "Ab\u016b M\u016bs\u00e1"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0627\u0628\u0648 \u0645\u0648\u0633\u06cc"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5e03\u7a46\u8428\u5c9b"
@@ -252,7 +298,7 @@
         }
     ],
     "wof:id":85632601,
-    "wof:lastmodified":1541801631,
+    "wof:lastmodified":1563321752,
     "wof:name":"Abu Musa Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

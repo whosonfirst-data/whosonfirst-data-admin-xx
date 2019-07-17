@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0622\u0648\u0627\u0631\u0648\u0622"
     ],
+    "name:ast_x_preferred":[
+        "Avarua"
+    ],
     "name:aze_x_preferred":[
         "Avarua"
     ],
@@ -38,6 +41,12 @@
         "\u0410\u0432\u0430\u0440\u0443\u0430"
     ],
     "name:cat_x_preferred":[
+        "Avarua"
+    ],
+    "name:cdo_x_preferred":[
+        "Avarua"
+    ],
+    "name:ceb_x_preferred":[
         "Avarua"
     ],
     "name:ces_x_preferred":[
@@ -71,6 +80,9 @@
         "Avarua"
     ],
     "name:glg_x_preferred":[
+        "Avarua"
+    ],
+    "name:hak_x_preferred":[
         "Avarua"
     ],
     "name:heb_x_preferred":[
@@ -160,6 +172,9 @@
     "name:slk_x_preferred":[
         "Avarua"
     ],
+    "name:slv_x_preferred":[
+        "Avarua"
+    ],
     "name:sna_x_preferred":[
         "Avarua"
     ],
@@ -201,6 +216,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d5\u10d0\u10e0\u10e3\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u74e6\u9b6f\u963f"
     ],
     "name:zho_x_preferred":[
         "\u963f\u74e6\u9c81\u963f"
@@ -253,7 +271,7 @@
         }
     ],
     "wof:id":1125967375,
-    "wof:lastmodified":1561837392,
+    "wof:lastmodified":1563323470,
     "wof:name":"Avarua",
     "wof:parent_id":85670089,
     "wof:placetype":"locality",

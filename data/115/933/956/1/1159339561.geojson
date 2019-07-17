@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001627,
+    "geom:area_square_m":18611980.111625,
     "geom:bbox":"40.329600457,-22.365492446,40.385996941,-22.314873956",
     "geom:latitude":-22.339954,
     "geom:longitude":40.353419,
@@ -22,8 +23,32 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Europa-eiland"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u064a\u0648\u0631\u0648\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Europa"
+    ],
+    "name:aze_x_preferred":[
+        "Avropa adas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0415\u045e\u0440\u043e\u043f\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Europa"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Europa"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00cele Europa"
+    ],
+    "name:ces_x_preferred":[
+        "Ostrov Europa"
     ],
     "name:deu_x_preferred":[
         "Europa"
@@ -34,8 +59,35 @@
     "name:eng_x_preferred":[
         "Europa Island"
     ],
+    "name:epo_x_preferred":[
+        "E\u016dropinsulo"
+    ],
+    "name:est_x_preferred":[
+        "Europa saar"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0627\u0631\u0648\u067e\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Europa"
+    ],
     "name:fra_x_preferred":[
         "\u00eele Europa"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1n Europa"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Europa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05d0\u05d9\u05e8\u05d5\u05e4\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0942\u0930\u094b\u092a\u093e \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hrv_x_preferred":[
+        "Europa"
     ],
     "name:hun_x_preferred":[
         "Eur\u00f3pa-sziget"
@@ -49,8 +101,38 @@
     "name:jpn_x_preferred":[
         "\u30e6\u30ed\u30fc\u30d1\u5cf6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d5\u10e0\u10dd\u10de\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u0443\u0440\u043e\u043f\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc720\ub85c\ud30c\uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Eiropa"
+    ],
+    "name:lij_x_preferred":[
+        "Isoa d'Eur\u00f2pa"
+    ],
+    "name:lit_x_preferred":[
+        "Europa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
     "name:nld_x_preferred":[
         "Europa"
+    ],
+    "name:nob_x_preferred":[
+        "Europa\u00f8ya"
+    ],
+    "name:oci_x_preferred":[
+        "Illa Eur\u00f2pa"
     ],
     "name:pol_x_preferred":[
         "Europa"
@@ -58,14 +140,35 @@
     "name:por_x_preferred":[
         "Ilha Europa"
     ],
+    "name:ron_x_preferred":[
+        "Insula Europa"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Europa Island"
+    ],
+    "name:slk_x_preferred":[
+        "Europa"
     ],
     "name:spa_x_preferred":[
         "Isla Europa"
     ],
+    "name:srp_x_preferred":[
+        "\u0415\u0432\u0440\u043e\u043f\u0430"
+    ],
     "name:swe_x_preferred":[
         "Europa"
+    ],
+    "name:tso_x_preferred":[
+        "Europa Island"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0432\u0440\u043e\u043f\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06cc\u0648\u0631\u0648\u067e\u0627"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Europa"
@@ -202,7 +305,7 @@
         }
     ],
     "wof:id":1159339561,
-    "wof:lastmodified":1528909939,
+    "wof:lastmodified":1563324532,
     "wof:name":"Europa Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

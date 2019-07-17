@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000724,
+    "geom:area_square_m":1427984.627802,
     "geom:bbox":"-66.377919075,80.82025788,-66.29796302,80.832831122",
     "geom:latitude":80.826429,
     "geom:longitude":-66.339189,
@@ -22,14 +23,47 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Hans adas\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Hans Island"
+    ],
+    "name:ces_x_preferred":[
+        "Hans\u016fv ostrov"
+    ],
+    "name:dan_x_preferred":[
+        "Hans \u00d8"
+    ],
     "name:deu_x_preferred":[
         "Hans-Insel"
     ],
     "name:eng_x_preferred":[
         "Hans Island"
     ],
+    "name:epo_x_preferred":[
+        "Tartupaluk"
+    ],
+    "name:est_x_preferred":[
+        "Tartupaluk"
+    ],
+    "name:eus_x_preferred":[
+        "Hans uhartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0627\u0646\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Hansinsaari"
+    ],
     "name:fra_x_preferred":[
         "\u00eele Hans"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05d4\u05e0\u05e1"
+    ],
+    "name:iku_x_preferred":[
+        "\u1455\u1550\u1450\u1438\u14d7\u1483"
     ],
     "name:ind_x_preferred":[
         "Pulau Hans"
@@ -37,14 +71,35 @@
     "name:ita_x_preferred":[
         "Isola Hans"
     ],
+    "name:ita_x_variant":[
+        "isola Hans"
+    ],
     "name:jpn_x_preferred":[
         "\u30cf\u30f3\u30b9\u5cf6"
     ],
     "name:kor_x_preferred":[
         "\ud55c\uc2a4 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\ud55c\uc2a4\uc12c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u043d\u0441\u043e\u0432 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
     "name:nld_x_preferred":[
         "Hanseiland"
+    ],
+    "name:nno_x_preferred":[
+        "Hans \u00d8y"
+    ],
+    "name:nob_x_preferred":[
+        "Hans \u00d8"
+    ],
+    "name:olo_x_preferred":[
+        "Tartupaluk"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a39\u0a3e\u0a02\u0a38 \u0a1f\u0a3e\u0a2a\u0a42"
     ],
     "name:pol_x_preferred":[
         "Hans"
@@ -60,6 +115,9 @@
     ],
     "name:swe_x_preferred":[
         "Hans \u00f6"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u0413\u0430\u043d\u0441\u0430"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Hans"
@@ -194,7 +252,7 @@
         }
     ],
     "wof:id":1159339579,
-    "wof:lastmodified":1528909940,
+    "wof:lastmodified":1563324521,
     "wof:name":"Hans Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

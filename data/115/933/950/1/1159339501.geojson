@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.164261,
+    "geom:area_square_m":14384132889.681973,
     "geom:bbox":"-58.430356405,1.469805347,-56.481819011,3.394910177",
     "geom:latitude":2.316714,
     "geom:longitude":-57.437132,
@@ -22,6 +23,9 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Tigri"
+    ],
     "name:eng_x_preferred":[
         "Tigri Area"
     ],
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1159339501,
-    "wof:lastmodified":1528909938,
+    "wof:lastmodified":1563324518,
     "wof:name":"Tigri Area",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

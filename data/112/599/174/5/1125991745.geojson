@@ -22,11 +22,17 @@
     "name:arg_x_preferred":[
         "Dulantzi"
     ],
+    "name:ast_x_preferred":[
+        "Dulantzi"
+    ],
     "name:bre_x_preferred":[
         "Dulantzi"
     ],
     "name:cat_x_preferred":[
         "Dulantzi"
+    ],
+    "name:ceb_x_preferred":[
+        "Dulantzi / Alegr\u00eda"
     ],
     "name:eng_x_preferred":[
         "Alegr\u00eda-Dulantzi"
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1125991745,
-    "wof:lastmodified":1561837388,
+    "wof:lastmodified":1563323201,
     "wof:name":"Alegia Dulantzi",
     "wof:parent_id":404328935,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:aze_x_preferred":[
         "Prizren"
     ],
+    "name:bak_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u0437\u0440\u044d\u043d"
     ],
@@ -40,11 +43,17 @@
     "name:cat_x_preferred":[
         "Prizren"
     ],
+    "name:ceb_x_preferred":[
+        "Prizren"
+    ],
     "name:ces_x_preferred":[
         "Prizren"
     ],
     "name:chu_x_preferred":[
         "\u041f\u0440\u0438\ua641\u0440\u0463\u043d\u044c"
+    ],
+    "name:cym_x_preferred":[
+        "Prizren"
     ],
     "name:dan_x_preferred":[
         "Prizren"
@@ -205,6 +214,9 @@
     "name:vie_x_preferred":[
         "Prizren"
     ],
+    "name:vol_x_preferred":[
+        "Prizren"
+    ],
     "name:war_x_preferred":[
         "Prizren"
     ],
@@ -258,7 +270,7 @@
         }
     ],
     "wof:id":1125780001,
-    "wof:lastmodified":1561837407,
+    "wof:lastmodified":1563324086,
     "wof:name":"Prizren",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

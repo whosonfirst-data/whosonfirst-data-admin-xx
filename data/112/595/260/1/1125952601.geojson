@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Saint-Paul"
     ],
+    "name:aze_x_preferred":[
+        "Sen-Paul"
+    ],
     "name:bam_x_preferred":[
         "Saint-Paul"
     ],
@@ -44,6 +47,9 @@
         "\u0421\u0435\u043d \u041f\u043e\u043b"
     ],
     "name:cat_x_preferred":[
+        "Saint-Paul"
+    ],
+    "name:ceb_x_preferred":[
         "Saint-Paul"
     ],
     "name:ces_x_preferred":[
@@ -274,6 +280,9 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u067e\u0627\u0644\u060c \u0631\u0627\u0646\u0648\u06ba"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u067e\u0627\u0644"
+    ],
     "name:vec_x_preferred":[
         "Saint-Paul"
     ],
@@ -362,7 +371,7 @@
         }
     ],
     "wof:id":1125952601,
-    "wof:lastmodified":1561837368,
+    "wof:lastmodified":1563321887,
     "wof:name":"Saint-Paul",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Be\u015fyol"
     ],
+    "name:ceb_x_preferred":[
+        "Be\u015fyol"
+    ],
     "name:ces_x_preferred":[
         "Be\u015fyol"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1126106583,
-    "wof:lastmodified":1561837372,
+    "wof:lastmodified":1563322046,
     "wof:name":"Besyol",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

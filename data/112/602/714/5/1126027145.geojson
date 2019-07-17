@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Taipivai"
     ],
+    "name:fra_x_preferred":[
+        "Taipivai"
+    ],
     "name:spa_x_preferred":[
         "Taipivai"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1126027145,
-    "wof:lastmodified":1514503111,
+    "wof:lastmodified":1563322158,
     "wof:name":"Taipivai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

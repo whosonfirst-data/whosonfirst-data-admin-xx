@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.79575,
+    "geom:area_square_m":168116952890.849152,
     "geom:bbox":"42.647246541,7.996515605,48.9391119999,11.532945054",
     "geom:latitude":9.731139,
     "geom:longitude":46.254617,
@@ -22,14 +23,77 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Somaliland"
+    ],
+    "name:amh_x_preferred":[
+        "\u1236\u121b\u120a\u120b\u1295\u12f5"
+    ],
     "name:ara_x_preferred":[
         "\u0635\u0648\u0645\u0627\u0644\u064a\u0644\u0627\u0646\u062f"
+    ],
+    "name:arg_x_preferred":[
+        "Somalilandia"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0636 \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Somalilandia"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0645\u0627\u0644\u06cc\u200c\u0644\u0646\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Somalil\u0259nd"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u043b\u0456\u043b\u0435\u043d\u0434"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09ae\u09be\u09b2\u09bf\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
     ],
+    "name:bos_x_preferred":[
+        "Somaliland"
+    ],
+    "name:bre_x_preferred":[
+        "Somaliland"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Somalil\u00e0ndia"
+    ],
+    "name:cdo_x_preferred":[
+        "Somaliland"
+    ],
+    "name:ces_x_preferred":[
+        "Somaliland"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:crh_x_preferred":[
+        "Somaliland"
+    ],
+    "name:cym_x_preferred":[
+        "Somaliland"
+    ],
+    "name:dan_x_preferred":[
+        "Somaliland"
+    ],
     "name:deu_x_preferred":[
         "Somaliland"
+    ],
+    "name:diq_x_preferred":[
+        "Somaliland"
+    ],
+    "name:div_x_preferred":[
+        "\u0790\u07ae\u0789\u07a7\u078d\u07a9\u078d\u07ad\u0782\u07b0\u0791\u07aa"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03bc\u03b1\u03bb\u03b9\u03bb\u03ac\u03bd\u03b4\u03b7"
@@ -37,29 +101,176 @@
     "name:eng_x_preferred":[
         "Somaliland"
     ],
+    "name:epo_x_preferred":[
+        "Somalilando"
+    ],
+    "name:est_x_preferred":[
+        "Somaalimaa"
+    ],
+    "name:eus_x_preferred":[
+        "Somalilandia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0645\u0627\u0644\u06cc\u200c\u0644\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Somalimaa"
+    ],
     "name:fra_x_preferred":[
         "Somaliland"
+    ],
+    "name:frp_x_preferred":[
+        "Somalilande"
+    ],
+    "name:frr_x_preferred":[
+        "Somaalilun"
+    ],
+    "name:gag_x_preferred":[
+        "Somalilend"
+    ],
+    "name:gle_x_preferred":[
+        "Cr\u00edoch Shom\u00e1ile"
+    ],
+    "name:glg_x_preferred":[
+        "Somalilandia"
+    ],
+    "name:glv_x_preferred":[
+        "Yn Tomaalee"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acb\u0aae\u0abe\u0ab2\u0abf\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
+    "name:hat_x_preferred":[
+        "Somaliland"
+    ],
+    "name:hau_x_preferred":[
+        "Somaliland"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05de\u05dc\u05d9\u05dc\u05e0\u05d3"
     ],
     "name:hin_x_preferred":[
         "\u0938\u094b\u092e\u093e\u0932\u0940\u0926\u0947\u0936"
     ],
+    "name:hrv_x_preferred":[
+        "Somaliland"
+    ],
     "name:hun_x_preferred":[
         "Szom\u00e1lif\u00f6ld"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0574\u0561\u056c\u056b\u056c\u0565\u0576\u0564"
+    ],
+    "name:ibo_x_preferred":[
+        "Somaliland"
+    ],
+    "name:ile_x_preferred":[
+        "Somaliland"
     ],
     "name:ind_x_preferred":[
         "Somaliland"
     ],
+    "name:isl_x_preferred":[
+        "S\u00f3mal\u00edland"
+    ],
     "name:ita_x_preferred":[
+        "Somaliland"
+    ],
+    "name:jav_x_preferred":[
         "Somaliland"
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30de\u30ea\u30e9\u30f3\u30c9"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cca\u0cae\u0cbe\u0cb2\u0cbf\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10db\u10d0\u10da\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
     "name:kor_x_preferred":[
         "\uc18c\ub9d0\ub9b4\ub780\ub4dc"
     ],
+    "name:kur_x_preferred":[
+        "Somal\u00eeland"
+    ],
+    "name:lat_x_preferred":[
+        "Somalilandia"
+    ],
+    "name:lav_x_preferred":[
+        "Som\u0101lilenda"
+    ],
+    "name:lim_x_preferred":[
+        "Somaliland"
+    ],
+    "name:lin_x_preferred":[
+        "Somaliland"
+    ],
+    "name:lit_x_preferred":[
+        "Somalilandas"
+    ],
+    "name:lmo_x_preferred":[
+        "Somaliland"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0633\u0648\u0659\u0645\u0627\u0644\u06cc \u0644\u0623\u0646\u062f"
+    ],
+    "name:ltz_x_preferred":[
+        "Somaliland"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7d22\u99ac\u91cc\u862d"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d4b\u0d2e\u0d3e\u0d32\u0d3f\u0d32\u0d3e\u0d28\u0d4d\u0d31\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094b\u092e\u093e\u0932\u0940\u0932\u0901\u0921"
+    ],
+    "name:min_x_preferred":[
+        "Somaliland"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Somaliland"
+    ],
+    "name:nan_x_preferred":[
+        "Somaliland"
+    ],
     "name:nld_x_preferred":[
         "Somaliland"
+    ],
+    "name:nno_x_preferred":[
+        "Somaliland"
+    ],
+    "name:nob_x_preferred":[
+        "Somaliland"
+    ],
+    "name:oci_x_preferred":[
+        "Somaliland"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:pam_x_preferred":[
+        "Somaliland"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a4b\u0a2e\u0a3e\u0a32\u0a40\u0a32\u0a48\u0a02\u0a21"
+    ],
+    "name:pli_x_preferred":[
+        "\u0938\u094b\u092e\u093e\u0932\u093f\u0932\u0948\u0902\u0921"
+    ],
+    "name:pms_x_preferred":[
+        "Somaliland"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0645\u0627\u0644\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "name:pol_x_preferred":[
         "Somaliland"
@@ -67,20 +278,89 @@
     "name:por_x_preferred":[
         "Somalil\u00e2ndia"
     ],
+    "name:ron_x_preferred":[
+        "Somaliland"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:san_x_preferred":[
+        "\u0938\u094b\u092e\u093e\u0932\u093f\u0932\u0948\u0902\u0921"
+    ],
+    "name:scn_x_preferred":[
+        "Somaliland"
+    ],
+    "name:sco_x_preferred":[
+        "Somaliland"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2\u0dbd\u0dd1\u0db1\u0dca\u0da9\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Soomaaliland"
+    ],
+    "name:som_x_preferred":[
+        "Somaliland"
     ],
     "name:spa_x_preferred":[
         "Somalilandia"
     ],
+    "name:srd_x_preferred":[
+        "Somaliland"
+    ],
+    "name:srp_x_preferred":[
+        "Somalilend"
+    ],
+    "name:sun_x_preferred":[
+        "Somaliland"
+    ],
+    "name:swa_x_preferred":[
+        "Somaliland"
+    ],
     "name:swe_x_preferred":[
         "Somaliland"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bcb\u0bae\u0bbe\u0bb2\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4b\u0c2e\u0c3e\u0c32\u0c3f\u0c32\u0c3e\u0c02\u0c21\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Somalilandiya"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e0b\u0e21\u0e32\u0e25\u0e35\u0e41\u0e25\u0e19\u0e14\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Somaliland"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0456\u043b\u0435\u043d\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0645\u0627\u0644\u06cc \u0644\u06cc\u0646\u0688"
+    ],
     "name:vie_x_preferred":[
         "Somaliland"
+    ],
+    "name:war_x_preferred":[
+        "Somaliland"
+    ],
+    "name:xal_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434\u0438\u043d \u0422\u0430\u04a3\u04bb\u0447"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10dd\u10db\u10d0\u10da\u10d8\u10da\u10d4\u10dc\u10d3\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "S\u00f2m\u00e1l\u00edl\u00e0nd\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u7d22\u99ac\u91cc\u862d"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u9a6c\u91cc\u5170"
@@ -211,7 +491,7 @@
         }
     ],
     "wof:id":1159339499,
-    "wof:lastmodified":1528909938,
+    "wof:lastmodified":1563324512,
     "wof:name":"Somaliland",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

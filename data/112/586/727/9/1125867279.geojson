@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u0427\u043e\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "\u010coka"
+    ],
     "name:ces_x_preferred":[
+        "\u010coka"
+    ],
+    "name:deu_x_preferred":[
         "\u010coka"
     ],
     "name:eng_x_preferred":[
@@ -64,11 +70,17 @@
     "name:slv_x_preferred":[
         "\u010coka"
     ],
+    "name:spa_x_preferred":[
+        "\u010coka"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u043e\u043a\u0430"
     ],
     "name:tat_x_preferred":[
         "\u0427\u043e\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7oka"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043a\u0430"
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":1125867279,
-    "wof:lastmodified":1561837377,
+    "wof:lastmodified":1563322312,
     "wof:name":"\u010coka",
     "wof:parent_id":1108809875,
     "wof:placetype":"locality",

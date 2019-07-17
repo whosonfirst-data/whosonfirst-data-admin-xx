@@ -39,6 +39,12 @@
     "name:eng_x_preferred":[
         "Tel-aviv Port"
     ],
+    "name:eng_x_variant":[
+        "Tel Aviv Port"
+    ],
+    "name:epo_x_preferred":[
+        "Haveno Tel-Aviv"
+    ],
     "name:fra_x_preferred":[
         "Port de Tel Aviv"
     ],
@@ -54,17 +60,26 @@
     "name:lad_x_preferred":[
         "Porto de Tel Aviv"
     ],
+    "name:lad_x_variant":[
+        "Tel Aviv Puerto"
+    ],
     "name:pol_x_preferred":[
         "Port Tel Awiw"
     ],
     "name:por_x_preferred":[
         "Porto de Tel Aviv"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432\u0441\u043a\u0438\u0439 \u043f\u043e\u0440\u0442"
+    ],
     "name:spa_x_preferred":[
         "Puerto de Tel Aviv"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u044c-\u0410\u0432\u0456\u0432"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0435\u043b\u044c-\u0410\u0432\u0456\u0432 \u043f\u043e\u0440\u0442"
     ],
     "name:unk_x_variant":[
         "Tel-aviv Port"
@@ -119,11 +134,11 @@
     "wd:wordcount":188,
     "wof:belongs_to":[],
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1549930543,
+    "wof:lastmodified":1563321725,
     "wof:name":"Tel-aviv Port",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
+    "geom:area_square_m":141145.87173,
     "geom:bbox":"-5.42084009,35.910874356,-5.415969541,35.915597312",
     "geom:latitude":35.913205,
     "geom:longitude":-5.418612,
@@ -25,6 +26,27 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u062a\u0648\u0631\u0629"
     ],
+    "name:arg_x_preferred":[
+        "Isla Perejil"
+    ],
+    "name:ast_x_preferred":[
+        "Islla Perejil"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041f\u0435\u0440\u044d\u0445\u0456\u043b\u044c"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0445\u0438\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Perejil"
+    ],
+    "name:ceb_x_preferred":[
+        "Isla Perejil"
+    ],
+    "name:dan_x_preferred":[
+        "Persille\u00f8en"
+    ],
     "name:deu_x_preferred":[
         "Isla del Perejil"
     ],
@@ -34,11 +56,32 @@
     "name:eng_x_preferred":[
         "Perejil Island"
     ],
+    "name:epo_x_preferred":[
+        "Petrosela insulo"
+    ],
+    "name:est_x_preferred":[
+        "Perejil"
+    ],
+    "name:eus_x_preferred":[
+        "Perrexil uhartea"
+    ],
+    "name:fin_x_preferred":[
+        "Isla Perejil"
+    ],
     "name:fra_x_preferred":[
         "\u00eelot Persil"
     ],
+    "name:glg_x_preferred":[
+        "Illa Perejil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d7\u05d9\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Petrezselyem-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0580\u0565\u056d\u056b\u056c"
     ],
     "name:ind_x_preferred":[
         "Pulau Perejil"
@@ -49,8 +92,26 @@
     "name:jpn_x_preferred":[
         "\u30da\u30ec\u30d2\u30eb\u5cf6"
     ],
+    "name:kur_x_preferred":[
+        "Perejil"
+    ],
+    "name:lit_x_preferred":[
+        "Perechilio sala"
+    ],
+    "name:ltz_x_preferred":[
+        "P\u00e9iters\u00e9ileginsel"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0445\u0438\u043b"
+    ],
     "name:nld_x_preferred":[
         "Peterselie-eiland"
+    ],
+    "name:nno_x_preferred":[
+        "Perejil\u00f8ya"
+    ],
+    "name:nob_x_preferred":[
+        "Isla Perejil"
     ],
     "name:pol_x_preferred":[
         "Perejil"
@@ -58,8 +119,17 @@
     "name:por_x_preferred":[
         "Ilha de Perejil"
     ],
+    "name:ron_x_preferred":[
+        "Insula Perejil"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0445\u0438\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Perejil Island"
+    ],
+    "name:slk_x_preferred":[
+        "Perejil"
     ],
     "name:spa_x_preferred":[
         "Isla de Perejil"
@@ -67,8 +137,17 @@
     "name:swe_x_preferred":[
         "Isla Perejil"
     ],
+    "name:szl_x_preferred":[
+        "Perejil"
+    ],
     "name:tur_x_preferred":[
         "Perejil Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0445\u0456\u043b\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Isla Perejil"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u96f7\u5e0c\u723e\u5cf6"
@@ -198,7 +277,7 @@
         }
     ],
     "wof:id":1159339589,
-    "wof:lastmodified":1528912040,
+    "wof:lastmodified":1563324527,
     "wof:name":"Perejil Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

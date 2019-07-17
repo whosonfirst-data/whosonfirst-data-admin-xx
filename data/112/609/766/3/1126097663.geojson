@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Zona Norte"
     ],
+    "name:zho_x_preferred":[
+        "Widgeon Hill"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Zona Norte",
     "qs_pg:name_adm0":"M\u00e9xico",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1126097663,
-    "wof:lastmodified":1561837404,
+    "wof:lastmodified":1563323985,
     "wof:name":"Zona Norte",
     "wof:parent_id":101993551,
     "wof:placetype":"neighbourhood",

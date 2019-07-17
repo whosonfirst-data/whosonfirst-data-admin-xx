@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Petit-Bourg"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u062a\u06cc \u0628\u0648\u0631"
+    ],
     "name:bam_x_preferred":[
         "Petit-Bourg"
     ],
@@ -44,6 +47,9 @@
         "Petit-Bourg"
     ],
     "name:cat_x_preferred":[
+        "Petit-Bourg"
+    ],
+    "name:ceb_x_preferred":[
         "Petit-Bourg"
     ],
     "name:ces_x_preferred":[
@@ -335,7 +341,7 @@
         }
     ],
     "wof:id":1125932127,
-    "wof:lastmodified":1561837366,
+    "wof:lastmodified":1563321798,
     "wof:name":"Petit-Bourg",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

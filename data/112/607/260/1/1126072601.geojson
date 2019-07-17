@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Balabana\u011fa"
     ],
+    "name:ceb_x_preferred":[
+        "Balabana\u011fa"
+    ],
     "name:ces_x_preferred":[
         "Balabana\u011fa"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1126072601,
-    "wof:lastmodified":1561837399,
+    "wof:lastmodified":1563323751,
     "wof:name":"Balabana\u011fa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

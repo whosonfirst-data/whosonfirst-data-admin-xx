@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Ducos"
     ],
+    "name:ceb_x_preferred":[
+        "Ducos"
+    ],
     "name:ces_x_preferred":[
         "Ducos"
     ],
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":1126034879,
-    "wof:lastmodified":1561837375,
+    "wof:lastmodified":1563322189,
     "wof:name":"Ducos",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

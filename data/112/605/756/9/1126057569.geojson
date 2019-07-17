@@ -46,6 +46,9 @@
     "name:cat_x_preferred":[
         "Lamentin"
     ],
+    "name:ceb_x_preferred":[
+        "Lamentin"
+    ],
     "name:ces_x_preferred":[
         "Lamentin"
     ],
@@ -250,6 +253,9 @@
     "name:unk_x_variant":[
         "Le Lamentin"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0645\u06cc\u0646\u0679\u06cc\u0646"
+    ],
     "name:vec_x_preferred":[
         "Lamentin"
     ],
@@ -329,7 +335,7 @@
         }
     ],
     "wof:id":1126057569,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322168,
     "wof:name":"Lamentin",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

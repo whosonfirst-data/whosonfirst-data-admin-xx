@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Reisj\u00e4rvi"
+    ],
+    "name:ceb_x_preferred":[
+        "Reisj\u00e4rvi"
+    ],
     "name:ces_x_preferred":[
         "Reisj\u00e4rvi"
     ],
@@ -28,10 +34,16 @@
     "name:eng_x_preferred":[
         "Reisj\u00e4rvi"
     ],
+    "name:est_x_preferred":[
+        "Reisj\u00e4rvi vald"
+    ],
     "name:fin_x_preferred":[
         "Reisj\u00e4rvi"
     ],
     "name:fra_x_preferred":[
+        "Reisj\u00e4rvi"
+    ],
+    "name:glg_x_preferred":[
         "Reisj\u00e4rvi"
     ],
     "name:ita_x_preferred":[
@@ -65,6 +77,9 @@
         "Reisj\u00e4rvi"
     ],
     "name:swe_x_preferred":[
+        "Reisj\u00e4rvi"
+    ],
+    "name:tur_x_preferred":[
         "Reisj\u00e4rvi"
     ],
     "name:vie_x_preferred":[
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":1126028751,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322157,
     "wof:name":"Reisj\u00e4rvi",
     "wof:parent_id":907199141,
     "wof:placetype":"locality",

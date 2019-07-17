@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Les Avirons"
     ],
+    "name:ceb_x_preferred":[
+        "Les Avirons"
+    ],
     "name:ces_x_preferred":[
         "Les Avirons"
     ],
@@ -320,7 +323,7 @@
         }
     ],
     "wof:id":1126050089,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322165,
     "wof:name":"Les Avirons",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

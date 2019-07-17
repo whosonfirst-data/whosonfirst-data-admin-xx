@@ -19,13 +19,22 @@
     "name:bos_x_preferred":[
         "Kidri\u010devo"
     ],
+    "name:ceb_x_preferred":[
+        "Kidri\u010devo"
+    ],
     "name:eng_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:fra_x_preferred":[
         "Kidri\u010devo"
     ],
     "name:hrv_x_preferred":[
         "Kidri\u010devo"
     ],
     "name:nld_x_preferred":[
+        "Kidri\u010devo"
+    ],
+    "name:pol_x_preferred":[
         "Kidri\u010devo"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125768189,
-    "wof:lastmodified":1561837406,
+    "wof:lastmodified":1563324070,
     "wof:name":"Kidri\u010devo",
     "wof:parent_id":1108959739,
     "wof:placetype":"locality",

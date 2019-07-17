@@ -34,6 +34,9 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05dc\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Gil\u00f3"
+    ],
     "name:ita_x_preferred":[
         "Gilo"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126092115,
-    "wof:lastmodified":1561837402,
+    "wof:lastmodified":1563323891,
     "wof:name":"Gilo",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Sainte-Anne"
     ],
+    "name:ceb_x_preferred":[
+        "Sainte-Anne"
+    ],
     "name:ces_x_preferred":[
         "Sainte-Anne"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:deu_x_preferred":[
         "Sainte-Anne"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd\u03c4-\u0391\u03bd"
     ],
     "name:eng_x_preferred":[
         "Sainte-Anne"
@@ -243,6 +249,9 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u0627\u06cc\u0646\u060c \u0645\u0631\u062a\u06cc\u0646\u0642\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646-\u0627\u06cc\u0646"
+    ],
     "name:vec_x_preferred":[
         "Sainte-Anne"
     ],
@@ -324,7 +333,7 @@
         }
     ],
     "wof:id":1125804679,
-    "wof:lastmodified":1561837382,
+    "wof:lastmodified":1563322590,
     "wof:name":"Ste.-Anne",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

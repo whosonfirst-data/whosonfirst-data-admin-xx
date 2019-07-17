@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Baie-Mahault"
     ],
+    "name:azb_x_preferred":[
+        "\u062e\u0644\u06cc\u062c \u0645\u0626\u0648"
+    ],
     "name:bam_x_preferred":[
         "Baie-Mahault"
     ],
@@ -44,6 +47,9 @@
         "Baie-Mahault"
     ],
     "name:cat_x_preferred":[
+        "Baie-Mahault"
+    ],
+    "name:ceb_x_preferred":[
         "Baie-Mahault"
     ],
     "name:ces_x_preferred":[
@@ -105,6 +111,9 @@
     ],
     "name:gsw_x_preferred":[
         "Baie-Mahault"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05d4-\u05de\u05d0\u05d4\u05d5\u05dc"
     ],
     "name:hrv_x_preferred":[
         "Baie-Mahault"
@@ -341,7 +350,7 @@
         }
     ],
     "wof:id":1125881489,
-    "wof:lastmodified":1561837378,
+    "wof:lastmodified":1563322325,
     "wof:name":"Baie-Mahault",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

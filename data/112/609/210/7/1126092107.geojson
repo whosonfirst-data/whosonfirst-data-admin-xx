@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Hoca G\u0131yasettin"
     ],
+    "name:ceb_x_preferred":[
+        "Hoca G\u0131yasettin"
+    ],
     "name:ces_x_preferred":[
         "Hoca G\u0131yasettin"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1126092107,
-    "wof:lastmodified":1561837402,
+    "wof:lastmodified":1563323902,
     "wof:name":"Hoca G\u0131yasettin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
