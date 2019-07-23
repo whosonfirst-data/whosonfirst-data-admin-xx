@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0633\u0628\u0631\u0627\u062a\u0644\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Islles Spratly"
+    ],
     "name:aze_x_preferred":[
         "Spartli arxipelaq\u0131"
     ],
@@ -41,11 +44,23 @@
     "name:bre_x_preferred":[
         "Inizi Spratly"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u0440\u0430\u0442\u043b\u0438"
+    ],
     "name:cat_x_preferred":[
         "Illes Spratly"
     ],
+    "name:cat_x_variant":[
+        "illes Spratly"
+    ],
+    "name:ceb_x_preferred":[
+        "Kapupud-ang Kagawasan"
+    ],
     "name:ces_x_preferred":[
         "Spratlyovy ostrovy"
+    ],
+    "name:ces_x_variant":[
+        "Spratlyho ostrovy"
     ],
     "name:dan_x_preferred":[
         "Spratly\u00f8erne"
@@ -81,6 +96,9 @@
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:fin_x_variant":[
+        "Spratlysaaret"
+    ],
     "name:fra_x_preferred":[
         "\u00celes Spratleys"
     ],
@@ -104,6 +122,9 @@
     ],
     "name:hun_x_preferred":[
         "Spratly-szigetek"
+    ],
+    "name:ido_x_preferred":[
+        "Spratly-Insuli"
     ],
     "name:ind_x_preferred":[
         "Kepulauan Spratly"
@@ -143,6 +164,9 @@
     ],
     "name:msa_x_preferred":[
         "Kepulauan Spratly"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m-soa K\u00fbn-t\u00f3"
     ],
     "name:nld_x_preferred":[
         "Spratly-eilanden"
@@ -204,6 +228,9 @@
     "name:tur_x_preferred":[
         "Spratly Adalar\u0131"
     ],
+    "name:uig_x_preferred":[
+        "\u0646\u06d5\u0646\u0634\u0627 \u062a\u0627\u0642\u0649\u0645 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u043f\u0440\u0430\u0442\u043b\u0456"
     ],
@@ -215,6 +242,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa"
+    ],
+    "name:vie_x_variant":[
+        "qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa"
     ],
     "name:wuu_x_preferred":[
         "\u5357\u6c99\u7fa4\u5c9b"
@@ -387,7 +417,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837365,
+    "wof:lastmodified":1563321754,
     "wof:name":"Spratly Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

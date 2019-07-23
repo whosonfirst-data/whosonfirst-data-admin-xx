@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
+    "geom:area_square_m":287091.216835,
     "geom:bbox":"171.339024795,-22.400165287,172.059338565,-22.344761435",
     "geom:latitude":-22.374376,
     "geom:longitude":171.729724,
@@ -28,14 +29,26 @@
     "name:eng_x_preferred":[
         "Matthew and Hunter Islands"
     ],
+    "name:eng_x_variant":[
+        "Matthew Island and Hunter Island"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0645\u062a\u06cc\u0648 \u0648 \u0647\u0627\u0646\u062a\u0631"
+    ],
     "name:fra_x_preferred":[
         "\u00cele Matthew"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Matthew e Hunter"
     ],
     "name:ita_x_preferred":[
         "Isole Matthew e Hunter"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b7\u30e5\u30fc\u5cf6"
+    ],
+    "name:lit_x_preferred":[
+        "Metju ir Hanterio salos"
     ],
     "name:nld_x_preferred":[
         "Matthew- en Huntereiland"
@@ -175,7 +188,7 @@
         }
     ],
     "wof:id":1159339591,
-    "wof:lastmodified":1528912046,
+    "wof:lastmodified":1563324526,
     "wof:name":"Matthew and Hunter Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

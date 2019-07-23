@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u0416\u0443\u0436\u0435\u043c\u0431\u0435\u0440\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
     "name:ces_x_preferred":[
         "\u017du\u017eemberk"
     ],
@@ -41,6 +44,9 @@
         "\u0396\u03bf\u03c5\u03b6\u03ad\u03bc\u03c0\u03b5\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
+        "\u017du\u017eemberk"
+    ],
+    "name:epo_x_preferred":[
         "\u017du\u017eemberk"
     ],
     "name:fin_x_preferred":[
@@ -96,6 +102,9 @@
     ],
     "name:pol_x_preferred":[
         "Gmina \u017du\u017eemberk"
+    ],
+    "name:pol_x_variant":[
+        "\u017du\u017eemberk"
     ],
     "name:por_x_preferred":[
         "\u017du\u017eemberk"
@@ -192,7 +201,7 @@
         }
     ],
     "wof:id":1125888725,
-    "wof:lastmodified":1561837378,
+    "wof:lastmodified":1563322319,
     "wof:name":"\u017du\u017eemberk",
     "wof:parent_id":1108959787,
     "wof:placetype":"locality",

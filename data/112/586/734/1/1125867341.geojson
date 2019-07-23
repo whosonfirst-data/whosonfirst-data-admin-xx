@@ -19,6 +19,12 @@
     "name:bos_x_preferred":[
         "Kova\u010dica"
     ],
+    "name:cat_x_preferred":[
+        "Kova\u010dica"
+    ],
+    "name:ceb_x_preferred":[
+        "Kovacica"
+    ],
     "name:ces_x_preferred":[
         "Kova\u010dica"
     ],
@@ -79,6 +85,9 @@
     "name:tat_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0438\u0442\u0441\u0430"
     ],
+    "name:tur_x_preferred":[
+        "Kova\u010dica"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u74e6\u5951\u5bdf"
     ],
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1125867341,
-    "wof:lastmodified":1561837377,
+    "wof:lastmodified":1563322308,
     "wof:name":"Kova\u010dica",
     "wof:parent_id":1108809925,
     "wof:placetype":"locality",

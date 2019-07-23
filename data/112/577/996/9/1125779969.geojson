@@ -49,6 +49,9 @@
     "name:zho_x_preferred":[
         "\u9054\u723e\u6587"
     ],
+    "name:zho_x_variant":[
+        "Djakovica"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Darwin",
     "qs_pg:name_adm0":"Falkland Islands",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125779969,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324462,
     "wof:name":"Darwin",
     "wof:parent_id":85681209,
     "wof:placetype":"locality",

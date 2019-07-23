@@ -19,17 +19,26 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0634\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0447\u0430\u0439"
+    ],
     "name:bos_x_preferred":[
         "Be\u010dej"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0447\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Be\u010dej"
+    ],
     "name:ces_x_preferred":[
         "Be\u010dej"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06ce\u0686\u06ce\u06cc"
+    ],
+    "name:cym_x_preferred":[
+        "Be\u010dej"
     ],
     "name:dan_x_preferred":[
         "Be\u010dej"
@@ -103,6 +112,9 @@
     "name:slv_x_preferred":[
         "Be\u010dej"
     ],
+    "name:spa_x_preferred":[
+        "Be\u010dej"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0447\u0435\u0458"
     ],
@@ -114,6 +126,9 @@
     ],
     "name:tur_x_preferred":[
         "Be\u00e7e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0447\u0435\u0439"
     ],
     "name:vie_x_preferred":[
         "Be\u010dej"
@@ -170,7 +185,7 @@
         }
     ],
     "wof:id":1126051437,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322166,
     "wof:name":"Be\u010dej",
     "wof:parent_id":1108809841,
     "wof:placetype":"locality",

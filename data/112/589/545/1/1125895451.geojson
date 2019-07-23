@@ -49,6 +49,9 @@
     "name:cat_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
+    "name:ceb_x_preferred":[
+        "Pointe-\u00e0-Pitre"
+    ],
     "name:ces_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
@@ -362,7 +365,7 @@
         }
     ],
     "wof:id":1125895451,
-    "wof:lastmodified":1561837381,
+    "wof:lastmodified":1563322506,
     "wof:name":"Pointe-\u00c0-Pitre",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

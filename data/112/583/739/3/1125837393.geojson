@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u0634\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u062a\u0634\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0456\u0442\u044d\u0448\u0442\u044b"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09a4\u09c7\u09b8\u09cd\u09a4\u09bf"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:cat_x_preferred":[
         "Pite\u0219ti"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipiul Pite\u0219ti"
     ],
     "name:ces_x_preferred":[
         "Pite\u0219ti"
@@ -47,6 +56,9 @@
         "Pite\u0219ti"
     ],
     "name:epo_x_preferred":[
+        "Pite\u0219ti"
+    ],
+    "name:est_x_preferred":[
         "Pite\u0219ti"
     ],
     "name:eus_x_preferred":[
@@ -157,6 +169,9 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dd2\u0da7\u0dd9\u0dc3\u0dca\u0da7\u0dd2"
     ],
+    "name:slk_x_preferred":[
+        "Pite\u0219ti"
+    ],
     "name:slv_x_preferred":[
         "Pite\u0219ti"
     ],
@@ -250,7 +265,7 @@
         }
     ],
     "wof:id":1125837393,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324475,
     "wof:name":"Pite\u0219ti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

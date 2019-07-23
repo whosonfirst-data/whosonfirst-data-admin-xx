@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Trois-Bassins"
     ],
+    "name:ceb_x_preferred":[
+        "Trois-Bassins"
+    ],
     "name:ces_x_preferred":[
         "Les Trois-Bassins"
     ],
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":1126047289,
-    "wof:lastmodified":1561837375,
+    "wof:lastmodified":1563322182,
     "wof:name":"Trois Bassins",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

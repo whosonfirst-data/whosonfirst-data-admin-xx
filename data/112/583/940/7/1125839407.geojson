@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Sucevi\u021ba"
+    ],
     "name:eng_x_preferred":[
         "Sucevi\u021ba"
     ],
@@ -44,6 +47,9 @@
         "Sucevi\u021ba"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0443\u0447\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
         "\u0421\u0443\u0447\u0435\u0432\u0438\u0446\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125839407,
-    "wof:lastmodified":1561837414,
+    "wof:lastmodified":1563324483,
     "wof:name":"Sucevi\u021ba",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

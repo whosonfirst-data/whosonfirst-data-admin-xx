@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Lasarte-Oria"
     ],
+    "name:ceb_x_preferred":[
+        "Lasarte-Oria"
+    ],
     "name:dan_x_preferred":[
         "Lasarte-Oria"
     ],
@@ -88,6 +91,9 @@
     "name:pol_x_preferred":[
         "Lasarte-Oria"
     ],
+    "name:por_x_preferred":[
+        "Lasarte-Oria"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0441\u0430\u0440\u0442\u0435-\u041e\u0440\u0438\u0430"
     ],
@@ -98,6 +104,9 @@
         "Lasarte-Oria"
     ],
     "name:swe_x_preferred":[
+        "Lasarte-Oria"
+    ],
+    "name:szl_x_preferred":[
         "Lasarte-Oria"
     ],
     "name:ukr_x_preferred":[
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":1125966323,
-    "wof:lastmodified":1561837392,
+    "wof:lastmodified":1563323473,
     "wof:name":"Lasarte-Oria",
     "wof:parent_id":404336269,
     "wof:placetype":"locality",

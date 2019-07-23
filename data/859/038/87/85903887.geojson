@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9879214.756571,
+    "geom:area_square_m":0.0,
     "geom:bbox":"80.331596,13.230658,80.331596,13.230658",
     "geom:latitude":13.230658,
     "geom:longitude":80.331596,
@@ -23,17 +23,53 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:bpy_x_preferred":[
+        "\u0995\u09be\u09a4\u09cd\u09a4\u09bf\u09ac\u0995\u09cd\u0995\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Kattiv\u0101kkam"
+    ],
     "name:eng_x_preferred":[
         "Kathivakkam"
     ],
     "name:eng_x_variant":[
         "Kattivakkam"
     ],
+    "name:ita_x_preferred":[
+        "Kattivakkam"
+    ],
+    "name:msa_x_preferred":[
+        "Kattivakkam"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u091f\u094d\u091f\u093f\u092d\u0915\u094d\u0915\u092e"
+    ],
+    "name:nld_x_preferred":[
+        "Kathivakkam"
+    ],
+    "name:por_x_preferred":[
+        "Kattivakkam"
+    ],
+    "name:spa_x_preferred":[
+        "Kattivakkam"
+    ],
+    "name:swe_x_preferred":[
+        "Kattiv\u0101kkam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd"
+    ],
     "name:und_x_preferred":[
         "Kattiv\u0101kkam"
     ],
     "name:unk_x_variant":[
         "Kathivakkam"
+    ],
+    "name:vie_x_preferred":[
+        "Kattivakkam"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8482\u74e6\u5361\u59c6"
     ],
     "qs:gn_adm0_cc":"IN",
     "qs:gn_id":0,
@@ -87,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936127,
+    "wof:lastmodified":1563321724,
     "wof:name":"Kathivakkam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

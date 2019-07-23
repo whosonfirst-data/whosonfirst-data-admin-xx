@@ -36,6 +36,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09af\u09bc\u09be\u09a8\u0995\u09cb\u09b0\u09cd\u099f \u09b0\u0995\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Dokdo"
+    ],
     "name:ces_x_preferred":[
         "Tokdo"
     ],
@@ -70,6 +73,9 @@
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:fin_x_variant":[
+        "Liancourtsaaret"
+    ],
     "name:fra_x_preferred":[
         "Rochers Liancourt"
     ],
@@ -100,8 +106,14 @@
     "name:kor_x_variant":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
     ],
+    "name:kur_x_preferred":[
+        "Q\u00ee\u015f\u00ean Liancourt\u00ea"
+    ],
     "name:lat_x_preferred":[
         "Scopuli Liancourt"
+    ],
+    "name:lat_x_variant":[
+        "Scopuli Liancourtenses"
     ],
     "name:lit_x_preferred":[
         "Liank\u016bro Uolos"
@@ -165,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Liancourt"
+    ],
+    "name:wuu_x_preferred":[
+        "\u72ec\u5c9b"
     ],
     "name:yue_x_preferred":[
         "\u7368\u5cf6"
@@ -308,7 +323,7 @@
         }
     ],
     "wof:id":85632353,
-    "wof:lastmodified":1561837363,
+    "wof:lastmodified":1563321737,
     "wof:name":"Dokdo",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

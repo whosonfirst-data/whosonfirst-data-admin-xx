@@ -21,8 +21,14 @@
     "name:eng_x_preferred":[
         "Dapani"
     ],
+    "name:fra_x_preferred":[
+        "Dapani"
+    ],
     "name:nld_x_preferred":[
         "Dapani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043f\u0430\u043d\u0438"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1125779061,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324462,
     "wof:name":"Dapani",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",

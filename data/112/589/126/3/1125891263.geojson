@@ -46,6 +46,9 @@
     "name:cat_x_preferred":[
         "Grand-Bourg"
     ],
+    "name:ceb_x_preferred":[
+        "Grand-Bourg"
+    ],
     "name:ces_x_preferred":[
         "Grand-Bourg"
     ],
@@ -326,7 +329,7 @@
         }
     ],
     "wof:id":1125891263,
-    "wof:lastmodified":1561837381,
+    "wof:lastmodified":1563322507,
     "wof:name":"Grand-Bourg",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

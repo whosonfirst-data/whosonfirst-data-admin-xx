@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "San Diego"
     ],
+    "name:eus_x_preferred":[
+        "San Diego"
+    ],
     "name:fra_x_preferred":[
         "San Diego"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1126100759,
-    "wof:lastmodified":1561837373,
+    "wof:lastmodified":1563322112,
     "wof:name":"San Diego",
     "wof:parent_id":1158846055,
     "wof:placetype":"neighbourhood",

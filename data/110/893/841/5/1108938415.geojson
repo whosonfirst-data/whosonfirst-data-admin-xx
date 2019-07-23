@@ -21,6 +21,9 @@
     "mz:max_zoom":15.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Villinge"
+    ],
     "name:eng_x_preferred":[
         "Villinki"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108938415,
-    "wof:lastmodified":1561837365,
+    "wof:lastmodified":1563321765,
     "wof:name":"Villinki",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",

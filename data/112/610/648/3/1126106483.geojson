@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Do\u011fu"
     ],
+    "name:ceb_x_preferred":[
+        "Do\u011fu"
+    ],
     "name:ces_x_preferred":[
         "Do\u011fu"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1126106483,
-    "wof:lastmodified":1561837373,
+    "wof:lastmodified":1563322120,
     "wof:name":"Dogu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

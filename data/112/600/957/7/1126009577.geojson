@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Rivi\u00e8re-Pilote"
     ],
+    "name:ceb_x_preferred":[
+        "Rivi\u00e8re-Pilote"
+    ],
     "name:ces_x_preferred":[
         "Rivi\u00e8re-Pilote"
     ],
@@ -238,6 +241,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0432\u0454\u0440-\u041f\u0456\u043b\u043e\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0438\u0432'\u0454\u0440-\u041f\u0456\u043b\u043e\u0442"
+    ],
     "name:vec_x_preferred":[
         "Rivi\u00e8re-Pilote"
     ],
@@ -317,7 +323,7 @@
         }
     ],
     "wof:id":1126009577,
-    "wof:lastmodified":1561837397,
+    "wof:lastmodified":1563323692,
     "wof:name":"Rivi\u00e8re-Pilote",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00007,
-    "geom:area_square_m":835908.745745,
+    "geom:area_square_m":835908.745747,
     "geom:bbox":"-88.328414917,16.093999863,-88.239997864,16.16327858",
     "geom:latitude":16.129946,
     "geom:longitude":-88.275189,
@@ -36,11 +36,20 @@
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:fra_x_preferred":[
+        "Cayes Sapodilla"
+    ],
     "name:jpn_x_preferred":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
     ],
     "name:kor_x_preferred":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:nds_x_preferred":[
+        "Sapodilla Cayes"
+    ],
+    "name:nob_x_preferred":[
+        "Sapodilla Cayes"
     ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
@@ -210,7 +219,7 @@
         }
     ],
     "wof:id":85632515,
-    "wof:lastmodified":1528909932,
+    "wof:lastmodified":1563321746,
     "wof:name":"Sapodilla Cayes",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

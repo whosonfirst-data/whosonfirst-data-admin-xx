@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044029,
+    "geom:area_square_m":286616066.575819,
     "geom:bbox":"-28.213286913,-59.47275156,-26.23932858,-56.272556248",
     "geom:latitude":-58.229197,
     "geom:longitude":-26.701891,
@@ -22,20 +23,65 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Islles Sandwich del Sur"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259nubi Sandvi\u00e7 adalar\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u044b\u044f \u0421\u0430\u043d\u0434\u0432\u0456\u0447\u0430\u0432\u044b \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi Sandwich ar Su"
+    ],
+    "name:cat_x_preferred":[
+        "Illes Sandwich del Sud"
+    ],
+    "name:ceb_x_preferred":[
+        "South Sandwich Islands"
+    ],
+    "name:ces_x_preferred":[
+        "Ji\u017en\u00ed Sandwichovy ostrovy"
+    ],
     "name:deu_x_preferred":[
         "S\u00fcdliche Sandwichinseln"
     ],
     "name:eng_x_preferred":[
         "South Sandwich Islands"
     ],
+    "name:epo_x_preferred":[
+        "Sud-Sandvi\u0109a Insularo"
+    ],
+    "name:est_x_preferred":[
+        "L\u00f5una-Sandwichi saared"
+    ],
+    "name:eus_x_preferred":[
+        "Hego Sandwich uharteak"
+    ],
     "name:fra_x_preferred":[
         "\u00celes Sandwich du Sud"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u054d\u0561\u0576\u0564\u057e\u056b\u0579\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
     ],
     "name:ita_x_preferred":[
         "Isole Sandwich Australi"
     ],
+    "name:lav_x_preferred":[
+        "Dienvidsendvi\u010du salas"
+    ],
+    "name:lit_x_preferred":[
+        "Piet\u0173 Sandvi\u010do salos"
+    ],
     "name:nld_x_preferred":[
         "South Sandwich Islands"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00f8r-Sandwich\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00f8r-Sandwich\u00f8yene"
     ],
     "name:pol_x_preferred":[
         "Sandwich Po\u0142udniowy"
@@ -51,6 +97,18 @@
     ],
     "name:swe_x_preferred":[
         "Sydsandwich\u00f6arna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0456 \u0421\u0430\u043d\u0434\u0432\u0456\u0447\u0435\u0432\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:uzb_x_preferred":[
+        "Janubiy sandvich orollari"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5357\u6851\u5a01\u5947\u7fa4\u5cf6"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u4e09\u6587\u6cbb\u7fa4\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5357\u6851\u5a01\u5947\u7fa4\u5cf6"
@@ -184,7 +242,7 @@
         }
     ],
     "wof:id":1159339555,
-    "wof:lastmodified":1528909939,
+    "wof:lastmodified":1563324505,
     "wof:name":"South Sandwich Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

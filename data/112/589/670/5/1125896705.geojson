@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Le Lamentin"
     ],
+    "name:ceb_x_preferred":[
+        "Le Lamentin"
+    ],
     "name:ces_x_preferred":[
         "Le Lamentin"
     ],
@@ -226,6 +229,9 @@
     "name:ron_x_preferred":[
         "Le Lamentin"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
+    ],
     "name:scn_x_preferred":[
         "Le Lamentin"
     ],
@@ -341,7 +347,7 @@
         }
     ],
     "wof:id":1125896705,
-    "wof:lastmodified":1561837381,
+    "wof:lastmodified":1563322526,
     "wof:name":"Le Lamentin",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

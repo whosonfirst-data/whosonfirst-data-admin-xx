@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "\u00c7iftehavuzlar"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c7iftehavuzlar"
+    ],
     "name:ces_x_preferred":[
         "\u00c7iftehavuzlar"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1126093821,
-    "wof:lastmodified":1561837404,
+    "wof:lastmodified":1563323951,
     "wof:name":"\u00c7ifte Havuzlar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

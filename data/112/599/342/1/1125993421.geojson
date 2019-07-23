@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Rincon"
     ],
+    "name:ceb_x_preferred":[
+        "Dorp Rinc\u00f3n"
+    ],
     "name:deu_x_preferred":[
         "Rincon"
     ],
@@ -61,8 +64,14 @@
     "name:swe_x_preferred":[
         "Dorp Rinc\u00f3n"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043d\u043a\u043e\u043d"
+    ],
     "name:unk_x_variant":[
         "Dorp Rincan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5b54"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:gn_fcode":"PPL",
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125993421,
-    "wof:lastmodified":1561837388,
+    "wof:lastmodified":1563323207,
     "wof:name":"Dorp Rinc\u00f3n",
     "wof:parent_id":85675535,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:ron_x_preferred":[
         "Afuma\u021bi"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0444\u0443\u043c\u0430\u0446\u0438"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0444\u0443\u043c\u0430\u0446\u044c"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125830253,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324479,
     "wof:name":"Afuma\u021bi",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

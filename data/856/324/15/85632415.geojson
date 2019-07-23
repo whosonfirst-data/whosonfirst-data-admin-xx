@@ -27,8 +27,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u0633\u0627\u064a \u062a\u0634\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Aksai Chin"
+    ],
+    "name:aze_x_preferred":[
+        "Aksay\u00e7in"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u0995\u09b8\u09be\u0987 \u099a\u09c0\u09a8"
+    ],
+    "name:bho_x_preferred":[
+        "\u0905\u0915\u094d\u0938\u093e\u0908 \u091a\u093f\u0928"
     ],
     "name:cat_x_preferred":[
         "Aksai Chin"
@@ -62,6 +71,9 @@
     ],
     "name:fin_x_preferred":[
         "kiistelty alue"
+    ],
+    "name:fin_x_variant":[
+        "Aksai Chin"
     ],
     "name:fra_x_preferred":[
         "Aksai Chin"
@@ -329,7 +341,7 @@
         }
     ],
     "wof:id":85632415,
-    "wof:lastmodified":1561837363,
+    "wof:lastmodified":1563321734,
     "wof:name":"Aksai Chin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

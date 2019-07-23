@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
+    "name:eus_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
     "name:fra_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
@@ -52,7 +55,13 @@
     "name:por_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
+    "name:ron_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
     "name:slk_x_preferred":[
+        "Zlat\u00e9 Klasy"
+    ],
+    "name:spa_x_preferred":[
         "Zlat\u00e9 Klasy"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:tgl_x_preferred":[
         "Zlat\u00e9 Klasy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0435 \u041a\u043b\u0430\u0441\u0438"
     ],
     "name:war_x_preferred":[
         "Zlat\u00e9 Klasy"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1125888357,
-    "wof:lastmodified":1561837378,
+    "wof:lastmodified":1563322321,
     "wof:name":"Zlate Klasy",
     "wof:parent_id":102080453,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u044a\u043d\u0435\u0449"
     ],
+    "name:ceb_x_preferred":[
+        "Br\u0103ne\u0219ti"
+    ],
     "name:eng_x_preferred":[
         "Br\u0103ne\u0219ti"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ron_x_preferred":[
         "Br\u0103ne\u0219ti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u043d\u0435\u0448\u0442\u044c"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1126023565,
-    "wof:lastmodified":1561837374,
+    "wof:lastmodified":1563322159,
     "wof:name":"Br\u0103ne\u0219ti",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

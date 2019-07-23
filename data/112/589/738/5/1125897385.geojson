@@ -19,13 +19,25 @@
     "name:ben_x_preferred":[
         "\u09b6\u09cd\u09b0\u09c0\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u0936\u094d\u0930\u0940\u0930\u093e\u092e\u092a\u0941\u0930"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09c7\u09b0\u09be\u09ae\u09cd\u09aa\u09cb\u09b0\u09c7"
     ],
     "name:cat_x_preferred":[
         "Serampore"
     ],
+    "name:ceb_x_preferred":[
+        "Shr\u012br\u0101mpur"
+    ],
+    "name:cym_x_preferred":[
+        "Serampore"
+    ],
     "name:dan_x_preferred":[
+        "Serampore"
+    ],
+    "name:deu_x_preferred":[
         "Serampore"
     ],
     "name:eng_x_preferred":[
@@ -49,6 +61,9 @@
     "name:ita_x_preferred":[
         "Serampore"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30e9\u30f3\u30dd\u30fc\u30eb"
+    ],
     "name:mlg_x_preferred":[
         "Serampore"
     ],
@@ -59,6 +74,9 @@
         "Serampore"
     ],
     "name:nob_x_preferred":[
+        "Serampore"
+    ],
+    "name:pol_x_preferred":[
         "Serampore"
     ],
     "name:por_x_preferred":[
@@ -75,6 +93,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb8\u0bcd\u0bb0\u0bc0\u0bb0\u0bbe\u0bae\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u0627\u0645 \u067e\u0648\u0631"
     ],
     "name:vie_x_preferred":[
         "Serampore"
@@ -132,7 +153,7 @@
         }
     ],
     "wof:id":1125897385,
-    "wof:lastmodified":1561837381,
+    "wof:lastmodified":1563322483,
     "wof:name":"Serampore",
     "wof:parent_id":1108696081,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Nov\u00e1 Bo\u0161\u00e1ca"
     ],
+    "name:eus_x_preferred":[
+        "Nov\u00e1 Bo\u0161\u00e1ca"
+    ],
     "name:fra_x_preferred":[
         "Nov\u00e1 Bo\u0161\u00e1ca"
     ],
@@ -52,7 +55,13 @@
     "name:pol_x_preferred":[
         "Nov\u00e1 Bo\u0161\u00e1ca"
     ],
+    "name:ron_x_preferred":[
+        "Nov\u00e1 Bo\u0161\u00e1ca"
+    ],
     "name:slk_x_preferred":[
+        "Nov\u00e1 Bo\u0161\u00e1ca"
+    ],
+    "name:spa_x_preferred":[
         "Nov\u00e1 Bo\u0161\u00e1ca"
     ],
     "name:srp_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Nov\u00e1 Bo\u0161\u00e1ca"
+    ],
+    "name:zho_x_preferred":[
+        "Pishu"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Nova Bosaca",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125812081,
-    "wof:lastmodified":1561837378,
+    "wof:lastmodified":1563322316,
     "wof:name":"Nova Bosaca",
     "wof:parent_id":102080521,
     "wof:placetype":"locality",

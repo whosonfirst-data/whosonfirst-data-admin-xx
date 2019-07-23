@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Velk\u00e1 B\u00edte\u0161"
+    ],
     "name:ces_x_preferred":[
         "Velk\u00e1 B\u00edte\u0161"
     ],
@@ -23,6 +26,9 @@
         "Velk\u00e1 B\u00edte\u0161"
     ],
     "name:eng_x_preferred":[
+        "Velk\u00e1 B\u00edte\u0161"
+    ],
+    "name:eus_x_preferred":[
         "Velk\u00e1 B\u00edte\u0161"
     ],
     "name:fas_x_preferred":[
@@ -65,6 +71,9 @@
         "\u0412\u0435\u043b\u044c\u043a\u0430-\u0411\u0438\u0442\u0435\u0448"
     ],
     "name:slk_x_preferred":[
+        "Velk\u00e1 B\u00edte\u0161"
+    ],
+    "name:spa_x_preferred":[
         "Velk\u00e1 B\u00edte\u0161"
     ],
     "name:srp_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1125872219,
-    "wof:lastmodified":1561837382,
+    "wof:lastmodified":1563322593,
     "wof:name":"Velk\u00e1 B\u00edte\u0161",
     "wof:parent_id":85682429,
     "wof:placetype":"locality",

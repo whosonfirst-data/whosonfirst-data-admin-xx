@@ -23,17 +23,59 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:amh_x_preferred":[
+        "\u12a0\u1228\u1293\u1278\u120d \u1355\u1228\u12f4\u123d"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u0648\u0646\u0627\u062c\u0644 \u0628\u0631\u062f\u064a\u0634"
+    ],
+    "name:arg_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:asm_x_preferred":[
+        "\u0985\u09f0\u09c1\u09a3\u09be\u099a\u09b2 \u09aa\u09cd\u09f0\u09a6\u09c7\u09b6"
+    ],
+    "name:ast_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u0648\u0646\u0627\u0686\u0627\u0644 \u067e\u0631\u0627\u062f\u0634"
     ],
     "name:ben_x_preferred":[
         "\u0985\u09b0\u09c1\u09a3\u09be\u099a\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:bho_x_preferred":[
+        "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0985\u09b0\u09c1\u09a3\u09be\u099a\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0443\u043d\u0430\u0447\u0430\u043b \u041f\u0440\u0430\u0434\u0435\u0448"
+    ],
+    "name:cat_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:ceb_x_preferred":[
+        "State of Arun\u0101chal Pradesh"
+    ],
     "name:ces_x_preferred":[
         "Indie"
     ],
+    "name:cym_x_preferred":[
+        "Arunachal Pradesh"
+    ],
     "name:dan_x_preferred":[
         "Indien"
+    ],
+    "name:dan_x_variant":[
+        "Arunachal Pradesh"
     ],
     "name:deu_x_preferred":[
         "Arunachal Pradesh"
@@ -41,6 +83,12 @@
     "name:deu_x_variant":[
         "Republik Indien",
         "Indien"
+    ],
+    "name:div_x_preferred":[
+        "\u0787\u07a6\u0783\u07aa\u0782\u07a7\u0797\u07a6\u078d\u07b0 \u0795\u07b0\u0783\u07a6\u078b\u07ad\u079d\u07b0"
+    ],
+    "name:dty_x_preferred":[
+        "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03bf\u03c5\u03bd\u03ac\u03c4\u03c3\u03b1\u03bb \u03a0\u03c1\u03b1\u03bd\u03c4\u03ad\u03c2"
@@ -61,6 +109,15 @@
         "Republic of India",
         "India"
     ],
+    "name:est_x_preferred":[
+        "Arun\u0101chal Pradesh"
+    ],
+    "name:eus_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0648\u0646\u0627\u0686\u0627\u0644 \u067e\u0631\u0627\u062f\u0634"
+    ],
     "name:fin_x_preferred":[
         "Intia"
     ],
@@ -68,7 +125,8 @@
         "Intiaan",
         "Intian",
         "Intiassa",
-        "Intiasta"
+        "Intiasta",
+        "Arunachal Pradesh"
     ],
     "name:fra_x_preferred":[
         "Arunachal Pradesh"
@@ -76,13 +134,46 @@
     "name:fra_x_variant":[
         "Inde"
     ],
+    "name:frr_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:gle_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:glg_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:gom_x_preferred":[
+        "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab0\u0ac1\u0aa3\u0abe\u0a9a\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05e0\u05d0\u05e6'\u05dc \u05e4\u05e8\u05d3\u05e9"
+    ],
+    "name:hif_x_preferred":[
+        "Arunachal Pradesh"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:hrv_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:hsb_x_preferred":[
+        "Aruna\u010dal Prade\u0161"
     ],
     "name:hun_x_preferred":[
         "Arun\u00e1csal Prades"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0578\u0582\u0576\u0561\u0579\u0561\u056c \u054a\u0580\u0561\u0564\u0565\u0577"
+    ],
     "name:ind_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:isl_x_preferred":[
         "Arunachal Pradesh"
     ],
     "name:ita_x_preferred":[
@@ -94,14 +185,86 @@
     "name:jpn_x_variant":[
         "\u30a4\u30f3\u30c9"
     ],
+    "name:kaa_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb0\u0cc1\u0ca3\u0cbe\u0c9a\u0cb2 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kas_x_preferred":[
+        "\u0627\u0631\u0648\u0646\u0627\u0686\u0644 \u067e\u0631\u062f\u06cc\u0634"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub8e8\ub098\ucc30\ud504\ub77c\ub370\uc2dc \uc8fc"
     ],
     "name:kor_x_variant":[
         "\uc778\ub3c4"
     ],
+    "name:lat_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:lav_x_preferred":[
+        "Arun\u0101\u010dala Prad\u0113\u0161a"
+    ],
+    "name:lit_x_preferred":[
+        "Aruna\u010dal Prade\u0161as"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0622\u0631\u0648\u0646\u0627\u0686\u0627\u0644 \u067e\u0631\u0627\u062f\u0634"
+    ],
+    "name:ltz_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d30\u0d41\u0d23\u0d3e\u0d1a\u0d7d \u0d2a\u0d4d\u0d30\u0d26\u0d47\u0d36\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0443\u043d\u0430\u0447\u0430\u043b \u041f\u0440\u0430\u0434\u0435\u0448"
+    ],
+    "name:mlg_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:msa_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:nan_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
     "name:nld_x_preferred":[
         "Arunachal Pradesh"
+    ],
+    "name:nno_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:nob_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:oci_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b05\u0b30\u0b41\u0b23\u0b3e\u0b1a\u0b33 \u0b2a\u0b4d\u0b30\u0b26\u0b47\u0b36"
+    ],
+    "name:pam_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a30\u0a41\u0a28\u0a3e\u0a1a\u0a32 \u0a2a\u0a4d\u0a30\u0a26\u0a47\u0a38\u0a3c"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0631\u0648\u0646\u0627\u0686\u0644 \u067e\u0631\u062f\u06cc\u0634"
     ],
     "name:pol_x_preferred":[
         "Arunachal Pradesh"
@@ -115,10 +278,40 @@
     "name:por_x_variant":[
         "\u00cdndia"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0631\u0648\u0646\u0627\u0686\u0644 \u067e\u0631\u062f\u064a\u0634"
+    ],
+    "name:que_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:ron_x_preferred":[
+        "Arunachal Pradesh"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0443\u043d\u0430\u0447\u0430\u043b-\u041f\u0440\u0430\u0434\u0435\u0448"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5a\u1c68\u1c69\u1c71\u1c5f\u1c6a\u1c5a\u1c5e \u1c6f\u1c68\u1c5a\u1c6b\u1c6e\u1c65"
+    ],
+    "name:sco_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbb\u0dd4\u0db1\u0dcf\u0da0\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0daf\u0dda\u0dc1\u0dca"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0631\u0648\u0646\u0627\u0686\u0644 \u067e\u0631\u062f\u064a\u0634"
+    ],
     "name:spa_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:sqi_x_preferred":[
+        "Aruna\u00e7al Pradesh"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0443\u043d\u0430\u0447\u0430\u043b \u041f\u0440\u0430\u0434\u0435\u0448"
+    ],
+    "name:swa_x_preferred":[
         "Arunachal Pradesh"
     ],
     "name:swe_x_preferred":[
@@ -126,6 +319,21 @@
     ],
     "name:swe_x_variant":[
         "Indien"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb0\u0bc1\u0ba3\u0bbe\u0b9a\u0bb2\u0baa\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c30\u0c41\u0c23\u0c3e\u0c1a\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041e\u0440\u0443\u043d\u043e\u0447\u043e\u043b \u041f\u0440\u0430\u0434\u0438\u0448"
+    ],
+    "name:tgl_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:tuk_x_preferred":[
+        "Arunachal Pradesh"
     ],
     "name:tur_x_preferred":[
         "Aruna\u00e7hal Pradesh"
@@ -138,7 +346,19 @@
     "name:und_x_variant":[
         "Republika Indija"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0631\u0648\u0646\u0627\u0686\u0644 \u067e\u0631\u062f\u06cc\u0634"
+    ],
     "name:vie_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:war_x_preferred":[
+        "Arunachal Pradesh"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d0\u05b7\u05e8\u05d5\u05e0\u05d0\u05b7\u05d8\u05e9\u05d0\u05b7\u05dc \u05e4\u05e8\u05d0\u05b7\u05d3\u05e2\u05e9"
+    ],
+    "name:yor_x_preferred":[
         "Arunachal Pradesh"
     ],
     "name:zho_x_preferred":[
@@ -288,7 +508,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837364,
+    "wof:lastmodified":1563321749,
     "wof:name":"Arunachal Pradesh (Southern Tibet)",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

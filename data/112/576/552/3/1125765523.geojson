@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u062f \u062a\u0627\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Road Town"
+    ],
     "name:aze_x_preferred":[
         "Roud Taun"
     ],
@@ -35,6 +38,9 @@
         "\u0420\u043e\u0443\u0434 \u0422\u0430\u0443\u043d"
     ],
     "name:cat_x_preferred":[
+        "Road Town"
+    ],
+    "name:ceb_x_preferred":[
         "Road Town"
     ],
     "name:ces_x_preferred":[
@@ -79,6 +85,9 @@
     "name:hrv_x_preferred":[
         "Road Town"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0564 \u0539\u0561\u0578\u0582\u0576"
+    ],
     "name:ido_x_preferred":[
         "Road Town"
     ],
@@ -106,6 +115,9 @@
     "name:lit_x_preferred":[
         "Rod Taunas"
     ],
+    "name:nan_x_preferred":[
+        "Road Town"
+    ],
     "name:nld_x_preferred":[
         "Road Town"
     ],
@@ -122,6 +134,9 @@
         "Road Town"
     ],
     "name:por_x_preferred":[
+        "Road Town"
+    ],
+    "name:ron_x_preferred":[
         "Road Town"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +228,7 @@
         }
     ],
     "wof:id":1125765523,
-    "wof:lastmodified":1561837406,
+    "wof:lastmodified":1563324074,
     "wof:name":"Road Town",
     "wof:parent_id":85681419,
     "wof:placetype":"locality",

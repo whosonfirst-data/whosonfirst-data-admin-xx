@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u0644\u0648,\u062a\u0631\u0643\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bolu"
+    ],
     "name:aze_x_preferred":[
         "Bolu"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u043b\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u043b\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09cb"
@@ -32,6 +41,9 @@
         "\u0411\u043e\u043b\u0443"
     ],
     "name:cat_x_preferred":[
+        "Bolu"
+    ],
+    "name:ceb_x_preferred":[
         "Bolu"
     ],
     "name:ces_x_preferred":[
@@ -69,6 +81,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab2\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0932\u0942"
@@ -246,7 +261,7 @@
         }
     ],
     "wof:id":1125961907,
-    "wof:lastmodified":1561837392,
+    "wof:lastmodified":1563323477,
     "wof:name":"Bolu",
     "wof:parent_id":890462577,
     "wof:placetype":"locality",

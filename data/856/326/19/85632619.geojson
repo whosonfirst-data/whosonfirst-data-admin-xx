@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.580532,
-    "geom:area_square_m":5101043810.654008,
+    "geom:area_square_m":5101043810.655454,
     "geom:bbox":"145.397003174,43.361251831,148.893783569,45.559612274",
     "geom:latitude":44.712627,
     "geom:longitude":147.213231,
@@ -23,11 +23,59 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:abk_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b\u0442\u04d9\u0438 \u0430\u0434\u0433\u044c\u044b\u043b\u0431\u0436\u044c\u0430\u0445\u0430\u049b\u04d9\u0430"
+    ],
+    "name:ace_x_preferred":[
+        "Pulo-pulo Kuril"
+    ],
+    "name:afr_x_preferred":[
+        "Koerile"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0627\u0644\u0643\u0648\u0631\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Isles Kuriles"
+    ],
+    "name:aze_x_preferred":[
+        "Kuril adalar\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u0440\u044b\u043b\u044c\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b0\u09bf\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bos_x_preferred":[
+        "Kurilska ostrva"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi Kouril"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:bxr_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b \u043e\u043b\u044c\u0442\u0438\u0440\u043e\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Kurils"
+    ],
+    "name:ceb_x_preferred":[
+        "Kuril Islands"
+    ],
+    "name:ces_x_preferred":[
+        "Kurilsk\u00e9 ostrovy"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b\u0438\u0439\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b \u0443\u0442\u0440\u0430\u0432\u0115\u0441\u0435\u043c"
+    ],
+    "name:dan_x_preferred":[
+        "Kurilerne"
     ],
     "name:deu_x_preferred":[
         "Kurilen"
@@ -44,23 +92,65 @@
     "name:eng_x_variant":[
         "Disputed Territory"
     ],
+    "name:epo_x_preferred":[
+        "Kurilaj insuloj"
+    ],
+    "name:est_x_preferred":[
+        "Kuriilid"
+    ],
+    "name:eus_x_preferred":[
+        "Kurilak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0631\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "kiistelty alue"
+    ],
+    "name:fin_x_variant":[
+        "Kuriilit"
     ],
     "name:fra_x_preferred":[
         "\u00eeles Kouriles"
     ],
+    "name:fry_x_preferred":[
+        "Koerilen"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1in Ch\u00fair\u00edl"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Kuriles"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9\u05d9\u05dd \u05d4\u05e7\u05d5\u05e8\u05d9\u05dc\u05d9\u05d9\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0930\u0940\u0932 \u0926\u094d\u0935\u0940\u092a \u0938\u092e\u0942\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Kurilski otoci"
+    ],
+    "name:hsb_x_preferred":[
+        "Kurile"
     ],
     "name:hun_x_preferred":[
         "Kuril-szigetek"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0580\u056b\u056c\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
     "name:ind_x_preferred":[
         "Kepulauan Kuril"
     ],
+    "name:isl_x_preferred":[
+        "K\u00farileyjar"
+    ],
     "name:ita_x_preferred":[
         "Isole Curili"
+    ],
+    "name:jav_x_preferred":[
+        "Kapuloan Kuril"
     ],
     "name:jpn_x_preferred":[
         "\u5343\u5cf6\u5217\u5cf6"
@@ -68,14 +158,53 @@
     "name:jpn_x_variant":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e0\u10d8\u10da\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\ub9b4 \uc5f4\ub3c4"
     ],
     "name:kor_x_variant":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
     ],
+    "name:lat_x_preferred":[
+        "Insulae Curilenses"
+    ],
+    "name:lav_x_preferred":[
+        "Kuri\u013cu salas"
+    ],
+    "name:lit_x_preferred":[
+        "Kuril\u0173 salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0941\u0930\u093f\u0932 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b\u0438\u0439\u043d \u0430\u0440\u043b\u0443\u0443\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Kuril"
+    ],
+    "name:nan_x_preferred":[
+        "Kuril K\u00fbn-t\u00f3"
+    ],
+    "name:nds_x_preferred":[
+        "Kurilen"
+    ],
     "name:nld_x_preferred":[
         "Koerilen"
+    ],
+    "name:nno_x_preferred":[
+        "Kurilane"
+    ],
+    "name:nob_x_preferred":[
+        "Kurilene"
     ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
@@ -83,11 +212,26 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
+    "name:oci_x_preferred":[
+        "Illas Kuriles"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b\u044b \u0441\u0430\u043a\u044a\u0430\u0434\u00e6\u0445\u0442\u00e6"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a41\u0a30\u0a40\u0a32 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u0631\u0627\u0626\u0644 \u062c\u0632\u06cc\u0631\u06d2"
+    ],
     "name:pol_x_preferred":[
         "Wyspy Kurylskie"
     ],
     "name:por_x_preferred":[
         "Ilhas Curilas"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Kurile"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0438\u043b\u044c\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
@@ -96,8 +240,26 @@
         "\u041a\u0443\u0440\u0438\u043b\u044c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
         "Kuril\u2019skiye Ostrova"
     ],
+    "name:sah_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b \u0430\u0440\u044b\u044b\u043b\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Kuril Islands"
+    ],
+    "name:slk_x_preferred":[
+        "Kurilsk\u00e9 ostrovy"
+    ],
+    "name:slv_x_preferred":[
+        "Kurilsko oto\u010dje"
+    ],
     "name:spa_x_preferred":[
         "Islas Kuriles"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b\u0441\u043a\u0430 \u043e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Kurili"
     ],
     "name:swe_x_colloquial":[
         "Omtvistat omrade"
@@ -108,14 +270,38 @@
     "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc2\u0bb0\u0bbf\u0bb2\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    ],
     "name:tur_x_preferred":[
         "Kuril Adalar\u0131"
+    ],
+    "name:uig_x_preferred":[
+        "\u0643\u06c7\u0631\u0649\u0644 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u043b\u044c\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
     "name:unk_x_variant":[
         "Chishima-rett\u014d"
     ],
+    "name:uzb_x_preferred":[
+        "Kuril orollari"
+    ],
+    "name:vep_x_preferred":[
+        "Kurilan sared"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Kuril"
+    ],
+    "name:vls_x_preferred":[
+        "Koerieln"
+    ],
+    "name:yue_x_preferred":[
+        "\u5343\u5cf6\u7fa4\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5343\u5cf6\u7fa4\u5cf6"
@@ -256,7 +442,7 @@
         }
     ],
     "wof:id":85632619,
-    "wof:lastmodified":1528909936,
+    "wof:lastmodified":1563321751,
     "wof:name":"Kuril Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

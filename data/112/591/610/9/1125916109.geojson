@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Likir"
+    ],
     "name:cat_x_preferred":[
         "Likir"
     ],
@@ -23,6 +26,9 @@
         "Likir"
     ],
     "name:eng_x_preferred":[
+        "Likir"
+    ],
+    "name:nld_x_preferred":[
         "Likir"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125916109,
-    "wof:lastmodified":1561837393,
+    "wof:lastmodified":1563323487,
     "wof:name":"Likir",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

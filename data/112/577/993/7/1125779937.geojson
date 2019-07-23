@@ -46,6 +46,9 @@
     "name:jpn_x_preferred":[
         "\u30af\u30cb\u30e3\u30b8\u30a7\u30f4\u30a1\u30c4"
     ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub0d0\uc81c\ubc14\uce20"
+    ],
     "name:lit_x_preferred":[
         "Knia\u017eevacas"
     ],
@@ -73,11 +76,17 @@
     "name:slv_x_preferred":[
         "Knja\u017eevac"
     ],
+    "name:spa_x_preferred":[
+        "Knja\u017eevac"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u045a\u0430\u0436\u0435\u0432\u0430\u0446"
     ],
     "name:tat_x_preferred":[
         "\u041a\u043d\u04d9\u0436\u0435\u0432\u0430\u0442\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Gurgusof\u00e7a"
     ],
     "name:zho_x_preferred":[
         "\u514b\u5c3c\u4e9e\u71b1\u74e6\u8328"
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1125779937,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324470,
     "wof:name":"Knja\u017eevac",
     "wof:parent_id":1108809919,
     "wof:placetype":"locality",

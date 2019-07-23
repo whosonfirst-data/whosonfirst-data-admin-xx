@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0644\u0648 \u0628\u0648\u0631\u062a\u060c \u0631\u064a\u0648\u0646\u064a\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0648 \u0628\u0648\u0631\u062a"
+    ],
     "name:arg_x_preferred":[
         "Le Port"
     ],
     "name:ast_x_preferred":[
         "Le Port"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0648 \u067e\u0648\u0631"
     ],
     "name:bam_x_preferred":[
         "Le Port"
@@ -44,6 +50,9 @@
         "Le Port"
     ],
     "name:cat_x_preferred":[
+        "Le Port"
+    ],
+    "name:ceb_x_preferred":[
         "Le Port"
     ],
     "name:ces_x_preferred":[
@@ -81,6 +90,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u0648 \u067e\u0648\u0631\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0648 \u067e\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Le Port"
@@ -189,6 +201,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0644\u0648 \u067e\u0648\u0631\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+    ],
+    "name:mzn_x_variant":[
+        "\u0644\u0648 \u067e\u0648\u0631"
     ],
     "name:nap_x_preferred":[
         "Le Port"
@@ -371,7 +386,7 @@
         }
     ],
     "wof:id":1125898415,
-    "wof:lastmodified":1561837381,
+    "wof:lastmodified":1563322515,
     "wof:name":"Le Port",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

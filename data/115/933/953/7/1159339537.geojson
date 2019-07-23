@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.673803,
+    "geom:area_square_m":7984450936.21278,
     "geom:bbox":"-89.236512208,15.879651999,-87.507679817,17.437639853",
     "geom:latitude":16.595727,
     "geom:longitude":-88.690479,
@@ -22,14 +23,137 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Belize"
+    ],
+    "name:ady_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:afr_x_preferred":[
+        "Belize"
+    ],
+    "name:amh_x_preferred":[
+        "\u1264\u120a\u12dd"
+    ],
+    "name:ang_x_preferred":[
+        "Bel\u012bs"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u0632"
+    ],
+    "name:arg_x_preferred":[
+        "Belize"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0644\u064a\u0632"
+    ],
+    "name:ast_x_preferred":[
+        "Belize"
+    ],
+    "name:aym_x_preferred":[
+        "Wilisi"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u06cc\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Beliz"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:bam_x_preferred":[
+        "Belize"
+    ],
+    "name:bar_x_preferred":[
+        "Belize"
+    ],
+    "name:bcl_x_preferred":[
+        "Belisa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043b\u0456\u0437"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b2\u09bf\u099c"
     ],
+    "name:bgn_x_preferred":[
+        "\u0628\u0644\u06cc\u0632"
+    ],
+    "name:bho_x_preferred":[
+        "\u092c\u0947\u0932\u0940\u091c"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f7a\u0f0b\u0f63\u0f72\u0f0b\u0f5b\u0f72\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Beliz"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09bf\u099c"
+    ],
+    "name:bre_x_preferred":[
+        "Belize"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:cat_x_preferred":[
+        "Belize"
+    ],
+    "name:cdo_x_preferred":[
+        "Belize"
+    ],
+    "name:ceb_x_preferred":[
+        "Belize"
+    ],
+    "name:ces_x_preferred":[
+        "Belize"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:chr_x_preferred":[
+        "\u13c7\u13b5\u13cd"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06d5\u0644\u06cc\u0632"
+    ],
+    "name:cor_x_preferred":[
+        "Belisa"
+    ],
+    "name:crh_x_preferred":[
+        "Beliz"
+    ],
+    "name:cym_x_preferred":[
+        "Belize"
+    ],
+    "name:dan_x_preferred":[
+        "Belize"
+    ],
     "name:deu_x_preferred":[
         "Belize"
+    ],
+    "name:diq_x_preferred":[
+        "Beliz"
+    ],
+    "name:div_x_preferred":[
+        "\u0784\u07ac\u078d\u07a9\u0792\u07aa"
+    ],
+    "name:dsb_x_preferred":[
+        "Belize"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u0947\u0932\u093f\u091c"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f56\u0f7a\u0f0b\u0f63\u0f72\u0f5b\u0f0d"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03bb\u03af\u03b6\u03b5"
@@ -37,29 +161,299 @@
     "name:eng_x_preferred":[
         "Belize (disputed area)"
     ],
+    "name:eng_x_variant":[
+        "Belize"
+    ],
+    "name:epo_x_preferred":[
+        "Belizo"
+    ],
+    "name:est_x_preferred":[
+        "Belize"
+    ],
+    "name:eus_x_preferred":[
+        "Belize"
+    ],
+    "name:ewe_x_preferred":[
+        "Belize"
+    ],
+    "name:ext_x_preferred":[
+        "Belici"
+    ],
+    "name:fao_x_preferred":[
+        "Belis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc\u0632"
+    ],
+    "name:fin_x_preferred":[
+        "Belize"
+    ],
     "name:fra_x_preferred":[
+        "Belize"
+    ],
+    "name:frp_x_preferred":[
+        "Belize"
+    ],
+    "name:frr_x_preferred":[
+        "Belize"
+    ],
+    "name:fry_x_preferred":[
+        "Belize"
+    ],
+    "name:gag_x_preferred":[
+        "Beliz"
+    ],
+    "name:gla_x_preferred":[
+        "A' Beil\u00ecs"
+    ],
+    "name:gle_x_preferred":[
+        "An Bheil\u00eds"
+    ],
+    "name:glg_x_preferred":[
+        "Belize"
+    ],
+    "name:glv_x_preferred":[
+        "Yn Veleesh"
+    ],
+    "name:gom_x_preferred":[
+        "\u092c\u0947\u0932\u093f\u091d"
+    ],
+    "name:grn_x_preferred":[
+        "Mbelise"
+    ],
+    "name:gsw_x_preferred":[
+        "Belize"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0ab2\u0ac0\u0a9d"
+    ],
+    "name:hak_x_preferred":[
+        "Belize"
+    ],
+    "name:hat_x_preferred":[
+        "Beliz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05d6"
+    ],
+    "name:hif_x_preferred":[
         "Belize"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0932\u0940\u091c\u093c"
     ],
+    "name:hrv_x_preferred":[
+        "Belize"
+    ],
+    "name:hsb_x_preferred":[
+        "Belize"
+    ],
     "name:hun_x_preferred":[
+        "Belize"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u056c\u056b\u0566"
+    ],
+    "name:ido_x_preferred":[
+        "Belize"
+    ],
+    "name:ile_x_preferred":[
+        "Belize"
+    ],
+    "name:ilo_x_preferred":[
+        "Belis"
+    ],
+    "name:ina_x_preferred":[
         "Belize"
     ],
     "name:ind_x_preferred":[
         "Belize"
     ],
+    "name:isl_x_preferred":[
+        "Bel\u00eds"
+    ],
     "name:ita_x_preferred":[
         "Belize"
+    ],
+    "name:jam_x_preferred":[
+        "Biliiz"
+    ],
+    "name:jav_x_preferred":[
+        "Belize"
+    ],
+    "name:jbo_x_preferred":[
+        "beliz"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30ea\u30fc\u30ba"
     ],
+    "name:kaa_x_preferred":[
+        "Beliz"
+    ],
+    "name:kab_x_preferred":[
+        "Belize"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0cb2\u0cc0\u0c9c\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d8\u10d6\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:kbp_x_preferred":[
+        "Peliizi"
+    ],
+    "name:kin_x_preferred":[
+        "Belize"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
     "name:kor_x_preferred":[
         "\ubca8\ub9ac\uc988"
     ],
+    "name:kur_x_preferred":[
+        "Bel\u00eeze"
+    ],
+    "name:lad_x_preferred":[
+        "Belize"
+    ],
+    "name:lat_x_preferred":[
+        "Beliza"
+    ],
+    "name:lav_x_preferred":[
+        "Beliza"
+    ],
+    "name:lfn_x_preferred":[
+        "Beliz"
+    ],
+    "name:lij_x_preferred":[
+        "Belize"
+    ],
+    "name:lim_x_preferred":[
+        "Belize"
+    ],
+    "name:lin_x_preferred":[
+        "Belize"
+    ],
+    "name:lit_x_preferred":[
+        "Belizas"
+    ],
+    "name:lmo_x_preferred":[
+        "Belize"
+    ],
+    "name:ltz_x_preferred":[
+        "Belize"
+    ],
+    "name:lzh_x_preferred":[
+        "\u4f2f\u5229\u8332"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0947\u0932\u093f\u091c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d46\u0d32\u0d40\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0932\u0940\u091d"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437\u0435"
+    ],
+    "name:mlg_x_preferred":[
+        "Belizy"
+    ],
+    "name:mlt_x_preferred":[
+        "Beli\u017ce"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:msa_x_preferred":[
+        "Belize"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u101c\u102d\u1007\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0644\u06cc\u0632"
+    ],
+    "name:nah_x_preferred":[
+        "Belice"
+    ],
+    "name:nan_x_preferred":[
+        "Belize"
+    ],
+    "name:nau_x_preferred":[
+        "Berij"
+    ],
+    "name:nds_x_preferred":[
+        "Belize"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0947\u0932\u093f\u091c"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0947\u0932\u093f\u091c"
+    ],
     "name:nld_x_preferred":[
         "Belize"
+    ],
+    "name:nno_x_preferred":[
+        "Belize"
+    ],
+    "name:nob_x_preferred":[
+        "Belize"
+    ],
+    "name:nov_x_preferred":[
+        "Beliz"
+    ],
+    "name:oci_x_preferred":[
+        "Belize"
+    ],
+    "name:olo_x_preferred":[
+        "Beliz"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b47\u0b32\u0b3f\u0b1c"
+    ],
+    "name:orm_x_preferred":[
+        "Beliiz"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:pam_x_preferred":[
+        "Belize"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a47\u0a32\u0a40\u0a1c\u0a3c"
+    ],
+    "name:pap_x_preferred":[
+        "Belize"
+    ],
+    "name:pih_x_preferred":[
+        "Beles"
+    ],
+    "name:pli_x_preferred":[
+        "\u092c\u0947\u0932\u0940\u091c"
+    ],
+    "name:pms_x_preferred":[
+        "Belize"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc\u0632"
     ],
     "name:pol_x_preferred":[
         "Belize"
@@ -67,23 +461,182 @@
     "name:por_x_preferred":[
         "Belize"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u06d0\u0644\u06cc\u0632"
+    ],
+    "name:que_x_preferred":[
+        "Bilisi"
+    ],
+    "name:roh_x_preferred":[
+        "Belize"
+    ],
+    "name:ron_x_preferred":[
+        "Belize"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0435\u043b\u0456\u0437"
+    ],
+    "name:rup_x_preferred":[
+        "Belize"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:sah_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:san_x_preferred":[
+        "\u092c\u0947\u0932\u0940\u091c"
+    ],
+    "name:scn_x_preferred":[
+        "Belizi"
+    ],
+    "name:sco_x_preferred":[
+        "Belize"
+    ],
+    "name:sgs_x_preferred":[
+        "Bel\u0117zos"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0dbd\u0dd3\u0dc3\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Belize"
+    ],
+    "name:slv_x_preferred":[
+        "Belize"
+    ],
+    "name:sme_x_preferred":[
+        "Belize"
+    ],
+    "name:smo_x_preferred":[
+        "Pelisi"
+    ],
+    "name:sna_x_preferred":[
+        "Belize"
+    ],
+    "name:som_x_preferred":[
+        "Belise"
     ],
     "name:spa_x_preferred":[
         "Belice"
     ],
+    "name:sqi_x_preferred":[
+        "Beliza"
+    ],
+    "name:srd_x_preferred":[
+        "Belize"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437\u0435"
+    ],
+    "name:ssw_x_preferred":[
+        "IBhelizi"
+    ],
+    "name:stq_x_preferred":[
+        "Belize"
+    ],
+    "name:sun_x_preferred":[
+        "B\u00e9lis"
+    ],
+    "name:swa_x_preferred":[
+        "Belize"
+    ],
     "name:swe_x_preferred":[
+        "Belize"
+    ],
+    "name:szl_x_preferred":[
+        "Belize"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0bb2\u0bc0\u0b9a\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c32\u0c3f\u0c1c\u0c4d"
+    ],
+    "name:tet_x_preferred":[
+        "Belize"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
+    ],
+    "name:tgl_x_preferred":[
+        "Belis"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e1a\u0e25\u0e35\u0e0b"
+    ],
+    "name:tuk_x_preferred":[
         "Belize"
     ],
     "name:tur_x_preferred":[
         "Belize"
     ],
+    "name:uig_x_preferred":[
+        "\u0628\u06d0\u0644\u0649\u0632"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0456\u0437"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc\u0632"
+    ],
+    "name:uzb_x_preferred":[
+        "Beliz"
+    ],
+    "name:vec_x_preferred":[
+        "Belize"
+    ],
+    "name:vep_x_preferred":[
+        "Beliz"
+    ],
     "name:vie_x_preferred":[
+        "Belize"
+    ],
+    "name:vol_x_preferred":[
+        "Belis\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Belize"
+    ],
+    "name:war_x_preferred":[
+        "Belize"
+    ],
+    "name:wol_x_preferred":[
+        "Beliis"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f2f\u5229\u8332"
+    ],
+    "name:xal_x_preferred":[
+        "\u0411\u0435\u043b\u0441\u0438\u043d \u041e\u0440\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d8\u10d6\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05e2\u05dc\u05d9\u05d6\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "B\u1eb9\u0300l\u00eds\u00e8"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f2f\u5229\u8332"
+    ],
+    "name:zea_x_preferred":[
+        "Belize"
+    ],
+    "name:zha_x_preferred":[
         "Belize"
     ],
     "name:zho_x_preferred":[
         "\u4f2f\u5229\u5179"
+    ],
+    "name:zul_x_preferred":[
+        "Belize"
     ],
     "ne:ABBREV":null,
     "ne:ABBREV_LEN":0,
@@ -211,7 +764,7 @@
         }
     ],
     "wof:id":1159339537,
-    "wof:lastmodified":1528909939,
+    "wof:lastmodified":1563324492,
     "wof:name":"Belize (disputed area)",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

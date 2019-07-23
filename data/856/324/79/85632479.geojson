@@ -32,6 +32,12 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u0995\u09be\u09b0\u09ac\u09cb\u09b0\u09cb \u09b8\u09cb\u09af\u09bc\u09be\u09b2"
     ],
+    "name:cat_x_preferred":[
+        "Escull Scarborough"
+    ],
+    "name:dan_x_preferred":[
+        "Scarborough Shoal"
+    ],
     "name:deu_x_preferred":[
         "Scarborough-Riff"
     ],
@@ -47,11 +53,23 @@
     "name:eng_x_variant":[
         "Disputed Territory"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062f \u0633\u0627\u062d\u0644\u06cc \u0627\u0633\u06a9\u0627\u0631\u0628\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:fin_x_variant":[
+        "Scarboroughin matalikko"
+    ],
     "name:fra_x_preferred":[
         "R\u00e9cif de Scarborough"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0a95\u0abe\u0ab0\u0aac\u0acb\u0ab0\u0acb \u0ab6\u0acb\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e7\u05e8\u05d1\u05d5\u05e8\u05d5 \u05e9\u05d5\u05d0\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u0938\u094d\u0915\u093e\u0930\u092c\u0930\u094b \u0936\u094b\u0932"
@@ -71,14 +89,35 @@
     "name:jpn_x_variant":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c95\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0cca \u0cb6\u0ccb\u0cb2\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\uce74\ubc84\ub7ec \uc554\ucd08"
     ],
     "name:kor_x_variant":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
     ],
+    "name:lav_x_preferred":[
+        "Sk\u0101rboro s\u0113klis"
+    ],
+    "name:lit_x_preferred":[
+        "Skarboro sekluma"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u0915\u093e\u0930\u094d\u092c\u0930\u094b \u0936\u094b\u0932"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043a\u0430\u0440\u0431\u043e\u0440\u0441\u043a\u0438 \u0413\u0440\u0435\u0431\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Beting Scarborough"
+    ],
     "name:nld_x_preferred":[
         "Scarborough-rif"
+    ],
+    "name:nob_x_preferred":[
+        "Panatagrevene"
     ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
@@ -95,6 +134,9 @@
     "name:rus_x_preferred":[
         "\u0421\u043a\u0430\u0440\u0431\u043e\u0440\u043e-\u0428\u043e\u043b"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0d9a\u0dcf\u0dbb\u0dca\u0db6\u0ddd\u0dbb\u0ddd \u0dc1\u0d94\u0dbd\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Bajo de Masinloc"
     ],
@@ -107,8 +149,26 @@
     "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b95\u0bc7\u0bb0\u0bcd\u0baa\u0bcb\u0bb0\u0bc2\u0b95\u0bcd\u0bb9\u0bcd  \u0bb7\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c4d\u0c2c\u0c4a\u0c30\u0c4b \u0c37\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Kulumpol ng Panatag"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e31\u0e19\u0e17\u0e23\u0e32\u0e22\u0e2a\u0e04\u0e32\u0e23\u0e4c\u0e42\u0e1a\u0e42\u0e23\u0e48"
+    ],
     "name:tur_x_preferred":[
         "Scarborough Shoal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0430\u0440\u0431\u043e\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06a9\u06cc\u0631\u0628\u0648\u0631\u0648 \u0634\u0648\u0627\u0644"
     ],
     "name:vie_x_preferred":[
         "B\u00e3i c\u1ea1n Scarborough"
@@ -257,7 +317,7 @@
         }
     ],
     "wof:id":85632479,
-    "wof:lastmodified":1528909931,
+    "wof:lastmodified":1563321733,
     "wof:name":"Scarborough Reef",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

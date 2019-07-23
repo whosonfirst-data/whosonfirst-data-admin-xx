@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Le Fran\u00e7ois"
     ],
+    "name:ceb_x_preferred":[
+        "Le Fran\u00e7ois"
+    ],
     "name:ces_x_preferred":[
         "Le Fran\u00e7ois"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:deu_x_preferred":[
         "Le Fran\u00e7ois"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u03a6\u03c1\u03b1\u03bd\u03c3\u03bf\u03c5\u03ac"
     ],
     "name:eng_x_preferred":[
         "Le Fran\u00e7ois"
@@ -317,7 +323,7 @@
         }
     ],
     "wof:id":1125804137,
-    "wof:lastmodified":1561837382,
+    "wof:lastmodified":1563322588,
     "wof:name":"Le Fran\u00e7ois",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

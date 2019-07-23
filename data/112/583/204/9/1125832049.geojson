@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u062f"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u043b\u0435\u0434"
+    ],
     "name:bos_x_preferred":[
         "Bled"
     ],
@@ -26,6 +29,9 @@
         "\u0411\u043b\u0435\u0434"
     ],
     "name:cat_x_preferred":[
+        "Bled"
+    ],
+    "name:ceb_x_preferred":[
         "Bled"
     ],
     "name:ces_x_preferred":[
@@ -55,6 +61,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0644\u062f\u060c \u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u0644\u062f"
+    ],
     "name:fin_x_preferred":[
         "Bled"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube14\ub808\ub4dc"
+    ],
+    "name:kor_x_variant":[
+        "\ube14\ub808\ud2b8"
     ],
     "name:lit_x_preferred":[
         "Bledas"
@@ -119,6 +131,9 @@
         "Bled"
     ],
     "name:spa_x_preferred":[
+        "Bled"
+    ],
+    "name:sqi_x_preferred":[
         "Bled"
     ],
     "name:srp_x_preferred":[
@@ -192,7 +207,7 @@
         }
     ],
     "wof:id":1125832049,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324480,
     "wof:name":"Bled",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",

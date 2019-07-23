@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0435\u043f\u043e\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Op\u0161tina Prijepolje"
+    ],
     "name:ces_x_preferred":[
         "Prijepolje"
     ],
@@ -94,6 +97,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0456\u0454\u043f\u043e\u043b\u0435"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0456\u0454\u043f\u043e\u043b\u0454"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u8036\u6ce2\u5217"
     ],
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1126051483,
-    "wof:lastmodified":1561837375,
+    "wof:lastmodified":1563322173,
     "wof:name":"Prijepolje",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

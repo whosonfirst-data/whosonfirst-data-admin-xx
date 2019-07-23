@@ -22,6 +22,9 @@
     "name:fin_x_preferred":[
         "Sk\u00e4rg\u00e5rdsstad"
     ],
+    "name:ita_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
     "name:nan_x_preferred":[
         "Sk\u00e4rg\u00e5rdsstad"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125961593,
-    "wof:lastmodified":1561837392,
+    "wof:lastmodified":1563323468,
     "wof:name":"Skargardsstad",
     "wof:parent_id":1125423247,
     "wof:placetype":"locality",

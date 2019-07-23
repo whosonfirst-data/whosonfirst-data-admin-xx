@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u043b\u0432\u0438\u043d\u0433\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kelvingi"
+    ],
     "name:eng_x_preferred":[
         "Kelvingi"
     ],
@@ -35,6 +38,9 @@
         "Kelvingi"
     ],
     "name:pol_x_preferred":[
+        "Kelvingi"
+    ],
+    "name:spa_x_preferred":[
         "Kelvingi"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125977677,
-    "wof:lastmodified":1561837388,
+    "wof:lastmodified":1563323213,
     "wof:name":"Kelvingi",
     "wof:parent_id":85683055,
     "wof:placetype":"locality",

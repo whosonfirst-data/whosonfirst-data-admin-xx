@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000154,
+    "geom:area_square_m":1874111.039443,
     "geom:bbox":"-171.086537239,-11.066094659,-171.072824674,-11.051364842",
     "geom:latitude":-11.057943,
     "geom:longitude":-171.079758,
@@ -22,22 +23,67 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0421\u0443\u044d\u0439\u043d\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Swains Island"
+    ],
+    "name:ces_x_preferred":[
+        "Swains Island"
+    ],
+    "name:dan_x_preferred":[
+        "Swains\u00f8en"
+    ],
     "name:deu_x_preferred":[
         "Swains Island"
     ],
     "name:eng_x_preferred":[
         "Swains Island"
     ],
+    "name:eus_x_preferred":[
+        "Olohega"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0633\u0648\u0627\u06cc\u0646\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Swains Island"
+    ],
     "name:fra_x_preferred":[
         "Swains"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Swains"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05e1\u05d5\u05d5\u05d0\u05df"
     ],
     "name:ita_x_preferred":[
         "Isola Swains"
     ],
+    "name:ita_x_variant":[
+        "isola Swains"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30a6\u30a7\u30a4\u30f3\u30ba\u5cf6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d4\u10d8\u10dc\u10d6\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Sveino sala"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d4d\u0d35\u0d46\u0d2f\u0d4d\u0d7b\u0d38\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0432\u0435\u0458\u043d\u0441"
+    ],
     "name:nld_x_preferred":[
+        "Swains"
+    ],
+    "name:nob_x_preferred":[
         "Swains"
     ],
     "name:pol_x_preferred":[
@@ -49,11 +95,20 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u044d\u0439\u043d\u0441"
     ],
+    "name:smo_x_preferred":[
+        "Olosega"
+    ],
     "name:spa_x_preferred":[
         "Isla Swains"
     ],
     "name:swe_x_preferred":[
         "Swains\u00f6n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0435\u0439\u043d\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0633\u0648\u0626\u06cc\u0646\u0632"
     ],
     "name:zho_x_preferred":[
         "\u65af\u6e29\u65af\u5c9b"
@@ -186,7 +241,7 @@
         }
     ],
     "wof:id":1159339565,
-    "wof:lastmodified":1528909940,
+    "wof:lastmodified":1563324532,
     "wof:name":"Swains Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

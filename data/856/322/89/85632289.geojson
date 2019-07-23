@@ -37,6 +37,9 @@
     "name:ces_x_preferred":[
         "S\u00fdrie"
     ],
+    "name:ces_x_variant":[
+        "Farmy \u0160ib\u00e1a"
+    ],
     "name:dan_x_preferred":[
         "Syrien"
     ],
@@ -59,6 +62,9 @@
         "Syrian Arab Republic",
         "Syyria",
         "Syria"
+    ],
+    "name:eus_x_preferred":[
+        "Shebaako etxaldeak"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0634\u062a\u0632\u0627\u0631\u0647\u0627\u06cc \u0634\u0628\u0639\u0627"
@@ -311,7 +317,7 @@
         }
     ],
     "wof:id":85632289,
-    "wof:lastmodified":1561837363,
+    "wof:lastmodified":1563321741,
     "wof:name":"Shebaa Farms",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

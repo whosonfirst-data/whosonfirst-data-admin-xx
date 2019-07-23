@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.8968,
+    "geom:area_square_m":178236894965.441833,
     "geom:bbox":"-17.0137433254,21.4199710976,-8.752871867,27.66251361",
     "geom:latitude":24.874082,
     "geom:longitude":-13.616372,
@@ -22,14 +23,95 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Sahara Barat"
+    ],
+    "name:afr_x_preferred":[
+        "Wes-Sahara"
+    ],
+    "name:amh_x_preferred":[
+        "\u121d\u12d5\u122b\u1263\u12ca \u1223\u1205\u122b"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Sahara Occidental"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0635\u062d\u0631\u0627 \u0627\u0644\u063a\u0631\u0628\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "S\u00e1\u1e25ara Occidental"
+    ],
+    "name:aze_x_preferred":[
+        "Q\u0259rbi Sahara"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u04e9\u043d\u0431\u0430\u0439\u044b\u0448 \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:bcl_x_preferred":[
+        "Sulnupan na Sahara"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f \u0421\u0430\u0445\u0430\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09b6\u09cd\u099a\u09bf\u09ae \u09b8\u09be\u09b9\u09be\u09b0\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092a\u091a\u094d\u091b\u093f\u092e\u0940 \u0938\u0939\u093e\u0930\u093e"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f53\u0f74\u0f56\u0f0b\u0f66\u0f0b\u0f67\u0f0b\u0f62\u0f0d"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09f1\u09c7\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a8 \u09b8\u09be\u09b9\u09be\u09b0\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Sahara ar C'horn\u00f4g"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e0hara Occidental"
+    ],
+    "name:cdo_x_preferred":[
+        "S\u0103\u0324 Sahara"
+    ],
+    "name:ces_x_preferred":[
+        "Z\u00e1padn\u00ed Sahara"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06d5\u062d\u0631\u0627\u06cc \u0695\u06c6\u0698\u0627\u0648\u0627"
+    ],
+    "name:cor_x_preferred":[
+        "Sahara West"
+    ],
+    "name:crh_x_preferred":[
+        "\u011earbiy Sahara"
+    ],
+    "name:cym_x_preferred":[
+        "Gorllewin Sahara"
+    ],
+    "name:dan_x_preferred":[
+        "Vestsahara"
+    ],
     "name:deu_x_preferred":[
         "Westsahara"
+    ],
+    "name:diq_x_preferred":[
+        "Sehraya Rocawani"
+    ],
+    "name:div_x_preferred":[
+        "\u0780\u07aa\u0785\u07a6\u0782\u078e\u07aa \u0790\u07a6\u0780\u07a6\u0783\u07a7"
+    ],
+    "name:dsb_x_preferred":[
+        "P\u00f3dwjacorna Sahara"
+    ],
+    "name:dty_x_preferred":[
+        "\u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u0938\u0939\u093e\u0930\u093e"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u03a3\u03b1\u03c7\u03ac\u03c1\u03b1"
@@ -37,29 +119,227 @@
     "name:eng_x_preferred":[
         "Western Sahara"
     ],
+    "name:epo_x_preferred":[
+        "Okcidenta Saharo"
+    ],
+    "name:est_x_preferred":[
+        "L\u00e4\u00e4ne-Sahara"
+    ],
+    "name:eus_x_preferred":[
+        "Mendebaldeko Sahara"
+    ],
+    "name:ewe_x_preferred":[
+        "Yeto\u0256o\u0192e Sahara"
+    ],
+    "name:ext_x_preferred":[
+        "S\u00e1hara Ociental"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "L\u00e4nsi-Sahara"
+    ],
     "name:fra_x_preferred":[
         "Sahara occidental"
+    ],
+    "name:frp_x_preferred":[
+        "Sahara occident\u00e2l"
+    ],
+    "name:fry_x_preferred":[
+        "Westlike Sahara"
+    ],
+    "name:gag_x_preferred":[
+        "G\u00fcnbat\u0131s\u0131 Sahara"
+    ],
+    "name:gla_x_preferred":[
+        "Sathara an Iar"
+    ],
+    "name:glg_x_preferred":[
+        "S\u00e1hara Occidental"
+    ],
+    "name:grn_x_preferred":[
+        "Kuarahyreike Sa\u00e1ra"
+    ],
+    "name:gsw_x_preferred":[
+        "Westsahara"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0ab0\u0acd\u0aa8 \u0ab8\u0ab9\u0abe\u0ab0\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00ee Sahara"
+    ],
+    "name:hat_x_preferred":[
+        "Sahara oksidantal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d4\u05e8\u05d4 \u05d4\u05de\u05e2\u05e8\u05d1\u05d9\u05ea"
+    ],
+    "name:hif_x_preferred":[
+        "Western Sahara"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u0938\u0939\u093e\u0930\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Zapadna Sahara"
+    ],
+    "name:hsb_x_preferred":[
+        "Zapadna Sahara"
+    ],
     "name:hun_x_preferred":[
         "Nyugat-Szahara"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0574\u057f\u0575\u0561\u0576 \u054d\u0561\u0570\u0561\u0580\u0561"
+    ],
+    "name:ile_x_preferred":[
+        "West-Sahara"
+    ],
+    "name:ilo_x_preferred":[
+        "Akinlaud a Sahara"
+    ],
+    "name:ina_x_preferred":[
+        "Sahara Occidental"
     ],
     "name:ind_x_preferred":[
         "Sahara Barat"
     ],
+    "name:isl_x_preferred":[
+        "Vestur-Sahara"
+    ],
     "name:ita_x_preferred":[
         "Sahara Occidentale"
+    ],
+    "name:jam_x_preferred":[
+        "Westan Sa'aara"
+    ],
+    "name:jav_x_preferred":[
+        "Sahara Kulon"
     ],
     "name:jpn_x_preferred":[
         "\u897f\u30b5\u30cf\u30e9"
     ],
+    "name:kaa_x_preferred":[
+        "Bat\u0131s Saxara"
+    ],
+    "name:kab_x_preferred":[
+        "Ane\u1e93ruf Utrim"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0cb8\u0cb9\u0cbe\u0cb0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10e1\u10d0\u10f0\u10d0\u10e0\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0442\u044b\u0441 \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:kbp_x_preferred":[
+        "Sahara W\u0269s\u0269 \u0256\u0269\u0256\u028ay\u025b"
+    ],
     "name:kor_x_preferred":[
         "\uc11c\uc0ac\ud558\ub77c"
     ],
+    "name:kur_x_preferred":[
+        "Sahraya Rojava"
+    ],
+    "name:lad_x_preferred":[
+        "Sahara Oksidental"
+    ],
+    "name:lat_x_preferred":[
+        "Sahara Occidentalis"
+    ],
+    "name:lav_x_preferred":[
+        "Rietumsah\u0101ra"
+    ],
+    "name:lij_x_preferred":[
+        "Sahara O\u00e7\u00e7ident\u00e2"
+    ],
+    "name:lim_x_preferred":[
+        "Westeleke Sahara"
+    ],
+    "name:lin_x_preferred":[
+        "Sahara ya Limb\u025b"
+    ],
+    "name:lit_x_preferred":[
+        "Vakar\u0173 Sachara"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0635\u0623\u062d\u0631\u0627 \u0623\u0641\u062a\u0648\u0646\u0626\u0634\u06cc\u0646"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d36\u0d4d\u0d1a\u0d3f\u0d2e \u0d38\u0d39\u0d3e\u0d31"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0936\u094d\u091a\u093f\u092e \u0938\u0939\u093e\u0930\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Sahara Andrefana"
+    ],
+    "name:mlt_x_preferred":[
+        "Sa\u0127ara tal-Punent"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u0443\u043d \u0421\u0430\u0445\u0430\u0440"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0412\u0430\u0434\u044b\u0432\u0435\u043b \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Sahara Barat"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0635\u062d\u0631\u0627"
+    ],
+    "name:nan_x_preferred":[
+        "Sai Sahara"
+    ],
+    "name:nav_x_preferred":[
+        "K\u00e9yah Sah\u00e9\u00e9wa E\u02bce\u02bcaahj\u00ed Si\u02bc\u00e1n\u00edg\u00ed\u00ed"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u0938\u0939\u093e\u0930\u093e"
+    ],
     "name:nld_x_preferred":[
         "Westelijke Sahara"
+    ],
+    "name:nno_x_preferred":[
+        "Vest-Sahara"
+    ],
+    "name:nob_x_preferred":[
+        "Vest-Sahara"
+    ],
+    "name:nov_x_preferred":[
+        "Westi Sahara"
+    ],
+    "name:nso_x_preferred":[
+        "Western Sahara"
+    ],
+    "name:oci_x_preferred":[
+        "Sahara Occidental"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2a\u0b36\u0b4d\u0b1a\u0b3f\u0b2e \u0b38\u0b3e\u0b39\u0b3e\u0b30\u0b3e"
+    ],
+    "name:orm_x_preferred":[
+        "Sahaaraa Dhihaa"
+    ],
+    "name:pam_x_preferred":[
+        "Albugang Sahara"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a71\u0a1b\u0a2e\u0a40 \u0a38\u0a39\u0a3e\u0a30\u0a3e"
+    ],
+    "name:pih_x_preferred":[
+        "Western Sahara"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u06cc\u0646\u062f\u0627 \u0635\u062d\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Sahara Zachodnia"
@@ -67,20 +347,119 @@
     "name:por_x_preferred":[
         "Saara Ocidental"
     ],
+    "name:que_x_preferred":[
+        "Kunti Sahara"
+    ],
+    "name:ron_x_preferred":[
+        "Sahara Occidental\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u0440\u0495\u0430\u0430 \u0421\u0430h\u0430\u0430\u0440\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Sahara Uccidintali"
+    ],
+    "name:sco_x_preferred":[
+        "Wastren Sahara"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0da7\u0dc4\u0dd2\u0dbb \u0dc3\u0dc4\u0dbb\u0dcf\u0dc0"
+    ],
+    "name:slk_x_preferred":[
+        "Z\u00e1padn\u00e1 Sahara"
+    ],
+    "name:slv_x_preferred":[
+        "Zahodna Sahara"
+    ],
+    "name:sme_x_preferred":[
+        "Oarje-Sah\u00e1ra"
     ],
     "name:spa_x_preferred":[
         "Sahara Occidental"
     ],
+    "name:sqi_x_preferred":[
+        "Sahara Per\u00ebndimore"
+    ],
+    "name:srd_x_preferred":[
+        "Sahara Otzidentale"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Sahara Kulon"
+    ],
+    "name:swa_x_preferred":[
+        "Sahara ya Magharibi"
+    ],
     "name:swe_x_preferred":[
         "V\u00e4stsahara"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0b95\u0bbe\u0bb0\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u043d\u0431\u0430\u0442\u044b\u0448 \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c46\u0c38\u0c4d\u0c1f\u0c30\u0c4d\u0c28\u0c4d \u0c38\u0c39\u0c3e\u0c30\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u04b3\u0440\u043e\u0438 \u0492\u0430\u0440\u0431\u04e3"
+    ],
+    "name:tgl_x_preferred":[
+        "Kanluraning Sahara"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e27\u0e2a\u0e40\u0e17\u0e34\u0e23\u0e4c\u0e19\u0e2a\u0e30\u0e2e\u0e32\u0e23\u0e32"
+    ],
+    "name:tso_x_preferred":[
+        "Western Sahara"
     ],
     "name:tur_x_preferred":[
         "Bat\u0131 Sahra"
     ],
+    "name:uig_x_preferred":[
+        "\u063a\u06d5\u0631\u0628\u0649\u064a \u0633\u0627\u06be\u0627\u0631\u0627"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u0421\u0430\u0445\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "G\u02bbarbiy sahroi kabir"
+    ],
     "name:vie_x_preferred":[
         "T\u00e2y Sahara"
+    ],
+    "name:vol_x_preferred":[
+        "Ves\u00fcda-Sahar\u00e4n"
+    ],
+    "name:war_x_preferred":[
+        "Katundan Sahara"
+    ],
+    "name:wln_x_preferred":[
+        "Sara co\u00fbtchantrece"
+    ],
+    "name:wol_x_preferred":[
+        "Sahara gu Sowwu"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10df\u10d0\u10d3\u10d0\u10da\u10d8 \u10e1\u10d0\u10f0\u10d0\u10e0\u10d0"
+    ],
+    "name:yor_x_preferred":[
+        "Ap\u00e1\u00ecw\u1ecd\u0300or\u00f9n S\u00e0h\u00e1r\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u6492\u54c8\u62c9"
+    ],
+    "name:zea_x_preferred":[
+        "Westelijke Sahara"
     ],
     "name:zho_x_preferred":[
         "\u897f\u6492\u54c8\u62c9"
@@ -210,7 +589,7 @@
         }
     ],
     "wof:id":1159339507,
-    "wof:lastmodified":1528909939,
+    "wof:lastmodified":1563324518,
     "wof:name":"Western Sahara",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

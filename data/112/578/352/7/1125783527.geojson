@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09bf\u0982\u0993\u09b0\u09cd\u09a5"
     ],
+    "name:ceb_x_preferred":[
+        "Cullingworth"
+    ],
     "name:deu_x_preferred":[
         "Cullingworth"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125783527,
-    "wof:lastmodified":1561837407,
+    "wof:lastmodified":1563324084,
     "wof:name":"Cullingworth",
     "wof:parent_id":404429339,
     "wof:placetype":"locality",

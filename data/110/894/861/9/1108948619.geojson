@@ -21,6 +21,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:aze_x_preferred":[
+        "Peqli"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u043b\u044c\u0456"
+    ],
     "name:cym_x_preferred":[
         "Pegli"
     ],
@@ -54,6 +60,9 @@
     "name:por_x_preferred":[
         "Pegli"
     ],
+    "name:spa_x_preferred":[
+        "Pegli"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043b\u044c\u0457"
     ],
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1108948619,
-    "wof:lastmodified":1561837365,
+    "wof:lastmodified":1563321759,
     "wof:name":"Pegli",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",

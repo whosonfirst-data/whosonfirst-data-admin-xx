@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Roura"
     ],
+    "name:ceb_x_preferred":[
+        "Roura"
+    ],
     "name:ces_x_preferred":[
         "Roura"
     ],
@@ -335,7 +338,7 @@
         }
     ],
     "wof:id":1125981893,
-    "wof:lastmodified":1561837393,
+    "wof:lastmodified":1563323494,
     "wof:name":"Roura",
     "wof:parent_id":1091680907,
     "wof:placetype":"locality",

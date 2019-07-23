@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "La Possession"
     ],
+    "name:ceb_x_preferred":[
+        "La Possession"
+    ],
     "name:ces_x_preferred":[
         "La Possession"
     ],
@@ -338,7 +341,7 @@
         }
     ],
     "wof:id":1125862685,
-    "wof:lastmodified":1561837377,
+    "wof:lastmodified":1563322305,
     "wof:name":"La Possession",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

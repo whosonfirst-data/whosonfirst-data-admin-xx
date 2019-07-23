@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Le Tampon"
     ],
+    "name:ceb_x_preferred":[
+        "Le Tampon"
+    ],
     "name:ces_x_preferred":[
         "Le Tampon"
     ],
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":1126012291,
-    "wof:lastmodified":1561837397,
+    "wof:lastmodified":1563323683,
     "wof:name":"Le Tampon",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

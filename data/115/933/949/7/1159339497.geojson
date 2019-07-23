@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.210751,
+    "geom:area_square_m":12397173100.410032,
     "geom:bbox":"73.4002014571,32.8230673139,75.2552945957,35.1236544065",
     "geom:latitude":34.094219,
     "geom:longitude":74.018804,
@@ -25,11 +26,50 @@
     "name:ara_x_preferred":[
         "\u0622\u0632\u0627\u062f \u0643\u0634\u0645\u064a\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0632\u0627\u062f \u06a9\u0634\u0645\u06cc\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Azad K\u0259\u015fmir"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u0437\u0430\u0442 \u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0456\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u099c\u09be\u09a6 \u0995\u09be\u09b6\u09cd\u09ae\u09c0\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u0906\u091c\u093e\u0926 \u0915\u093e\u0936\u094d\u092e\u0940\u0930"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Azad Kashmir"
+    ],
+    "name:ceb_x_preferred":[
+        "Azad Kashmir"
+    ],
+    "name:ces_x_preferred":[
+        "\u00c1z\u00e1d Ka\u0161m\u00edr"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0632\u0627\u062f \u06a9\u06d5\u0634\u0645\u06cc\u0631"
+    ],
+    "name:dan_x_preferred":[
+        "Azad Kashmir"
+    ],
     "name:deu_x_preferred":[
         "Asad Jammu und Kaschmir"
+    ],
+    "name:diq_x_preferred":[
+        "Azad Ke\u015fmir"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b6\u03ac\u03bd\u03c4 \u039a\u03b1\u03c3\u03bc\u03af\u03c1"
@@ -37,11 +77,35 @@
     "name:eng_x_preferred":[
         "Azad Kashmir"
     ],
+    "name:epo_x_preferred":[
+        "Azad Ka\u015dmiro"
+    ],
+    "name:eus_x_preferred":[
+        "Azad Kaxmir"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0634\u0645\u06cc\u0631 \u0622\u0632\u0627\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Azad Kashmir"
+    ],
     "name:fra_x_preferred":[
         "Azad Cachemire"
     ],
+    "name:guj_x_preferred":[
+        "\u0a86\u0a9d\u0abe\u0aa6 \u0a95\u0abe\u0ab6\u0acd\u0aae\u0ac0\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d6\u05d0\u05d3 \u05e7\u05e9\u05de\u05d9\u05e8"
+    ],
+    "name:hif_x_preferred":[
+        "Azad Kashmir"
+    ],
     "name:hin_x_preferred":[
         "\u0906\u091c\u093c\u093e\u0926 \u0915\u0936\u094d\u092e\u0940\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0566\u0561\u0564 \u0554\u0561\u0577\u0574\u056b\u0580"
     ],
     "name:ind_x_preferred":[
         "Azad Kashmir"
@@ -52,11 +116,65 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b6\u30c9\u30fb\u30ab\u30b7\u30df\u30fc\u30eb"
     ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0c9c\u0cbe\u0ca6\u0ccd \u0c95\u0cbe\u0cb6\u0ccd\u0cae\u0cc0\u0cb0"
+    ],
+    "name:kas_x_preferred":[
+        "\u0622\u0632\u0627\u062f \u06a9\u0654\u0634\u0650\u06cc\u0631"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d6\u10d0\u10d3-\u10e5\u10d0\u10e8\u10db\u10d8\u10e0\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc790\ub4dc \uce74\uc288\ubbf8\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc790\ub4dc \uce74\uc288\ubbf8\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "Caspira Libera"
+    ],
+    "name:lav_x_preferred":[
+        "Azadka\u0161m\u012bra"
+    ],
+    "name:lit_x_preferred":[
+        "Laisvasis Ka\u0161myras"
+    ],
+    "name:mai_x_preferred":[
+        "\u0906\u091c\u093e\u0926 \u0915\u0936\u094d\u092e\u0940\u0930"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d06\u0d38\u0d3e\u0d26\u0d4d \u0d15\u0d36\u0d4d\u0d2e\u0d40\u0d7c"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093e\u0915\u0935\u094d\u092f\u093e\u092a\u094d\u0924 \u0915\u093e\u0936\u094d\u092e\u0940\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Azad Kashmir"
+    ],
+    "name:nan_x_preferred":[
+        "Azad Kashmir"
+    ],
+    "name:nep_x_preferred":[
+        "\u0906\u091c\u093e\u0926 \u0915\u0936\u094d\u092e\u0940\u0930"
+    ],
     "name:nld_x_preferred":[
         "Azad Kasjmir"
+    ],
+    "name:nno_x_preferred":[
+        "Asad Jammu og Kashmir"
+    ],
+    "name:nob_x_preferred":[
+        "Azad Kashmir"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a1c\u0a3c\u0a3e\u0a26 \u0a15\u0a38\u0a3c\u0a2e\u0a40\u0a30"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0632\u0627\u062f \u06a9\u0634\u0645\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Azad D\u017cammu i Kaszmir"
@@ -64,20 +182,56 @@
     "name:por_x_preferred":[
         "Caxemira Livre"
     ],
+    "name:pus_x_preferred":[
+        "\u0622\u0632\u0627\u062f \u06a9\u0634\u0645\u064a\u0631"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Azad Kashmir"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dc3\u0dcf\u0daf\u0dca \u0d9a\u0dcf\u0dc1\u0dca\u0db8\u0dd3\u0dbb\u0dca"
+    ],
+    "name:snd_x_preferred":[
+        "\u0622\u0632\u0627\u062f \u06aa\u0634\u0645\u064a\u0631"
     ],
     "name:spa_x_preferred":[
         "Azad Cachemira"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
     "name:swe_x_preferred":[
         "Azad Kashmir"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0b9a\u0bbe\u0ba4\u0bcd \u0b95\u0bbe\u0bb7\u0bcd\u0bae\u0bc0\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0437\u0430\u0442 \u041a\u0430\u0448\u043c\u0438\u0440"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c1c\u0c3e\u0c26\u0c4d \u0c15\u0c36\u0c4d\u0c2e\u0c40\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e0b\u0e32\u0e14\u0e41\u0e04\u0e0a\u0e40\u0e21\u0e35\u0e22\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Azad Ke\u015fmir"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0456\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0632\u0627\u062f \u062c\u0645\u0648\u06ba \u06a9\u0634\u0645\u06cc\u0631"
+    ],
     "name:vie_x_preferred":[
         "Azad Kashmir"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10d6\u10d0\u10d3 \u10e5\u10d0\u10e8\u10db\u10d8\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u81ea\u7531\u514b\u4ec0\u7c73\u723e"
@@ -210,7 +364,7 @@
         }
     ],
     "wof:id":1159339497,
-    "wof:lastmodified":1533674655,
+    "wof:lastmodified":1563324513,
     "wof:name":"Azad Kashmir",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

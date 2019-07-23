@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0643\u0648\u0634"
     ],
+    "name:ceb_x_preferred":[
+        "Arcu\u0219"
+    ],
     "name:eng_x_preferred":[
         "Arcu\u0219"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ron_x_preferred":[
         "Arcu\u0219"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u043a\u0443\u0448"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u043a\u0443\u0448"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125830067,
-    "wof:lastmodified":1561837413,
+    "wof:lastmodified":1563324482,
     "wof:name":"Arcu\u0219",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

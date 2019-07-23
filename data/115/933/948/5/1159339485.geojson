@@ -23,11 +23,59 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "name:ace_x_preferred":[
+        "Galu\u00eb Gaza"
+    ],
+    "name:afr_x_preferred":[
+        "Gasastrook"
+    ],
+    "name:amh_x_preferred":[
+        "\u12e8\u130b\u12db \u1235\u120b\u1324"
+    ],
     "name:ara_x_preferred":[
         "\u0642\u0637\u0627\u0639 \u063a\u0632\u0629"
     ],
+    "name:aze_x_preferred":[
+        "Q\u0259zza zola\u011f\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0492\u04d9\u0437\u0437\u04d9 \u0441\u0435\u043a\u0442\u043e\u0440\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043a\u0442\u0430\u0440 \u0413\u0430\u0437\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u099c\u09be \u09ad\u09c2\u0996\u09a3\u09cd\u09a1"
+    ],
+    "name:bos_x_preferred":[
+        "Pojas Gaze"
+    ],
+    "name:bre_x_preferred":[
+        "Bandenn Gaza"
+    ],
+    "name:brh_x_preferred":[
+        "\u0122az\u00e1"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0432\u0438\u0446\u0430 \u0413\u0430\u0437\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Gaza"
+    ],
+    "name:ces_x_preferred":[
+        "P\u00e1smo Gazy"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u0437\u0430 \u0441\u0435\u043a\u0442\u043e\u0440"
+    ],
+    "name:cor_x_preferred":[
+        "Konna Gasa"
+    ],
+    "name:cym_x_preferred":[
+        "Llain Gaza"
+    ],
+    "name:dan_x_preferred":[
+        "Gazastriben"
     ],
     "name:deu_x_preferred":[
         "Gazastreifen"
@@ -38,29 +86,155 @@
     "name:eng_x_preferred":[
         "Gaza Strip"
     ],
+    "name:epo_x_preferred":[
+        "Gazaa Sektoro"
+    ],
+    "name:est_x_preferred":[
+        "Gaza tsoon"
+    ],
+    "name:eus_x_preferred":[
+        "Gazako lur zerrenda"
+    ],
+    "name:fao_x_preferred":[
+        "Gasageirin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0627\u0631 \u063a\u0632\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Gazan kaista"
+    ],
     "name:fra_x_preferred":[
         "bande de Gaza"
+    ],
+    "name:fry_x_preferred":[
+        "Gazastreek"
+    ],
+    "name:ful_x_preferred":[
+        "Ciifol Gaaza"
+    ],
+    "name:gla_x_preferred":[
+        "Raon Gh\u00e0sa"
+    ],
+    "name:gle_x_preferred":[
+        "Str\u00e1ice Gaza"
+    ],
+    "name:glv_x_preferred":[
+        "Straih Ghaza"
+    ],
+    "name:gsw_x_preferred":[
+        "Gazastreifen"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0abe\u0a9d\u0abe \u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0aaa"
+    ],
+    "name:hau_x_preferred":[
+        "Zirin Gaza"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e6\u05d5\u05e2\u05ea \u05e2\u05d6\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0917\u093c\u091c\u093c\u093e \u092a\u091f\u094d\u091f\u0940"
     ],
+    "name:hrv_x_preferred":[
+        "Pojas Gaze"
+    ],
     "name:hun_x_preferred":[
         "G\u00e1zai \u00f6vezet"
+    ],
+    "name:hye_x_preferred":[
+        "\u0542\u0561\u0566\u0561\u0575\u056b \u0570\u0561\u057f\u057e\u0561\u056e"
     ],
     "name:ind_x_preferred":[
         "Jalur Gaza"
     ],
+    "name:isl_x_preferred":[
+        "Gasastr\u00f6ndin"
+    ],
     "name:ita_x_preferred":[
         "Striscia di Gaza"
+    ],
+    "name:jav_x_preferred":[
+        "Lurung Gaza"
     ],
     "name:jpn_x_preferred":[
         "\u30ac\u30b6\u5730\u533a"
     ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cbe\u0c9c\u0cbe \u0caa\u0c9f\u0ccd\u0c9f\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e6\u10d0\u10d6\u10d8\u10e1 \u10e1\u10d4\u10e5\u10e2\u10dd\u10e0\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u178a\u17b8\u1787\u17d2\u179a\u17c4\u1799\u17a0\u17d2\u1782\u17b6\u179f\u17d2\u179f\u17b6"
+    ],
     "name:kor_x_preferred":[
         "\uac00\uc790 \uc9c0\uad6c"
     ],
+    "name:kur_x_preferred":[
+        "\u015eir\u00eeta Xezey\u00ea"
+    ],
+    "name:lao_x_preferred":[
+        "\u0eaa\u0eb0\u0edc\u0ea7\u0e99\u0e81\u0eb2\u0e8a\u0eb2"
+    ],
+    "name:lat_x_preferred":[
+        "Lacinia Gazetica"
+    ],
+    "name:lav_x_preferred":[
+        "Gazas josla"
+    ],
+    "name:lim_x_preferred":[
+        "Gazastrook"
+    ],
+    "name:lit_x_preferred":[
+        "Gazos Ruo\u017eas"
+    ],
+    "name:mai_x_preferred":[
+        "\u0917\u093e\u091c\u093e \u092a\u091f\u094d\u091f\u0940"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d3e\u0d38"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u093e\u091d\u093e \u092a\u091f\u094d\u091f\u0940"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0458\u0430\u0441 \u0413\u0430\u0437\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u0430\u0437\u044b\u043d \u0437\u0443\u0440\u0432\u0430\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Genting Gaza"
+    ],
+    "name:mzn_x_preferred":[
+        "\u063a\u0632\u0647"
+    ],
+    "name:nan_x_preferred":[
+        "Gaza T\u00f2a"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u093e\u091c\u093e \u092a\u091f\u094d\u091f\u0940"
+    ],
     "name:nld_x_preferred":[
         "Gazastrook"
+    ],
+    "name:nno_x_preferred":[
+        "Gazastripa"
+    ],
+    "name:nob_x_preferred":[
+        "Gazastripen"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0430\u0437\u00e6\u0439\u044b \u0421\u0435\u043a\u0442\u043e\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a17\u0a3e\u0a1c\u0a3c\u0a3e \u0a2a\u0a71\u0a1f\u0a40"
+    ],
+    "name:pnb_x_preferred":[
+        "\u063a\u0632\u06c1 \u062f\u06cc \u067e\u0679\u06cc"
     ],
     "name:pol_x_preferred":[
         "Strefa Gazy"
@@ -68,20 +242,86 @@
     "name:por_x_preferred":[
         "Faixa de Gaza"
     ],
+    "name:ron_x_preferred":[
+        "F\u00e2\u0219ia Gaza"
+    ],
     "name:rus_x_preferred":[
         "\u0441\u0435\u043a\u0442\u043e\u0440 \u0413\u0430\u0437\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Gaza Strip"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dcf\u0dc3\u0dcf \u0dad\u0dd3\u0dbb\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "P\u00e1smo Gazy"
+    ],
+    "name:slv_x_preferred":[
+        "Gaza"
+    ],
+    "name:som_x_preferred":[
+        "Marinka Gaza"
     ],
     "name:spa_x_preferred":[
         "Franja de Gaza"
     ],
+    "name:sqi_x_preferred":[
+        "Gaza"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0458\u0430\u0441 \u0413\u0430\u0437\u0435"
+    ],
+    "name:sun_x_preferred":[
+        "Jalur Gaza"
+    ],
+    "name:swa_x_preferred":[
+        "Ukanda wa Gaza"
+    ],
     "name:swe_x_preferred":[
         "Gazaremsan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0b9a\u0bbe \u0b95\u0bb0\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c3e\u0c1c\u0c3e \u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3f\u0c2a\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Piraso ng Gaza"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e09\u0e19\u0e27\u0e19\u0e01\u0e32\u0e0b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Gazze \u015eeridi"
     ],
+    "name:ukr_x_preferred":[
+        "\u0441\u0435\u043a\u0442\u043e\u0440 \u0413\u0430\u0437\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0632\u06c1 \u06a9\u06cc \u067e\u0679\u06cc"
+    ],
+    "name:vep_x_preferred":[
+        "Gazan sektor"
+    ],
     "name:vie_x_preferred":[
         "D\u1ea3i Gaza"
+    ],
+    "name:war_x_preferred":[
+        "Gaza Strip"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52a0\u6c99\u5730\u5e26"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e2\u05d6\u05d4 \u05e4\u05d0\u05e1"
+    ],
+    "name:yor_x_preferred":[
+        "Gaza Strip"
+    ],
+    "name:yue_x_preferred":[
+        "\u52a0\u6c99\u5730\u5e36"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u6c99\u5730\u5e26"
@@ -220,7 +460,7 @@
         }
     ],
     "wof:id":1159339485,
-    "wof:lastmodified":1549929222,
+    "wof:lastmodified":1563324510,
     "wof:name":"Gaza Strip",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -19,6 +19,15 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u044d"
     ],
+    "name:ceb_x_preferred":[
+        "Umba La"
+    ],
+    "name:ceb_x_variant":[
+        "W\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03ad"
+    ],
     "name:eng_x_preferred":[
         "W\u00e9"
     ],
@@ -36,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "W\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0626\u06d2"
     ],
     "name:zho_x_preferred":[
         "\u97e6"
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1125863701,
-    "wof:lastmodified":1561837377,
+    "wof:lastmodified":1563322307,
     "wof:name":"W\u00e9",
     "wof:parent_id":85675251,
     "wof:placetype":"locality",

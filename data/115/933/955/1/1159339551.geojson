@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003443,
+    "geom:area_square_m":42221565.075918,
     "geom:bbox":"72.357676629,-7.432224217,72.494639519,-7.226739191",
     "geom:latitude":-7.331575,
     "geom:longitude":72.437985,
@@ -27,6 +28,18 @@
     ],
     "name:eng_x_preferred":[
         "Naval Support Facility Diego Garcia"
+    ],
+    "name:eng_x_variant":[
+        "Diego Garcia Navy Airport"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\uc5d0\uace0 \uac00\ub974\uc2dc\uc544 \ud574\uad70\uc9c0\uc6d0\uc2dc\uc124"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Diego Garcia Navy"
+    ],
+    "name:pol_x_preferred":[
+        "Diego Garcia NSF Airport"
     ],
     "ne:ABBREV":"Dieg. G.",
     "ne:ABBREV_LEN":8,
@@ -163,7 +176,7 @@
         }
     ],
     "wof:id":1159339551,
-    "wof:lastmodified":1528909939,
+    "wof:lastmodified":1563324503,
     "wof:name":"Naval Support Facility Diego Garcia",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
