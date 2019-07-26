@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:ces_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:epo_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:eus_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:fra_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:hun_x_preferred":[
+        "V\u00e9gasz\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:msa_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:nld_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:pol_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:ron_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u043e\u0432\u0431\u0430\u0441\u0456\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:spa_x_preferred":[
+        "Kolbasov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u0431\u0430\u0441\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0431\u0430\u0441\u043e\u0432"
+    ],
+    "name:war_x_preferred":[
+        "Kolbasov"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Kolbasov",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125393121,
-    "wof:lastmodified":1509389869,
+    "wof:lastmodified":1564123852,
     "wof:name":"Kolbasov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:ceb_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:deu_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0628\u0627\u0646\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:ita_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:nld_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:pol_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:por_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u043d\u0435\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:spa_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u043d\u0435\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:vie_x_preferred":[
+        "Sabaneta"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u74e6\u5185\u5854"
+    ],
     "qs_pg:gn_country":"VE",
     "qs_pg:name":"Sabaneta",
     "qs_pg:name_adm0":"Venezuela",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125400597,
-    "wof:lastmodified":1505248196,
+    "wof:lastmodified":1564125178,
     "wof:name":"Sabaneta",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

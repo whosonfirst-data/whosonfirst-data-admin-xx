@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:deu_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:epo_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:fra_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:hun_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:ita_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:nld_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:slk_x_preferred":[
+        "Lieskovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0441\u043a\u043e\u0432\u0435\u0446"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Lieskovec",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1125390533,
-    "wof:lastmodified":1509389804,
+    "wof:lastmodified":1564123811,
     "wof:name":"Lieskovec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

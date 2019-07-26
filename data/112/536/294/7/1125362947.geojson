@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "La Ensenada"
+    ],
+    "name:spa_x_preferred":[
+        "La Ensenada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6069\u585e\u7d0d\u9054"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"La Ensenada",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1125362947,
-    "wof:lastmodified":1509389128,
+    "wof:lastmodified":1564124223,
     "wof:name":"La Ensenada",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Hnilec"
+    ],
+    "name:epo_x_preferred":[
+        "Hnilec"
+    ],
+    "name:fra_x_preferred":[
+        "Hnilec"
+    ],
+    "name:slk_x_preferred":[
+        "Hnilec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u045a\u0438\u0459\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043d\u0438\u043b\u0435\u0446\u044c"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Hnilec",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1125276835,
-    "wof:lastmodified":1509387173,
+    "wof:lastmodified":1564123329,
     "wof:name":"Hnilec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

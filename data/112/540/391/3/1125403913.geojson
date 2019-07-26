@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Kosuty"
+    ],
+    "name:pol_x_preferred":[
+        "Kosuty"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0443\u0442\u0438"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Kosuty",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1125403913,
-    "wof:lastmodified":1509390118,
+    "wof:lastmodified":1564124967,
     "wof:name":"Kosuty",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

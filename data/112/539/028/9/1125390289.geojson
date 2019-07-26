@@ -16,6 +16,87 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u042f\u0440\u043e\u0446\u0456\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u042f\u0440\u043e\u0447\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Jarocin"
+    ],
+    "name:ces_x_preferred":[
+        "Jarocin"
+    ],
+    "name:deu_x_preferred":[
+        "Jarocin"
+    ],
+    "name:epo_x_preferred":[
+        "Jarocin"
+    ],
+    "name:fra_x_preferred":[
+        "Jarocin"
+    ],
+    "name:hun_x_preferred":[
+        "Jarocin"
+    ],
+    "name:ind_x_preferred":[
+        "Jarocin"
+    ],
+    "name:jav_x_preferred":[
+        "Jarocin"
+    ],
+    "name:lav_x_preferred":[
+        "Jarocina"
+    ],
+    "name:lit_x_preferred":[
+        "Jarocinas"
+    ],
+    "name:msa_x_preferred":[
+        "Jarocin"
+    ],
+    "name:nld_x_preferred":[
+        "Jarocin"
+    ],
+    "name:nor_x_preferred":[
+        "Jarocin"
+    ],
+    "name:pol_x_preferred":[
+        "Jarocin"
+    ],
+    "name:por_x_preferred":[
+        "Jarocin"
+    ],
+    "name:ron_x_preferred":[
+        "Jarocin"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u043e\u0446\u0438\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Jarocin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0440\u043e\u045b\u0438\u043d"
+    ],
+    "name:szl_x_preferred":[
+        "Jaro\u0107in"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0440\u043e\u0446\u0438\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0631\u0648\u06a9\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Jarocin"
+    ],
+    "name:war_x_preferred":[
+        "Jarocin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u7f57\u94a6"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Jarocin",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +137,7 @@
         }
     ],
     "wof:id":1125390289,
-    "wof:lastmodified":1509389799,
+    "wof:lastmodified":1564123923,
     "wof:name":"Jarocin",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

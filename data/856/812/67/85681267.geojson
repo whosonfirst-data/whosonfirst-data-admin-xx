@@ -39,8 +39,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b6\u09cd\u09ae\u09c0\u09b0"
     ],
+    "name:bih_x_preferred":[
+        "\u0915\u093e\u0936\u094d\u092e\u0940\u0930"
+    ],
     "name:bos_x_preferred":[
         "Ka\u0161mir"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0995\u09be\u09b6\u09cd\u09ae\u09bf\u09b0 \u09b2\u09af\u09bc\u09be\u0997"
     ],
     "name:bre_x_preferred":[
         "Kachmir"
@@ -111,6 +117,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab6\u0acd\u0aae\u0ac0\u0ab0"
     ],
+    "name:hau_x_preferred":[
+        "Kashmir"
+    ],
     "name:hbs_x_preferred":[
         "Ka\u0161mir"
     ],
@@ -126,8 +135,14 @@
     "name:hun_x_preferred":[
         "Kasm\u00edr"
     ],
+    "name:hye_x_preferred":[
+        "\u0554\u0561\u0577\u0574\u056b\u0580"
+    ],
     "name:ind_x_preferred":[
         "Kashmir"
+    ],
+    "name:isl_x_preferred":[
+        "Kasm\u00edr"
     ],
     "name:ita_x_preferred":[
         "Kashmir"
@@ -173,6 +188,9 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0936\u094d\u200d\u092e\u0940\u0930"
     ],
+    "name:min_x_preferred":[
+        "Kashmir"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0438\u0440"
     ],
@@ -187,6 +205,9 @@
     ],
     "name:nds_x_preferred":[
         "Kaschmir"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0936\u094d\u092e\u0940\u0930"
     ],
     "name:new_x_preferred":[
         "\u0915\u093e\u0937\u094d\u092e\u0940\u0930\u094d"
@@ -228,6 +249,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0438\u0440"
     ],
+    "name:sco_x_preferred":[
+        "Kashmir"
+    ],
     "name:spa_x_preferred":[
         "Cachemira"
     ],
@@ -246,11 +270,17 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0438\u0440"
     ],
+    "name:tat_x_variant":[
+        "\u041a\u04d9\u0448\u043c\u0438\u0440"
+    ],
     "name:tgk_x_preferred":[
         "\u041a\u0430\u0448\u043c\u0438\u0440"
     ],
     "name:tgl_x_preferred":[
         "Kashmir"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e28\u0e21\u0e35\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Ke\u015fmir"
@@ -269,6 +299,9 @@
     ],
     "name:vie_x_preferred":[
         "Kashmir"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e5\u10d0\u10e8\u10db\u10d8\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u514b\u4ec0\u7c73\u5c14"
@@ -375,7 +408,7 @@
         }
     ],
     "wof:id":85681267,
-    "wof:lastmodified":1543440174,
+    "wof:lastmodified":1564122669,
     "wof:name":"Kashmir",
     "wof:parent_id":85632277,
     "wof:placetype":"region",

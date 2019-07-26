@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0644\u0632\u0633\u06a9\u0647 \u067e\u0627\u0648\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:ces_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:deu_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:epo_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:eus_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0632\u0633\u06a9\u0647 \u067e\u0627\u0648\u0644\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:hun_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:ita_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:msa_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:nld_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:pol_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:por_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:slk_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:spa_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0435\u0441\u043a\u0435 \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
+    "name:vie_x_preferred":[
+        "Slezsk\u00e9 Pavlovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Slezsk\u00e9 Pavlovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125397981,
-    "wof:lastmodified":1509389991,
+    "wof:lastmodified":1564123762,
     "wof:name":"Slezsk\u00e9 Pavlovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

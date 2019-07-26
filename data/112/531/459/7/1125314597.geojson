@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Lom"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b2\u09cb\u09ae"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Lom"
+    ],
+    "name:ces_x_preferred":[
+        "Lom"
+    ],
+    "name:deu_x_preferred":[
+        "Lom"
+    ],
+    "name:fin_x_preferred":[
+        "Lom"
+    ],
+    "name:fra_x_preferred":[
+        "Lom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Lom"
+    ],
+    "name:hun_x_preferred":[
+        "Lom"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0443\u0439\u043c\u0435\u043d"
+    ],
+    "name:lim_x_preferred":[
+        "Lom"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041b\u043e\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Lom"
+    ],
+    "name:nor_x_preferred":[
+        "Lom"
+    ],
+    "name:pol_x_preferred":[
+        "Lom"
+    ],
+    "name:por_x_preferred":[
+        "Lom"
+    ],
+    "name:ron_x_preferred":[
+        "Lom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Lom"
+    ],
+    "name:slv_x_preferred":[
+        "Lom"
+    ],
+    "name:spa_x_preferred":[
+        "Lom"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Lom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043c"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lom",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +134,7 @@
         }
     ],
     "wof:id":1125314597,
-    "wof:lastmodified":1509387967,
+    "wof:lastmodified":1564124175,
     "wof:name":"Lom",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

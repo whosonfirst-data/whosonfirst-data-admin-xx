@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Garden Island"
+    ],
+    "name:deu_x_preferred":[
+        "Garden Island"
+    ],
+    "name:fra_x_preferred":[
+        "Garden Island"
+    ],
+    "name:swe_x_preferred":[
+        "Garden Island"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Garden Island",
     "qs_pg:name_adm0":"Australia",
@@ -39,14 +51,14 @@
     "woe:name_adm1":"New South Wales",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681545,
         102191583,
         1376953385,
         404226357,
         85632793,
         101932003,
         136253039,
-        102049151
+        102049151,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1126103701,
-    "wof:lastmodified":1550726266,
+    "wof:lastmodified":1564122989,
     "wof:name":"Garden Island",
     "wof:parent_id":101932003,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Dolany"
+    ],
+    "name:ces_x_preferred":[
+        "Dolany"
+    ],
+    "name:deu_x_preferred":[
+        "Dolany"
+    ],
+    "name:epo_x_preferred":[
+        "Dolany"
+    ],
+    "name:fra_x_preferred":[
+        "Dolany"
+    ],
+    "name:ita_x_preferred":[
+        "Dolany"
+    ],
+    "name:nld_x_preferred":[
+        "Dolany"
+    ],
+    "name:pol_x_preferred":[
+        "Dolany"
+    ],
+    "name:slk_x_preferred":[
+        "Dolany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dolany"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0430\u043d\u0438"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Dolany",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1125401227,
-    "wof:lastmodified":1509390058,
+    "wof:lastmodified":1564125225,
     "wof:name":"Dolany",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

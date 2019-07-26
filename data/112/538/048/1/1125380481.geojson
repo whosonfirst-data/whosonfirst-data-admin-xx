@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Parnica"
+    ],
+    "name:ceb_x_preferred":[
+        "Parnica"
+    ],
+    "name:deu_x_preferred":[
+        "Parnica"
+    ],
+    "name:hrv_x_preferred":[
+        "Parnica"
+    ],
+    "name:pol_x_preferred":[
+        "Parnica"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Parnica",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1125380481,
-    "wof:lastmodified":1509389564,
+    "wof:lastmodified":1564124024,
     "wof:name":"Parnica",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

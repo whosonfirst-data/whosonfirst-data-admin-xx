@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u06cc \u0648\u0633\u062a\u062a\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:ces_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:eus_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u06cc \u0648\u0633\u062a\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:hun_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0438-\u0412\u0435\u0441\u0442\u0435\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:spa_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0412\u0435\u0441\u0442\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
+    "name:vie_x_preferred":[
+        "Nov\u00fd Vestec"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Nov\u00fd Vestec",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125337333,
-    "wof:lastmodified":1509388543,
+    "wof:lastmodified":1564122712,
     "wof:name":"Nov\u00fd Vestec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

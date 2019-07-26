@@ -16,6 +16,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0646\u0635\u0627\u0631\u0649"
+    ],
+    "name:aze_x_preferred":[
+        "Xristian m\u0259h\u0259ll\u0259si"
+    ],
+    "name:ces_x_preferred":[
+        "K\u0159es\u0165ansk\u00e1 \u010dtvr\u0165"
+    ],
+    "name:deu_x_preferred":[
+        "Christliches Viertel von Jerusalem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0645\u0633\u06cc\u062d\u06cc\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Jerusalemin kristitty kortteli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e8\u05d5\u05d1\u05e2 \u05d4\u05e0\u05d5\u05e6\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0908\u0938\u093e\u0908 \u0916\u0923\u094d\u0921"
+    ],
+    "name:ind_x_preferred":[
+        "Bagian Kristen"
+    ],
+    "name:ita_x_preferred":[
+        "Quartiere cristiano"
+    ],
+    "name:jav_x_preferred":[
+        "Kampung Kristen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u0430\u043d \u043a\u0432\u0430\u0440\u0442\u0430\u043b\u044b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u0458\u0430\u043d\u0441\u043a\u0430 \u043d\u0430\u0441\u0435\u043b\u0431\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Christelijke wijk"
+    ],
+    "name:nor_x_preferred":[
+        "Det kristne kvarter"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0631\u0633\u0686\u0646 \u06a9\u0648\u0627\u0631\u0679\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Dzielnica Chrze\u015bcija\u0144ska w Jerozolimie"
+    ],
+    "name:por_x_preferred":[
+        "Bairro Crist\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0ba4\u0bb5\u0baa\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0633\u06cc\u062d\u06cc \u0645\u062d\u0644\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7763\u5f92\u533a"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Christian Quarter",
     "qs_pg:name_adm0":"Israel",
@@ -39,11 +105,11 @@
     "woe:name_adm1":"Jerusalem",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672551,
         102191569,
         85632315,
         421168681,
-        1108720823,
-        85672551
+        1108720823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +130,7 @@
         }
     ],
     "wof:id":1126067975,
-    "wof:lastmodified":1549930552,
+    "wof:lastmodified":1564124422,
     "wof:name":"Christian Quarter",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",

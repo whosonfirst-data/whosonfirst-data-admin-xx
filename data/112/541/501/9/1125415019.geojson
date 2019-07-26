@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Bora\u010d"
+    ],
+    "name:fra_x_preferred":[
+        "Bora\u010d"
+    ],
+    "name:hrv_x_preferred":[
+        "Bora\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Bora\u010d"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0430\u0447"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Bora\u010d",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1125415019,
-    "wof:lastmodified":1509390348,
+    "wof:lastmodified":1564125303,
     "wof:name":"Bora\u010d",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

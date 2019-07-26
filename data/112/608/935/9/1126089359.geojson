@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Cabral"
+    ],
+    "name:ceb_x_preferred":[
+        "Cabral"
+    ],
+    "name:ces_x_preferred":[
+        "Cabral"
+    ],
+    "name:deu_x_preferred":[
+        "Cabral"
+    ],
+    "name:fin_x_preferred":[
+        "Cabral"
+    ],
+    "name:fra_x_preferred":[
+        "Cabral"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d1\u05e8\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Cabral"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d6\u30e9\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ube0c\ub784"
+    ],
+    "name:nld_x_preferred":[
+        "Cabral"
+    ],
+    "name:por_x_preferred":[
+        "Cabral"
+    ],
+    "name:ron_x_preferred":[
+        "Cabral"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0440\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Cabral"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0431\u0440\u0430\u043b"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Cabral",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +87,12 @@
     "woe:name_adm1":"Paran\u00e1",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681983,
         102191577,
         404561111,
         85633009,
         101957995,
-        102057617
+        102057617,
+        85681983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +114,7 @@
         }
     ],
     "wof:id":1126089359,
-    "wof:lastmodified":1509411567,
+    "wof:lastmodified":1564124375,
     "wof:name":"Cabral",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",

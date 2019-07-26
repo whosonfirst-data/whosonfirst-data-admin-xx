@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Villa Yapacan\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Yapacan\u00ed"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u067e\u0627\u0633\u0627\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Yapacan\u00ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10de\u10d0\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u0430\u043f\u0430\u043a\u0430\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Yapacan\u00ed"
+    ],
+    "name:que_x_preferred":[
+        "Yapakani"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Yapacan\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Yapacan\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u5e15\u5361\u5c3c"
+    ],
     "qs_pg:gn_country":"BO",
     "qs_pg:name":"Yapacan\u00ed",
     "qs_pg:name_adm0":"Bolivia",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125314815,
-    "wof:lastmodified":1505248029,
+    "wof:lastmodified":1564124158,
     "wof:name":"Yapacan\u00ed",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

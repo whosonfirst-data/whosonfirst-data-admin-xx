@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:deu_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633 \u0628\u0627\u06cc \u0622\u0646\u06af\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:hun_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:ita_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0430\u0439\u0441\u0442\u0440\u0438\u0446-\u0410\u043d\u0433\u0435\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0439\u0441\u0442\u0440\u0438\u0446-\u0431\u0430\u0439-\u0410\u043d\u0433\u0435\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:swe_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:uzb_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:vie_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:vol_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:war_x_preferred":[
+        "Feistritz bei Anger"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u683c\u5c14\u9644\u8fd1\u6cd5\u4f0a\u65bd\u7279\u91cc\u8328"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Feistritz bei Anger",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125338781,
-    "wof:lastmodified":1509388591,
+    "wof:lastmodified":1564122718,
     "wof:name":"Feistritz bei Anger",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

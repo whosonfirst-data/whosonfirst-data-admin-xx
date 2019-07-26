@@ -16,6 +16,90 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041e\u043b\u0430\u0432\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:deu_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:epo_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:eus_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0648\u0627\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:jav_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:lav_x_preferred":[
+        "Olava"
+    ],
+    "name:lit_x_preferred":[
+        "Olava"
+    ],
+    "name:msa_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:nld_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:pol_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:por_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:ron_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0430\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:slv_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:szl_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:tur_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u0430\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:war_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u74e6\u74e6"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"O\u0142awa",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +140,7 @@
         }
     ],
     "wof:id":1125402071,
-    "wof:lastmodified":1509390079,
+    "wof:lastmodified":1564125173,
     "wof:name":"O\u0142awa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

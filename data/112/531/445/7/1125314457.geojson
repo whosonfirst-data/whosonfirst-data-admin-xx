@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062a\u0627\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:ces_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:eus_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0627\u0633\u0644\u0627\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:hun_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:ita_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:msa_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:nld_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:pol_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:por_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:slk_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:spa_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0442\u0430\u0441\u043b\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Otaslavice"
+    ],
+    "name:vie_x_preferred":[
+        "Otaslavice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Otaslavice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125314457,
-    "wof:lastmodified":1509387964,
+    "wof:lastmodified":1564124167,
     "wof:name":"Otaslavice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

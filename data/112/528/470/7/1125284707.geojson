@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Podhorie"
+    ],
+    "name:deu_x_preferred":[
+        "Podhorie"
+    ],
+    "name:epo_x_preferred":[
+        "Podhorie"
+    ],
+    "name:fra_x_preferred":[
+        "Podhorie"
+    ],
+    "name:hun_x_preferred":[
+        "Podhorie"
+    ],
+    "name:ita_x_preferred":[
+        "Podhorie"
+    ],
+    "name:nld_x_preferred":[
+        "Podhorie"
+    ],
+    "name:slk_x_preferred":[
+        "Podhorie"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u0445\u043e\u0440\u0458\u0435"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Podhorie",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1125284707,
-    "wof:lastmodified":1509387392,
+    "wof:lastmodified":1564123141,
     "wof:name":"Podhorie",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

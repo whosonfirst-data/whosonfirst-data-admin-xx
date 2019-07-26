@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:ces_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:deu_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:eus_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u0644\u062a\u0634\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:ita_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:msa_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:nld_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:por_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:slk_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:spa_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0432\u0430\u043b\u0447\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Chval\u010dov"
+    ],
+    "name:vie_x_preferred":[
+        "Chval\u010dov"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Chval\u010dov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125290463,
-    "wof:lastmodified":1509387518,
+    "wof:lastmodified":1564123366,
     "wof:name":"Chval\u010dov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

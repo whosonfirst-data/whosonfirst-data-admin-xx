@@ -16,6 +16,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Krumpasbam"
+    ],
+    "name:ceb_x_preferred":[
+        "Krummnussbaum"
+    ],
+    "name:deu_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:epo_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0645\u0646\u0648\u0633\u0628\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:hun_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:ita_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0443\u043c\u043d\u0443\u0441\u0431\u0430\u0443\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:pol_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:por_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043c\u043d\u0443\u0441\u0431\u0430\u0443\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:spa_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:swe_x_preferred":[
+        "Krummnussbaum"
+    ],
+    "name:uzb_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:vie_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:vol_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:war_x_preferred":[
+        "Krummnu\u00dfbaum"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u9c81\u59c6\u52aa\u65af\u9c8d\u59c6"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Krummnu\u00dfbaum",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1125421721,
-    "wof:lastmodified":1509390493,
+    "wof:lastmodified":1564123538,
     "wof:name":"Krummnu\u00dfbaum",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

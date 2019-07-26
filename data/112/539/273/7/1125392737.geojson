@@ -16,6 +16,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:ces_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:deu_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:epo_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:eus_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0648\u0627\u062a\u0634\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:hun_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:ita_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:lav_x_preferred":[
+        "Tova\u010dova"
+    ],
+    "name:msa_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:nld_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:pol_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:por_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0432\u0430\u0447\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:spa_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0432\u0430\u0447\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:vie_x_preferred":[
+        "Tova\u010dov"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u74e6\u55ac\u592b"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Tova\u010dov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1125392737,
-    "wof:lastmodified":1509389860,
+    "wof:lastmodified":1564123785,
     "wof:name":"Tova\u010dov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

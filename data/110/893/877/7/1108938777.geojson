@@ -21,16 +21,64 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:bre_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:cat_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:nds_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:oci_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u041b\u0430\u043c\u0431\u0435\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Lambert"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u041b\u0430\u043c\u0431\u0435\u0440"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683441,
         102191581,
         85633147,
         404228029,
         404227445,
         101749199,
         1360698499,
-        102072499
+        102072499,
+        85683441
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -51,7 +99,7 @@
         }
     ],
     "wof:id":1108938777,
-    "wof:lastmodified":1545176979,
+    "wof:lastmodified":1564122681,
     "wof:name":"Saint-Lambert",
     "wof:parent_id":1360698499,
     "wof:placetype":"neighbourhood",

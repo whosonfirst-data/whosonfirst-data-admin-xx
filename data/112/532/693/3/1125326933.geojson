@@ -16,6 +16,75 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u0631\u0646\u0628\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0435\u043c\u0431\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:dsb_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:epo_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:eus_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0646\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:ita_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:jav_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:lav_x_preferred":[
+        "Poremba"
+    ],
+    "name:msa_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:nld_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:pol_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:por_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:ron_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0435\u043c\u0431\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0435\u043d\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0435\u043c\u0431\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:war_x_preferred":[
+        "Por\u0119ba"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u502b\u5df4"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Por\u0119ba",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1125326933,
-    "wof:lastmodified":1509388265,
+    "wof:lastmodified":1564122907,
     "wof:name":"Por\u0119ba",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

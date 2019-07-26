@@ -16,6 +16,87 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:deu_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:epo_x_preferred":[
+        "Taun\u011di"
+    ],
+    "name:fin_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:fra_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u094c\u0928\u094d\u0917\u092f\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0578\u0582\u0576\u057b\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30a6\u30f3\u30b8\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc6c5\uc9c0"
+    ],
+    "name:lit_x_preferred":[
+        "Taund\u017eis"
+    ],
+    "name:mya_x_preferred":[
+        "\u1010\u1031\u102c\u1004\u103a\u1000\u103c\u102e\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:pol_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:por_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u043d\u0434\u0436\u0438"
+    ],
+    "name:shn_x_preferred":[
+        "\u1010\u1030\u107c\u103a\u1088\u1010\u102e\u1038"
+    ],
+    "name:spa_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0443\u043d\u045f\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbe\u0b99\u0bcd\u0baf\u0bc0"
+    ],
+    "name:tgl_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e2d\u0e07\u0e08\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0443\u043d\u0434\u0436\u0438"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0648\u0646\u06af\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Taunggyi"
+    ],
+    "name:war_x_preferred":[
+        "Taunggyi"
+    ],
     "qs_pg:gn_country":"MM",
     "qs_pg:name":"Taunggyi",
     "qs_pg:name_adm0":"Myanmar",
@@ -56,7 +137,7 @@
         }
     ],
     "wof:id":1125897223,
-    "wof:lastmodified":1505248702,
+    "wof:lastmodified":1564123471,
     "wof:name":"Taunggyi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

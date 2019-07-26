@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kaukura"
+    ],
+    "name:ceb_x_preferred":[
+        "Atoll Kaukura"
+    ],
+    "name:deu_x_preferred":[
+        "Kaukura"
+    ],
+    "name:fra_x_preferred":[
+        "Kaukura"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Kaukura"
+    ],
+    "name:ita_x_preferred":[
+        "Kaukura"
+    ],
+    "name:lit_x_preferred":[
+        "Kaukura"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041a\u0430\u0443\u043a\u0443\u0440\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Kaukura"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0443\u043a\u0443\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Kaukura"
+    ],
+    "name:spa_x_preferred":[
+        "Kaukura"
+    ],
+    "name:swa_x_preferred":[
+        "Kaukura"
+    ],
+    "name:tah_x_preferred":[
+        "Kaukura"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u5eab\u62c9\u74b0\u7901"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kaukura",
     "qs_pg:name_adm0":"Polyn\u00e9sie Fran\u00e7aise",
@@ -62,7 +107,7 @@
         }
     ],
     "wof:id":1125785335,
-    "wof:lastmodified":1509998522,
+    "wof:lastmodified":1564124949,
     "wof:name":"Kaukura",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

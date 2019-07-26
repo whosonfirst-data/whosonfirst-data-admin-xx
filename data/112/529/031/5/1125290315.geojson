@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u062a\u0631\u0627\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:ces_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:deu_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:eus_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u0627\u0634\u06cc\u062a\u0633\u0647"
+    ],
+    "name:hun_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:ita_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:msa_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:nld_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:pol_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:por_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:slk_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:spa_x_preferred":[
+        "Stra\u0161ice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0448\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Stra\u0161ice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Stra\u0161ice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -60,7 +108,7 @@
         }
     ],
     "wof:id":1125290315,
-    "wof:lastmodified":1534379816,
+    "wof:lastmodified":1564123379,
     "wof:name":"Stra\u0161ice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

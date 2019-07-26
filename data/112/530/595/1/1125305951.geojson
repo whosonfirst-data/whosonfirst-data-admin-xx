@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sihla"
+    ],
+    "name:ces_x_preferred":[
+        "Sihla"
+    ],
+    "name:deu_x_preferred":[
+        "Sihla"
+    ],
+    "name:epo_x_preferred":[
+        "Sihla"
+    ],
+    "name:eus_x_preferred":[
+        "Sihla"
+    ],
+    "name:fra_x_preferred":[
+        "Sihla"
+    ],
+    "name:hun_x_preferred":[
+        "Szikla"
+    ],
+    "name:ita_x_preferred":[
+        "Sihla"
+    ],
+    "name:msa_x_preferred":[
+        "Sihla"
+    ],
+    "name:nld_x_preferred":[
+        "Sihla"
+    ],
+    "name:pol_x_preferred":[
+        "Sihla"
+    ],
+    "name:ron_x_preferred":[
+        "Sihla"
+    ],
+    "name:slk_x_preferred":[
+        "Sihla"
+    ],
+    "name:spa_x_preferred":[
+        "Sihla"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0445\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0433\u043b\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Sihla"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Sihla",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125305951,
-    "wof:lastmodified":1509387803,
+    "wof:lastmodified":1564123719,
     "wof:name":"Sihla",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

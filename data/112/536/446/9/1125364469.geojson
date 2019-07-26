@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Pejibaye"
+    ],
     "qs_pg:gn_country":"CR",
     "qs_pg:name":"Pejibaye",
     "qs_pg:name_adm0":"Costa Rica",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125364469,
-    "wof:lastmodified":1534379820,
+    "wof:lastmodified":1564124209,
     "wof:name":"Pejibaye",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

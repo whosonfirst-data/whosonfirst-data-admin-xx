@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:hrv_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:mlg_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0441\u0438\u0441\u043a\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e3o Francisco"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"S\u00e3o Francisco",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +90,12 @@
     "woe:name_adm1":"Paran\u00e1",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681983,
         102191577,
         404561111,
         85633009,
         101957995,
-        102057617
+        102057617,
+        85681983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +117,7 @@
         }
     ],
     "wof:id":1126069321,
-    "wof:lastmodified":1509410590,
+    "wof:lastmodified":1564124476,
     "wof:name":"S\u00e3o Francisco",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",

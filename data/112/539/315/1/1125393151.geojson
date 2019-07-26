@@ -16,6 +16,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:ces_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:epo_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0646\u06a9\u06cc\u0631\u0634\u0646 \u0631\u06cc\u0631\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:hun_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:ita_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0451\u043d\u043a\u0438\u0440\u0445\u0435\u043d-\u0420\u0430\u0439\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:pol_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:por_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0451\u043d\u043a\u0438\u0440\u0445\u0435\u043d-\u0420\u0430\u0439\u0435\u0440\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:slk_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:spa_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:swe_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:uzb_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:vol_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:war_x_preferred":[
+        "Sch\u00f6nkirchen-Reyersdorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u7533\u57fa\u5174-\u8d56\u5c14\u65af\u591a\u592b"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Sch\u00f6nkirchen-Reyersdorf",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1125393151,
-    "wof:lastmodified":1509389869,
+    "wof:lastmodified":1564123850,
     "wof:name":"Sch\u00f6nkirchen-Reyersdorf",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

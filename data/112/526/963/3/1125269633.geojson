@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Darkovice"
+    ],
+    "name:ces_x_preferred":[
+        "Darkovice"
+    ],
+    "name:epo_x_preferred":[
+        "Darkovice"
+    ],
+    "name:eus_x_preferred":[
+        "Darkovice"
+    ],
+    "name:fra_x_preferred":[
+        "Darkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Darkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Darkovice"
+    ],
+    "name:msa_x_preferred":[
+        "Darkovice"
+    ],
+    "name:nld_x_preferred":[
+        "Darkovice"
+    ],
+    "name:pol_x_preferred":[
+        "Darkovice"
+    ],
+    "name:por_x_preferred":[
+        "Darkovice"
+    ],
+    "name:slk_x_preferred":[
+        "Darkovice"
+    ],
+    "name:spa_x_preferred":[
+        "Darkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u0440\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Darkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Darkovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Darkovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125269633,
-    "wof:lastmodified":1509386985,
+    "wof:lastmodified":1564123234,
     "wof:name":"Darkovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

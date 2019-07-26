@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Pang"
+    ],
+    "name:deu_x_preferred":[
+        "Pang"
+    ],
+    "name:fra_x_preferred":[
+        "Pang"
+    ],
+    "name:ita_x_preferred":[
+        "Pang"
+    ],
+    "name:pol_x_preferred":[
+        "Pang"
+    ],
+    "name:por_x_preferred":[
+        "Pang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044d\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Pang"
+    ],
     "qs_pg:aaroncc":"XX",
     "qs_pg:gn_country":"XX",
     "qs_pg:name":"Pang",
@@ -74,7 +98,7 @@
         }
     ],
     "wof:id":1125889529,
-    "wof:lastmodified":1533678799,
+    "wof:lastmodified":1564123263,
     "wof:name":"Pang",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:deu_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:epo_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u062a\u0628\u0631\u06af \u0627\u0645\u06af\u0628\u0648\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:hun_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:ita_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:nld_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:pol_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0442\u0431\u0435\u0440\u0433-\u0423\u043c\u0433\u0435\u0431\u0443\u043d\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:spa_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:swe_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:uzb_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:vie_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:vol_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:war_x_preferred":[
+        "Hartberg Umgebung"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u7279\u8d1d\u683c\u90ca\u9547"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Hartberg Umgebung",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125405365,
-    "wof:lastmodified":1509390146,
+    "wof:lastmodified":1564125123,
     "wof:name":"Hartberg Umgebung",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

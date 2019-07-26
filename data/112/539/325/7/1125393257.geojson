@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Riein"
+    ],
+    "name:epo_x_preferred":[
+        "Riein"
+    ],
+    "name:fra_x_preferred":[
+        "Riein"
+    ],
+    "name:ita_x_preferred":[
+        "Riein"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u0430\u0439\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Reninus"
+    ],
+    "name:lmo_x_preferred":[
+        "Riein"
+    ],
+    "name:msa_x_preferred":[
+        "Riein"
+    ],
+    "name:nld_x_preferred":[
+        "Riein"
+    ],
+    "name:nno_x_preferred":[
+        "Riein"
+    ],
+    "name:pms_x_preferred":[
+        "Riein"
+    ],
+    "name:por_x_preferred":[
+        "Riein"
+    ],
+    "name:roh_x_preferred":[
+        "Riein"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0430\u0439\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Riein"
+    ],
+    "name:sqi_x_preferred":[
+        "Riein"
+    ],
+    "name:swe_x_preferred":[
+        "Riein"
+    ],
+    "name:uzb_x_preferred":[
+        "Riein"
+    ],
+    "name:vol_x_preferred":[
+        "Riein"
+    ],
+    "name:war_x_preferred":[
+        "Riein"
+    ],
     "qs_pg:gn_country":"CH",
     "qs_pg:name":"Riein",
     "qs_pg:name_adm0":"Schweiz",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125393257,
-    "wof:lastmodified":1509389872,
+    "wof:lastmodified":1564123868,
     "wof:name":"Riein",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

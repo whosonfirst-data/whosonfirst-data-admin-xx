@@ -16,6 +16,90 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u0644\u06a9\u0648\u0648\u06cc\u0633\u062a\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:ces_x_preferred":[
+        "Polkowice"
+    ],
+    "name:csb_x_preferred":[
+        "Polkowice"
+    ],
+    "name:deu_x_preferred":[
+        "Polkowice"
+    ],
+    "name:epo_x_preferred":[
+        "Polkowice"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u06a9\u0648\u0648\u06cc\u0633\u062a\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Polkowice"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05dc\u05e7\u05d5\u05d1\u05d9\u05e6\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Polkowice"
+    ],
+    "name:jav_x_preferred":[
+        "Polkowice"
+    ],
+    "name:lav_x_preferred":[
+        "Polkovice"
+    ],
+    "name:lit_x_preferred":[
+        "Polkovic\u0117s"
+    ],
+    "name:msa_x_preferred":[
+        "Polkowice"
+    ],
+    "name:nld_x_preferred":[
+        "Polkowice"
+    ],
+    "name:pol_x_preferred":[
+        "Polkowice"
+    ],
+    "name:por_x_preferred":[
+        "Polkowice"
+    ],
+    "name:ron_x_preferred":[
+        "Polkowice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044c\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Polkowice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Polkowice"
+    ],
+    "name:szl_x_preferred":[
+        "Polkowicy"
+    ],
+    "name:tur_x_preferred":[
+        "Polkowice"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044c\u043a\u043e\u0432\u0456\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Polkowice"
+    ],
+    "name:war_x_preferred":[
+        "Polkowice"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u79d1\u7dad\u91c7"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Polkowice",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +140,7 @@
         }
     ],
     "wof:id":1125417847,
-    "wof:lastmodified":1509390407,
+    "wof:lastmodified":1564125297,
     "wof:name":"Polkowice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

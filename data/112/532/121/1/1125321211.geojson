@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062f\u0642\u0648\u0648\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Dygowo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06af\u0648\u0648\u0648"
+    ],
+    "name:nld_x_preferred":[
+        "Dygowo"
+    ],
+    "name:pol_x_preferred":[
+        "Dygowo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u0491\u043e\u0432\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Dygowo"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Dygowo",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1125321211,
-    "wof:lastmodified":1509388120,
+    "wof:lastmodified":1564122913,
     "wof:name":"Dygowo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

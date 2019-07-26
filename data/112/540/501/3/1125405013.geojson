@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:deu_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:epo_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062a\u0631\u0628\u0627\u062e \u0627\u0645 \u0627\u0631\u0644\u0648\u0641\u0632\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:hun_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:ita_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0442\u0442\u0435\u0440\u0431\u0430\u0445-\u0430\u043c-\u042d\u0440\u043b\u0430\u0443\u0444\u0437\u0435\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:pol_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:por_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0442\u0435\u0440\u0431\u0430\u0445-\u0430\u043c-\u042d\u0440\u043b\u0430\u0443\u0444\u0437\u0435\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:spa_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:swe_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:uzb_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:vie_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:vol_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:war_x_preferred":[
+        "Mitterbach am Erlaufsee"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u52b3\u592b\u6e56\u7554\u7c73\u7279\u5c14\u5df4\u8d6b"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Mitterbach am Erlaufsee",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125405013,
-    "wof:lastmodified":1509390140,
+    "wof:lastmodified":1564125106,
     "wof:name":"Mitterbach am Erlaufsee",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

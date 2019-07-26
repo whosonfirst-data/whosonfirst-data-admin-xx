@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0628\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:ces_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:deu_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:eus_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u0628\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:hun_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:ita_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:nld_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:pol_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:por_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:slk_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:spa_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0438 \u0411\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
+    "name:vie_x_preferred":[
+        "Mal\u00fd Bor"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Mal\u00fd Bor",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125415957,
-    "wof:lastmodified":1509390365,
+    "wof:lastmodified":1564125247,
     "wof:name":"Mal\u00fd Bor",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

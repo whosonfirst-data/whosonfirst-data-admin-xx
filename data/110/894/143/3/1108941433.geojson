@@ -13,6 +13,7 @@
     "lbl:latitude":45.486388,
     "lbl:longitude":12.416162,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,13 +21,115 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Burano"
+    ],
+    "name:ceb_x_preferred":[
+        "Burano"
+    ],
+    "name:deu_x_preferred":[
+        "Burano"
+    ],
+    "name:epo_x_preferred":[
+        "Burano"
+    ],
+    "name:est_x_preferred":[
+        "Burano"
+    ],
+    "name:eus_x_preferred":[
+        "Burano"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Burano"
+    ],
+    "name:fra_x_preferred":[
+        "Burano"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d0\u05e0\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Burano"
+    ],
+    "name:hun_x_preferred":[
+        "Burano"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0580\u0561\u0576\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Burano"
+    ],
+    "name:ita_x_preferred":[
+        "Burano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30fc\u30ce"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ub77c\ub178"
+    ],
+    "name:lat_x_preferred":[
+        "Boreanum"
+    ],
+    "name:ltz_x_preferred":[
+        "Burano"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043d\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Burano"
+    ],
+    "name:nno_x_preferred":[
+        "Burano"
+    ],
+    "name:nor_x_preferred":[
+        "Burano"
+    ],
+    "name:pol_x_preferred":[
+        "Burano"
+    ],
+    "name:por_x_preferred":[
+        "Burano"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043d\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Burano"
+    ],
+    "name:spa_x_preferred":[
+        "Burano"
+    ],
+    "name:swe_x_preferred":[
+        "Burano"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043d\u043e"
+    ],
+    "name:vec_x_preferred":[
+        "Buran"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u8afe\u5cf6"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85685305,
         102191581,
         404470193,
         85633253,
-        404227501
+        404227501,
+        85685305
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +147,7 @@
         }
     ],
     "wof:id":1108941433,
-    "wof:lastmodified":1492123595,
+    "wof:lastmodified":1564122677,
     "wof:name":"Burano",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

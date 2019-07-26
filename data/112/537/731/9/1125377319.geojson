@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0433\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Sangay"
+    ],
+    "name:ceb_x_preferred":[
+        "Sangay"
+    ],
+    "name:ces_x_preferred":[
+        "Sangay"
+    ],
+    "name:deu_x_preferred":[
+        "Sangay"
+    ],
+    "name:epo_x_preferred":[
+        "Sangai"
+    ],
+    "name:est_x_preferred":[
+        "Sangay"
+    ],
+    "name:fra_x_preferred":[
+        "Sangay"
+    ],
+    "name:glg_x_preferred":[
+        "Sangay"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u0917\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Sangay"
+    ],
+    "name:ita_x_preferred":[
+        "Sangay"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\uac00\uc774\uc0b0"
+    ],
+    "name:lit_x_preferred":[
+        "Sangajus"
+    ],
+    "name:nld_x_preferred":[
+        "Sangay"
+    ],
+    "name:oci_x_preferred":[
+        "Sangay"
+    ],
+    "name:pol_x_preferred":[
+        "Sangay"
+    ],
+    "name:por_x_preferred":[
+        "Sangay"
+    ],
+    "name:que_x_preferred":[
+        "Sankay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0433\u0430\u0439"
+    ],
+    "name:slk_x_preferred":[
+        "Sangay"
+    ],
+    "name:spa_x_preferred":[
+        "Sangay"
+    ],
+    "name:swa_x_preferred":[
+        "Sangay"
+    ],
+    "name:swe_x_preferred":[
+        "Sangay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0491\u0430\u0439"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u84cb\u706b\u5c71"
+    ],
     "qs_pg:gn_country":"EC",
     "qs_pg:name":"Sangay",
     "qs_pg:name_adm0":"Ecuador",
@@ -56,7 +134,7 @@
         }
     ],
     "wof:id":1125377319,
-    "wof:lastmodified":1505248134,
+    "wof:lastmodified":1564123586,
     "wof:name":"Sangay",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0634\u0644\u0633\u06a9\u0648"
+    ],
+    "name:ces_x_preferred":[
+        "Osielsko"
+    ],
+    "name:deu_x_preferred":[
+        "Osielsko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0634\u0644\u0633\u06a9\u0648"
+    ],
+    "name:nld_x_preferred":[
+        "Osielsko"
+    ],
+    "name:pol_x_preferred":[
+        "Osielsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0435\u043b\u044c\u0441\u044c\u043a\u043e"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Osielsko",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1125376295,
-    "wof:lastmodified":1509389467,
+    "wof:lastmodified":1564123611,
     "wof:name":"Osielsko",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

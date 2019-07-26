@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0646\u0633\u0648\u0627\u062a\u0634\u06cc\u0644\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:ces_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:eus_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u0648\u0627\u062a\u0634\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:hun_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:ita_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:msa_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:nld_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:oci_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:pol_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:por_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:slk_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:spa_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0441\u0432\u0430\u0447\u0438\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Nesva\u010dily"
+    ],
+    "name:vie_x_preferred":[
+        "Nesva\u010dily"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Nesva\u010dily",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125326757,
-    "wof:lastmodified":1509388261,
+    "wof:lastmodified":1564122897,
     "wof:name":"Nesva\u010dily",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

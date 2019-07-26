@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Liblice"
+    ],
+    "name:ces_x_preferred":[
+        "Liblice"
+    ],
+    "name:deu_x_preferred":[
+        "Liblice"
+    ],
+    "name:eus_x_preferred":[
+        "Liblice"
+    ],
+    "name:fra_x_preferred":[
+        "Liblice"
+    ],
+    "name:hun_x_preferred":[
+        "Liblice"
+    ],
+    "name:ita_x_preferred":[
+        "Liblice"
+    ],
+    "name:msa_x_preferred":[
+        "Liblice"
+    ],
+    "name:nld_x_preferred":[
+        "Liblice"
+    ],
+    "name:pol_x_preferred":[
+        "Liblice"
+    ],
+    "name:por_x_preferred":[
+        "Liblice"
+    ],
+    "name:ron_x_preferred":[
+        "Liblice"
+    ],
+    "name:slk_x_preferred":[
+        "Liblice"
+    ],
+    "name:spa_x_preferred":[
+        "Liblice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0431\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Liblice"
+    ],
+    "name:vie_x_preferred":[
+        "Liblice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Liblice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125417865,
-    "wof:lastmodified":1509390408,
+    "wof:lastmodified":1564125364,
     "wof:name":"Liblice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

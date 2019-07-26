@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0644\u0633\u06a9\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Lesko"
+    ],
+    "name:deu_x_preferred":[
+        "Gmina Lesko"
+    ],
+    "name:eus_x_preferred":[
+        "Lesko udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0644\u0633\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Lesko"
+    ],
+    "name:hun_x_preferred":[
+        "Gmina Lesko"
+    ],
+    "name:ita_x_preferred":[
+        "Lesko"
+    ],
+    "name:nld_x_preferred":[
+        "Lesko"
+    ],
+    "name:pol_x_preferred":[
+        "Lesko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Lesko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u041b\u0456\u0441\u044c\u043a\u043e"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Lesko"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Lesko",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125400393,
-    "wof:lastmodified":1509390042,
+    "wof:lastmodified":1564125063,
     "wof:name":"Gmina Lesko",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

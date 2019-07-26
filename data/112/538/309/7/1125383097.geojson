@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "X\u0259tt"
+    ],
+    "name:cat_x_preferred":[
+        "L\u00ednia"
+    ],
+    "name:ceb_x_preferred":[
+        "Linia"
+    ],
+    "name:deu_x_preferred":[
+        "Linia"
+    ],
+    "name:fra_x_preferred":[
+        "Linia"
+    ],
+    "name:ita_x_preferred":[
+        "Linia"
+    ],
+    "name:nld_x_preferred":[
+        "Linia"
+    ],
+    "name:pol_x_preferred":[
+        "Linia"
+    ],
+    "name:slk_x_preferred":[
+        "L\u00ednia"
+    ],
+    "name:swe_x_preferred":[
+        "Linia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u0456\u044f"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Linia",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125383097,
-    "wof:lastmodified":1509389640,
+    "wof:lastmodified":1564124008,
     "wof:name":"Linia",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Tournon"
+    ],
+    "name:deu_x_preferred":[
+        "Tournon"
+    ],
+    "name:fra_x_preferred":[
+        "Tournon"
+    ],
+    "name:ita_x_preferred":[
+        "Tournon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30ce\u30f3"
+    ],
+    "name:oci_x_preferred":[
+        "Tornon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Tournon"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Tournon",
     "qs_pg:name_adm0":"Costa Rica",
@@ -39,10 +63,10 @@
     "woe:name_adm1":"San Jose",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1126105041,
-    "wof:lastmodified":1509412328,
+    "wof:lastmodified":1564122951,
     "wof:name":"Tournon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

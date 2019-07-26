@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Paracotos"
+    ],
     "qs_pg:gn_country":"VE",
     "qs_pg:name":"Paracotos",
     "qs_pg:name_adm0":"Venezuela",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1125287387,
-    "wof:lastmodified":1505247979,
+    "wof:lastmodified":1564123131,
     "wof:name":"Paracotos",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

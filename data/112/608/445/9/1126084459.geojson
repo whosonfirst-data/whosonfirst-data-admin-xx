@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Bavli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05db\u05d5\u05df \u05d1\u05d1\u05dc\u05d9"
+    ],
+    "name:pol_x_preferred":[
+        "Bawli"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Bavli",
     "qs_pg:name_adm0":"Israel",
@@ -39,11 +48,11 @@
     "woe:name_adm1":"Tel Aviv",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85672549,
         102191569,
         85632315,
         1125955239,
-        1108720837,
-        85672549
+        1108720837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1126084459,
-    "wof:lastmodified":1549930554,
+    "wof:lastmodified":1564124391,
     "wof:name":"Bavli",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:ita_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0451\u043b\u044c\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0451\u043b\u044c\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:uzb_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:vie_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:vol_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:war_x_preferred":[
+        "P\u00f6ls"
+    ],
+    "name:zho_x_preferred":[
+        "\u73c0\u5c14\u65af"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"P\u00f6ls",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1125342557,
-    "wof:lastmodified":1509388697,
+    "wof:lastmodified":1564122776,
     "wof:name":"P\u00f6ls",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

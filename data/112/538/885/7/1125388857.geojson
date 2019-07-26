@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Bludov"
+    ],
+    "name:deu_x_preferred":[
+        "Bludov"
+    ],
+    "name:epo_x_preferred":[
+        "Bludov"
+    ],
+    "name:fra_x_preferred":[
+        "Bludov"
+    ],
+    "name:ita_x_preferred":[
+        "Bludov"
+    ],
+    "name:nld_x_preferred":[
+        "Bludov"
+    ],
+    "name:pol_x_preferred":[
+        "Bludov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0443\u0434\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Bludov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0443\u0434\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0443\u0434\u043e\u0432"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Bludov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125388857,
-    "wof:lastmodified":1509389770,
+    "wof:lastmodified":1564124083,
     "wof:name":"Bludov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

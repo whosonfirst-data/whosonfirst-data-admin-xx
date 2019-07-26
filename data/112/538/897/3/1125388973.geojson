@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u062a\u0634\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:ces_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:deu_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:eus_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u062a\u0634\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:msa_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:nld_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:por_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:slk_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:spa_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0447\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Dobro\u010dkovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Dobro\u010dkovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125388973,
-    "wof:lastmodified":1509389772,
+    "wof:lastmodified":1564124104,
     "wof:name":"Dobro\u010dkovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

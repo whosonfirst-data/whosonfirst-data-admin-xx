@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0648\u0644\u06a9\u0647 \u0647\u0627\u0645\u0631\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:ces_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:deu_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:eus_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9\u0647 \u0647\u0627\u0645\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:hun_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:ita_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:msa_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:nld_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:pol_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:por_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:slk_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:spa_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u0435 \u0425\u0430\u043c\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:vie_x_preferred":[
+        "Velk\u00e9 Hamry"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u54c8\u59c6\u91cc"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Velk\u00e9 Hamry",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125399209,
-    "wof:lastmodified":1509390018,
+    "wof:lastmodified":1564123963,
     "wof:name":"Velk\u00e9 Hamry",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

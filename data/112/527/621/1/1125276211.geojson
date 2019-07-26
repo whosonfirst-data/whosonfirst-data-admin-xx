@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0627\u0646\u0646\u0648\u067e\u0648\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u043d\u043e\u043f\u0430\u043b\u044c"
+    ],
+    "name:deu_x_preferred":[
+        "Gmina Annopol"
+    ],
+    "name:eus_x_preferred":[
+        "Annopol udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0627\u0646\u0646\u0648\u067e\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Annopol"
+    ],
+    "name:nld_x_preferred":[
+        "Annopol"
+    ],
+    "name:pol_x_preferred":[
+        "Annopol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Annopol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0410\u043d\u043d\u043e\u043f\u043e\u043b\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Annopol"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Annopol",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1125276211,
-    "wof:lastmodified":1509387157,
+    "wof:lastmodified":1564123283,
     "wof:name":"Gmina Annopol",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

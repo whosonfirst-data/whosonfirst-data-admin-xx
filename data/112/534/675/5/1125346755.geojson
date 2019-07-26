@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u0644\u0627\u0646\u06cc \u0646\u0627\u062f \u0645\u0648\u0631\u0627\u0648\u0648\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:ces_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:eus_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u0644\u0627\u0646\u06cc \u0646\u0627\u062f \u0645\u0648\u0631\u0627\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:hun_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:ita_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:kur_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:msa_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:nld_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:pol_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:por_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:slk_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:spa_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043b\u0430\u043d\u0438 \u043d\u0430 \u041c\u043e\u0440\u0430\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
+    "name:vie_x_preferred":[
+        "Kostelany nad Moravou"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Kostelany nad Moravou",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125346755,
-    "wof:lastmodified":1509388775,
+    "wof:lastmodified":1564122738,
     "wof:name":"Kostelany nad Moravou",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

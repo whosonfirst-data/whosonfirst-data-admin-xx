@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0432\u0456\u0447"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0432\u0438\u0447"
+    ],
+    "name:cat_x_preferred":[
+        "Rawicz"
+    ],
+    "name:ceb_x_preferred":[
+        "Rawicz"
+    ],
+    "name:deu_x_preferred":[
+        "Rawicz"
+    ],
+    "name:epo_x_preferred":[
+        "Rawicz"
+    ],
+    "name:fra_x_preferred":[
+        "Rawicz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05d1\u05d9\u05e5'"
+    ],
+    "name:ind_x_preferred":[
+        "Rawicz"
+    ],
+    "name:ita_x_preferred":[
+        "Rawicz"
+    ],
+    "name:jav_x_preferred":[
+        "Rawicz"
+    ],
+    "name:lav_x_preferred":[
+        "Ravi\u010da"
+    ],
+    "name:lit_x_preferred":[
+        "Ravi\u010dius"
+    ],
+    "name:msa_x_preferred":[
+        "Rawicz"
+    ],
+    "name:nld_x_preferred":[
+        "Rawicz"
+    ],
+    "name:pol_x_preferred":[
+        "Rawicz"
+    ],
+    "name:por_x_preferred":[
+        "Rawicz"
+    ],
+    "name:ron_x_preferred":[
+        "Rawicz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u0438\u0447"
+    ],
+    "name:slk_x_preferred":[
+        "Rawicz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0432\u0438\u0447"
+    ],
+    "name:szl_x_preferred":[
+        "Rawicz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0432\u0438\u0447"
+    ],
+    "name:vie_x_preferred":[
+        "Rawicz"
+    ],
+    "name:war_x_preferred":[
+        "Rawicz"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7dad\u5947"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Rawicz",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +134,7 @@
         }
     ],
     "wof:id":1125409079,
-    "wof:lastmodified":1509390213,
+    "wof:lastmodified":1564124961,
     "wof:name":"Rawicz",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

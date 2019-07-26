@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0632\u0644\u0627\u062a\u0646\u06cc\u06a9\u06cc-\u0647\u0648\u062f\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ces_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:eus_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0644\u0627\u062a\u0646\u06cc\u06a9\u06cc-\u0647\u0648\u062f\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:msa_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:nld_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:pol_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:por_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043d\u0438\u043a\u0438-\u0413\u043e\u0434\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:spa_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u045a\u0438\u043a\u0438-\u0425\u043e\u0442\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Zlatn\u00edky-Hodkovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Zlatn\u00edky-Hodkovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125401233,
-    "wof:lastmodified":1509390059,
+    "wof:lastmodified":1564125209,
     "wof:name":"Zlatn\u00edky-Hodkovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

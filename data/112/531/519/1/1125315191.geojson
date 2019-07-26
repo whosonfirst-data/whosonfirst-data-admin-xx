@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Desamparados"
+    ],
+    "name:ita_x_preferred":[
+        "Desamparados"
+    ],
+    "name:lit_x_preferred":[
+        "Desamparadosas"
+    ],
+    "name:nor_x_preferred":[
+        "Desamparados"
+    ],
+    "name:pol_x_preferred":[
+        "Desamparados"
+    ],
+    "name:spa_x_preferred":[
+        "Desamparados"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6851\u5e15\u62c9\u591a\u65af"
+    ],
     "qs_pg:gn_country":"CR",
     "qs_pg:name":"Desamparados",
     "qs_pg:name_adm0":"Costa Rica",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1125315191,
-    "wof:lastmodified":1505248030,
+    "wof:lastmodified":1564124144,
     "wof:name":"Desamparados",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

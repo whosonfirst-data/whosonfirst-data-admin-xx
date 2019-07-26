@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u099a\u09bf\u09a8\u09cd\u09a4\u09be\u09ae\u09a8\u09bf"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099a\u09bf\u09a8\u09cd\u09a4\u09be\u09ae\u09a8\u09bf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cc1\u0cb0\u0cc1\u0cac\u0cc2\u0cb0\u0cc1"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u093f\u0928\u094d\u0924\u093e\u092e\u0923\u093f"
+    ],
+    "name:por_x_preferred":[
+        "Chintamani"
+    ],
+    "name:vie_x_preferred":[
+        "Chintamani"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kuruburu",
     "qs_pg:name_adm0":"Bonaire Saint Eustatius and Saba",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1125807343,
-    "wof:lastmodified":1509997980,
+    "wof:lastmodified":1564123567,
     "wof:name":"Kuruburu",
     "wof:parent_id":85675535,
     "wof:placetype":"locality",

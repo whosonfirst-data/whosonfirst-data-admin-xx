@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Bauanhof"
+    ],
+    "name:deu_x_preferred":[
+        "Fazenda"
+    ],
+    "name:fra_x_preferred":[
+        "Fazenda"
+    ],
+    "name:ita_x_preferred":[
+        "Fazenda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30bc\u30f3\u30c0"
+    ],
+    "name:por_x_preferred":[
+        "Fazenda"
+    ],
+    "name:ron_x_preferred":[
+        "Fazend\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0437\u0435\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Hacienda colonial"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Fazenda",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +66,12 @@
     "woe:name_adm1":"Santa Catarina",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565527,
         85633009,
         101958121,
-        102060469
+        102060469,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +93,7 @@
         }
     ],
     "wof:id":1126095829,
-    "wof:lastmodified":1509411877,
+    "wof:lastmodified":1564124909,
     "wof:name":"Fazenda",
     "wof:parent_id":101958121,
     "wof:placetype":"neighbourhood",

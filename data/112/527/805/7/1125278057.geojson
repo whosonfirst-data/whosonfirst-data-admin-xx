@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0686\u0648\u06cc\u0698\u0648\u062a\u0647"
+    ],
+    "name:deu_x_preferred":[
+        "D\u017awierzuty"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u06cc\u0698\u0648\u062a\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "D\u017awierzuty"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017awierzuty"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0437\u044c\u0432\u0435\u0436\u0443\u0442\u0438"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"D\u017awierzuty",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1125278057,
-    "wof:lastmodified":1509387205,
+    "wof:lastmodified":1564123302,
     "wof:name":"D\u017awierzuty",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

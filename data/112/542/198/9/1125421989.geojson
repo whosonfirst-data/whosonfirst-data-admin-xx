@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:deu_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u06af\u0633\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:ita_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u043e\u0440\u0433\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043e\u0440\u0433\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:swe_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:uzb_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:vie_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:vol_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:war_x_preferred":[
+        "Georgsberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5965\u5c14\u683c\u65af\u8d1d\u683c"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Georgsberg",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125421989,
-    "wof:lastmodified":1509390500,
+    "wof:lastmodified":1564123542,
     "wof:name":"Georgsberg",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

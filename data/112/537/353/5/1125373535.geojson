@@ -16,6 +16,87 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0448\u0435\u0432\u043e\u0440\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:ces_x_preferred":[
+        "P\u0159evorsk"
+    ],
+    "name:deu_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:dsb_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:epo_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:est_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:eus_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0698\u0648\u0648\u0631\u0633\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e9\u05d1\u05d5\u05e8\u05e1\u05e7"
+    ],
+    "name:ita_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:jav_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:lav_x_preferred":[
+        "P\u0161evorska"
+    ],
+    "name:msa_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:nld_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:pol_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:por_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:ron_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0448\u0435\u0432\u043e\u0440\u0441\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0448\u0435\u0432\u043e\u0440\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u0440\u0441\u044c\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:vol_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:war_x_preferred":[
+        "Przeworsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u71b1\u6c83\u65af\u514b"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Przeworsk",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +137,7 @@
         }
     ],
     "wof:id":1125373535,
-    "wof:lastmodified":1509389388,
+    "wof:lastmodified":1564123579,
     "wof:name":"Przeworsk",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Horconcitos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d9\u10dd\u10dc\u10e1\u10d8\u10e2\u10dd\u10e1\u10d8"
+    ],
+    "name:spa_x_preferred":[
+        "Horconcitos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u5b54\u897f\u6258\u65af"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"Horconcitos",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1125335923,
-    "wof:lastmodified":1509388499,
+    "wof:lastmodified":1564122701,
     "wof:name":"Horconcitos",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

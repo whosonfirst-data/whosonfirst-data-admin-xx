@@ -16,6 +16,102 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0448\u043e\u0432 \u041b\u044e\u0431\u0435\u043b\u0441\u043a\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:ces_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:deu_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:dsb_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:epo_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:est_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:eus_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0645\u0627\u0634\u0648\u0641 \u0644\u0648\u0628\u0644\u0633\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:hak_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05de\u05e9\u05d5\u05d1 \u05dc\u05d5\u05d1\u05dc\u05e1\u05e7\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:jav_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30de\u30b7\u30e5\u30d5\u30fb\u30eb\u30d9\u30eb\u30b9\u30ad"
+    ],
+    "name:lav_x_preferred":[
+        "Toma\u0161ova Lubelska"
+    ],
+    "name:lit_x_preferred":[
+        "Liublino Toma\u0161uvas"
+    ],
+    "name:msa_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:nld_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:nor_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:pol_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:por_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:ron_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0448\u0443\u0432-\u041b\u044e\u0431\u0435\u043b\u044c\u0441\u043a\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0448\u043e\u0432 \u041b\u0443\u0431\u0435\u043b\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0448\u0456\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:war_x_preferred":[
+        "Tomasz\u00f3w Lubelski"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05d0\u05de\u05d0\u05e9\u05d0\u05d5\u05d5"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5e03\u6797\u5730\u5340\u6258\u99ac\u8212\u592b"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Tomasz\u00f3w Lubelski",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +152,7 @@
         }
     ],
     "wof:id":1125304527,
-    "wof:lastmodified":1509387780,
+    "wof:lastmodified":1564123726,
     "wof:name":"Tomasz\u00f3w Lubelski",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

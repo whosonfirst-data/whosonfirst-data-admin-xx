@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Paradise Beach"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e3 \u05e4\u05d0\u05e8\u05d3\u05d9\u05d9\u05e1"
+    ],
+    "name:pol_x_preferred":[
+        "Rajska pla\u017ca"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Paradise Beach",
     "qs_pg:name_adm0":"Australia",
@@ -39,10 +48,10 @@
     "woe:name_adm1":"New South Wales",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85681545,
         102191583,
         85632793,
-        136253039,
-        85681545
+        136253039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1126084823,
-    "wof:lastmodified":1509411349,
+    "wof:lastmodified":1564124334,
     "wof:name":"Paradise Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

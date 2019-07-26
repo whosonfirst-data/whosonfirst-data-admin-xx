@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0448\u0435\u043b\u0446\u0435 \u041e\u043f\u043e\u043b\u0441\u043a\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:deu_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:epo_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:fra_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:hak_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:jav_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30b7\u30a7\u30eb\u30c4\u30a7\u30fb\u30aa\u30dd\u30eb\u30b9\u30ad\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud2b8\uc178\uccb4\uc624\ud3f4\uc2a4\ud0a4\uc5d0"
+    ],
+    "name:lav_x_preferred":[
+        "St\u0161elce Opolske"
+    ],
+    "name:lit_x_preferred":[
+        "Opol\u0117s St\u0161elc\u0117s"
+    ],
+    "name:msa_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:nds_x_preferred":[
+        "Gro\u00df Strehlitz"
+    ],
+    "name:nld_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:pol_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:por_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:ron_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0448\u0435\u043b\u044c\u0446\u0435-\u041e\u043f\u043e\u043b\u044c\u0441\u043a\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0448\u0435\u043b\u0446\u0435 \u041e\u043f\u043e\u043b\u0441\u043a\u0458\u0435"
+    ],
+    "name:szl_x_preferred":[
+        "Wjelge Strzelce"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e15\u0e41\u0e0a\u0e25\u0e15\u0e4c\u0e41\u0e0b\u0e2d\u0e2d\u0e1b\u0e2d\u0e25\u0e2a\u0e01\u0e35\u0e41\u0e22"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0448\u0435\u043b\u044c\u0446\u0435-\u041e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:war_x_preferred":[
+        "Strzelce Opolskie"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5207\u723e\u91c7\u5967\u6ce2\u840a\u65af\u57fa"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Strzelce Opolskie",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +134,7 @@
         }
     ],
     "wof:id":1125376057,
-    "wof:lastmodified":1509389460,
+    "wof:lastmodified":1564123622,
     "wof:name":"Strzelce Opolskie",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

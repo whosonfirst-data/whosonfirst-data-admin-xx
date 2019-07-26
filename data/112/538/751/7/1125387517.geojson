@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0633\u0648\u06a9\u0647 \u067e\u0648\u067e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:ces_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:deu_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:eus_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0633\u0648\u06a9\u0647 \u067e\u0648\u067e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:hun_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:ita_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:msa_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:nld_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:pol_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:por_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:slk_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:spa_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:swe_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
+    "name:vie_x_preferred":[
+        "Vysok\u00e9 Popovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Vysok\u00e9 Popovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125387517,
-    "wof:lastmodified":1509389745,
+    "wof:lastmodified":1564124066,
     "wof:name":"Vysok\u00e9 Popovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

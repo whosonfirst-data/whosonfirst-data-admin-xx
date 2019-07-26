@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:deu_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06af\u0646\u0647\u0648\u0641\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:hun_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:ita_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0433\u0433\u0435\u043d\u0445\u043e\u0444\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:pol_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:por_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0433\u0433\u0435\u043d\u0445\u043e\u0444\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:spa_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:swe_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:uzb_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:vie_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:vol_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:war_x_preferred":[
+        "Meggenhofen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u6839\u970d\u82ac"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Meggenhofen",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125377423,
-    "wof:lastmodified":1509389492,
+    "wof:lastmodified":1564123714,
     "wof:name":"Meggenhofen",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Zamboanga"
+    ],
+    "name:ita_x_preferred":[
+        "Zamboanga"
+    ],
+    "name:lat_x_preferred":[
+        "Zamboanga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u043e\u0430\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Zamboanga"
+    ],
+    "name:tgl_x_preferred":[
+        "Zamboanga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u043e\u0430\u043d\u0433\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Zamboanga"
+    ],
     "qs_pg:gn_country":"PH",
     "qs_pg:name":"Zamboanga",
     "qs_pg:name_adm0":"Philippines",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125897981,
-    "wof:lastmodified":1505248704,
+    "wof:lastmodified":1564123449,
     "wof:name":"Zamboanga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

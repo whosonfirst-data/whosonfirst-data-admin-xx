@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "W\u0119gierska G\u00f3rka"
+    ],
+    "name:deu_x_preferred":[
+        "W\u0119gierska G\u00f3rka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u06af\u06cc\u0631\u0633\u06a9\u0627 \u06af\u0648\u0631\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "W\u0119gierska G\u00f3rka"
+    ],
+    "name:nld_x_preferred":[
+        "W\u0119gierska G\u00f3rka"
+    ],
+    "name:pol_x_preferred":[
+        "W\u0119gierska G\u00f3rka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043d\u0491\u0435\u0440\u0441\u044c\u043a\u0430-\u0490\u0443\u0440\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "W\u0119gierska G\u00f3rka"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"W\u0119gierska G\u00f3rka",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125404755,
-    "wof:lastmodified":1509390134,
+    "wof:lastmodified":1564125143,
     "wof:name":"W\u0119gierska G\u00f3rka",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Pradera"
+    ],
+    "name:deu_x_preferred":[
+        "Pradera"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0627\u062f\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Pradera"
+    ],
+    "name:ita_x_preferred":[
+        "Pradera"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d0\u10d3\u10d4\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Pradera"
+    ],
+    "name:nld_x_preferred":[
+        "Pradera"
+    ],
+    "name:sco_x_preferred":[
+        "Pradera"
+    ],
+    "name:spa_x_preferred":[
+        "Pradera"
+    ],
+    "name:swe_x_preferred":[
+        "Pradera"
+    ],
+    "name:vie_x_preferred":[
+        "Pradera"
+    ],
+    "name:war_x_preferred":[
+        "Pradera"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u5fb7\u62c9"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pradera",
     "qs_pg:name_adm0":"Costa Rica",
@@ -39,10 +81,10 @@
     "woe:name_adm1":"San Jose",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421203755,
-        85670391
+        421203755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +105,7 @@
         }
     ],
     "wof:id":1126069801,
-    "wof:lastmodified":1509410613,
+    "wof:lastmodified":1564124513,
     "wof:name":"Pradera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

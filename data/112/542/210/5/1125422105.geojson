@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u0647 \u0645\u06cc\u0627\u0633\u062a\u0648 \u0646\u0627\u062f \u0648\u0627\u0631\u062a\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Nowe Miasto nad Wart\u0105"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0647 \u0645\u06cc\u0627\u0633\u062a\u0648 \u0646\u0627\u062f \u0648\u0627\u0631\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nowe Miasto nad Wart\u0105"
+    ],
+    "name:nld_x_preferred":[
+        "Nowe Miasto nad Wart\u0105"
+    ],
+    "name:pol_x_preferred":[
+        "Nowe Miasto nad Wart\u0105"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0435 \u041c\u044f\u0441\u0442\u043e-\u043d\u0430\u0434-\u0412\u0430\u0440\u0442\u043e\u044e"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Nowe Miasto nad Wart\u0105",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1125422105,
-    "wof:lastmodified":1509390502,
+    "wof:lastmodified":1564123527,
     "wof:name":"Nowe Miasto nad Wart\u0105",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

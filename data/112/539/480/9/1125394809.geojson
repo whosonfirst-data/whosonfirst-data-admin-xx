@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:deu_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:epo_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u0633\u062a\u06cc\u0641 \u0627\u06cc\u0646\u0631\u0645\u0627\u0646\u0632\u06cc\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:hun_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:ita_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0439\u0441\u0442\u0438\u0444\u0442-\u0418\u043d\u043d\u0435\u0440\u043c\u0430\u043d\u0446\u0438\u043d\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:pol_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:por_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0448\u0442\u0438\u0444\u0442-\u0418\u043d\u043d\u0435\u0440\u043c\u0430\u043d\u0446\u0438\u043d\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:spa_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:swe_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:uzb_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:vie_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:vol_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:war_x_preferred":[
+        "Neustift-Innermanzing"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u65bd\u8482\u592b\u7279-\u56e0\u5185\u5c14\u66fc\u94a6"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Neustift-Innermanzing",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125394809,
-    "wof:lastmodified":1509389916,
+    "wof:lastmodified":1564123925,
     "wof:name":"Neustift-Innermanzing",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

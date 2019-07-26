@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Moustique"
+    ],
+    "name:swe_x_preferred":[
+        "Moustique"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Moustique",
     "qs_pg:name_adm0":"Guadeloupe",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1125960027,
-    "wof:lastmodified":1509403232,
+    "wof:lastmodified":1564124308,
     "wof:name":"Moustique",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

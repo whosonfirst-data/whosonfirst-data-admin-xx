@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Machulince"
+    ],
+    "name:ces_x_preferred":[
+        "Machulince"
+    ],
+    "name:deu_x_preferred":[
+        "Machulince"
+    ],
+    "name:epo_x_preferred":[
+        "Machulince"
+    ],
+    "name:eus_x_preferred":[
+        "Machulince"
+    ],
+    "name:fra_x_preferred":[
+        "Machulince"
+    ],
+    "name:hun_x_preferred":[
+        "Mahol\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Machulince"
+    ],
+    "name:msa_x_preferred":[
+        "Machulince"
+    ],
+    "name:nld_x_preferred":[
+        "Machulince"
+    ],
+    "name:ron_x_preferred":[
+        "Machulince"
+    ],
+    "name:slk_x_preferred":[
+        "Machulince"
+    ],
+    "name:spa_x_preferred":[
+        "Machulince"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0445\u0443\u043b\u0438\u043d\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0445\u0443\u043b\u0456\u043d\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Machulince"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Machulince",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125282551,
-    "wof:lastmodified":1509387331,
+    "wof:lastmodified":1564123216,
     "wof:name":"Machulince",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

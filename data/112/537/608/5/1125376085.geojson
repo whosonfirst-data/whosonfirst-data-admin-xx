@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:deu_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u06a9 \u0648\u0627\u0633\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:ita_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0443\u043a-\u0412\u0430\u0437\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:pol_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:por_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0443\u043a\u043a-\u0412\u0430\u0437\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:swe_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:uzb_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:vie_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:vol_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:war_x_preferred":[
+        "Bruck-Waasen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9c81\u514b-\u74e6\u68ee"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Bruck-Waasen",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125376085,
-    "wof:lastmodified":1509389461,
+    "wof:lastmodified":1564123689,
     "wof:name":"Bruck-Waasen",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:epo_x_preferred":[
+        "Figa"
+    ],
+    "name:fra_x_preferred":[
+        "Figa"
+    ],
+    "name:ita_x_preferred":[
+        "Figa"
+    ],
+    "name:slk_x_preferred":[
+        "Figa"
+    ],
+    "name:slv_x_preferred":[
+        "Figa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0433\u0430"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Figa",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1125422801,
-    "wof:lastmodified":1509390520,
+    "wof:lastmodified":1564123526,
     "wof:name":"Figa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

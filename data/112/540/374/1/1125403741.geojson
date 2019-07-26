@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Tonne"
+    ],
+    "name:eus_x_preferred":[
+        "Tona ingelesa"
+    ],
+    "name:nno_x_preferred":[
+        "Megagram"
+    ],
+    "name:nor_x_preferred":[
+        "Megagram"
+    ],
+    "name:swe_x_preferred":[
+        "Ton"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c28\u0c4d"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Ton",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1125403741,
-    "wof:lastmodified":1509390114,
+    "wof:lastmodified":1564125219,
     "wof:name":"Ton",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

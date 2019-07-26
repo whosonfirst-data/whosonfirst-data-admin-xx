@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:por_x_preferred":[
+        "Cidade Nova"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Cidade Nova",
     "qs_pg:name_adm0":"Brasil",
@@ -39,11 +42,11 @@
     "woe:name_adm1":"Amazonas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85681885,
         102191577,
         85633009,
         101941913,
-        102050371,
-        85681885
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126077019,
-    "wof:lastmodified":1509410963,
+    "wof:lastmodified":1564124540,
     "wof:name":"Cidade Nova",
     "wof:parent_id":101941913,
     "wof:placetype":"neighbourhood",

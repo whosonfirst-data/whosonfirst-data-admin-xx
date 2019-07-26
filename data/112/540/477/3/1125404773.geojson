@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Gr\u00f3dek"
+    ],
+    "name:deu_x_preferred":[
+        "Gr\u00f3dek"
+    ],
+    "name:fra_x_preferred":[
+        "Gr\u00f3dek"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d5\u05d3\u05e7"
+    ],
+    "name:ita_x_preferred":[
+        "Grodek"
+    ],
+    "name:lit_x_preferred":[
+        "Grudekas"
+    ],
+    "name:nld_x_preferred":[
+        "Gr\u00f3dek"
+    ],
+    "name:pol_x_preferred":[
+        "Gr\u00f3dek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0443\u0434\u0435\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u0443\u0434\u0435\u043a"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gr\u00f3dek",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1125404773,
-    "wof:lastmodified":1509390135,
+    "wof:lastmodified":1564125010,
     "wof:name":"Gr\u00f3dek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

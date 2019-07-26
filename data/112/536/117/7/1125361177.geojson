@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u06cc\u0646\u06a9\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Seninka"
+    ],
+    "name:ces_x_preferred":[
+        "Seninka"
+    ],
+    "name:deu_x_preferred":[
+        "Seninka"
+    ],
+    "name:epo_x_preferred":[
+        "Seninka"
+    ],
+    "name:eus_x_preferred":[
+        "Seninka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06cc\u0646\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Seninka"
+    ],
+    "name:hun_x_preferred":[
+        "Seninka"
+    ],
+    "name:ita_x_preferred":[
+        "Seninka"
+    ],
+    "name:msa_x_preferred":[
+        "Seninka"
+    ],
+    "name:nld_x_preferred":[
+        "Seninka"
+    ],
+    "name:pol_x_preferred":[
+        "Seninka"
+    ],
+    "name:por_x_preferred":[
+        "Seninka"
+    ],
+    "name:slk_x_preferred":[
+        "Seninka"
+    ],
+    "name:spa_x_preferred":[
+        "Seninka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u045a\u0438\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Seninka"
+    ],
+    "name:vie_x_preferred":[
+        "Seninka"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Seninka",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125361177,
-    "wof:lastmodified":1509389079,
+    "wof:lastmodified":1564124246,
     "wof:name":"Seninka",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

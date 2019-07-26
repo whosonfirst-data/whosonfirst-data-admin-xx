@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:deu_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:que_x_preferred":[
+        "Kalistu llaqta"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0443\u043a\u0430\u043b\u0438\u043f\u0442\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:sqi_x_preferred":[
+        "Eukalipsi"
+    ],
+    "name:war_x_preferred":[
+        "Eucaliptus"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u5361\u5229\u666e\u5716\u65af"
+    ],
     "qs_pg:gn_country":"BO",
     "qs_pg:name":"Eucaliptus",
     "qs_pg:name_adm0":"Bolivia",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125354481,
-    "wof:lastmodified":1505248097,
+    "wof:lastmodified":1564122819,
     "wof:name":"Eucaliptus",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

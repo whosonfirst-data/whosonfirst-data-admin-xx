@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u062f\u0648\u0645\u06cc\u0631\u06cc\u062a\u0633\u0647 \u0648 \u0628\u062e\u06cc\u0646\u06cc"
+    ],
+    "name:ces_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:deu_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:eus_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062f\u0648\u0645\u06cc\u0631\u06cc\u062a\u0633\u0647 \u0648 \u0628\u062e\u06cc\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:hun_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:ita_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:msa_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:nld_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:pol_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:por_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:slk_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:spa_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0443\u0434\u043e\u043c\u0458\u0435\u0440\u0436\u0438\u0446\u0435 \u0443 \u0411\u0435\u0445\u0438\u045a\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Sudom\u011b\u0159ice u Bechyn\u011b"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Sudom\u011b\u0159ice u Bechyn\u011b",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125372781,
-    "wof:lastmodified":1509389367,
+    "wof:lastmodified":1564123670,
     "wof:name":"Sudom\u011b\u0159ice u Bechyn\u011b",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

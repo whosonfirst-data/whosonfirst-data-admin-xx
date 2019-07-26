@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:deu_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u06a9\u06cc\u0631\u0634\u0646 \u0622\u0646\u062f\u0631 \u0627\u0646\u06a9\u0646\u0627\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:fur_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:hun_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:ita_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:nld_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:pol_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:por_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:slk_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:spa_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:swe_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:uzb_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:vie_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:vol_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
+    "name:war_x_preferred":[
+        "Neukirchen an der Enknach"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Neukirchen an der Enknach",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125394325,
-    "wof:lastmodified":1509389898,
+    "wof:lastmodified":1564123953,
     "wof:name":"Neukirchen an der Enknach",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

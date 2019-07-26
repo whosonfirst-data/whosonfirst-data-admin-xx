@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u06a9\u0631\u0633\u06a9\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Mokrsko"
+    ],
+    "name:deu_x_preferred":[
+        "Mokrsko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0631\u0633\u06a9\u0648"
+    ],
+    "name:nld_x_preferred":[
+        "Mokrsko"
+    ],
+    "name:pol_x_preferred":[
+        "Mokrsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0441\u044c\u043a\u043e"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Mokrsko",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1125356429,
-    "wof:lastmodified":1509388956,
+    "wof:lastmodified":1564122819,
     "wof:name":"Mokrsko",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

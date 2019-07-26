@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:ces_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:deu_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:epo_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:eus_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u0628\u0648\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:hun_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:ita_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:msa_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:nld_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:pol_x_preferred":[
+        "Kocob\u0119dz"
+    ],
+    "name:por_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:slk_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:spa_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0442\u0458\u0435\u0431\u0443\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Chot\u011bbuz"
+    ],
+    "name:vie_x_preferred":[
+        "Chot\u011bbuz"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Chot\u011bbuz",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125360559,
-    "wof:lastmodified":1509389065,
+    "wof:lastmodified":1564124226,
     "wof:name":"Chot\u011bbuz",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

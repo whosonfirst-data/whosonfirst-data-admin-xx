@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "P\u0159epychy"
+    ],
+    "name:fra_x_preferred":[
+        "P\u0159epychy"
+    ],
+    "name:ita_x_preferred":[
+        "P\u0159epychy"
+    ],
+    "name:nld_x_preferred":[
+        "P\u0159epychy"
+    ],
+    "name:pol_x_preferred":[
+        "P\u0159epychy"
+    ],
+    "name:slk_x_preferred":[
+        "P\u0159epychy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u043f\u0438\u0445\u0438"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"P\u0159epychy",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1125347215,
-    "wof:lastmodified":1509388783,
+    "wof:lastmodified":1564122779,
     "wof:name":"P\u0159epychy",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,75 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Tatvan"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0648\u0648\u062e\u062a\u06d5\u0648\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Tatvan"
+    ],
+    "name:epo_x_preferred":[
+        "Tatvan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u062a\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tatvan"
+    ],
+    "name:gag_x_preferred":[
+        "Tatvan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u057f\u057e\u0561\u0576"
+    ],
+    "name:kur_x_preferred":[
+        "Tetwan"
+    ],
+    "name:min_x_preferred":[
+        "Tatvan"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0422\u0430\u0442\u0432\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Tatvan"
+    ],
+    "name:nld_x_preferred":[
+        "Tatvan"
+    ],
+    "name:nno_x_preferred":[
+        "Tatvan"
+    ],
+    "name:nor_x_preferred":[
+        "Tatvan"
+    ],
+    "name:pol_x_preferred":[
+        "Tatvan"
+    ],
+    "name:swa_x_preferred":[
+        "Tatvan"
+    ],
+    "name:swe_x_preferred":[
+        "Tatvan"
+    ],
+    "name:szl_x_preferred":[
+        "Tatvan"
+    ],
+    "name:tur_x_preferred":[
+        "Tatvan"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u062a\u0648\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tatvan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u7279\u842c"
+    ],
     "qs_pg:gn_country":"TR",
     "qs_pg:name":"Tatvan",
     "qs_pg:name_adm0":"Turkey",
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1125898521,
-    "wof:lastmodified":1505248706,
+    "wof:lastmodified":1564123510,
     "wof:name":"Tatvan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

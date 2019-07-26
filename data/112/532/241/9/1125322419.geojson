@@ -16,6 +16,75 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bak_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u043d\u0442\u0430\u043b\u044c"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0647\u0644\u0646\u062a\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u043d\u0442\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u043d\u0442\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u043d\u0442\u0430\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u0435\u043d\u0442\u0430\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:war_x_preferred":[
+        "M\u00fchlental"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u4f26\u5854\u5c14"
+    ],
     "qs_pg:gn_country":"DE",
     "qs_pg:name":"M\u00fchlental",
     "qs_pg:name_adm0":"Deutschland",
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1125322419,
-    "wof:lastmodified":1509388146,
+    "wof:lastmodified":1564122916,
     "wof:name":"M\u00fchlental",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

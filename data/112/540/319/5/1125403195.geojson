@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:fur_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:hun_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:ita_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:pol_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:por_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:slk_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:spa_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:swe_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:uzb_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:vol_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:war_x_preferred":[
+        "Moosdorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u591a\u592b"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Moosdorf",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125403195,
-    "wof:lastmodified":1509390104,
+    "wof:lastmodified":1564125228,
     "wof:name":"Moosdorf",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

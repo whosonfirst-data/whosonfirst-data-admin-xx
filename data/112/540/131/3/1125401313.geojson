@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0628\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Libovice"
+    ],
+    "name:ces_x_preferred":[
+        "Libovice"
+    ],
+    "name:eus_x_preferred":[
+        "Libovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0628\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Libovice"
+    ],
+    "name:hun_x_preferred":[
+        "Libovice"
+    ],
+    "name:ita_x_preferred":[
+        "Libovice"
+    ],
+    "name:msa_x_preferred":[
+        "Libovice"
+    ],
+    "name:nld_x_preferred":[
+        "Libovice"
+    ],
+    "name:pol_x_preferred":[
+        "Libovice"
+    ],
+    "name:por_x_preferred":[
+        "Libovice"
+    ],
+    "name:slk_x_preferred":[
+        "Libovice"
+    ],
+    "name:spa_x_preferred":[
+        "Libovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0431\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Libovice"
+    ],
+    "name:vie_x_preferred":[
+        "Libovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Libovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125401313,
-    "wof:lastmodified":1509390062,
+    "wof:lastmodified":1564125108,
     "wof:name":"Libovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

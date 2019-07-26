@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Bijagual"
+    ],
+    "name:spa_x_preferred":[
+        "Bijagual"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"Bijagual",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1125360565,
-    "wof:lastmodified":1509389065,
+    "wof:lastmodified":1564124285,
     "wof:name":"Bijagual",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

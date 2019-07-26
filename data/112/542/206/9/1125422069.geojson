@@ -16,6 +16,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arg_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:ast_x_preferred":[
+        "Santesteban"
+    ],
+    "name:bre_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:cat_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:ceb_x_preferred":[
+        "Doneztebe/Santesteban"
+    ],
+    "name:epo_x_preferred":[
+        "Doneztebe/Santesteban"
+    ],
+    "name:eus_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:fin_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:fra_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:glg_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:hun_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:ita_x_preferred":[
+        "Santesteban"
+    ],
+    "name:msa_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:nld_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:oci_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:pol_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:por_x_preferred":[
+        "Santesteban"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0435\u0441\u0442\u0435\u0431\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Santesteban"
+    ],
+    "name:swe_x_preferred":[
+        "Doneztebe/Santesteban"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0441\u0442\u0435\u0431\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Santesteban"
+    ],
+    "name:vie_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:war_x_preferred":[
+        "Doneztebe"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5185\u65af\u7279\u97e6"
+    ],
     "qs_pg:gn_country":"ES",
     "qs_pg:name":"Doneztebe",
     "qs_pg:name_adm0":"Espa\u00f1a",
@@ -56,7 +131,7 @@
         }
     ],
     "wof:id":1125422069,
-    "wof:lastmodified":1509390501,
+    "wof:lastmodified":1564123556,
     "wof:name":"Doneztebe",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

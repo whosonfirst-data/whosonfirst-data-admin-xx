@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0628\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Bubovice"
+    ],
+    "name:ces_x_preferred":[
+        "Bubovice"
+    ],
+    "name:deu_x_preferred":[
+        "Bubovice"
+    ],
+    "name:eus_x_preferred":[
+        "Bubovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0628\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Bubovice"
+    ],
+    "name:hun_x_preferred":[
+        "Bubovice"
+    ],
+    "name:ita_x_preferred":[
+        "Bubovice"
+    ],
+    "name:msa_x_preferred":[
+        "Bubovice"
+    ],
+    "name:nld_x_preferred":[
+        "Bubovice"
+    ],
+    "name:oci_x_preferred":[
+        "Bubovice"
+    ],
+    "name:pol_x_preferred":[
+        "Bubovice"
+    ],
+    "name:por_x_preferred":[
+        "Bubovice"
+    ],
+    "name:slk_x_preferred":[
+        "Bubovice"
+    ],
+    "name:spa_x_preferred":[
+        "Bubovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0431\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bubovice"
+    ],
+    "name:vie_x_preferred":[
+        "Bubovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Bubovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125314787,
-    "wof:lastmodified":1509387972,
+    "wof:lastmodified":1564124122,
     "wof:name":"Bubovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

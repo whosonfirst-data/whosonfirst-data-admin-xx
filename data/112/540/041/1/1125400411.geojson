@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u043e\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kargowa"
+    ],
+    "name:eus_x_preferred":[
+        "Kargowa udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u06a9\u0627\u0631\u06af\u0648\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kargowa"
+    ],
+    "name:ita_x_preferred":[
+        "Kargowa"
+    ],
+    "name:nld_x_preferred":[
+        "Kargowa"
+    ],
+    "name:pol_x_preferred":[
+        "Kargowa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u043e\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Kargowa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u041a\u0430\u0440\u0491\u043e\u0432\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Kargowa"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Kargowa",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1125400411,
-    "wof:lastmodified":1509390043,
+    "wof:lastmodified":1564125000,
     "wof:name":"Gmina Kargowa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

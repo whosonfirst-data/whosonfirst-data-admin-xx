@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0628\u0648\u0648\u062e\u062a\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Libouchec"
+    ],
+    "name:ces_x_preferred":[
+        "Libouchec"
+    ],
+    "name:deu_x_preferred":[
+        "Libouchec"
+    ],
+    "name:eus_x_preferred":[
+        "Libouchec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0628\u0648\u0648\u062e\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Libouchec"
+    ],
+    "name:hun_x_preferred":[
+        "Libouchec"
+    ],
+    "name:ita_x_preferred":[
+        "Libouchec"
+    ],
+    "name:msa_x_preferred":[
+        "Libouchec"
+    ],
+    "name:nld_x_preferred":[
+        "Libouchec"
+    ],
+    "name:pol_x_preferred":[
+        "Libouchec"
+    ],
+    "name:por_x_preferred":[
+        "Libouchec"
+    ],
+    "name:slk_x_preferred":[
+        "Libouchec"
+    ],
+    "name:spa_x_preferred":[
+        "Libouchec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0431\u043e\u0443\u0445\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Libouchec"
+    ],
+    "name:vie_x_preferred":[
+        "Libouchec"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Libouchec",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125346903,
-    "wof:lastmodified":1509388778,
+    "wof:lastmodified":1564122772,
     "wof:name":"Libouchec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

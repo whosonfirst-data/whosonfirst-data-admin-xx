@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0634\u062a\u06cc\u0631\u06a9\u0648\u0644\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:epo_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:eus_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u062a\u06cc\u0631\u06a9\u0648\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:hun_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:msa_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:nld_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:oci_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:pol_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:por_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:spa_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0442\u0438\u0440\u043a\u043e\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
+    "name:vie_x_preferred":[
+        "\u010cty\u0159koly"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"\u010cty\u0159koly",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125401221,
-    "wof:lastmodified":1509390058,
+    "wof:lastmodified":1564125225,
     "wof:name":"\u010cty\u0159koly",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

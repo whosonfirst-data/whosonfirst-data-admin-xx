@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Petrovice"
+    ],
+    "name:ceb_x_preferred":[
+        "Petrovice"
+    ],
+    "name:ces_x_preferred":[
+        "Petrovice"
+    ],
+    "name:deu_x_preferred":[
+        "Petrovice"
+    ],
+    "name:epo_x_preferred":[
+        "Petrovice"
+    ],
+    "name:fra_x_preferred":[
+        "Petrovice"
+    ],
+    "name:ita_x_preferred":[
+        "Petrovice"
+    ],
+    "name:nld_x_preferred":[
+        "Petrovice"
+    ],
+    "name:pol_x_preferred":[
+        "Petrovice"
+    ],
+    "name:slk_x_preferred":[
+        "Petrovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Petrovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Petrovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -60,7 +96,7 @@
         }
     ],
     "wof:id":1125393581,
-    "wof:lastmodified":1534379824,
+    "wof:lastmodified":1564123891,
     "wof:name":"Petrovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

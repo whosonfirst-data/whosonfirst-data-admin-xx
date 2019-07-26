@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Crespo"
+    ],
+    "name:ceb_x_preferred":[
+        "Crespo"
+    ],
+    "name:deu_x_preferred":[
+        "Crespo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0633\u067e\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Crespo"
+    ],
+    "name:fra_x_preferred":[
+        "Crespo"
+    ],
+    "name:ita_x_preferred":[
+        "Crespo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ec\u30b9\u30dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub808\uc2a4\ud3ec"
+    ],
+    "name:nds_x_preferred":[
+        "Crespo"
+    ],
+    "name:nld_x_preferred":[
+        "Crespo"
+    ],
+    "name:por_x_preferred":[
+        "Crespo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0435\u0441\u043f\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Crespo"
+    ],
+    "name:swe_x_preferred":[
+        "Crespo"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u96f7\u65af\u6ce2"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Crespo",
     "qs_pg:name_adm0":"Brasil",
@@ -39,11 +87,11 @@
     "woe:name_adm1":"Amazonas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85681885,
         102191577,
         85633009,
         101941913,
-        102050371,
-        85681885
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +112,7 @@
         }
     ],
     "wof:id":1126095835,
-    "wof:lastmodified":1509411878,
+    "wof:lastmodified":1564124928,
     "wof:name":"Crespo",
     "wof:parent_id":101941913,
     "wof:placetype":"neighbourhood",

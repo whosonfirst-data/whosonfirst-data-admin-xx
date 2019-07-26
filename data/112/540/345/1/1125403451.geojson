@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:dsb_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:epo_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:fra_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:ita_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:jav_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:lav_x_preferred":[
+        "Dobre Mjasto"
+    ],
+    "name:msa_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:nld_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:pol_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:por_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:ron_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435-\u041c\u044f\u0441\u0442\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435 \u041c\u0458\u0430\u0441\u0442\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435 \u041c\u0456\u0441\u0442\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Dobre Miasto"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5e03\u96f7\u57ce"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Dobre Miasto",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125403451,
-    "wof:lastmodified":1509390109,
+    "wof:lastmodified":1564125217,
     "wof:name":"Dobre Miasto",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

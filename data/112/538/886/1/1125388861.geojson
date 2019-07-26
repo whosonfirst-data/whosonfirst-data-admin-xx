@@ -16,6 +16,93 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u043b\u0443\u0447\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:ceb_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:ces_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:epo_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:eus_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0648\u062a\u0634\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:hsb_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30c1\u30fc\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud758\ub8e8\uce5c"
+    ],
+    "name:lav_x_preferred":[
+        "Hlu\u010d\u012bna"
+    ],
+    "name:msa_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:nor_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Hulczyn"
+    ],
+    "name:por_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0447\u0438\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043b\u0443\u0447\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:tur_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0443\u0447\u0456\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Hlu\u010d\u00edn"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u76e7\u6b3d"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Hlu\u010d\u00edn",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +143,7 @@
         }
     ],
     "wof:id":1125388861,
-    "wof:lastmodified":1509389770,
+    "wof:lastmodified":1564124028,
     "wof:name":"Hlu\u010d\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u043e\u0432"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Kozlov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125388679,
-    "wof:lastmodified":1534379810,
+    "wof:lastmodified":1564124042,
     "wof:name":"Kozlov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

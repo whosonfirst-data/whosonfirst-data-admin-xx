@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Gr\u0105\u017cawy"
+    ],
+    "name:pol_x_preferred":[
+        "Gr\u0105\u017cawy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u043e\u043d\u0436\u0430\u0432\u0438"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gr\u0105\u017cawy",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1125306075,
-    "wof:lastmodified":1509387805,
+    "wof:lastmodified":1564123740,
     "wof:name":"Gr\u0105\u017cawy",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

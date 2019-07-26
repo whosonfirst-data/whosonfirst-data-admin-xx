@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:deu_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0634\u062a\u0646\u0648 \u0627\u06cc\u0645 \u0645\u0648\u0644\u06a9\u0631\u0627\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:hun_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:ita_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u0445\u0442\u0435\u043d\u0430\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:pol_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:por_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0445\u0442\u0435\u043d\u0430\u0443-\u0438\u043c-\u041c\u044e\u043b\u044c\u043a\u0440\u0430\u0439\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:spa_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:swe_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:uzb_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:vol_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:war_x_preferred":[
+        "Lichtenau im M\u00fchlkreis"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5c14\u5730\u533a\u5229\u5e0c\u7279\u7459"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Lichtenau im M\u00fchlkreis",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125320447,
-    "wof:lastmodified":1509388105,
+    "wof:lastmodified":1564122920,
     "wof:name":"Lichtenau im M\u00fchlkreis",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

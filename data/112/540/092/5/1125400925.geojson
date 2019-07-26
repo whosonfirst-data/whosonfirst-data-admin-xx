@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062e\u0648\u0632 \u0648 \u062a\u06cc\u0634\u0646\u0648\u0648\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:ces_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:deu_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:eus_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062e\u0648\u0632 \u0648 \u062a\u06cc\u0634\u0646\u0648\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:hun_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:ita_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:msa_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:nld_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:pol_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:por_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:slk_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:spa_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:swe_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
+    "name:vie_x_preferred":[
+        "Ochoz u Ti\u0161nova"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Ochoz u Ti\u0161nova",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125400925,
-    "wof:lastmodified":1509390053,
+    "wof:lastmodified":1564125178,
     "wof:name":"Ochoz u Ti\u0161nova",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0432\u043d\u0438\u0447\u043d\u0430-\u0417\u0434\u0440\u0443\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:ces_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:deu_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:epo_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:est_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:fra_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:jav_x_preferred":[
+        "Piwniczna"
+    ],
+    "name:lav_x_preferred":[
+        "Piv\u0146i\u010dnazdroja"
+    ],
+    "name:lit_x_preferred":[
+        "Pivni\u010dna Zdrujus"
+    ],
+    "name:msa_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:nld_x_preferred":[
+        "Piwniczna Zdr\u00f3j"
+    ],
+    "name:pol_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:por_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:ron_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0432\u043d\u0438\u0447\u043d\u0430-\u0417\u0434\u0440\u0443\u0439"
+    ],
+    "name:slk_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0432\u045a\u0438\u0447\u043d\u0430-\u0417\u0434\u0440\u043e\u0458"
+    ],
+    "name:szl_x_preferred":[
+        "Piw\u0144iczno-Zdr\u016fj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430-\u0417\u0434\u0440\u0443\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Piwniczna-Zdr\u00f3j"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u592b\u5c3c\u5947\u7d0d-\u5179\u5fb7\u9b6f\u4f0a"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Piwniczna-Zdr\u00f3j",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +122,7 @@
         }
     ],
     "wof:id":1125387921,
-    "wof:lastmodified":1509389752,
+    "wof:lastmodified":1564124073,
     "wof:name":"Piwniczna-Zdr\u00f3j",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

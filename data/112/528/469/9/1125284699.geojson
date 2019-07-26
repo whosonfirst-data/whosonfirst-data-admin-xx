@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Circ"
+    ],
+    "name:deu_x_preferred":[
+        "Circ"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Circ",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1125284699,
-    "wof:lastmodified":1509387391,
+    "wof:lastmodified":1564123207,
     "wof:name":"Circ",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

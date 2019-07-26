@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "West View"
+    ],
+    "name:ita_x_preferred":[
+        "West View"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"West View",
     "qs_pg:name_adm0":"United States",
@@ -39,12 +45,12 @@
     "woe:name_adm1":"Ohio",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85688485,
         102191575,
         404526215,
         85633793,
         101713297,
-        102083719
+        102083719,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1126105561,
-    "wof:lastmodified":1509412352,
+    "wof:lastmodified":1564122935,
     "wof:name":"West View",
     "wof:parent_id":101713297,
     "wof:placetype":"neighbourhood",

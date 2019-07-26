@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0686\u0627\u067e\u0644\u06cc\u0646\u06a9"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u0456\u043d\u0430\u043a"
+    ],
+    "name:eus_x_preferred":[
+        "Czaplinek udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0686\u0627\u067e\u0644\u06cc\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Czaplinek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u057a\u056c\u056b\u0576\u0565\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Czaplinek"
+    ],
+    "name:nld_x_preferred":[
+        "Czaplinek"
+    ],
+    "name:pol_x_preferred":[
+        "Czaplinek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u043b\u0438\u043d\u0435\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Czaplinek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0427\u0430\u043f\u043b\u0456\u043d\u0435\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Gmina Czaplinek"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Czaplinek"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Czaplinek",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +98,7 @@
         }
     ],
     "wof:id":1125392883,
-    "wof:lastmodified":1509389863,
+    "wof:lastmodified":1564123796,
     "wof:name":"Gmina Czaplinek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

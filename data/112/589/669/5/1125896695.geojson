@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "May Pen"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0439-\u041f\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "May Pen"
+    ],
+    "name:dan_x_preferred":[
+        "May Pen"
+    ],
+    "name:deu_x_preferred":[
+        "May Pen"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03b9 \u03a0\u03b5\u03bd"
+    ],
+    "name:fra_x_preferred":[
+        "May Pen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d9 \u05e4\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "May Pen"
+    ],
+    "name:jam_x_preferred":[
+        "Mie Pen"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc774\ud39c"
+    ],
+    "name:nds_x_preferred":[
+        "May Pen"
+    ],
+    "name:nld_x_preferred":[
+        "May Pen"
+    ],
+    "name:pol_x_preferred":[
+        "May Pen"
+    ],
+    "name:por_x_preferred":[
+        "May Pen"
+    ],
+    "name:spa_x_preferred":[
+        "May Pen"
+    ],
+    "name:swe_x_preferred":[
+        "May Pen"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0626\u06d2 \u067e\u06cc\u0646"
+    ],
     "qs_pg:gn_country":"JM",
     "qs_pg:name":"May Pen",
     "qs_pg:name_adm0":"Jamaica",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125896695,
-    "wof:lastmodified":1505248700,
+    "wof:lastmodified":1564123463,
     "wof:name":"May Pen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

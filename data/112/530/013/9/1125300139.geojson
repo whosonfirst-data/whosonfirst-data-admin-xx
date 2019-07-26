@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u062a\u06a9\u0627-\u062a\u0627\u0631\u062a\u0627\u06a9"
+    ],
+    "name:ceb_x_preferred":[
+        "Rutka-Tartak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062a\u06a9\u0627-\u062a\u0627\u0631\u062a\u0627\u06a9"
+    ],
+    "name:lit_x_preferred":[
+        "R\u016btel\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Rutka-Tartak"
+    ],
+    "name:pol_x_preferred":[
+        "Rutka-Tartak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0442\u043a\u0430-\u0422\u0430\u0440\u0442\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0442\u043a\u0430-\u0422\u0430\u0440\u0442\u0430\u043a"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Rutka-Tartak",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125300139,
-    "wof:lastmodified":1509387696,
+    "wof:lastmodified":1564123723,
     "wof:name":"Rutka-Tartak",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

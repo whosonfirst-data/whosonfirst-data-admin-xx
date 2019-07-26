@@ -16,6 +16,105 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0644\u0647\u0627\u06cc\u0645"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u044e\u043b\u0445\u0430\u0439\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:dan_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0647\u0627\u06cc\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0575\u0578\u0582\u056c\u0570\u0561\u0575\u0574"
+    ],
+    "name:ind_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:lat_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:lmo_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:por_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044e\u043b\u043b\u044c\u0445\u0430\u0439\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0445\u0430\u0458\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:tur_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044e\u043b\u043b\u044c\u0433\u0430\u0439\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:war_x_preferred":[
+        "M\u00fcllheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5c14\u6d77\u59c6"
+    ],
     "qs_pg:gn_country":"CH",
     "qs_pg:name":"M\u00fcllheim",
     "qs_pg:name_adm0":"Schweiz",
@@ -56,7 +155,7 @@
         }
     ],
     "wof:id":1125407051,
-    "wof:lastmodified":1509390177,
+    "wof:lastmodified":1564125100,
     "wof:name":"M\u00fcllheim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u062e\u0648\u0627\u0644\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Rychvald"
+    ],
+    "name:ces_x_preferred":[
+        "Rychvald"
+    ],
+    "name:deu_x_preferred":[
+        "Rychvald"
+    ],
+    "name:epo_x_preferred":[
+        "Rychvald"
+    ],
+    "name:eus_x_preferred":[
+        "Rychvald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u062e\u0648\u0627\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Rychvald"
+    ],
+    "name:hun_x_preferred":[
+        "Rychvald"
+    ],
+    "name:ita_x_preferred":[
+        "Rychvald"
+    ],
+    "name:lav_x_preferred":[
+        "Rihvalda"
+    ],
+    "name:msa_x_preferred":[
+        "Rychvald"
+    ],
+    "name:nld_x_preferred":[
+        "Rychvald"
+    ],
+    "name:pol_x_preferred":[
+        "Rychwa\u0142d"
+    ],
+    "name:por_x_preferred":[
+        "Rychvald"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0445\u0432\u0430\u043b\u044c\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Rychvald"
+    ],
+    "name:spa_x_preferred":[
+        "Rychvald"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0445\u0432\u0430\u043b\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Rychvald"
+    ],
+    "name:vie_x_preferred":[
+        "Rychvald"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Rychvald",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1125391489,
-    "wof:lastmodified":1509389828,
+    "wof:lastmodified":1564123971,
     "wof:name":"Rychvald",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

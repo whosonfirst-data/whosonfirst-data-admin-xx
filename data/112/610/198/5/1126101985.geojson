@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Vallarta"
+    ],
+    "name:fra_x_preferred":[
+        "Vallarta"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Vallarta",
     "qs_pg:name_adm0":"M\u00e9xico",
@@ -39,11 +45,11 @@
     "woe:name_adm1":"Baja California",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686541,
         102191575,
         85633293,
         101993461,
-        102074507,
-        85686541
+        102074507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1126101985,
-    "wof:lastmodified":1509412169,
+    "wof:lastmodified":1564123009,
     "wof:name":"Vallarta",
     "wof:parent_id":101993461,
     "wof:placetype":"neighbourhood",

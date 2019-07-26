@@ -16,6 +16,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Stroheim"
+    ],
+    "name:ces_x_preferred":[
+        "Stroheim"
+    ],
+    "name:deu_x_preferred":[
+        "Stroheim"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0631\u0648\u06cc\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Stroheim"
+    ],
+    "name:fur_x_preferred":[
+        "Stroheim"
+    ],
+    "name:hun_x_preferred":[
+        "Stroheim"
+    ],
+    "name:ita_x_preferred":[
+        "Stroheim"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30c8\u30ed\u30cf\u30a4\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0442\u0440\u043e\u0445\u0430\u0439\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Stroheim"
+    ],
+    "name:pol_x_preferred":[
+        "Stroheim"
+    ],
+    "name:por_x_preferred":[
+        "Stroheim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u0440\u043e\u0445\u0430\u0439\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Stroheim"
+    ],
+    "name:spa_x_preferred":[
+        "Stroheim"
+    ],
+    "name:swe_x_preferred":[
+        "Stroheim"
+    ],
+    "name:uzb_x_preferred":[
+        "Stroheim"
+    ],
+    "name:vie_x_preferred":[
+        "Stroheim"
+    ],
+    "name:vol_x_preferred":[
+        "Stroheim"
+    ],
+    "name:war_x_preferred":[
+        "Stroheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u7279\u7f57\u6d77\u59c6"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Stroheim",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +122,7 @@
         }
     ],
     "wof:id":1125383041,
-    "wof:lastmodified":1509389639,
+    "wof:lastmodified":1564124065,
     "wof:name":"Stroheim",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

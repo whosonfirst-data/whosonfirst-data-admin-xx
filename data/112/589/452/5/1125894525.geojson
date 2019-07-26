@@ -16,6 +16,111 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0644\u0645\u0633\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0644\u0645\u0633\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "Xolmsk"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:ceb_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:ces_x_preferred":[
+        "Cholmsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Cholmsk"
+    ],
+    "name:epo_x_preferred":[
+        "\u0124olmsk"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0644\u0645\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Holmsk"
+    ],
+    "name:fra_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:hsb_x_preferred":[
+        "Cholmsk"
+    ],
+    "name:hun_x_preferred":[
+        "Holmszk"
+    ],
+    "name:ita_x_preferred":[
+        "Cholmsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30eb\u30e0\u30b9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud640\ub984\uc2a4\ud06c"
+    ],
+    "name:nno_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:nor_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:pol_x_preferred":[
+        "Cho\u0142msk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Cholmsk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:tgl_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:tur_x_preferred":[
+        "Holmsk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u0644\u0645\u0633\u06a9"
+    ],
+    "name:vep_x_preferred":[
+        "Holmsk"
+    ],
+    "name:vie_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:war_x_preferred":[
+        "Kholmsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u5c14\u59c6\u65af\u514b"
+    ],
     "qs_pg:gn_country":"RU",
     "qs_pg:name":"Kholmsk",
     "qs_pg:name_adm0":"Russia",
@@ -56,7 +161,7 @@
         }
     ],
     "wof:id":1125894525,
-    "wof:lastmodified":1505248694,
+    "wof:lastmodified":1564123464,
     "wof:name":"Kholmsk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

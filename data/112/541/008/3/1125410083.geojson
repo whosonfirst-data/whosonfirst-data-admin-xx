@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0447\u043a\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Raczki"
+    ],
+    "name:deu_x_preferred":[
+        "Raczki"
+    ],
+    "name:fra_x_preferred":[
+        "Raczki"
+    ],
+    "name:lit_x_preferred":[
+        "Ra\u010dkos"
+    ],
+    "name:nld_x_preferred":[
+        "Raczki"
+    ],
+    "name:pol_x_preferred":[
+        "Raczki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0447\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0447\u043a\u0456"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Raczki",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1125410083,
-    "wof:lastmodified":1509390238,
+    "wof:lastmodified":1564125284,
     "wof:name":"Raczki",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

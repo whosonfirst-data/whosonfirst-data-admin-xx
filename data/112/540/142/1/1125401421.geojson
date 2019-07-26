@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u06cc\u0632\u062f \u067e\u0648\u062f \u062a\u0631\u0648\u0633\u06a9\u0627\u0645\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:ces_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:eus_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u0632\u062f \u067e\u0648\u062f \u062a\u0631\u0648\u0633\u06a9\u0627\u0645\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:hun_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:msa_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:nld_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:pol_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:por_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:slk_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:spa_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0458\u0435\u0437\u0434 \u043f\u043e\u0434 \u0422\u0440\u043e\u0441\u043a\u0430\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
+    "name:vie_x_preferred":[
+        "\u00dajezd pod Troskami"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"\u00dajezd pod Troskami",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125401421,
-    "wof:lastmodified":1509390064,
+    "wof:lastmodified":1564125072,
     "wof:name":"\u00dajezd pod Troskami",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Senohraby"
+    ],
+    "name:ces_x_preferred":[
+        "Senohraby"
+    ],
+    "name:eus_x_preferred":[
+        "Senohraby"
+    ],
+    "name:fra_x_preferred":[
+        "Senohraby"
+    ],
+    "name:hun_x_preferred":[
+        "Senohraby"
+    ],
+    "name:ita_x_preferred":[
+        "Senohraby"
+    ],
+    "name:msa_x_preferred":[
+        "Senohraby"
+    ],
+    "name:nld_x_preferred":[
+        "Senohraby"
+    ],
+    "name:pol_x_preferred":[
+        "Senohraby"
+    ],
+    "name:por_x_preferred":[
+        "Senohraby"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u0433\u0440\u0430\u0431\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Senohraby"
+    ],
+    "name:spa_x_preferred":[
+        "Senohraby"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u0445\u0440\u0430\u0431\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Senohraby"
+    ],
+    "name:vie_x_preferred":[
+        "Senohraby"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Senohraby",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125399953,
-    "wof:lastmodified":1509390033,
+    "wof:lastmodified":1564123875,
     "wof:name":"Senohraby",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

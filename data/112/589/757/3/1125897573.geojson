@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u062c\u0648\u0645"
+    ],
+    "name:bcl_x_preferred":[
+        "Tagum"
+    ],
+    "name:ceb_x_preferred":[
+        "Tagum"
+    ],
+    "name:deu_x_preferred":[
+        "Tagum"
+    ],
+    "name:fra_x_preferred":[
+        "Tagum"
+    ],
+    "name:ilo_x_preferred":[
+        "Tagum"
+    ],
+    "name:ind_x_preferred":[
+        "Tagum"
+    ],
+    "name:ita_x_preferred":[
+        "Tagum"
+    ],
+    "name:nld_x_preferred":[
+        "Tagum"
+    ],
+    "name:nor_x_preferred":[
+        "Tagum"
+    ],
+    "name:pag_x_preferred":[
+        "Tagum"
+    ],
+    "name:pam_x_preferred":[
+        "Tagum"
+    ],
+    "name:pol_x_preferred":[
+        "Tagum"
+    ],
+    "name:spa_x_preferred":[
+        "Ta\u00fam"
+    ],
+    "name:swe_x_preferred":[
+        "Tagum"
+    ],
+    "name:tgl_x_preferred":[
+        "Tagum"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e32\u0e01\u0e38\u0e21"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u06af\u0648\u0645"
+    ],
+    "name:vec_x_preferred":[
+        "Ta\u00fam"
+    ],
+    "name:war_x_preferred":[
+        "Tagum"
+    ],
     "qs_pg:gn_country":"PH",
     "qs_pg:name":"Tagum",
     "qs_pg:name_adm0":"Philippines",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125897573,
-    "wof:lastmodified":1505248703,
+    "wof:lastmodified":1564123484,
     "wof:name":"Tagum",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

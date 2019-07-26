@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:deu_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0634\u0628\u0631\u06af \u0628\u0627\u06cc \u0645\u0627\u062a\u06cc\u06af\u0647\u0648\u0641\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:fur_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:hun_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:ita_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0431\u0435\u0440\u0433-\u041c\u0430\u0442\u0442\u0438\u0433\u0445\u043e\u0444\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:pol_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:por_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0445\u0431\u0435\u0440\u0433-\u0431\u0430\u0439-\u041c\u0430\u0442\u0442\u0438\u0433\u0445\u043e\u0444\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:spa_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:swe_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:uzb_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:vie_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:vol_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:war_x_preferred":[
+        "Kirchberg bei Mattighofen"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8482\u5e0c\u970d\u82ac\u9644\u8fd1\u57fa\u5e0c\u8d1d\u683c"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Kirchberg bei Mattighofen",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125392857,
-    "wof:lastmodified":1509389863,
+    "wof:lastmodified":1564123920,
     "wof:name":"Kirchberg bei Mattighofen",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

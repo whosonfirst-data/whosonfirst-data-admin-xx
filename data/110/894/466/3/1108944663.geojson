@@ -21,6 +21,33 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:fin_x_preferred":[
+        "Aspero"
+    ],
+    "name:fra_x_preferred":[
+        "Aspero"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10de\u10d4\u10e0\u10dd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0441\u043f\u0435\u0440\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Aspero"
+    ],
+    "name:por_x_preferred":[
+        "Aspero"
+    ],
+    "name:que_x_preferred":[
+        "Aspero"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043f\u0435\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c1spero"
+    ],
     "name:swe_x_preferred":[
         "Asper\u00f6"
     ],
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1108944663,
-    "wof:lastmodified":1529702303,
+    "wof:lastmodified":1564122679,
     "wof:name":"Aspero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Stupava"
+    ],
+    "name:ces_x_preferred":[
+        "Stupava"
+    ],
+    "name:deu_x_preferred":[
+        "Stupava"
+    ],
+    "name:epo_x_preferred":[
+        "Stupava"
+    ],
+    "name:eus_x_preferred":[
+        "Stupava"
+    ],
+    "name:fra_x_preferred":[
+        "Stupava"
+    ],
+    "name:ita_x_preferred":[
+        "Stupava"
+    ],
+    "name:nld_x_preferred":[
+        "Stupava"
+    ],
+    "name:pol_x_preferred":[
+        "Stupava"
+    ],
+    "name:ron_x_preferred":[
+        "Stupava"
+    ],
+    "name:slk_x_preferred":[
+        "Stupava"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0443\u043f\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Stupava"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Stupava",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125400935,
-    "wof:lastmodified":1509390053,
+    "wof:lastmodified":1564125198,
     "wof:name":"Stupava",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

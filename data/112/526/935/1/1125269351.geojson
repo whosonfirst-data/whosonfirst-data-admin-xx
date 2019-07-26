@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Jovice"
+    ],
+    "name:ces_x_preferred":[
+        "Jovice"
+    ],
+    "name:deu_x_preferred":[
+        "Jovice"
+    ],
+    "name:epo_x_preferred":[
+        "Jovice"
+    ],
+    "name:eus_x_preferred":[
+        "Jovice"
+    ],
+    "name:fra_x_preferred":[
+        "Jovice"
+    ],
+    "name:hun_x_preferred":[
+        "J\u00f3l\u00e9sz"
+    ],
+    "name:ita_x_preferred":[
+        "Jovice"
+    ],
+    "name:msa_x_preferred":[
+        "Jovice"
+    ],
+    "name:nld_x_preferred":[
+        "Jovice"
+    ],
+    "name:pol_x_preferred":[
+        "Jovice"
+    ],
+    "name:ron_x_preferred":[
+        "Jovice"
+    ],
+    "name:slk_x_preferred":[
+        "Jovice"
+    ],
+    "name:spa_x_preferred":[
+        "Jovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0432\u0456\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Jovice"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Jovice",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125269351,
-    "wof:lastmodified":1509386978,
+    "wof:lastmodified":1564123245,
     "wof:name":"Jovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

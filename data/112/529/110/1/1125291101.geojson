@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0645\u0648\u0644\u0648\u062a\u0644\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Smolotely"
+    ],
+    "name:ces_x_preferred":[
+        "Smolotely"
+    ],
+    "name:deu_x_preferred":[
+        "Smolotely"
+    ],
+    "name:eus_x_preferred":[
+        "Smolotely"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0648\u0644\u0648\u062a\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Smolotely"
+    ],
+    "name:hun_x_preferred":[
+        "Smolotely"
+    ],
+    "name:ita_x_preferred":[
+        "Smolotely"
+    ],
+    "name:msa_x_preferred":[
+        "Smolotely"
+    ],
+    "name:nld_x_preferred":[
+        "Smolotely"
+    ],
+    "name:por_x_preferred":[
+        "Smolotely"
+    ],
+    "name:slk_x_preferred":[
+        "Smolotely"
+    ],
+    "name:spa_x_preferred":[
+        "Smolotely"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u043e\u0442\u0435\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Smolotely"
+    ],
+    "name:vie_x_preferred":[
+        "Smolotely"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Smolotely",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125291101,
-    "wof:lastmodified":1509387532,
+    "wof:lastmodified":1564123398,
     "wof:name":"Smolotely",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

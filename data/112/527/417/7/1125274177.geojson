@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0627\u0646 \u0645\u0648\u0646\u062a\u0627\u0644\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Juan Montalvo Fiallos"
+    ],
+    "name:cat_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:deu_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:fra_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:ita_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:mwl_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:pol_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:por_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:que_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:ron_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0430\u043b\u044c\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Montalvo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043d \u041c\u043e\u043d\u0442\u0430\u043b\u044c\u0432\u043e"
+    ],
     "qs_pg:gn_country":"EC",
     "qs_pg:name":"Juan Montalvo",
     "qs_pg:name_adm0":"Ecuador",
@@ -56,7 +98,7 @@
         }
     ],
     "wof:id":1125274177,
-    "wof:lastmodified":1505247955,
+    "wof:lastmodified":1564123318,
     "wof:name":"Juan Montalvo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

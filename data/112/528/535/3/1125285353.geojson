@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Kallham"
+    ],
+    "name:deu_x_preferred":[
+        "Kallham"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u0647\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Kallham"
+    ],
+    "name:hun_x_preferred":[
+        "Kallham"
+    ],
+    "name:ita_x_preferred":[
+        "Kallham"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0445\u0430\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Kallham"
+    ],
+    "name:pol_x_preferred":[
+        "Kallham"
+    ],
+    "name:por_x_preferred":[
+        "Kallham"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0445\u0430\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Kallham"
+    ],
+    "name:spa_x_preferred":[
+        "Kallham"
+    ],
+    "name:swe_x_preferred":[
+        "Kallham"
+    ],
+    "name:uzb_x_preferred":[
+        "Kallham"
+    ],
+    "name:vie_x_preferred":[
+        "Kallham"
+    ],
+    "name:vol_x_preferred":[
+        "Kallham"
+    ],
+    "name:war_x_preferred":[
+        "Kallham"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c14\u54c8\u59c6"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Kallham",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125285353,
-    "wof:lastmodified":1509387408,
+    "wof:lastmodified":1564123132,
     "wof:name":"Kallham",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

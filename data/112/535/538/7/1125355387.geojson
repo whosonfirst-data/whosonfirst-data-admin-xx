@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ladzany"
+    ],
+    "name:ces_x_preferred":[
+        "Ladzany"
+    ],
+    "name:deu_x_preferred":[
+        "Ladzany"
+    ],
+    "name:epo_x_preferred":[
+        "Ladzany"
+    ],
+    "name:eus_x_preferred":[
+        "Ladzany"
+    ],
+    "name:fra_x_preferred":[
+        "Ladzany"
+    ],
+    "name:hun_x_preferred":[
+        "Led\u00e9ny"
+    ],
+    "name:ita_x_preferred":[
+        "Ladzany"
+    ],
+    "name:msa_x_preferred":[
+        "Ladzany"
+    ],
+    "name:nld_x_preferred":[
+        "Ladzany"
+    ],
+    "name:pol_x_preferred":[
+        "Ladzany"
+    ],
+    "name:ron_x_preferred":[
+        "Ladzany"
+    ],
+    "name:slk_x_preferred":[
+        "Ladzany"
+    ],
+    "name:spa_x_preferred":[
+        "Ladzany"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0434\u0437\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0434\u0437\u0430\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Ladzany"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Ladzany",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125355387,
-    "wof:lastmodified":1509388930,
+    "wof:lastmodified":1564122853,
     "wof:name":"Ladzany",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

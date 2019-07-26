@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kanina"
+    ],
+    "name:deu_x_preferred":[
+        "Kanina"
+    ],
+    "name:epo_x_preferred":[
+        "Kanina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Kanina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u045a\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kanina"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Kanina",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125392423,
-    "wof:lastmodified":1509389850,
+    "wof:lastmodified":1564123789,
     "wof:name":"Kanina",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

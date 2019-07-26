@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0698\u06cc\u0648\u0648\u062a\u06cc\u062a\u0633\u0647 \u0648 \u0646\u0648\u0648\u0647\u0648 \u06cc\u06cc\u062a\u0634\u06cc\u0646\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:epo_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:eus_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u0648\u0648\u062a\u06cc\u062a\u0633\u0647 \u0648 \u0646\u0648\u0648\u0647\u0648 \u06cc\u06cc\u062a\u0634\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:hun_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:ita_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:msa_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:nld_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:pol_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:por_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:slk_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:spa_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0432\u043e\u0442\u0438\u0446\u0435 \u0443 \u041d\u043e\u0432\u043e\u043c \u0408\u0438\u0447\u0438\u043d\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "\u017divotice u Nov\u00e9ho Ji\u010d\u00edna"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"\u017divotice u Nov\u00e9ho Ji\u010d\u00edna",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125374321,
-    "wof:lastmodified":1509389416,
+    "wof:lastmodified":1564123699,
     "wof:name":"\u017divotice u Nov\u00e9ho Ji\u010d\u00edna",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

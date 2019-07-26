@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Haluzice"
+    ],
+    "name:epo_x_preferred":[
+        "Haluzice"
+    ],
+    "name:eus_x_preferred":[
+        "Haluzice"
+    ],
+    "name:fra_x_preferred":[
+        "Haluzice"
+    ],
+    "name:ita_x_preferred":[
+        "Haluzice"
+    ],
+    "name:nld_x_preferred":[
+        "Haluzice"
+    ],
+    "name:slk_x_preferred":[
+        "Haluzice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043b\u0443\u0437\u0438\u0446\u0435"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Haluzice",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125376913,
-    "wof:lastmodified":1509389482,
+    "wof:lastmodified":1564123695,
     "wof:name":"Haluzice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

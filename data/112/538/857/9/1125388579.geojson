@@ -16,6 +16,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "La Libertad"
+    ],
+    "name:deu_x_preferred":[
+        "La Libertad"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u039b\u03b9\u03bc\u03c0\u03b5\u03c1\u03c4\u03ac\u03b4"
+    ],
+    "name:epo_x_preferred":[
+        "La Libertad"
+    ],
+    "name:fra_x_preferred":[
+        "La Libertad"
+    ],
+    "name:glg_x_preferred":[
+        "La Libertad"
+    ],
+    "name:ita_x_preferred":[
+        "La Libertad"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub9ac\ubca0\ub974\ud0c0\ub4dc"
+    ],
+    "name:lit_x_preferred":[
+        "La Libertadas"
+    ],
+    "name:nds_x_preferred":[
+        "La Libertad"
+    ],
+    "name:nld_x_preferred":[
+        "La Libertad"
+    ],
+    "name:pol_x_preferred":[
+        "La Libertad"
+    ],
+    "name:por_x_preferred":[
+        "La Libertad"
+    ],
+    "name:que_x_preferred":[
+        "La Libertad"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "La Libertad"
+    ],
+    "name:spa_x_preferred":[
+        "La Libertad"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "La Libertad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
+    ],
+    "name:war_x_preferred":[
+        "La Libertad"
+    ],
     "qs_pg:gn_country":"EC",
     "qs_pg:name":"La Libertad",
     "qs_pg:name_adm0":"Ecuador",
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1125388579,
-    "wof:lastmodified":1505248158,
+    "wof:lastmodified":1564124036,
     "wof:name":"La Libertad",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

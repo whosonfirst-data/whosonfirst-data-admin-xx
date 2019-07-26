@@ -16,6 +16,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:ces_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:deu_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:epo_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u06cc\u062a\u0633\u200c\u062a\u062a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:hun_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:ita_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u043e\u0439\u0446\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:pol_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:por_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u043e\u0439\u0446\u0448\u0442\u0435\u0442\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:spa_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:swe_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:uzb_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:vie_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:vol_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:war_x_preferred":[
+        "Kreuzstetten"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7f57\u4f0a\u8328\u65bd\u7279\u6ed5"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Kreuzstetten",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1125374995,
-    "wof:lastmodified":1509389432,
+    "wof:lastmodified":1564123626,
     "wof:name":"Kreuzstetten",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

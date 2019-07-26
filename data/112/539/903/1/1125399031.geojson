@@ -16,6 +16,111 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "Wil"
+    ],
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Wil"
+    ],
+    "name:dan_x_preferred":[
+        "Wil"
+    ],
+    "name:deu_x_preferred":[
+        "Wil"
+    ],
+    "name:epo_x_preferred":[
+        "Wil"
+    ],
+    "name:eus_x_preferred":[
+        "Wil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Wil"
+    ],
+    "name:fra_x_preferred":[
+        "Wil"
+    ],
+    "name:gle_x_preferred":[
+        "Wil"
+    ],
+    "name:ind_x_preferred":[
+        "Wil"
+    ],
+    "name:ita_x_preferred":[
+        "Wil"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u044c"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c"
+    ],
+    "name:lit_x_preferred":[
+        "Vilis"
+    ],
+    "name:lmo_x_preferred":[
+        "Wil"
+    ],
+    "name:msa_x_preferred":[
+        "Wil"
+    ],
+    "name:nld_x_preferred":[
+        "Wil"
+    ],
+    "name:nno_x_preferred":[
+        "Wil"
+    ],
+    "name:pms_x_preferred":[
+        "Wil"
+    ],
+    "name:pol_x_preferred":[
+        "Wil"
+    ],
+    "name:por_x_preferred":[
+        "Wil"
+    ],
+    "name:que_x_preferred":[
+        "Wil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Wil"
+    ],
+    "name:sqi_x_preferred":[
+        "Wil"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Wil"
+    ],
+    "name:tur_x_preferred":[
+        "Wil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Wil"
+    ],
+    "name:vec_x_preferred":[
+        "Wil"
+    ],
+    "name:war_x_preferred":[
+        "Wil"
+    ],
     "qs_pg:gn_country":"CH",
     "qs_pg:name":"Wil",
     "qs_pg:name_adm0":"Schweiz",
@@ -56,7 +161,7 @@
         }
     ],
     "wof:id":1125399031,
-    "wof:lastmodified":1509390014,
+    "wof:lastmodified":1564123884,
     "wof:name":"Wil",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

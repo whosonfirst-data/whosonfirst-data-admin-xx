@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Her\u00e1lec"
+    ],
+    "name:ces_x_preferred":[
+        "Her\u00e1lec"
+    ],
+    "name:fra_x_preferred":[
+        "Her\u00e1lec"
+    ],
+    "name:ita_x_preferred":[
+        "Her\u00e1lec"
+    ],
+    "name:nld_x_preferred":[
+        "Her\u00e1lec"
+    ],
+    "name:pol_x_preferred":[
+        "Her\u00e1lec"
+    ],
+    "name:slk_x_preferred":[
+        "Her\u00e1lec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u0440\u0430\u043b\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Her\u00e1lec"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Her\u00e1lec",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1125402287,
-    "wof:lastmodified":1509390083,
+    "wof:lastmodified":1564125015,
     "wof:name":"Her\u00e1lec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

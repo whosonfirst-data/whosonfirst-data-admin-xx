@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arg_x_preferred":[
+        "Checa"
+    ],
+    "name:cat_x_preferred":[
+        "Checa"
+    ],
+    "name:epo_x_preferred":[
+        "Checa"
+    ],
+    "name:eus_x_preferred":[
+        "Checa"
+    ],
+    "name:fra_x_preferred":[
+        "Checa"
+    ],
+    "name:hun_x_preferred":[
+        "Checa"
+    ],
+    "name:ina_x_preferred":[
+        "Checa"
+    ],
+    "name:ita_x_preferred":[
+        "Checa"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Checa"
+    ],
+    "name:nld_x_preferred":[
+        "Checa"
+    ],
+    "name:oci_x_preferred":[
+        "Checa"
+    ],
+    "name:pol_x_preferred":[
+        "Checa"
+    ],
+    "name:por_x_preferred":[
+        "Checa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Checa"
+    ],
+    "name:swe_x_preferred":[
+        "Checa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Checa"
+    ],
+    "name:war_x_preferred":[
+        "Checa"
+    ],
     "qs_pg:gn_country":"EC",
     "qs_pg:name":"Checa",
     "qs_pg:name_adm0":"Ecuador",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125318601,
-    "wof:lastmodified":1505248040,
+    "wof:lastmodified":1564124137,
     "wof:name":"Checa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

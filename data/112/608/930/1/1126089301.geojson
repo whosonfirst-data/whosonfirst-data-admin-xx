@@ -16,6 +16,105 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u062a\u0648\u0634\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Vito\u0161a"
+    ],
+    "name:chu_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Witoscha"
+    ],
+    "name:eus_x_preferred":[
+        "Vitoxa"
+    ],
+    "name:fra_x_preferred":[
+        "Vitocha"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf3a\ud800\udf49\ud800\udf3c\ud800\udf39\ud800\udf3f\ud800\udf43"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d8\u05d5\u05e9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Vito\u0161a"
+    ],
+    "name:hun_x_preferred":[
+        "Vitosa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u057f\u0578\u0577\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Vitosha"
+    ],
+    "name:ita_x_preferred":[
+        "Vito\u0161a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30c8\u30b7\u30e3\u5c71"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e2\u10dd\u10e8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ud1a0\uc0e4\uc0b0"
+    ],
+    "name:lit_x_preferred":[
+        "Vito\u0161a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Vitosja"
+    ],
+    "name:nno_x_preferred":[
+        "Vitosja"
+    ],
+    "name:pol_x_preferred":[
+        "Witosza"
+    ],
+    "name:por_x_preferred":[
+        "Vitocha"
+    ],
+    "name:ron_x_preferred":[
+        "Vito\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Vito\u0161a"
+    ],
+    "name:spa_x_preferred":[
+        "Vitosha"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Vitosha"
+    ],
+    "name:swe_x_preferred":[
+        "Vitosja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0442\u043e\u0448\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u6258\u6c99\u5c71"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Vitosha",
     "qs_pg:name_adm0":"Bulgaria",
@@ -62,7 +161,7 @@
         }
     ],
     "wof:id":1126089301,
-    "wof:lastmodified":1509411561,
+    "wof:lastmodified":1564124327,
     "wof:name":"Vitosha",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

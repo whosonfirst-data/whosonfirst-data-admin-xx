@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d \u041f\u043e\u043c\u043e\u0440\u0441\u043a\u0438"
+    ],
+    "name:csb_x_preferred":[
+        "Kami\u00e9\u0144"
+    ],
+    "name:deu_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:epo_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:fin_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:fra_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:ita_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:jav_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ubbf8\uc5d4\ud3ec\ubaa8\ub974\uc2a4\ud0a4"
+    ],
+    "name:lav_x_preferred":[
+        "Kame\u0146a Pomorska"
+    ],
+    "name:msa_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:nds_x_preferred":[
+        "Cammin"
+    ],
+    "name:nld_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:pol_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:por_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:ron_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u044c-\u041f\u043e\u043c\u043e\u0440\u0441\u043a\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:spa_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0458\u0435\u045a \u041f\u043e\u043c\u043e\u0440\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:szl_x_preferred":[
+        "P\u016fmorski Kamjy\u0144"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u044c-\u041f\u043e\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:war_x_preferred":[
+        "Kamie\u0144 Pomorski"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u83ab\u745e\u5730\u5340\u5361\u7dec"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Kamie\u0144 Pomorski",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +134,7 @@
         }
     ],
     "wof:id":1125400369,
-    "wof:lastmodified":1509390041,
+    "wof:lastmodified":1564125042,
     "wof:name":"Kamie\u0144 Pomorski",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

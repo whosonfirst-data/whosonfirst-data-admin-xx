@@ -17,14 +17,24 @@
     "mps:longitude":35.175648,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u043e\u0445\u0432\u0443\u0433\u043e\u043b\u044c\u043d\u0456\u043a \u0406\u043b\u0435\u043c\u0456"
+    ],
+    "name:cat_x_preferred":[
+        "Triangle d'Ilemi"
+    ],
     "name:ces_x_preferred":[
         "Ke\u0148a"
+    ],
+    "name:ces_x_variant":[
+        "Troj\u00faheln\u00edk Ilemi"
     ],
     "name:deu_x_preferred":[
         "Kenia"
     ],
     "name:deu_x_variant":[
-        "Republik Kenia"
+        "Republik Kenia",
+        "Ilemi-Dreieck"
     ],
     "name:eng_x_preferred":[
         "Kenya"
@@ -48,21 +58,52 @@
         "Keniassa",
         "Keniasta"
     ],
+    "name:fra_x_preferred":[
+        "Triangle d'Ilemi"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0932\u0947\u092e\u0940 \u0924\u094d\u0930\u093f\u0915\u094b\u0923"
+    ],
+    "name:hrv_x_preferred":[
+        "Ilemijski trokut"
+    ],
+    "name:ind_x_preferred":[
+        "Segitiga Ilemi"
+    ],
     "name:jpn_x_preferred":[
         "\u30b1\u30cb\u30a2"
     ],
     "name:jpn_x_variant":[
         "\u30b1\u30cb\u30a2\u5171\u548c\u56fd",
-        "\u30b1\u30cb\u30e4"
+        "\u30b1\u30cb\u30e4",
+        "\u30a4\u30ec\u30df\u30fb\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10da\u10d4\u10db\u10d8\u10e1 \u10e1\u10d0\u10db\u10d9\u10e3\u10d7\u10ee\u10d4\u10d3\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf00\ub0d0"
     ],
+    "name:kor_x_variant":[
+        "\uc77c\ub808\ubbf8 \uc0bc\uac01\uc9c0\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Ilemio trikampis"
+    ],
     "name:nld_x_preferred":[
         "Kenia"
     ],
+    "name:nld_x_variant":[
+        "Ilemi-driehoek"
+    ],
+    "name:nor_x_preferred":[
+        "Ilemi-triangelet"
+    ],
     "name:pol_x_preferred":[
         "Kenia"
+    ],
+    "name:pol_x_variant":[
+        "Tr\u00f3jk\u0105t Ilemi"
     ],
     "name:por_x_colloquial":[
         "Quenia"
@@ -73,8 +114,20 @@
     "name:por_x_variant":[
         "Qu\u00eania"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a \u0418\u043b\u0435\u043c\u0438"
+    ],
     "name:spa_x_preferred":[
         "Kenia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043b\u0435\u043c\u0438\u0458\u0441\u043a\u0438 \u0442\u0440\u043e\u0443\u0433\u0430\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Pembetatu ya Ilemi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0435\u043c\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0442\u0440\u0438\u043a\u0443\u0442\u043d\u0438\u043a"
     ],
     "name:und_x_preferred":[
         "Kenija"
@@ -196,7 +249,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837364,
+    "wof:lastmodified":1564122670,
     "wof:name":"Ilemi Triangle",
     "wof:parent_id":85632657,
     "wof:placetype":"disputed",

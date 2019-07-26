@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Gerisik"
+    ],
     "qs_pg:gn_country":"MY",
     "qs_pg:name":"Gerisek",
     "qs_pg:name_adm0":"Malaysia",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1125391425,
-    "wof:lastmodified":1505248170,
+    "wof:lastmodified":1564123844,
     "wof:name":"Gerisek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

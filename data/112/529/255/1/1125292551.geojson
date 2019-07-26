@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Pojo"
+    ],
+    "name:deu_x_preferred":[
+        "Pojo"
+    ],
+    "name:fra_x_preferred":[
+        "Pojo"
+    ],
+    "name:ita_x_preferred":[
+        "Pojo"
+    ],
+    "name:swe_x_preferred":[
+        "Pojo"
+    ],
     "qs_pg:gn_country":"BO",
     "qs_pg:name":"Pojo",
     "qs_pg:name_adm0":"Bolivia",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1125292551,
-    "wof:lastmodified":1505247989,
+    "wof:lastmodified":1564123433,
     "wof:name":"Pojo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

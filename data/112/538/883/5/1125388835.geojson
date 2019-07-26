@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u06a9\u0648\u0648\u0646\u0648\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Okounov"
+    ],
+    "name:ces_x_preferred":[
+        "Okounov"
+    ],
+    "name:deu_x_preferred":[
+        "Okounov"
+    ],
+    "name:eus_x_preferred":[
+        "Okounov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0648\u0648\u0646\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Okounov"
+    ],
+    "name:hun_x_preferred":[
+        "Okounov"
+    ],
+    "name:ita_x_preferred":[
+        "Okounov"
+    ],
+    "name:msa_x_preferred":[
+        "Okounov"
+    ],
+    "name:nld_x_preferred":[
+        "Okounov"
+    ],
+    "name:pol_x_preferred":[
+        "Okounov"
+    ],
+    "name:por_x_preferred":[
+        "Okounov"
+    ],
+    "name:slk_x_preferred":[
+        "Okounov"
+    ],
+    "name:spa_x_preferred":[
+        "Okounov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u043e\u0443\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Okounov"
+    ],
+    "name:vie_x_preferred":[
+        "Okounov"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Okounov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125388835,
-    "wof:lastmodified":1509389769,
+    "wof:lastmodified":1564124081,
     "wof:name":"Okounov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

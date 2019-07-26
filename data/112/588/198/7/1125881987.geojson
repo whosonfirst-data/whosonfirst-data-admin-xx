@@ -16,6 +16,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Krabi"
+    ],
+    "name:deu_x_preferred":[
+        "Krabi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ac\u03bc\u03c0\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u0628\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Krabi"
+    ],
+    "name:fra_x_preferred":[
+        "Krabi"
+    ],
+    "name:hun_x_preferred":[
+        "Krabi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0561\u0562\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Krabi"
+    ],
+    "name:ita_x_preferred":[
+        "Krabi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0431\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\ub044\ub77c\ube44"
+    ],
+    "name:mya_x_preferred":[
+        "\u1001\u101b\u102c\u1018\u102d\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nld_x_preferred":[
+        "Krabi"
+    ],
+    "name:nor_x_preferred":[
+        "Krabi"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0631\u0627\u0628\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Krabi"
+    ],
+    "name:por_x_preferred":[
+        "Krabi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0431\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Krabi"
+    ],
+    "name:swe_x_preferred":[
+        "Krabi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0431\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Krabi"
+    ],
+    "name:war_x_preferred":[
+        "Krabi"
+    ],
     "qs_pg:gn_country":"TH",
     "qs_pg:name":"Krabi",
     "qs_pg:name_adm0":"Thailand",
@@ -56,7 +131,7 @@
         }
     ],
     "wof:id":1125881987,
-    "wof:lastmodified":1505248647,
+    "wof:lastmodified":1564123265,
     "wof:name":"Krabi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

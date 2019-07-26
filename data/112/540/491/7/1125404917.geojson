@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0633\u0648\u0644\u062a\u0633 \u06a9\u0648\u06cc\u0627\u0648\u0633\u06a9\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043e\u043b\u0435\u0446 \u041a\u0443\u044f\u045e\u0441\u043a\u0456"
+    ],
+    "name:eus_x_preferred":[
+        "Solec Kujawski udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0633\u0648\u0644\u062a\u0633 \u06a9\u0648\u06cc\u0627\u0648\u0633\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Solec Kujawski"
+    ],
+    "name:ita_x_preferred":[
+        "Solec Kujawski"
+    ],
+    "name:nld_x_preferred":[
+        "Solec Kujawski"
+    ],
+    "name:pol_x_preferred":[
+        "Solec Kujawski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0435\u0446-\u041a\u0443\u044f\u0432\u0441\u043a\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Solec Kujawski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0421\u043e\u043b\u0435\u0446\u044c-\u041a\u0443\u044f\u0432\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Solec Kujawski"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Solec Kujawski",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1125404917,
-    "wof:lastmodified":1509390138,
+    "wof:lastmodified":1564125062,
     "wof:name":"Gmina Solec Kujawski",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

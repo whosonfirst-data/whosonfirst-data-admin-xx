@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0648\u0686\u06cc\u0646\u06cc\u06a9"
+    ],
+    "name:ceb_x_preferred":[
+        "Vchynice"
+    ],
+    "name:ces_x_preferred":[
+        "Vchynice"
+    ],
+    "name:deu_x_preferred":[
+        "Vchynice"
+    ],
+    "name:epo_x_preferred":[
+        "Vchynice"
+    ],
+    "name:eus_x_preferred":[
+        "Vchynice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0686\u06cc\u0646\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Vchynice"
+    ],
+    "name:hun_x_preferred":[
+        "Vchynice"
+    ],
+    "name:ita_x_preferred":[
+        "Vchynice"
+    ],
+    "name:msa_x_preferred":[
+        "Vchynice"
+    ],
+    "name:nld_x_preferred":[
+        "Vchynice"
+    ],
+    "name:por_x_preferred":[
+        "Vchynice"
+    ],
+    "name:slk_x_preferred":[
+        "Vchynice"
+    ],
+    "name:spa_x_preferred":[
+        "Vchynice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0445\u0438\u045a\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Vchynice"
+    ],
+    "name:vie_x_preferred":[
+        "Vchynice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Vchynice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125390773,
-    "wof:lastmodified":1509389810,
+    "wof:lastmodified":1564123787,
     "wof:name":"Vchynice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

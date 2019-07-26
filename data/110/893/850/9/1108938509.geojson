@@ -21,9 +21,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:fin_x_preferred":[
+        "Talosaari"
+    ],
+    "name:fra_x_preferred":[
+        "Talosaari"
+    ],
+    "name:swe_x_preferred":[
+        "Hus\u00f6"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         1108727375,
         907199715,
@@ -33,6 +41,7 @@
         136253047,
         890536893,
         1159321633,
+        85683067,
         101748417
     ],
     "wof:breaches":[],
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1108938509,
-    "wof:lastmodified":1529714751,
+    "wof:lastmodified":1564122680,
     "wof:name":"Talosaari",
     "wof:parent_id":1108727375,
     "wof:placetype":"neighbourhood",

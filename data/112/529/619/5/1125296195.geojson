@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0418\u0433\u0438\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Igis"
+    ],
+    "name:ceb_x_preferred":[
+        "Igis"
+    ],
+    "name:deu_x_preferred":[
+        "Igis"
+    ],
+    "name:epo_x_preferred":[
+        "Igis"
+    ],
+    "name:fin_x_preferred":[
+        "Igis"
+    ],
+    "name:fra_x_preferred":[
+        "Igis"
+    ],
+    "name:ind_x_preferred":[
+        "Igis"
+    ],
+    "name:ita_x_preferred":[
+        "Igis"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0433\u0438\u0441"
+    ],
+    "name:lat_x_preferred":[
+        "Ovinae"
+    ],
+    "name:lmo_x_preferred":[
+        "Igis"
+    ],
+    "name:msa_x_preferred":[
+        "Igis"
+    ],
+    "name:nld_x_preferred":[
+        "Igis"
+    ],
+    "name:pms_x_preferred":[
+        "Igis"
+    ],
+    "name:por_x_preferred":[
+        "Igis"
+    ],
+    "name:roh_x_preferred":[
+        "Igis"
+    ],
+    "name:ron_x_preferred":[
+        "Igis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0433\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Igis"
+    ],
+    "name:sqi_x_preferred":[
+        "Igis"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0433\u0438\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Igis"
+    ],
+    "name:vol_x_preferred":[
+        "Igis"
+    ],
+    "name:war_x_preferred":[
+        "Igis"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5409\u65af"
+    ],
     "qs_pg:gn_country":"CH",
     "qs_pg:name":"Igis",
     "qs_pg:name_adm0":"Schweiz",
@@ -56,7 +134,7 @@
         }
     ],
     "wof:id":1125296195,
-    "wof:lastmodified":1509387628,
+    "wof:lastmodified":1564123368,
     "wof:name":"Igis",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0430\u045e"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0435\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Pleszew"
+    ],
+    "name:ceb_x_preferred":[
+        "Pleszew"
+    ],
+    "name:deu_x_preferred":[
+        "Pleszew"
+    ],
+    "name:epo_x_preferred":[
+        "Pleszew"
+    ],
+    "name:fra_x_preferred":[
+        "Pleszew"
+    ],
+    "name:jav_x_preferred":[
+        "Pleszew"
+    ],
+    "name:lav_x_preferred":[
+        "Ple\u0161eva"
+    ],
+    "name:msa_x_preferred":[
+        "Pleszew"
+    ],
+    "name:nld_x_preferred":[
+        "Pleszew"
+    ],
+    "name:pol_x_preferred":[
+        "Pleszew"
+    ],
+    "name:por_x_preferred":[
+        "Pleszew"
+    ],
+    "name:ron_x_preferred":[
+        "Pleszew"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0435\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Pleszew"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0435\u0432"
+    ],
+    "name:szl_x_preferred":[
+        "Pleszew"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0435\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Pleszew"
+    ],
+    "name:war_x_preferred":[
+        "Pleszew"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u840a\u8b1d\u592b"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Pleszew",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +122,7 @@
         }
     ],
     "wof:id":1125297047,
-    "wof:lastmodified":1509387643,
+    "wof:lastmodified":1564123410,
     "wof:name":"Pleszew",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

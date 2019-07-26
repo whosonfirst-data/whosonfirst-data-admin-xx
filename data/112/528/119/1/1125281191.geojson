@@ -16,6 +16,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u06a9\u0648\u0631\u0686"
+    ],
+    "name:csb_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:deu_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:dsb_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:epo_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:eus_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9\u0648\u0631\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:glv_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:ita_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:jav_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:lav_x_preferred":[
+        "Skor\u010da"
+    ],
+    "name:msa_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:nld_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:pol_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:por_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:ron_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0443\u0440\u0447"
+    ],
+    "name:slk_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0447"
+    ],
+    "name:szl_x_preferred":[
+        "Sk\u016frcz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0443\u0440\u0447"
+    ],
+    "name:vie_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:war_x_preferred":[
+        "Sk\u00f3rcz"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5eab\u723e\u5947"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Sk\u00f3rcz",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +131,7 @@
         }
     ],
     "wof:id":1125281191,
-    "wof:lastmodified":1509387297,
+    "wof:lastmodified":1564123173,
     "wof:name":"Sk\u00f3rcz",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

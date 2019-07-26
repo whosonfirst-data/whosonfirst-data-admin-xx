@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0627\u0648\u0648\u0627\u0648\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u0430\u0432\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Gmina O\u0142awa"
+    ],
+    "name:eus_x_preferred":[
+        "O\u0142awa landa-udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0627\u0648\u0648\u0627\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:ita_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:nld_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:pol_x_preferred":[
+        "O\u0142awa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0430\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina O\u0142awa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u041e\u043b\u0430\u0432\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Gmina O\u0142awa"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina O\u0142awa",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125406941,
-    "wof:lastmodified":1509390175,
+    "wof:lastmodified":1564125040,
     "wof:name":"Gmina O\u0142awa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

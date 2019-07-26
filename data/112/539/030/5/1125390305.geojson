@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Jezernice"
+    ],
+    "name:ceb_x_preferred":[
+        "Jezernice"
+    ],
+    "name:fra_x_preferred":[
+        "Jezernice"
+    ],
+    "name:hrv_x_preferred":[
+        "Jezernice"
+    ],
+    "name:hun_x_preferred":[
+        "Jezernice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u043d\u0438\u0446\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0437\u0435\u0440\u043d\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Jezernice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Jezernice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125390305,
-    "wof:lastmodified":1509389799,
+    "wof:lastmodified":1564123828,
     "wof:name":"Jezernice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

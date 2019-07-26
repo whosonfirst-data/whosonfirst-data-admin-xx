@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aym_x_preferred":[
+        "Litwichi"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u0438\u0442\u0443\u044d\u0447\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Litueche"
+    ],
+    "name:eus_x_preferred":[
+        "Litueche"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062a\u0648\u0626\u0647\u200c\u0686\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Litueche"
+    ],
+    "name:ita_x_preferred":[
+        "Litueche"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ud22c\uc5d0\uccb4"
+    ],
+    "name:nld_x_preferred":[
+        "Litueche"
+    ],
+    "name:por_x_preferred":[
+        "Litueche"
+    ],
+    "name:ron_x_preferred":[
+        "Litueche"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0443\u044d\u0447\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Litueche"
+    ],
+    "name:spa_x_preferred":[
+        "Litueche"
+    ],
+    "name:swe_x_preferred":[
+        "Litueche"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u5716\u57c3\u5207"
+    ],
     "qs_pg:gn_country":"CL",
     "qs_pg:name":"Litueche",
     "qs_pg:name_adm0":"Chile",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125358841,
-    "wof:lastmodified":1505248102,
+    "wof:lastmodified":1564122861,
     "wof:name":"Litueche",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0634\u062a\u0626\u0627 \u062f\u0647 \u0633\u0648"
+    ],
+    "name:hun_x_preferred":[
+        "Fels\u0151szelistye"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u043b\u0438\u0448\u0442\u0435\u0430 \u0434\u0435 \u0421\u0443\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0456\u0448\u0442\u044f-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u745f\u5229\u4ec0\u6cf0\u4e9e"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"S\u0103li\u0219tea de Sus",
     "qs_pg:name_adm0":"Rom\u00e2nia",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1125968997,
-    "wof:lastmodified":1509403843,
+    "wof:lastmodified":1564124308,
     "wof:name":"S\u0103li\u0219tea de Sus",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

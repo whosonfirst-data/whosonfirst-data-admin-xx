@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Caneggio"
+    ],
+    "name:ceb_x_preferred":[
+        "Caneggio"
+    ],
+    "name:deu_x_preferred":[
+        "Caneggio"
+    ],
+    "name:fra_x_preferred":[
+        "Caneggio"
+    ],
+    "name:ita_x_preferred":[
+        "Caneggio"
+    ],
+    "name:lmo_x_preferred":[
+        "Canegg"
+    ],
+    "name:nld_x_preferred":[
+        "Caneggio"
+    ],
+    "name:por_x_preferred":[
+        "Caneggio"
+    ],
+    "name:roh_x_preferred":[
+        "Caneggio"
+    ],
+    "name:swe_x_preferred":[
+        "Caneggio"
+    ],
+    "name:vol_x_preferred":[
+        "Caneggio"
+    ],
     "qs_pg:gn_country":"CH",
     "qs_pg:name":"Caneggio",
     "qs_pg:name_adm0":"Schweiz",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125405061,
-    "wof:lastmodified":1509390141,
+    "wof:lastmodified":1564125104,
     "wof:name":"Caneggio",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

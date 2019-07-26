@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u062f\u0631\u0627\u0698"
+    ],
+    "name:ces_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:deu_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:eus_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062f\u0631\u0627\u0698"
+    ],
+    "name:fra_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:hun_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:ita_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:msa_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:nld_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:pol_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:por_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:slk_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:spa_x_preferred":[
+        "Sendra\u017e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0434\u0440\u0430\u0436"
+    ],
+    "name:vie_x_preferred":[
+        "Sendra\u017e"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Sendra\u017e",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125389641,
-    "wof:lastmodified":1509389784,
+    "wof:lastmodified":1564124017,
     "wof:name":"Sendra\u017e",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

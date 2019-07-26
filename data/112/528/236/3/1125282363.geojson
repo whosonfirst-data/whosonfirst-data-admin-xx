@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0648\u0633\u06a9\u0647 \u0628\u0631\u0627\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:ces_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:deu_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:eus_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0648\u0633\u06a9\u0647 \u0628\u0631\u0627\u0646\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:hun_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:ita_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:msa_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:nld_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:pol_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:por_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:slk_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:spa_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:swe_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
+    "name:vie_x_preferred":[
+        "Moravsk\u00e9 Br\u00e1nice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Moravsk\u00e9 Br\u00e1nice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125282363,
-    "wof:lastmodified":1509387325,
+    "wof:lastmodified":1564123206,
     "wof:name":"Moravsk\u00e9 Br\u00e1nice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

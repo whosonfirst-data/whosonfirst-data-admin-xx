@@ -16,6 +16,231 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Mynbou"
+    ],
+    "name:als_x_preferred":[
+        "Bergbau"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0639\u062f\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Miner\u00eda"
+    ],
+    "name:aym_x_preferred":[
+        "Qhuya"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259d\u0259n"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430\u044f \u0441\u043f\u0440\u0430\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0996\u09a8\u09a8"
+    ],
+    "name:bos_x_preferred":[
+        "Rudarstvo"
+    ],
+    "name:bre_x_preferred":[
+        "Mengleuz"
+    ],
+    "name:cat_x_preferred":[
+        "Mineria"
+    ],
+    "name:ces_x_preferred":[
+        "T\u011b\u017eba"
+    ],
+    "name:chr_x_preferred":[
+        "\u13a6\u13d9 \u13a6\u13b4\u13cd\u13d7"
+    ],
+    "name:cym_x_preferred":[
+        "Mwynglawdd"
+    ],
+    "name:dan_x_preferred":[
+        "Minedrift"
+    ],
+    "name:deu_x_preferred":[
+        "Bergbau"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03c4\u03b1\u03bb\u03bb\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae"
+    ],
+    "name:epo_x_preferred":[
+        "Minado"
+    ],
+    "name:est_x_preferred":[
+        "Kaevandamine"
+    ],
+    "name:eus_x_preferred":[
+        "Meatzaritza"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0639\u062f\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Kaivannaistoiminta"
+    ],
+    "name:fra_x_preferred":[
+        "Industrie mini\u00e8re"
+    ],
+    "name:gle_x_preferred":[
+        "Mianad\u00f3ireacht"
+    ],
+    "name:glg_x_preferred":[
+        "Minar\u00eda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e8\u05d9\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u0928\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Rudarstvo"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e1ny\u00e1szat"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0576\u0584\u0561\u0575\u056b\u0576 \u0563\u0578\u0580\u056e"
+    ],
+    "name:ind_x_preferred":[
+        "Pertambangan"
+    ],
+    "name:isl_x_preferred":[
+        "N\u00e1mavinnsla"
+    ],
+    "name:ita_x_preferred":[
+        "Industria mineraria"
+    ],
+    "name:jam_x_preferred":[
+        "Mainin"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ca3\u0cbf\u0c97\u0cbe\u0cb0\u0cbf\u0c95\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e6\u10d0\u10e0\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u0445\u0442\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Metalleutice"
+    ],
+    "name:lav_x_preferred":[
+        "Kalnr\u016bpniec\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Kalnakasyba"
+    ],
+    "name:ltz_x_preferred":[
+        "Biergbau"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d28\u0d28\u0d02"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Perlombongan"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u1010\u1039\u1010\u102f\u1010\u103d\u1004\u103a\u1038\u101c\u102f\u1015\u103a\u1004\u1014\u103a\u1038"
+    ],
+    "name:nld_x_preferred":[
+        "Mijnbouw"
+    ],
+    "name:nno_x_preferred":[
+        "Gruvedrift"
+    ],
+    "name:nor_x_preferred":[
+        "Gruvedrift"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a16\u0a3e\u0a23\u0a15\u0a3e\u0a30\u0a40"
+    ],
+    "name:pcd_x_preferred":[
+        "Mine"
+    ],
+    "name:pol_x_preferred":[
+        "G\u00f3rnictwo"
+    ],
+    "name:por_x_preferred":[
+        "Minera\u00e7\u00e3o"
+    ],
+    "name:que_x_preferred":[
+        "Qhuya"
+    ],
+    "name:ron_x_preferred":[
+        "Minerit"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e\u0435 \u0434\u0435\u043b\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Minin"
+    ],
+    "name:slk_x_preferred":[
+        "Ban\u00edctvo"
+    ],
+    "name:slv_x_preferred":[
+        "Rudarstvo"
+    ],
+    "name:sna_x_preferred":[
+        "Mugodhi"
+    ],
+    "name:spa_x_preferred":[
+        "Miner\u00eda"
+    ],
+    "name:sqi_x_preferred":[
+        "Miniera"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Uchimbaji madini"
+    ],
+    "name:swe_x_preferred":[
+        "Gruvdrift"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bb0\u0b99\u0bcd\u0b95\u0ba4\u0bcd \u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c4d\u0c30\u0c35\u0c4d\u0c35\u0c15\u0c3e\u0c32\u0c41(\u0c17\u0c28\u0c41\u0c32)"
+    ],
+    "name:tgl_x_preferred":[
+        "Pagmimina"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e32\u0e23\u0e17\u0e33\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e07\u0e41\u0e23\u0e48"
+    ],
+    "name:tur_x_preferred":[
+        "Madencilik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0440\u043d\u0438\u0447\u0430 \u0441\u043f\u0440\u0430\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0646 \u06a9\u0646\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Kon sanoati"
+    ],
+    "name:war_x_preferred":[
+        "Pagmimina"
+    ],
+    "name:xho_x_preferred":[
+        "IMayini"
+    ],
+    "name:zho_x_preferred":[
+        "\u91c7\u77ff\u4e1a"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Mining",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +281,7 @@
         }
     ],
     "wof:id":1125403169,
-    "wof:lastmodified":1509390103,
+    "wof:lastmodified":1564125212,
     "wof:name":"Mining",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

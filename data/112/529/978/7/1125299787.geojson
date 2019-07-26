@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:deu_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:est_x_preferred":[
+        "Kuhmalahti vald"
+    ],
+    "name:fin_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:fra_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:ita_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:nld_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:nor_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:pol_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:ron_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:sme_x_preferred":[
+        "Kuhmalahti"
+    ],
+    "name:swe_x_preferred":[
+        "Kuhmalax"
+    ],
+    "name:vie_x_preferred":[
+        "Kuhmalahti"
+    ],
     "qs_pg:gn_country":"FI",
     "qs_pg:name":"Kuhmalahti",
     "qs_pg:name_adm0":"Suomi",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125299787,
-    "wof:lastmodified":1509387687,
+    "wof:lastmodified":1564123395,
     "wof:name":"Kuhmalahti",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

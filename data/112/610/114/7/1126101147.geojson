@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Prospect Heights"
+    ],
+    "name:fra_x_preferred":[
+        "Prospect Heights"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Prospect Heights",
     "qs_pg:name_adm0":"United States",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1126101147,
-    "wof:lastmodified":1509412124,
+    "wof:lastmodified":1564123093,
     "wof:name":"Prospect Heights",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

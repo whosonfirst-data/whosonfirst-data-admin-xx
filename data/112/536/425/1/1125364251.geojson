@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Glencastle"
+    ],
+    "name:gle_x_preferred":[
+        "Gleann Chaisil"
+    ],
     "qs_pg:gn_country":"IE",
     "qs_pg:name":"Glencastle",
     "qs_pg:name_adm0":"Ireland",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1125364251,
-    "wof:lastmodified":1505248111,
+    "wof:lastmodified":1564124203,
     "wof:name":"Glencastle",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

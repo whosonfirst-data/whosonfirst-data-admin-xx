@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u06a9\u0644\u0627\u062a\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:ces_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:eus_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06a9\u0644\u0627\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:hun_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:ita_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:msa_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:nld_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:pol_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:por_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:slk_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:spa_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u043a\u043b\u0430\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tuklaty"
+    ],
+    "name:vie_x_preferred":[
+        "Tuklaty"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Tuklaty",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125392669,
-    "wof:lastmodified":1509389858,
+    "wof:lastmodified":1564123810,
     "wof:name":"Tuklaty",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

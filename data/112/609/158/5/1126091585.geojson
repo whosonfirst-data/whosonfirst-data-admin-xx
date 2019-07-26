@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Torupilli"
+    ],
+    "name:est_x_preferred":[
+        "Torupilli"
+    ],
+    "name:fin_x_preferred":[
+        "Torupilli"
+    ],
+    "name:fra_x_preferred":[
+        "Torupilli"
+    ],
+    "name:nld_x_preferred":[
+        "Torupilli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0443\u043f\u0438\u043b\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Torupilli"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Torupilli",
     "qs_pg:name_adm0":"Eesti",
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1126091585,
-    "wof:lastmodified":1509411682,
+    "wof:lastmodified":1564124739,
     "wof:name":"Torupilli",
     "wof:parent_id":101748153,
     "wof:placetype":"neighbourhood",

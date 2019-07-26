@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Independ\u00e8ncia"
+    ],
+    "name:ceb_x_preferred":[
+        "Independencia"
+    ],
+    "name:deu_x_preferred":[
+        "Independencia"
+    ],
+    "name:epo_x_preferred":[
+        "Independencia"
+    ],
+    "name:fra_x_preferred":[
+        "Independencia"
+    ],
+    "name:ita_x_preferred":[
+        "Independencia"
+    ],
+    "name:kor_x_preferred":[
+        "\uc778\ub370\ud39c\ub374\uc2dc\uc544"
+    ],
+    "name:nld_x_preferred":[
+        "Independencia"
+    ],
+    "name:nor_x_preferred":[
+        "Independencia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Independencia"
+    ],
+    "name:spa_x_preferred":[
+        "Independencia"
+    ],
+    "name:swe_x_preferred":[
+        "Independencia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0434\u0435\u043f\u0435\u043d\u0434\u0435\u043d\u0441\u0456\u044f"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Independencia",
     "qs_pg:name_adm0":"M\u00e9xico",
@@ -39,12 +81,12 @@
     "woe:name_adm1":"Distrito Federal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85686515,
         102191575,
         85633293,
         857683023,
         890535769,
         102073737,
+        85686515,
         101991153
     ],
     "wof:breaches":[],
@@ -76,7 +118,7 @@
         }
     ],
     "wof:id":1126103141,
-    "wof:lastmodified":1509412228,
+    "wof:lastmodified":1564123005,
     "wof:name":"Independencia",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

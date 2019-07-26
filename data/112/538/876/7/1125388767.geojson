@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:ces_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:deu_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:epo_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:eus_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:fra_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:hun_x_preferred":[
+        "Vittenc"
+    ],
+    "name:ita_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:msa_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:nld_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:ron_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:slk_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:spa_x_preferred":[
+        "Chtelnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0442\u0458\u0435\u043b\u045a\u0438\u0446\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Chtelnica"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Chtelnica",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125388767,
-    "wof:lastmodified":1509389768,
+    "wof:lastmodified":1564124083,
     "wof:name":"Chtelnica",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

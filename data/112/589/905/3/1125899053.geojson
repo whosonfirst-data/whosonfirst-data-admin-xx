@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Muskogee"
+    ],
+    "name:fin_x_preferred":[
+        "Muskogee"
+    ],
+    "name:fra_x_preferred":[
+        "Muskogee"
+    ],
+    "name:ita_x_preferred":[
+        "Muskogee"
+    ],
+    "name:kor_x_preferred":[
+        "\uba38\uc2a4\ucf54\uc9c0"
+    ],
+    "name:pol_x_preferred":[
+        "Muskogee"
+    ],
+    "name:por_x_preferred":[
+        "Muskogee"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u043a\u043e\u0433\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0441\u043a\u043e\u0433\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Muskogee"
+    ],
     "qs_pg:gn_country":"US",
     "qs_pg:name":"Muskogee",
     "qs_pg:name_adm0":"United States",
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1125899053,
-    "wof:lastmodified":1505248708,
+    "wof:lastmodified":1564123484,
     "wof:name":"Muskogee",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

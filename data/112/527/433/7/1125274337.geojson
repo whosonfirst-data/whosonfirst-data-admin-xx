@@ -16,6 +16,78 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0648\u0648\u06cc\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0439\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:epo_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:eus_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06cc\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:ita_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:jav_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30a4\u30b3\u30f4\u30a3\u30c4\u30a7"
+    ],
+    "name:lav_x_preferred":[
+        "Vojkovice"
+    ],
+    "name:msa_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:nld_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:pol_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:por_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:ron_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0439\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:sot_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u0458\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0439\u043a\u043e\u0432\u0456\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:war_x_preferred":[
+        "Wojkowice"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u4f0a\u79d1\u7dad\u91c7"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Wojkowice",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +128,7 @@
         }
     ],
     "wof:id":1125274337,
-    "wof:lastmodified":1509387115,
+    "wof:lastmodified":1564123334,
     "wof:name":"Wojkowice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

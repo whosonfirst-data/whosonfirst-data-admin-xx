@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ron_x_preferred":[
+        "Padstow Heights"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Padstow Heights",
     "qs_pg:name_adm0":"Australia",
@@ -39,14 +42,14 @@
     "woe:name_adm1":"New South Wales",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681545,
         102191583,
         1376953385,
         404224023,
         85632793,
         101930797,
         136253039,
-        102049511
+        102049511,
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1126090915,
-    "wof:lastmodified":1550726264,
+    "wof:lastmodified":1564124772,
     "wof:name":"Padstow Heights",
     "wof:parent_id":101930797,
     "wof:placetype":"neighbourhood",

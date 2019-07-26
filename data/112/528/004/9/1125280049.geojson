@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Guajira"
+    ],
+    "name:deu_x_preferred":[
+        "Guajira"
+    ],
+    "name:gla_x_preferred":[
+        "La Guajira"
+    ],
+    "name:ita_x_preferred":[
+        "Guajira"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10ee\u10d8\u10e0\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Guajira"
+    ],
+    "name:por_x_preferred":[
+        "Guajira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u0445\u0438\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Guajira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0430\u0445\u0456\u0440\u0430"
+    ],
     "qs_pg:gn_country":"VE",
     "qs_pg:name":"Guajira",
     "qs_pg:name_adm0":"Venezuela",
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1125280049,
-    "wof:lastmodified":1505247964,
+    "wof:lastmodified":1564123206,
     "wof:name":"Guajira",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
