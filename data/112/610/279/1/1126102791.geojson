@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:hun_x_preferred":[
+        "Hermenegildo Galeana"
+    ],
+    "name:spa_x_preferred":[
+        "Hermenegildo Galeana"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Hermenegildo Galeana",
     "qs_pg:name_adm0":"M\u00e9xico",
@@ -39,11 +45,11 @@
     "woe:name_adm1":"Tamaulipas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686695,
         102191575,
         85633293,
         102001085,
-        102078947,
-        85686695
+        102078947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1126102791,
-    "wof:lastmodified":1509412213,
+    "wof:lastmodified":1564123039,
     "wof:name":"Hermenegildo Galeana",
     "wof:parent_id":102001085,
     "wof:placetype":"neighbourhood",

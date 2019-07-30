@@ -16,6 +16,147 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u0631\u0648\u0628\u0648\u0644\u064a\u0633"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09aa\u09c7\u099f\u09cd\u09b0\u09cb\u09aa\u09cb\u09b2\u09bf\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:ceb_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:ces_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:dan_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:deu_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:epo_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:eus_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0631\u0648\u067e\u0648\u0644\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:fra_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:gla_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:glg_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d8\u05e8\u05d5\u05e4\u05d5\u05dc\u05d9\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:ido_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:isl_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:ita_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c8\u30ed\u30dd\u30ea\u30b9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ud2b8\ub85c\ud3f4\ub9ac\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Petropolis"
+    ],
+    "name:lit_x_preferred":[
+        "Petropolis"
+    ],
+    "name:mlg_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:nld_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:nno_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:nor_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:oci_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:pol_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:por_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:ron_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:slk_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:spa_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:szl_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Petropolis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u0456\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:vol_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:war_x_preferred":[
+        "Petr\u00f3polis"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7c\u5f97\u7f57\u6ce2\u5229\u65af"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Petr\u00f3polis",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +180,12 @@
     "woe:name_adm1":"Santa Catarina",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565221,
         85633009,
         101958053,
-        102060269
+        102060269,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +207,7 @@
         }
     ],
     "wof:id":1126101527,
-    "wof:lastmodified":1509412144,
+    "wof:lastmodified":1564123027,
     "wof:name":"Petr\u00f3polis",
     "wof:parent_id":101958053,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u099f\u09af\u09bc\u09be\u0993"
+    ],
+    "name:ceb_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:deu_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:epo_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:fra_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:ita_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0430\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:nor_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:pol_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:ron_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:swe_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:vol_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:war_x_preferred":[
+        "Port\u00e3o"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5c14\u5510"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Port\u00e3o",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +90,12 @@
     "woe:name_adm1":"Paran\u00e1",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681983,
         102191577,
         404561111,
         85633009,
         101957995,
-        102057617
+        102057617,
+        85681983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +117,7 @@
         }
     ],
     "wof:id":1126099007,
-    "wof:lastmodified":1509412022,
+    "wof:lastmodified":1564124722,
     "wof:name":"Port\u00e3o",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",

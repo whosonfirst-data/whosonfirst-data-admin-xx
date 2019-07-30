@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Jakubany"
+    ],
+    "name:ces_x_preferred":[
+        "Jakubany"
+    ],
+    "name:deu_x_preferred":[
+        "Jakubany"
+    ],
+    "name:epo_x_preferred":[
+        "Jakubany"
+    ],
+    "name:eus_x_preferred":[
+        "Jakubany"
+    ],
+    "name:fra_x_preferred":[
+        "Jakubany"
+    ],
+    "name:hun_x_preferred":[
+        "Szepesjakabfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Jakubany"
+    ],
+    "name:msa_x_preferred":[
+        "Jakubany"
+    ],
+    "name:nld_x_preferred":[
+        "Jakubany"
+    ],
+    "name:pol_x_preferred":[
+        "Jakubany"
+    ],
+    "name:ron_x_preferred":[
+        "Jakubany"
+    ],
+    "name:rue_x_preferred":[
+        "\u042f\u043a\u0443\u0431\u044f\u043d\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "Jakubany"
+    ],
+    "name:spa_x_preferred":[
+        "Jakubany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043a\u0443\u0431\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043a\u0443\u0431\u044f\u043d\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Jakubany"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Jakubany",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125313199,
-    "wof:lastmodified":1509387936,
+    "wof:lastmodified":1564124183,
     "wof:name":"Jakubany",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

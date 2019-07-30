@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "F\u0259xr\u0259ddin Altay"
+    ],
+    "name:deu_x_preferred":[
+        "Fahrettin Altay"
+    ],
+    "name:tur_x_preferred":[
+        "Fahrettin Altay"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Fahrettin Altay",
     "qs_pg:name_adm0":"Turkey",
@@ -39,10 +48,10 @@
     "woe:name_adm1":"\u0130zmir",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890462391,
-        85679201
+        890462391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1126080043,
-    "wof:lastmodified":1509411116,
+    "wof:lastmodified":1564124394,
     "wof:name":"Fahrettin Altay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u5c14\u5fb7\u5362-\u675c\u6b27\u9c81"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Lordelo do Ouro",
     "qs_pg:name_adm0":"Portugal",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1126071681,
-    "wof:lastmodified":1509410708,
+    "wof:lastmodified":1564124539,
     "wof:name":"Lordelo do Ouro",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Murfeld"
+    ],
+    "name:ceb_x_preferred":[
+        "Murfeld"
+    ],
+    "name:deu_x_preferred":[
+        "Murfeld"
+    ],
+    "name:epo_x_preferred":[
+        "Murfeld"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0641\u0644\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Murfeld"
+    ],
+    "name:hun_x_preferred":[
+        "Murfeld"
+    ],
+    "name:ita_x_preferred":[
+        "Murfeld"
+    ],
+    "name:nld_x_preferred":[
+        "Murfeld"
+    ],
+    "name:pol_x_preferred":[
+        "Murfeld"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0444\u0435\u043b\u044c\u0434"
+    ],
+    "name:slk_x_preferred":[
+        "Murfeld"
+    ],
+    "name:spa_x_preferred":[
+        "Murfeld"
+    ],
+    "name:swe_x_preferred":[
+        "Murfeld"
+    ],
+    "name:uzb_x_preferred":[
+        "Murfeld"
+    ],
+    "name:vie_x_preferred":[
+        "Murfeld"
+    ],
+    "name:vol_x_preferred":[
+        "Murfeld"
+    ],
+    "name:war_x_preferred":[
+        "Murfeld"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5c14\u8d39\u5c14\u5fb7"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Murfeld",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125410267,
-    "wof:lastmodified":1509390241,
+    "wof:lastmodified":1564125330,
     "wof:name":"Murfeld",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

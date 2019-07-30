@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kopernica"
+    ],
+    "name:ces_x_preferred":[
+        "Kopernica"
+    ],
+    "name:deu_x_preferred":[
+        "Kopernica"
+    ],
+    "name:epo_x_preferred":[
+        "Kopernica"
+    ],
+    "name:eus_x_preferred":[
+        "Kopernica"
+    ],
+    "name:hun_x_preferred":[
+        "Barskapronca"
+    ],
+    "name:ita_x_preferred":[
+        "Kopernica"
+    ],
+    "name:msa_x_preferred":[
+        "Kopernica"
+    ],
+    "name:nld_x_preferred":[
+        "Kopernica"
+    ],
+    "name:pol_x_preferred":[
+        "Kopernica"
+    ],
+    "name:ron_x_preferred":[
+        "Kopernica"
+    ],
+    "name:slk_x_preferred":[
+        "Kopernica"
+    ],
+    "name:spa_x_preferred":[
+        "Kopernica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u0440\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u0440\u043d\u0456\u0446\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Kopernica"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Kopernica",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125305957,
-    "wof:lastmodified":1509387803,
+    "wof:lastmodified":1564123719,
     "wof:name":"Kopernica",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

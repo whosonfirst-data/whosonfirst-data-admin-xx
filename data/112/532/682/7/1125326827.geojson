@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Rojewo"
+    ],
+    "name:fra_x_preferred":[
+        "Rojewo"
+    ],
+    "name:nld_x_preferred":[
+        "Rojewo"
+    ],
+    "name:pol_x_preferred":[
+        "Rojewo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0454\u0432\u043e"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Rojewo",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1125326827,
-    "wof:lastmodified":1509388263,
+    "wof:lastmodified":1564122917,
     "wof:name":"Rojewo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

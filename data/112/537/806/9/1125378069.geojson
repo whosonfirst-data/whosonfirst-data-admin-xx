@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:ces_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:deu_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:eus_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0647 \u0646\u0627\u062f \u0648\u0647\u0644\u0627\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:hun_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:ita_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:msa_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:nld_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:pol_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:por_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:slk_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:spa_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043d\u043e\u0432\u0438\u0446\u0435 \u043d\u0430 \u0423\u0445\u043b\u0430\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:vie_x_preferred":[
+        "Janovice nad \u00dahlavou"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u8d6b\u62c9\u74e6\u6cb3\u7554\u4e9e\u8afe\u7dad\u91c7"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Janovice nad \u00dahlavou",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125378069,
-    "wof:lastmodified":1509389507,
+    "wof:lastmodified":1564123696,
     "wof:name":"Janovice nad \u00dahlavou",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

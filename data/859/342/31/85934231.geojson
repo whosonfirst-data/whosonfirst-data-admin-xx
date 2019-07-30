@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10088100.603841,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.530555,34.172247,77.530555,34.172247",
     "geom:latitude":34.172247,
     "geom:longitude":77.530555,
@@ -26,6 +26,15 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
+        "Suku"
+    ],
+    "name:fin_x_preferred":[
+        "Suku"
+    ],
+    "name:fra_x_preferred":[
+        "Suku"
+    ],
+    "name:ind_x_preferred":[
         "Suku"
     ],
     "name:unk_x_variant":[
@@ -112,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379827,
+    "wof:lastmodified":1564122664,
     "wof:name":"Suku",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

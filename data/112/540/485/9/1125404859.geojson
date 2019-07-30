@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hybe"
+    ],
+    "name:ceb_x_preferred":[
+        "Hybe"
+    ],
+    "name:ces_x_preferred":[
+        "Hybe"
+    ],
+    "name:deu_x_preferred":[
+        "Hybe"
+    ],
+    "name:epo_x_preferred":[
+        "Hybe"
+    ],
+    "name:eus_x_preferred":[
+        "Hybe"
+    ],
+    "name:fra_x_preferred":[
+        "Hybe"
+    ],
+    "name:hun_x_preferred":[
+        "Hibbe"
+    ],
+    "name:ita_x_preferred":[
+        "Hybe"
+    ],
+    "name:msa_x_preferred":[
+        "Hybe"
+    ],
+    "name:nld_x_preferred":[
+        "Hybe"
+    ],
+    "name:pol_x_preferred":[
+        "Hybie"
+    ],
+    "name:ron_x_preferred":[
+        "Hybe"
+    ],
+    "name:slk_x_preferred":[
+        "Hybe"
+    ],
+    "name:spa_x_preferred":[
+        "Hybe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u0431\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Hybe"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Hybe",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125404859,
-    "wof:lastmodified":1509390136,
+    "wof:lastmodified":1564124994,
     "wof:name":"Hybe",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

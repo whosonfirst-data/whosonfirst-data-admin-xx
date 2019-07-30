@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0631\u0646\u0634\u062a\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ces_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:deu_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:eus_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0646\u0634\u062a\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:hun_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:ita_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:msa_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:nld_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:pol_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:por_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:slk_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:spa_x_preferred":[
+        "Arne\u0161tovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u043d\u0435\u0448\u0442\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Arne\u0161tovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Arne\u0161tovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125290183,
-    "wof:lastmodified":1509387512,
+    "wof:lastmodified":1564123418,
     "wof:name":"Arne\u0161tovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

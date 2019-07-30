@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Chapel House"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Chapel House",
     "qs_pg:name_adm0":"United Kingdom",
@@ -39,12 +42,12 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1360698567,
         102191581,
         85633159,
         404227469,
         101913941,
-        1360698817
+        1360698817,
+        1360698567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1126089191,
-    "wof:lastmodified":1547698154,
+    "wof:lastmodified":1564124416,
     "wof:name":"Chapel House",
     "wof:parent_id":101913941,
     "wof:placetype":"neighbourhood",

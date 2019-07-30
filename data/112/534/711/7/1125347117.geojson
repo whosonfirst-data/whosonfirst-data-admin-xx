@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u062f\u0644\u0648\u0647\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Podluhy"
+    ],
+    "name:ces_x_preferred":[
+        "Podluhy"
+    ],
+    "name:eus_x_preferred":[
+        "Podluhy"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062f\u0644\u0648\u0647\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Podluhy"
+    ],
+    "name:fra_x_preferred":[
+        "Podluhy"
+    ],
+    "name:hun_x_preferred":[
+        "Podluhy"
+    ],
+    "name:ita_x_preferred":[
+        "Podluhy"
+    ],
+    "name:msa_x_preferred":[
+        "Podluhy"
+    ],
+    "name:nld_x_preferred":[
+        "Podluhy"
+    ],
+    "name:oci_x_preferred":[
+        "Podluhy"
+    ],
+    "name:pol_x_preferred":[
+        "Podluhy"
+    ],
+    "name:por_x_preferred":[
+        "Podluhy"
+    ],
+    "name:slk_x_preferred":[
+        "Podluhy"
+    ],
+    "name:spa_x_preferred":[
+        "Podluhy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043b\u0443\u0445\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Podluhy"
+    ],
+    "name:vie_x_preferred":[
+        "Podluhy"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Podluhy",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125347117,
-    "wof:lastmodified":1509388782,
+    "wof:lastmodified":1564122782,
     "wof:name":"Podluhy",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

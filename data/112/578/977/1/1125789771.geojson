@@ -16,6 +16,135 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0440\u044d\u043c\u0441\u043a\u0430-\u041c\u0456\u0442\u0440\u0430\u0432\u0456\u0446\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:ces_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0631\u06ce\u0645\u0633\u06a9\u0627 \u0645\u06cc\u062a\u0631\u06c6\u06a4\u06cc\u062a\u0633\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c1\u03ad\u03bc\u03c3\u03ba\u03b1 \u039c\u03b9\u03c4\u03c1\u03cc\u03b2\u03b9\u03c4\u03c3\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:eus_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0645\u0633\u06a9\u0627 \u0645\u06cc\u062a\u0631\u0648\u0648\u06cc\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05de\u05e1\u05e7\u05d4 \u05de\u05d9\u05d8\u05e8\u05d5\u05d1\u05d9\u05e6\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Srijemska Mitrovica"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e1vaszentdemeter"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0580\u0565\u0574\u057d\u056f\u0561-\u0544\u056b\u057f\u0580\u0578\u057e\u056b\u0581\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:jav_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ec\u30e0\u30b9\u30ab\u30fb\u30df\u30c8\u30ed\u30f4\u30a3\u30c4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ub818\uc2a4\uce74\ubbf8\ud2b8\ub85c\ube44\ucc28"
+    ],
+    "name:lit_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:nld_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:nor_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0631\u06cc\u0645\u0633\u06a9\u0627 \u0645\u06cc\u062a\u0631\u0648\u0648\u06cc\u0686\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:por_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:ron_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0430-\u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:slk_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:slv_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:spa_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:szl_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:tur_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0435\u043c\u0441\u044c\u043a\u0430 \u041c\u0438\u0442\u0440\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u0645\u0633\u06a9\u0627 \u0645\u06cc\u062a\u0631\u0648\u0648\u062a\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:war_x_preferred":[
+        "Sremska Mitrovica"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u96f7\u59c6\u65af\u5361\u7c73\u7279\u7f57\u7ef4\u5bdf"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Sremska Mitrovica",
     "qs_pg:name_adm0":"Serbia",
@@ -64,7 +193,7 @@
         }
     ],
     "wof:id":1125789771,
-    "wof:lastmodified":1509392239,
+    "wof:lastmodified":1564124952,
     "wof:name":"Sremska Mitrovica",
     "wof:parent_id":1108810087,
     "wof:placetype":"locality",

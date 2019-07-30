@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u0627\u062f\u0627"
+    ],
+    "name:bpy_x_preferred":[
+        "\u099a\u09be\u09aa\u09be\u09a1\u09be"
+    ],
+    "name:fra_x_preferred":[
+        "Chapada"
+    ],
+    "name:por_x_preferred":[
+        "Chapada"
+    ],
+    "name:spa_x_preferred":[
+        "Chapada"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Chapada",
     "qs_pg:name_adm0":"Brasil",
@@ -39,11 +54,11 @@
     "woe:name_adm1":"Amazonas",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85681885,
         102191577,
         85633009,
         101941913,
-        102050371,
-        85681885
+        102050371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1126060993,
-    "wof:lastmodified":1509410188,
+    "wof:lastmodified":1564124457,
     "wof:name":"Chapada",
     "wof:parent_id":101941913,
     "wof:placetype":"neighbourhood",

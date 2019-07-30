@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:gle_x_preferred":[
+        "Hartcliffe"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Hartcliffe",
     "qs_pg:name_adm0":"United Kingdom",
@@ -39,12 +42,12 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1360698531,
         102191581,
         85633159,
         404227469,
         1175612699,
-        1360698747
+        1360698747,
+        1360698531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1126101183,
-    "wof:lastmodified":1542665696,
+    "wof:lastmodified":1564122994,
     "wof:name":"Hartcliffe",
     "wof:parent_id":1175612699,
     "wof:placetype":"neighbourhood",

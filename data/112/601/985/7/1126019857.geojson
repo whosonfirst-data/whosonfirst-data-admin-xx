@@ -16,6 +16,93 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u044e\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipiul Beiu\u0219"
+    ],
+    "name:ces_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:deu_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:epo_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0647\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:hrv_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "Bel\u00e9nyes"
+    ],
+    "name:ile_x_preferred":[
+        "Beiu\u015f"
+    ],
+    "name:ind_x_preferred":[
+        "Beiu\u015f"
+    ],
+    "name:ita_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\uc6b0\uc288"
+    ],
+    "name:lat_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:lit_x_preferred":[
+        "Beju\u0161as"
+    ],
+    "name:min_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:msa_x_preferred":[
+        "Beiu\u015f"
+    ],
+    "name:nld_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:pol_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:por_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:ron_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u044e\u0448"
+    ],
+    "name:slk_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:spa_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0435\u0458\u0443\u0448"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u044e\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u044e\u0448"
+    ],
+    "name:vie_x_preferred":[
+        "Beiu\u0219"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5c24\u4ec0"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Beiu\u0219",
     "qs_pg:name_adm0":"Rom\u00e2nia",
@@ -60,7 +147,7 @@
         }
     ],
     "wof:id":1126019857,
-    "wof:lastmodified":1509407154,
+    "wof:lastmodified":1564124524,
     "wof:name":"Beiu\u0219",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aym_x_preferred":[
+        "Chulumani"
+    ],
+    "name:ceb_x_preferred":[
+        "Chulumani"
+    ],
+    "name:deu_x_preferred":[
+        "Chulumani"
+    ],
+    "name:fra_x_preferred":[
+        "Chulumani"
+    ],
+    "name:nld_x_preferred":[
+        "Chulumani"
+    ],
+    "name:nor_x_preferred":[
+        "Chulumani"
+    ],
+    "name:pol_x_preferred":[
+        "Chulumani"
+    ],
+    "name:que_x_preferred":[
+        "Chulumani"
+    ],
+    "name:spa_x_preferred":[
+        "Chulumani"
+    ],
+    "name:swe_x_preferred":[
+        "Chulumani"
+    ],
+    "name:war_x_preferred":[
+        "Chulumani"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u76e7\u99ac\u5c3c"
+    ],
     "qs_pg:gn_country":"BO",
     "qs_pg:name":"Chulumani",
     "qs_pg:name_adm0":"Bolivia",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1125417823,
-    "wof:lastmodified":1505248235,
+    "wof:lastmodified":1564125292,
     "wof:name":"Chulumani",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

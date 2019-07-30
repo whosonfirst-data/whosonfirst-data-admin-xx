@@ -13,6 +13,7 @@
     "lbl:latitude":45.453323,
     "lbl:longitude":12.392359,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,13 +21,52 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Isola Sant'Erasmo"
+    ],
+    "name:deu_x_preferred":[
+        "Sant\u2019Erasmo"
+    ],
+    "name:est_x_preferred":[
+        "Sant'Erasmo"
+    ],
+    "name:fin_x_preferred":[
+        "Sant\u2019Erasmo"
+    ],
+    "name:fra_x_preferred":[
+        "Sant'Erasmo"
+    ],
+    "name:hrv_x_preferred":[
+        "Sant'Erasmo"
+    ],
+    "name:hun_x_preferred":[
+        "Sant\u2019Erasmo-sziget"
+    ],
+    "name:ita_x_preferred":[
+        "Sant'Erasmo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c6\u30e9\u30ba\u30e2\u5cf6"
+    ],
+    "name:nno_x_preferred":[
+        "Sant'Erasmo"
+    ],
+    "name:pol_x_preferred":[
+        "Sant\u2019Erasmo"
+    ],
+    "name:slv_x_preferred":[
+        "Sant'Erasmo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u62c9\u65af\u83ab\u5cf6"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85685305,
         102191581,
         404470193,
         85633253,
-        404227501
+        404227501,
+        85685305
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +84,7 @@
         }
     ],
     "wof:id":1108941431,
-    "wof:lastmodified":1492123595,
+    "wof:lastmodified":1564122677,
     "wof:name":"Sant'Erasmo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0633\u062a\u06cc\u0631\u0627\u062f\u06a9\u06cc-\u0631\u0634\u0648\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:ces_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:deu_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:eus_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0633\u062a\u06cc\u0631\u0627\u062f\u06a9\u06cc-\u0631\u0634\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:hun_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:ita_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:msa_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:nld_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:por_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:slk_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:spa_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0441\u0442\u0458\u0435\u0440\u0430\u0434\u043a\u0438-\u0420\u0435\u0448\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
+    "name:vie_x_preferred":[
+        "Host\u011br\u00e1dky-Re\u0161ov"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Host\u011br\u00e1dky-Re\u0161ov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125289289,
-    "wof:lastmodified":1509387492,
+    "wof:lastmodified":1564123224,
     "wof:name":"Host\u011br\u00e1dky-Re\u0161ov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Esternberg"
+    ],
+    "name:ces_x_preferred":[
+        "Esternberg"
+    ],
+    "name:deu_x_preferred":[
+        "Esternberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0631\u0646\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Esternberg"
+    ],
+    "name:hun_x_preferred":[
+        "Esternberg"
+    ],
+    "name:ita_x_preferred":[
+        "Esternberg"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0441\u0442\u0435\u0440\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Esternberg"
+    ],
+    "name:pol_x_preferred":[
+        "Esternberg"
+    ],
+    "name:por_x_preferred":[
+        "Esternberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0442\u0435\u0440\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "Esternberg"
+    ],
+    "name:spa_x_preferred":[
+        "Esternberg"
+    ],
+    "name:swe_x_preferred":[
+        "Esternberg"
+    ],
+    "name:uzb_x_preferred":[
+        "Esternberg"
+    ],
+    "name:vie_x_preferred":[
+        "Esternberg"
+    ],
+    "name:vol_x_preferred":[
+        "Esternberg"
+    ],
+    "name:war_x_preferred":[
+        "Esternberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65bd\u6ed5\u8d1d\u683c"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Esternberg",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125279473,
-    "wof:lastmodified":1509387253,
+    "wof:lastmodified":1564123306,
     "wof:name":"Esternberg",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

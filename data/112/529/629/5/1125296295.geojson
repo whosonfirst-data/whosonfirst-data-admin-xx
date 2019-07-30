@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Kouriah"
+    ],
+    "name:ita_x_preferred":[
+        "Kouriah"
+    ],
+    "name:msa_x_preferred":[
+        "Kouriah"
+    ],
+    "name:spa_x_preferred":[
+        "Kouriah"
+    ],
     "qs_pg:gn_country":"GN",
     "qs_pg:name":"Kouriah",
     "qs_pg:name_adm0":"Guin\u00e9e",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1125296295,
-    "wof:lastmodified":1509387630,
+    "wof:lastmodified":1564123372,
     "wof:name":"Kouriah",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -19,8 +19,212 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0633-\u062a\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:aze_x_preferred":[
+        "Bas Ter"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0441-\u0422\u044d\u0440"
+    ],
+    "name:bos_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:bre_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:bug_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0441 \u0422\u0435\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ceb_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ces_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:cym_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:dan_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:deu_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c2-\u03a4\u03b5\u03c1"
+    ],
+    "name:epo_x_preferred":[
+        "Bas-Tero"
+    ],
+    "name:est_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:eus_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633-\u062a\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:fra_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:frp_x_preferred":[
+        "B\u00e2ssa-T\u00e8rra"
+    ],
+    "name:glg_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e1 \u05d8\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u057d \u054f\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ind_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:isl_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ita_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b9\u30c6\u30fc\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e1-\u10e2\u10d4\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0441-\u0422\u0435\u0440"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0441-\u0442\u0435\u0440"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc2a4\ud14c\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "Ima Tellus"
+    ],
+    "name:lav_x_preferred":[
+        "Bast\u0113ra"
+    ],
+    "name:lij_x_preferred":[
+        "Basse Terre"
+    ],
+    "name:lit_x_preferred":[
+        "Bas Teras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0938\u0947-\u0924\u0947\u0930"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0441 \u0422\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:nld_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:nor_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:oci_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:pms_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:pol_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:por_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ron_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441-\u0422\u0435\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:sco_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:slk_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:spa_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:sqi_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0441 \u0422\u0435\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:swe_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0b9a\u0bc1-\u0ba4\u0bc6\u0bb0\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e31\u0e2a-\u0e41\u0e15\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441-\u0422\u0435\u0440"
+    ],
     "name:unk_x_variant":[
         "Saint-Claude"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0633-\u062a\u06cc\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:war_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:yor_x_preferred":[
+        "Basse-Terre"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u65af\u7279\u5c14"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:gn_fcode":"PPL",
@@ -73,7 +277,7 @@
         }
     ],
     "wof:id":1125799997,
-    "wof:lastmodified":1531422111,
+    "wof:lastmodified":1564125372,
     "wof:name":"Basse-Terre",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

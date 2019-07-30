@@ -16,6 +16,126 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Mielec"
+    ],
+    "name:ces_x_preferred":[
+        "Mielec"
+    ],
+    "name:deu_x_preferred":[
+        "Mielec"
+    ],
+    "name:epo_x_preferred":[
+        "Mielec"
+    ],
+    "name:eus_x_preferred":[
+        "Mielec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u200c\u06cc\u0644\u062a\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Mielec"
+    ],
+    "name:fra_x_preferred":[
+        "Mielec"
+    ],
+    "name:hak_x_preferred":[
+        "Mielec"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d9\u05dc\u05e5"
+    ],
+    "name:hun_x_preferred":[
+        "Mielec"
+    ],
+    "name:ina_x_preferred":[
+        "Mielec"
+    ],
+    "name:ind_x_preferred":[
+        "Mielec"
+    ],
+    "name:ita_x_preferred":[
+        "Mielec"
+    ],
+    "name:jav_x_preferred":[
+        "Mielec"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\uc5d8\ub808\uce20"
+    ],
+    "name:lav_x_preferred":[
+        "Meleca"
+    ],
+    "name:lit_x_preferred":[
+        "Melecas"
+    ],
+    "name:lmo_x_preferred":[
+        "Mielec"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0458\u0435\u043b\u0435\u0446"
+    ],
+    "name:msa_x_preferred":[
+        "Mielec"
+    ],
+    "name:nld_x_preferred":[
+        "Mielec"
+    ],
+    "name:pol_x_preferred":[
+        "Mielec"
+    ],
+    "name:por_x_preferred":[
+        "Mielec"
+    ],
+    "name:ron_x_preferred":[
+        "Mielec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Mielec"
+    ],
+    "name:spa_x_preferred":[
+        "Mielec"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0458\u0435\u043b\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Mielec"
+    ],
+    "name:szl_x_preferred":[
+        "Mjelec"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u0446"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e35\u0e40\u0e2d\u0e40\u0e25\u0e15\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Mielec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0435\u0446\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Mielec"
+    ],
+    "name:war_x_preferred":[
+        "Mielec"
+    ],
+    "name:yid_x_preferred":[
+        "\u05de\u05e2\u05dc\u05d9\u05e5"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u840a\u8328"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Mielec",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +176,7 @@
         }
     ],
     "wof:id":1125417851,
-    "wof:lastmodified":1509390407,
+    "wof:lastmodified":1564125291,
     "wof:name":"Mielec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

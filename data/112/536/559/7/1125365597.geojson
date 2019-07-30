@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0634\u062f\u0648\u0648\u0648\u06cc\u062a\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u0434\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Szyd\u0142owiec"
+    ],
+    "name:eus_x_preferred":[
+        "Szyd\u0142owiec udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0634\u062f\u0648\u0648\u0648\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Szyd\u0142owiec"
+    ],
+    "name:ita_x_preferred":[
+        "Szyd\u0142owiec"
+    ],
+    "name:nld_x_preferred":[
+        "Szyd\u0142owiec"
+    ],
+    "name:pol_x_preferred":[
+        "Szyd\u0142owiec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0434\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Szyd\u0142owiec"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0428\u0438\u0434\u043b\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Szyd\u0142owiec"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Szyd\u0142owiec",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125365597,
-    "wof:lastmodified":1509389195,
+    "wof:lastmodified":1564124190,
     "wof:name":"Gmina Szyd\u0142owiec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

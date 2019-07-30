@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Lukavice"
+    ],
+    "name:ces_x_preferred":[
+        "Lukavice"
+    ],
+    "name:deu_x_preferred":[
+        "Lukavice"
+    ],
+    "name:epo_x_preferred":[
+        "Lukavice"
+    ],
+    "name:fra_x_preferred":[
+        "Lukavice"
+    ],
+    "name:ita_x_preferred":[
+        "Lukavice"
+    ],
+    "name:nld_x_preferred":[
+        "Lukavice"
+    ],
+    "name:pol_x_preferred":[
+        "Lukavice"
+    ],
+    "name:slk_x_preferred":[
+        "Lukavice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u043a\u0430\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Lukavice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lukavice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125370615,
-    "wof:lastmodified":1509389312,
+    "wof:lastmodified":1564123688,
     "wof:name":"Lukavice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

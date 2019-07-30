@@ -16,6 +16,132 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0622\u0634\u062a\u0627\u0631\u0627\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u062a\u0627\u0631\u0627\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "\u018f\u015ft\u0259r\u0259k"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0449\u0430\u0440\u0430\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Astarak"
+    ],
+    "name:ceb_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:ces_x_preferred":[
+        "A\u0161tarak"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Aschtarak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c4\u03b1\u03c1\u03ac\u03ba"
+    ],
+    "name:epo_x_preferred":[
+        "A\u015dtarako"
+    ],
+    "name:est_x_preferred":[
+        "A\u0161tarak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u062a\u0627\u0631\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Achtarak"
+    ],
+    "name:hsb_x_preferred":[
+        "A\u0161tarak"
+    ],
+    "name:hun_x_preferred":[
+        "Astarak"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0577\u057f\u0561\u0580\u0561\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:ita_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b7\u30e5\u30bf\u30e9\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10e2\u10d0\u10e0\u10d0\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc288\ud0c0\ub77c\ud06c"
+    ],
+    "name:lit_x_preferred":[
+        "A\u0161tarakas"
+    ],
+    "name:msa_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:nld_x_preferred":[
+        "Asjtarak"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a38\u0a3c\u0a24\u0a3e\u0a30\u0a15"
+    ],
+    "name:pol_x_preferred":[
+        "Asztarak"
+    ],
+    "name:ron_x_preferred":[
+        "A\u0219tarak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:slv_x_preferred":[
+        "A\u0161tarak"
+    ],
+    "name:spa_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:swe_x_preferred":[
+        "Asjtarak"
+    ],
+    "name:tur_x_preferred":[
+        "A\u015ftarak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0448\u0442\u0430\u0440\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0634\u062a\u0627\u0631\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:war_x_preferred":[
+        "Ashtarak"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4ec0\u5854\u62c9\u514b"
+    ],
     "qs_pg:gn_country":"AM",
     "qs_pg:name":"Ashtarak",
     "qs_pg:name_adm0":"Armenia",
@@ -56,7 +182,7 @@
         }
     ],
     "wof:id":1125841187,
-    "wof:lastmodified":1505248522,
+    "wof:lastmodified":1564125376,
     "wof:name":"Ashtarak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

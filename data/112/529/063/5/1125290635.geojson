@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:ces_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:epo_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sosnov\u00e1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u0430"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Sosnov\u00e1",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125290635,
-    "wof:lastmodified":1509387522,
+    "wof:lastmodified":1564123383,
     "wof:name":"Sosnov\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

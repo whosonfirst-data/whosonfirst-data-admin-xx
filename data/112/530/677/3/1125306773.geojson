@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0448\u0435\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Toszek"
+    ],
+    "name:epo_x_preferred":[
+        "Toszek"
+    ],
+    "name:fra_x_preferred":[
+        "Toszek"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e9\u05e7"
+    ],
+    "name:jav_x_preferred":[
+        "Toszek"
+    ],
+    "name:lav_x_preferred":[
+        "To\u0161eka"
+    ],
+    "name:msa_x_preferred":[
+        "Toszek"
+    ],
+    "name:nld_x_preferred":[
+        "Toszek"
+    ],
+    "name:pol_x_preferred":[
+        "Toszek"
+    ],
+    "name:por_x_preferred":[
+        "Toszek"
+    ],
+    "name:ron_x_preferred":[
+        "Toszek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0448\u0435\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Toszek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u0448\u0435\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0448\u0435\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Toszek"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u8b1d\u514b"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Toszek",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125306773,
-    "wof:lastmodified":1509387815,
+    "wof:lastmodified":1564123739,
     "wof:name":"Toszek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

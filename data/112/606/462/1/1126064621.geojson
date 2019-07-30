@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "North End"
+    ],
+    "name:ceb_x_preferred":[
+        "North End"
+    ],
+    "name:ces_x_preferred":[
+        "North End"
+    ],
+    "name:ita_x_preferred":[
+        "North End"
+    ],
+    "name:spa_x_preferred":[
+        "North End"
+    ],
+    "name:swe_x_preferred":[
+        "North End"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"North End",
     "qs_pg:name_adm0":"South Africa",
@@ -39,10 +57,10 @@
     "woe:name_adm1":"Western Cape",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688905,
         102191573,
         85633813,
-        1108730623,
-        85688905
+        1108730623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1126064621,
-    "wof:lastmodified":1509410362,
+    "wof:lastmodified":1564124461,
     "wof:name":"North End",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

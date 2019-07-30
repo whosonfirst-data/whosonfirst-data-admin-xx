@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nitrica"
+    ],
+    "name:ces_x_preferred":[
+        "Nitrica"
+    ],
+    "name:deu_x_preferred":[
+        "Nitrica"
+    ],
+    "name:epo_x_preferred":[
+        "Nitrica"
+    ],
+    "name:eus_x_preferred":[
+        "Nitrica"
+    ],
+    "name:fra_x_preferred":[
+        "Nitrica"
+    ],
+    "name:hun_x_preferred":[
+        "R\u00e1kosv\u00f6lgyudvarnok"
+    ],
+    "name:ita_x_preferred":[
+        "Nitrica"
+    ],
+    "name:msa_x_preferred":[
+        "Nitrica"
+    ],
+    "name:nld_x_preferred":[
+        "Nitrica"
+    ],
+    "name:ron_x_preferred":[
+        "Nitrica"
+    ],
+    "name:slk_x_preferred":[
+        "Nitrica"
+    ],
+    "name:spa_x_preferred":[
+        "Nitrica"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0442\u0440\u0438\u0446\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Nitrica"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Nitrica",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125390621,
-    "wof:lastmodified":1509389806,
+    "wof:lastmodified":1564123808,
     "wof:name":"Nitrica",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

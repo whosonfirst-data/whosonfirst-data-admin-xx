@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Olszanka"
+    ],
+    "name:deu_x_preferred":[
+        "Olszanka"
+    ],
+    "name:fra_x_preferred":[
+        "Olszanka"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u056c\u056b\u0577\u0561\u0576\u056f\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Olszanka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    ],
+    "name:lit_x_preferred":[
+        "Ol\u0161anka"
+    ],
+    "name:nld_x_preferred":[
+        "Olszanka"
+    ],
+    "name:pol_x_preferred":[
+        "Olszanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043b\u044c\u0448\u0430\u043d\u043a\u0430"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Olszanka",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125404761,
-    "wof:lastmodified":1509390134,
+    "wof:lastmodified":1564124995,
     "wof:name":"Olszanka",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

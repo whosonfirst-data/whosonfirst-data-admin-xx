@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Horovce"
+    ],
+    "name:deu_x_preferred":[
+        "Horovce"
+    ],
+    "name:epo_x_preferred":[
+        "Horovce"
+    ],
+    "name:fra_x_preferred":[
+        "Horovce"
+    ],
+    "name:hun_x_preferred":[
+        "Horovce"
+    ],
+    "name:ita_x_preferred":[
+        "Horovce"
+    ],
+    "name:nld_x_preferred":[
+        "Horovce"
+    ],
+    "name:slk_x_preferred":[
+        "Horovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u0432\u0446\u0435"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Horovce",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1125411163,
-    "wof:lastmodified":1534379814,
+    "wof:lastmodified":1564125287,
     "wof:name":"Horovce",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

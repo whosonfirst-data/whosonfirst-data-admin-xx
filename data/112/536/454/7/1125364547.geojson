@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
+    "name:fra_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
+    "name:ita_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
+    "name:lmo_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
+    "name:nld_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
+    "name:roh_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
+    "name:vol_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
+    "name:war_x_preferred":[
+        "Goumoens-le-Jux"
+    ],
     "qs_pg:gn_country":"CH",
     "qs_pg:name":"Goumoens-le-Jux",
     "qs_pg:name_adm0":"Schweiz",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125364547,
-    "wof:lastmodified":1509389173,
+    "wof:lastmodified":1564124230,
     "wof:name":"Goumoens-le-Jux",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

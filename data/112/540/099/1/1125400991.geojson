@@ -16,6 +16,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:ces_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:est_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:eus_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u0634\u062a\u0631\u062a\u0633 \u0646\u0627\u062f \u0627\u0648\u0647\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:hrv_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:hsb_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:hun_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:isl_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:msa_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:pol_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:por_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u0442\u0435\u0440\u0435\u0446-\u043d\u0430\u0434-\u041e\u0433\u0440\u0436\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:slv_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u0442\u0435\u0440\u0435\u0446 \u043d\u0430 \u041e\u0445\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:tur_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0430\u0448\u0442\u0435\u0440\u0435\u0446\u044c-\u043d\u0430\u0434-\u041e\u0433\u0440\u0436\u0438\u043c"
+    ],
+    "name:vie_x_preferred":[
+        "Kl\u00e1\u0161terec nad Oh\u0159\u00ed"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Kl\u00e1\u0161terec nad Oh\u0159\u00ed",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +131,7 @@
         }
     ],
     "wof:id":1125400991,
-    "wof:lastmodified":1509390054,
+    "wof:lastmodified":1564125046,
     "wof:name":"Kl\u00e1\u0161terec nad Oh\u0159\u00ed",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

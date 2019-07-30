@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u062a\u0633\u06cc\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:ces_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:deu_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:eus_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0633\u06cc\u0646\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:hun_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:ita_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:msa_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:nld_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:pol_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:por_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:slk_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:spa_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0446\u0438\u043d\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pocinovice"
+    ],
+    "name:vie_x_preferred":[
+        "Pocinovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Pocinovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125269529,
-    "wof:lastmodified":1509386983,
+    "wof:lastmodified":1564123234,
     "wof:name":"Pocinovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

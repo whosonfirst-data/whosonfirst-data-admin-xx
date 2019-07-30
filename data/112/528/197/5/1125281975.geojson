@@ -16,6 +16,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u043d\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Kolno"
+    ],
+    "name:dsb_x_preferred":[
+        "Kolno"
+    ],
+    "name:epo_x_preferred":[
+        "Kolno"
+    ],
+    "name:eus_x_preferred":[
+        "Kolno"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kolno"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Kolno"
+    ],
+    "name:jav_x_preferred":[
+        "Kolno"
+    ],
+    "name:lav_x_preferred":[
+        "Kolno"
+    ],
+    "name:lit_x_preferred":[
+        "Kolnas"
+    ],
+    "name:msa_x_preferred":[
+        "Kolno"
+    ],
+    "name:nld_x_preferred":[
+        "Kolno"
+    ],
+    "name:pol_x_preferred":[
+        "Kolno"
+    ],
+    "name:por_x_preferred":[
+        "Kolno"
+    ],
+    "name:ron_x_preferred":[
+        "Kolno"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u044c\u043d\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Kolno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043d\u043e"
+    ],
+    "name:szl_x_preferred":[
+        "Kolno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u044c\u043d\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Kolno"
+    ],
+    "name:war_x_preferred":[
+        "Kolno"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u8afe"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Kolno",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +131,7 @@
         }
     ],
     "wof:id":1125281975,
-    "wof:lastmodified":1509387315,
+    "wof:lastmodified":1564123181,
     "wof:name":"Kolno",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

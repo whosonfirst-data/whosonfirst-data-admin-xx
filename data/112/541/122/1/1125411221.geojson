@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u06a9\u0627\u0644\u06a9\u0627 \u0648 \u062f\u0648\u06a9\u0633"
+    ],
+    "name:ces_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:deu_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:eus_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0627\u0644\u06a9\u0627 \u0648 \u062f\u0648\u06a9\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:hun_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:ita_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:msa_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:nld_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:por_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:slk_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:spa_x_preferred":[
+        "Skalka u Doks"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u043a\u0430 \u0443 \u0414\u043e\u043a\u0441\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Skalka u Doks"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Skalka u Doks",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125411221,
-    "wof:lastmodified":1509390264,
+    "wof:lastmodified":1564125368,
     "wof:name":"Skalka u Doks",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

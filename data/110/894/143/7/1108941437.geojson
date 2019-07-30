@@ -13,6 +13,7 @@
     "lbl:latitude":45.48695,
     "lbl:longitude":12.408552,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,13 +21,67 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:deu_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0632\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e6\u05d5\u05e8\u05d1\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:hun_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:ind_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:ita_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:lat_x_preferred":[
+        "Maiurbium"
+    ],
+    "name:nno_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:pol_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:por_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:slv_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:spa_x_preferred":[
+        "Mazzorbo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0446\u043e\u0440\u0431\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0446\u0446\u043e\u0440\u0431\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4f50\u723e\u535a\u5cf6"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85685305,
         102191581,
         404470193,
         85633253,
-        404227501
+        404227501,
+        85685305
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +99,7 @@
         }
     ],
     "wof:id":1108941437,
-    "wof:lastmodified":1492123595,
+    "wof:lastmodified":1564122676,
     "wof:name":"Mazzorbo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

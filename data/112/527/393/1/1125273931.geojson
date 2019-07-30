@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0632\u0646\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Wizna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0632\u0646\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d6\u05e0\u05d4"
+    ],
+    "name:lit_x_preferred":[
+        "Vizna"
+    ],
+    "name:nld_x_preferred":[
+        "Wizna"
+    ],
+    "name:pol_x_preferred":[
+        "Wizna"
+    ],
+    "name:por_x_preferred":[
+        "Wizna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0437\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Wizna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0437\u043d\u0430"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Wizna",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125273931,
-    "wof:lastmodified":1509387105,
+    "wof:lastmodified":1564123314,
     "wof:name":"Wizna",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

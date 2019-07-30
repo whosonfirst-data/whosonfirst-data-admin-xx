@@ -16,6 +16,87 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:ceb_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:deu_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:dsb_x_preferred":[
+        "Turnow-P\u015bi\u0142uk"
+    ],
+    "name:epo_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:eus_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0648 \u067e\u0631\u06cc\u0644\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:hsb_x_preferred":[
+        "Turnow-P\u015bi\u0142uk"
+    ],
+    "name:hun_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u0580\u0576\u0578\u057e \u054a\u0580\u0561\u0575\u056c\u0561\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u043e\u0432-\u041f\u0440\u0430\u0458\u043b\u0430\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:nld_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:pol_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:ron_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u043e\u0432-\u041f\u0440\u0430\u0439\u043b\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u043e\u0432-\u041f\u0440\u0430\u0458\u043b\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u043e\u0432-\u041f\u0440\u0430\u0439\u043b\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u0646\u0648 \u067e\u0631\u06cc\u0644\u06cc\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:vie_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:vol_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:war_x_preferred":[
+        "Turnow-Preilack"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fe\u5c14\u8bfa\u592b-\u666e\u8d56\u62c9\u514b"
+    ],
     "qs_pg:gn_country":"DE",
     "qs_pg:name":"Turnow-Preilack",
     "qs_pg:name_adm0":"Deutschland",
@@ -56,7 +137,7 @@
         }
     ],
     "wof:id":1125403485,
-    "wof:lastmodified":1509390110,
+    "wof:lastmodified":1564125071,
     "wof:name":"Turnow-Preilack",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

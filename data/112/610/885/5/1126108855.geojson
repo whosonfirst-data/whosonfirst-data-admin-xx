@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Broadmoor"
+    ],
+    "name:spa_x_preferred":[
+        "Broadmoor"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Broadmoor",
     "qs_pg:name_adm0":"United States",
@@ -39,11 +45,11 @@
     "woe:name_adm1":"California",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688637,
         102191575,
         85633793,
         85922529,
-        102085387,
-        85688637
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1126108855,
-    "wof:lastmodified":1509412506,
+    "wof:lastmodified":1564123051,
     "wof:name":"Broadmoor",
     "wof:parent_id":85922529,
     "wof:placetype":"neighbourhood",

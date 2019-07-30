@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Orovnica"
+    ],
+    "name:ces_x_preferred":[
+        "Orovnica"
+    ],
+    "name:deu_x_preferred":[
+        "Orovnica"
+    ],
+    "name:epo_x_preferred":[
+        "Orovnica"
+    ],
+    "name:eus_x_preferred":[
+        "Orovnica"
+    ],
+    "name:fra_x_preferred":[
+        "Orovnica"
+    ],
+    "name:hun_x_preferred":[
+        "Oromfalu"
+    ],
+    "name:ita_x_preferred":[
+        "Orovnica"
+    ],
+    "name:msa_x_preferred":[
+        "Orovnica"
+    ],
+    "name:nld_x_preferred":[
+        "Orovnica"
+    ],
+    "name:pol_x_preferred":[
+        "Orovnica"
+    ],
+    "name:ron_x_preferred":[
+        "Orovnica"
+    ],
+    "name:slk_x_preferred":[
+        "Orovnica"
+    ],
+    "name:spa_x_preferred":[
+        "Orovnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u043e\u0432\u045a\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043e\u0432\u043d\u0438\u0446\u044f"
+    ],
+    "name:war_x_preferred":[
+        "Orovnica"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Orovnica",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125359677,
-    "wof:lastmodified":1509389044,
+    "wof:lastmodified":1564122853,
     "wof:name":"Orovnica",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

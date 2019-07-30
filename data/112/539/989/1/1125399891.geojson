@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ceb_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:fra_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ita_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:lit_x_preferred":[
+        "Las Lachasas"
+    ],
+    "name:nld_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:pol_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Lajas"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"Las Lajas",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1125399891,
-    "wof:lastmodified":1509390032,
+    "wof:lastmodified":1564123973,
     "wof:name":"Las Lajas",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

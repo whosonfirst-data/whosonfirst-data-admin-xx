@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0439\u0440\u0435\u043b\u0438\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Meireles"
+    ],
+    "name:fra_x_preferred":[
+        "Meireles"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4\u30ec\u30ec\u30b9"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Meireles",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +51,12 @@
     "woe:name_adm1":"Cear\u00e1",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681907,
         102191577,
         404552855,
         85633009,
         101944733,
-        102051533
+        102051533,
+        85681907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1126069123,
-    "wof:lastmodified":1509410581,
+    "wof:lastmodified":1564124465,
     "wof:name":"Meireles",
     "wof:parent_id":101944733,
     "wof:placetype":"neighbourhood",

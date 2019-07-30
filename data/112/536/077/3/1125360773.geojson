@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u06cc \u067e\u0631\u0631\u0648\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:ces_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:deu_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:eus_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u06cc \u067e\u0631\u0631\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:hrv_x_preferred":[
+        "Nova Prerava"
+    ],
+    "name:hun_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:ita_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:msa_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:nld_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:pol_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:por_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:slk_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:spa_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u041f\u0440\u0435\u0440\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
+    "name:vie_x_preferred":[
+        "Nov\u00fd P\u0159erov"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Nov\u00fd P\u0159erov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125360773,
-    "wof:lastmodified":1509389069,
+    "wof:lastmodified":1564124204,
     "wof:name":"Nov\u00fd P\u0159erov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

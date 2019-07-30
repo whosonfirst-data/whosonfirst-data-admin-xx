@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Assens"
+    ],
+    "name:ceb_x_preferred":[
+        "Assens"
+    ],
+    "name:dan_x_preferred":[
+        "Assens"
+    ],
+    "name:deu_x_preferred":[
+        "Assens"
+    ],
+    "name:epo_x_preferred":[
+        "Assens"
+    ],
+    "name:eus_x_preferred":[
+        "Assens"
+    ],
+    "name:fra_x_preferred":[
+        "Assens"
+    ],
+    "name:hrv_x_preferred":[
+        "Assens"
+    ],
+    "name:ita_x_preferred":[
+        "Assens"
+    ],
+    "name:nld_x_preferred":[
+        "Assens"
+    ],
+    "name:spa_x_preferred":[
+        "Assens"
+    ],
+    "name:swe_x_preferred":[
+        "Assens"
+    ],
     "qs_pg:gn_country":"CH",
     "qs_pg:name":"Assens",
     "qs_pg:name_adm0":"Schweiz",
@@ -56,7 +92,7 @@
         }
     ],
     "wof:id":1125410057,
-    "wof:lastmodified":1509390237,
+    "wof:lastmodified":1564125355,
     "wof:name":"Assens",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

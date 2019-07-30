@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Jasenie"
+    ],
+    "name:ces_x_preferred":[
+        "Jasenie"
+    ],
+    "name:deu_x_preferred":[
+        "Jasenie"
+    ],
+    "name:epo_x_preferred":[
+        "Jasenie"
+    ],
+    "name:eus_x_preferred":[
+        "Jasenie"
+    ],
+    "name:fra_x_preferred":[
+        "Jasenie"
+    ],
+    "name:hun_x_preferred":[
+        "Jecenye"
+    ],
+    "name:ita_x_preferred":[
+        "Jasenie"
+    ],
+    "name:msa_x_preferred":[
+        "Jasenie"
+    ],
+    "name:nld_x_preferred":[
+        "Jasenie"
+    ],
+    "name:pol_x_preferred":[
+        "Jasenie"
+    ],
+    "name:ron_x_preferred":[
+        "Jasenie"
+    ],
+    "name:slk_x_preferred":[
+        "Jasenie"
+    ],
+    "name:spa_x_preferred":[
+        "Jasenie"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0441\u0435\u045a\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u0456\u0454"
+    ],
+    "name:war_x_preferred":[
+        "Jasenie"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Jasenie",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125399577,
-    "wof:lastmodified":1509390026,
+    "wof:lastmodified":1564123873,
     "wof:name":"Jasenie",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

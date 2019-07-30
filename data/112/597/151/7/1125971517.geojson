@@ -16,6 +16,123 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u064a\u064a\u062a\u0634\u0627\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0435\u0447\u0430\u0440"
+    ],
+    "name:bos_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0439\u0447\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:ces_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0632\u0627\u06cc\u06ce\u0686\u0627\u0631"
+    ],
+    "name:dan_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:deu_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03ac\u03b3\u03b5\u03c4\u03c3\u03b1\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u06cc\u0686\u0627\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:fra_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:hrv_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:ind_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:isl_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:ita_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30a4\u30a7\u30c1\u30e3\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10d4\u10e9\u10d0\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\uc608\ucc28\ub974"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u0435\u0447\u0430\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:nld_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:nno_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0632\u0627\u0626\u06cc\u0686\u0627\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:por_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:ron_x_preferred":[
+        "Zaicear"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0435\u0447\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:slv_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:spa_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0458\u0435\u0447\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:tur_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u06cc\u0626\u0686\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:war_x_preferred":[
+        "Zaje\u010dar"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u8036\u67e5\u5c14"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Zaje\u010dar",
     "qs_pg:name_adm0":"Serbia",
@@ -64,7 +181,7 @@
         }
     ],
     "wof:id":1125971517,
-    "wof:lastmodified":1509404019,
+    "wof:lastmodified":1564124002,
     "wof:name":"Zaje\u010dar",
     "wof:parent_id":1108810163,
     "wof:placetype":"locality",

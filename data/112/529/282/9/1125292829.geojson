@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:ces_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:epo_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:pol_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:slk_x_preferred":[
+        "Podol\u00ed"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Podol\u00ed"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Podol\u00ed",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125292829,
-    "wof:lastmodified":1509387565,
+    "wof:lastmodified":1564123422,
     "wof:name":"Podol\u00ed",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

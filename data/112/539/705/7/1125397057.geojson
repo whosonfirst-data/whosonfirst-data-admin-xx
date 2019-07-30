@@ -16,6 +16,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:als_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:deu_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0646\u0633\u0631\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:fur_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:ita_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:lmo_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:nld_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0688\u0646\u0632\u0631\u0628\u0631\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u043d\u0437\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
+    "name:slk_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:spa_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:swe_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044e\u043d\u0437\u0435\u0440\u0431\u0435\u0440\u0433"
+    ],
+    "name:uzb_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:vie_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:vol_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:war_x_preferred":[
+        "D\u00fcnserberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e01\u745f\u5c14\u8d1d\u683c"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"D\u00fcnserberg",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +122,7 @@
         }
     ],
     "wof:id":1125397057,
-    "wof:lastmodified":1509389975,
+    "wof:lastmodified":1564123872,
     "wof:name":"D\u00fcnserberg",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

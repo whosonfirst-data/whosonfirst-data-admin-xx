@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Hieflau"
+    ],
+    "name:deu_x_preferred":[
+        "Hieflau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u06cc\u0641\u0644\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Hieflau"
+    ],
+    "name:ita_x_preferred":[
+        "Hieflau"
+    ],
+    "name:nld_x_preferred":[
+        "Hieflau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0444\u043b\u0430\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Hieflau"
+    ],
+    "name:swe_x_preferred":[
+        "Hieflau"
+    ],
+    "name:uzb_x_preferred":[
+        "Hieflau"
+    ],
+    "name:vie_x_preferred":[
+        "Hieflau"
+    ],
+    "name:vol_x_preferred":[
+        "Hieflau"
+    ],
+    "name:war_x_preferred":[
+        "Hieflau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u592b\u52b3"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Hieflau",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +98,7 @@
         }
     ],
     "wof:id":1125410257,
-    "wof:lastmodified":1509390241,
+    "wof:lastmodified":1564125265,
     "wof:name":"Hieflau",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

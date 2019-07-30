@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0648\u0644\u062a\u06cc\u0646\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Veletiny"
+    ],
+    "name:ces_x_preferred":[
+        "Veletiny"
+    ],
+    "name:deu_x_preferred":[
+        "Veletiny"
+    ],
+    "name:eus_x_preferred":[
+        "Veletiny"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u062a\u06cc\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Veletiny"
+    ],
+    "name:hun_x_preferred":[
+        "Veletiny"
+    ],
+    "name:ita_x_preferred":[
+        "Veletiny"
+    ],
+    "name:msa_x_preferred":[
+        "Veletiny"
+    ],
+    "name:nld_x_preferred":[
+        "Veletiny"
+    ],
+    "name:pol_x_preferred":[
+        "Veletiny"
+    ],
+    "name:por_x_preferred":[
+        "Veletiny"
+    ],
+    "name:slk_x_preferred":[
+        "Veletiny"
+    ],
+    "name:spa_x_preferred":[
+        "Veletiny"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u0442\u0438\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Veletiny"
+    ],
+    "name:vie_x_preferred":[
+        "Veletiny"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Veletiny",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125360879,
-    "wof:lastmodified":1509389072,
+    "wof:lastmodified":1564124259,
     "wof:name":"Veletiny",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

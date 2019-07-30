@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0631\u0646\u06cc \u067e\u0648\u0644\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:ces_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:deu_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:eus_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u0646\u06cc \u067e\u0648\u0644\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:hun_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:ita_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:msa_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:nld_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:pol_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:por_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:slk_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:spa_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0440\u045a\u0438 \u041f\u043e\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Horn\u00ed Police"
+    ],
+    "name:vie_x_preferred":[
+        "Horn\u00ed Police"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Horn\u00ed Police",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125293187,
-    "wof:lastmodified":1509387570,
+    "wof:lastmodified":1564123434,
     "wof:name":"Horn\u00ed Police",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

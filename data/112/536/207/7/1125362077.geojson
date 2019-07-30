@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u06cc\u0627\u0648\u0648\u0631\u06a9"
+    ],
+    "name:ceb_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:ces_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:deu_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:eus_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0648\u0648\u0631\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:hun_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:ita_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:msa_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:nld_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:pol_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:por_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:slk_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:spa_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:swe_x_preferred":[
+        "Jav\u016frek"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0648\u0648\u0631\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Jav\u016frek"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Jav\u016frek",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125362077,
-    "wof:lastmodified":1509389102,
+    "wof:lastmodified":1564124277,
     "wof:name":"Jav\u016frek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

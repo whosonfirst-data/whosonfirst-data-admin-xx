@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u0686\u06cc\u0641"
+    ],
+    "name:ceb_x_preferred":[
+        "Hacz\u00f3w"
+    ],
+    "name:deu_x_preferred":[
+        "Hacz\u00f3w"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0686\u06cc\u0641"
+    ],
+    "name:nld_x_preferred":[
+        "Hacz\u00f3w"
+    ],
+    "name:pol_x_preferred":[
+        "Hacz\u00f3w"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0447\u0443\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Hacz\u00f3w"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Hacz\u00f3w",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125410125,
-    "wof:lastmodified":1509390238,
+    "wof:lastmodified":1564125254,
     "wof:name":"Hacz\u00f3w",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

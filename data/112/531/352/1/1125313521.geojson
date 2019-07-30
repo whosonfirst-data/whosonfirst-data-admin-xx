@@ -16,6 +16,87 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0441\u0430\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Dimos Psara"
+    ],
+    "name:ces_x_preferred":[
+        "Psara"
+    ],
+    "name:deu_x_preferred":[
+        "Psara"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a8\u03b1\u03c1\u03ac"
+    ],
+    "name:est_x_preferred":[
+        "Psar\u00e1"
+    ],
+    "name:fin_x_preferred":[
+        "Psar\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Psara"
+    ],
+    "name:glg_x_preferred":[
+        "Psara"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u057d\u0561\u0580\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Psara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30b5\u30e9\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e1\u10d0\u10e0\u10d0"
+    ],
+    "name:lat_x_preferred":[
+        "Psara"
+    ],
+    "name:nld_x_preferred":[
+        "Psara"
+    ],
+    "name:nno_x_preferred":[
+        "Psar\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Psara"
+    ],
+    "name:por_x_preferred":[
+        "Psara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0441\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Psar\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Psara"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0441\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Psara"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130psara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0441\u0430\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Psara"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u85a9\u62c9\u5cf6"
+    ],
     "qs_pg:gn_country":"GR",
     "qs_pg:name":"Psara",
     "qs_pg:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
@@ -56,7 +137,7 @@
         }
     ],
     "wof:id":1125313521,
-    "wof:lastmodified":1509387941,
+    "wof:lastmodified":1564124120,
     "wof:name":"Psara",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

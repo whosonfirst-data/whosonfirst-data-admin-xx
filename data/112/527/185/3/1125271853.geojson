@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:zho_x_preferred":[
+        "\u585e\u7f85\u5fb7\u5361\u85a9"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"Cerro de Casa",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1125271853,
-    "wof:lastmodified":1509387049,
+    "wof:lastmodified":1564123347,
     "wof:name":"Cerro de Casa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

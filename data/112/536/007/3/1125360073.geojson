@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Palo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Palo Grande"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u6d1b\u683c\u5170\u5fb7"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"Palo Grande",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1125360073,
-    "wof:lastmodified":1509389054,
+    "wof:lastmodified":1564124222,
     "wof:name":"Palo Grande",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

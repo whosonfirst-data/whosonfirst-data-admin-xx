@@ -16,6 +16,111 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0648\u0645"
+    ],
+    "name:bug_x_preferred":[
+        "Drom"
+    ],
+    "name:cat_x_preferred":[
+        "Drom"
+    ],
+    "name:ceb_x_preferred":[
+        "Drom"
+    ],
+    "name:deu_x_preferred":[
+        "Drom"
+    ],
+    "name:eus_x_preferred":[
+        "Drom"
+    ],
+    "name:fra_x_preferred":[
+        "Drom"
+    ],
+    "name:glg_x_preferred":[
+        "Drom"
+    ],
+    "name:hun_x_preferred":[
+        "Drom"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0578\u0574"
+    ],
+    "name:ind_x_preferred":[
+        "Drom"
+    ],
+    "name:ita_x_preferred":[
+        "Drom"
+    ],
+    "name:lat_x_preferred":[
+        "Drom"
+    ],
+    "name:ltz_x_preferred":[
+        "Drom"
+    ],
+    "name:mlg_x_preferred":[
+        "Drom"
+    ],
+    "name:msa_x_preferred":[
+        "Drom"
+    ],
+    "name:nld_x_preferred":[
+        "Drom"
+    ],
+    "name:nor_x_preferred":[
+        "Drom"
+    ],
+    "name:oci_x_preferred":[
+        "Drom"
+    ],
+    "name:pam_x_preferred":[
+        "Drom"
+    ],
+    "name:pol_x_preferred":[
+        "Drom"
+    ],
+    "name:por_x_preferred":[
+        "Drom"
+    ],
+    "name:ron_x_preferred":[
+        "Drom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u043e\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Drom"
+    ],
+    "name:sme_x_preferred":[
+        "Drom"
+    ],
+    "name:spa_x_preferred":[
+        "Drom"
+    ],
+    "name:swe_x_preferred":[
+        "Drom"
+    ],
+    "name:tgl_x_preferred":[
+        "Drom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u043e\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Drom"
+    ],
+    "name:vie_x_preferred":[
+        "Drom"
+    ],
+    "name:vol_x_preferred":[
+        "Drom"
+    ],
+    "name:war_x_preferred":[
+        "Drom"
+    ],
+    "name:zea_x_preferred":[
+        "Drom"
+    ],
     "qs_pg:gn_country":"IE",
     "qs_pg:name":"Drom",
     "qs_pg:name_adm0":"Ireland",
@@ -56,7 +161,7 @@
         }
     ],
     "wof:id":1125364259,
-    "wof:lastmodified":1505248111,
+    "wof:lastmodified":1564124203,
     "wof:name":"Drom",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

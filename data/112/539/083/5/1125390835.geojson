@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u06cc\u0646\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:ces_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:deu_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:eus_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u06cc\u0646\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30c6\u30a3\u30fc\u30f3\u30b3\u30f4\u30a3\u30c4\u30a7"
+    ],
+    "name:msa_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:nld_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:pol_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:por_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:slk_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:spa_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Mart\u00ednkovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Mart\u00ednkovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125390835,
-    "wof:lastmodified":1509389812,
+    "wof:lastmodified":1564123787,
     "wof:name":"Mart\u00ednkovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

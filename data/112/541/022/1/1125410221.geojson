@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Grosswarasdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:epo_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648\u0633\u0648\u0627\u0631\u0627\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:hrv_x_preferred":[
+        "Veliki Bori\u0161tof"
+    ],
+    "name:hun_x_preferred":[
+        "Szabadb\u00e1r\u00e1nd"
+    ],
+    "name:ita_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0432\u0430\u0440\u0430\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:pol_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:por_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0432\u0430\u0440\u0430\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:slk_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:spa_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0441\u0432\u0430\u0440\u0430\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:uzb_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:vol_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:war_x_preferred":[
+        "Gro\u00dfwarasdorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u74e6\u62c9\u65af\u591a\u592b"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Gro\u00dfwarasdorf",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125410221,
-    "wof:lastmodified":1509390240,
+    "wof:lastmodified":1564125263,
     "wof:name":"Gro\u00dfwarasdorf",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

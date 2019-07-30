@@ -16,6 +16,75 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u043f\u043e\u043b\u043e\u043c\u0438\u0446\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:ces_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:deu_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:epo_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:fra_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:ita_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:jav_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:lav_x_preferred":[
+        "\u0145epolomice"
+    ],
+    "name:lit_x_preferred":[
+        "Nepolomic\u0117s"
+    ],
+    "name:msa_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:nld_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:pol_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:por_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:ron_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043f\u043e\u043b\u043e\u043c\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0435\u043f\u043e\u043b\u043e\u043c\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:szl_x_preferred":[
+        "\u0143ypo\u0142\u016fmicy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043f\u043e\u043b\u043e\u043c\u0438\u0446\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Niepo\u0142omice"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d85\u6ce2\u6c83\u7c73\u91c7"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Niepo\u0142omice",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1125410363,
-    "wof:lastmodified":1509390244,
+    "wof:lastmodified":1564125276,
     "wof:name":"Niepo\u0142omice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

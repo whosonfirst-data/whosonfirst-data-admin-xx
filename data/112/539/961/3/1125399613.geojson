@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rybky"
+    ],
+    "name:ces_x_preferred":[
+        "Rybky"
+    ],
+    "name:deu_x_preferred":[
+        "Rybky"
+    ],
+    "name:epo_x_preferred":[
+        "Rybky"
+    ],
+    "name:eus_x_preferred":[
+        "Rybky"
+    ],
+    "name:fra_x_preferred":[
+        "Rybky"
+    ],
+    "name:hun_x_preferred":[
+        "Halasd"
+    ],
+    "name:ita_x_preferred":[
+        "Rybky"
+    ],
+    "name:msa_x_preferred":[
+        "Rybky"
+    ],
+    "name:nld_x_preferred":[
+        "Rybky"
+    ],
+    "name:por_x_preferred":[
+        "Rybky"
+    ],
+    "name:ron_x_preferred":[
+        "Rybky"
+    ],
+    "name:slk_x_preferred":[
+        "Rybky"
+    ],
+    "name:spa_x_preferred":[
+        "Rybky"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u0431\u043a\u0438"
+    ],
+    "name:war_x_preferred":[
+        "Rybky"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Rybky",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125399613,
-    "wof:lastmodified":1509390027,
+    "wof:lastmodified":1564123876,
     "wof:name":"Rybky",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

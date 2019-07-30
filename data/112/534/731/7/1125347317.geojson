@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:ces_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:deu_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:epo_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:eus_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0628\u0648\u06cc\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:hun_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:ita_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:msa_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:nld_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:pol_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:por_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:slk_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:spa_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0435\u0431\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "T\u0159ebovice"
+    ],
+    "name:vie_x_preferred":[
+        "T\u0159ebovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"T\u0159ebovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125347317,
-    "wof:lastmodified":1509388785,
+    "wof:lastmodified":1564122736,
     "wof:name":"T\u0159ebovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

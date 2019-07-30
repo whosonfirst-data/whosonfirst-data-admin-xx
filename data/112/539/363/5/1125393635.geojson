@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u06cc\u0627\u0646\u0648\u0648\u06a9\u06cc"
+    ],
+    "name:ces_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:epo_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:eus_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0646\u0648\u0648\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:hun_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:ita_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:msa_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:nld_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:pol_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:por_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:slk_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:spa_x_preferred":[
+        "Jan\u016fvky"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u043d\u0443\u0432\u043a\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Jan\u016fvky"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Jan\u016fvky",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125393635,
-    "wof:lastmodified":1509389880,
+    "wof:lastmodified":1564123772,
     "wof:name":"Jan\u016fvky",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

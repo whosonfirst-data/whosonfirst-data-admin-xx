@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Pravy"
+    ],
+    "name:deu_x_preferred":[
+        "Pravy"
+    ],
+    "name:epo_x_preferred":[
+        "Pravy"
+    ],
+    "name:eus_x_preferred":[
+        "Pravy"
+    ],
+    "name:fra_x_preferred":[
+        "Pravy"
+    ],
+    "name:hun_x_preferred":[
+        "Pravy"
+    ],
+    "name:ita_x_preferred":[
+        "Pravy"
+    ],
+    "name:msa_x_preferred":[
+        "Pravy"
+    ],
+    "name:nld_x_preferred":[
+        "Pravy"
+    ],
+    "name:pol_x_preferred":[
+        "Pravy"
+    ],
+    "name:por_x_preferred":[
+        "Pravy"
+    ],
+    "name:slk_x_preferred":[
+        "Pravy"
+    ],
+    "name:spa_x_preferred":[
+        "Pravy"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Pravy"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Pravy",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125393639,
-    "wof:lastmodified":1509389880,
+    "wof:lastmodified":1564123772,
     "wof:name":"Pravy",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

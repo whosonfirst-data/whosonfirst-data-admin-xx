@@ -16,6 +16,75 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0646\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0627\u0646\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "Djanet"
+    ],
+    "name:deu_x_preferred":[
+        "Djanet"
+    ],
+    "name:epo_x_preferred":[
+        "\u011canet"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0646\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Djanet"
+    ],
+    "name:fra_x_preferred":[
+        "Djanet"
+    ],
+    "name:ita_x_preferred":[
+        "Djanet"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30fc\u30cd\u30c3\u30c8"
+    ],
+    "name:kab_x_preferred":[
+        "\u01e6anet"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub124\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eanetas"
+    ],
+    "name:msa_x_preferred":[
+        "Djanet"
+    ],
+    "name:nor_x_preferred":[
+        "Djanet"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017canat"
+    ],
+    "name:por_x_preferred":[
+        "Djanet"
+    ],
+    "name:ron_x_preferred":[
+        "Djanet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0435\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Djanet"
+    ],
+    "name:swe_x_preferred":[
+        "Djanet"
+    ],
+    "name:vie_x_preferred":[
+        "Djanet"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u5948\u7279"
+    ],
     "qs_pg:gn_country":"DZ",
     "qs_pg:name":"Djanet",
     "qs_pg:name_adm0":"\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
@@ -56,7 +125,7 @@
         }
     ],
     "wof:id":1125801795,
-    "wof:lastmodified":1509393006,
+    "wof:lastmodified":1564123568,
     "wof:name":"Djanet",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Beerescourt"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Beerescourt",
     "qs_pg:name_adm0":"New Zealand",
@@ -39,11 +42,11 @@
     "woe:name_adm1":"Waikato",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
         101914271,
-        102079271,
-        85687229
+        102079271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126082267,
-    "wof:lastmodified":1509411222,
+    "wof:lastmodified":1564124339,
     "wof:name":"Beerescourt",
     "wof:parent_id":101914271,
     "wof:placetype":"neighbourhood",

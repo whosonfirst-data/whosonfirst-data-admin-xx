@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u06a9\u0631\u0648\u0648\u0647\u0644\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:ces_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:deu_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:eus_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0631\u0648\u0648\u0647\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:hun_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:ita_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:msa_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:nld_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:pol_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:por_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0440\u043e\u0443\u0433\u043b\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:spa_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0440\u043e\u0443\u0445\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Okrouhlo"
+    ],
+    "name:vie_x_preferred":[
+        "Okrouhlo"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Okrouhlo",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125383145,
-    "wof:lastmodified":1509389641,
+    "wof:lastmodified":1564124058,
     "wof:name":"Okrouhlo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

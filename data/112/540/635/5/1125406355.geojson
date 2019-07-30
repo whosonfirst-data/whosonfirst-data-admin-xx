@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:ces_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:deu_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:epo_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:eus_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:fra_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:hun_x_preferred":[
+        "Betlenfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:msa_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:nld_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:pol_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:ron_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:slk_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:spa_x_preferred":[
+        "Betlanovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0442\u043b\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0442\u043b\u0430\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Betlanovce"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Betlanovce",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125406355,
-    "wof:lastmodified":1509390165,
+    "wof:lastmodified":1564125054,
     "wof:name":"Betlanovce",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

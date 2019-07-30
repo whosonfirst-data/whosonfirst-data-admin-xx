@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Starina"
+    ],
+    "name:deu_x_preferred":[
+        "Starina"
+    ],
+    "name:epo_x_preferred":[
+        "Starina"
+    ],
+    "name:fra_x_preferred":[
+        "Starina"
+    ],
+    "name:pol_x_preferred":[
+        "Starina"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Starina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Starina",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1125359093,
-    "wof:lastmodified":1509389028,
+    "wof:lastmodified":1564122796,
     "wof:name":"Starina",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

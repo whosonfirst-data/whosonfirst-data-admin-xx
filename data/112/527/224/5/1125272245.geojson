@@ -16,6 +16,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:deu_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:epo_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0686\u0628\u0627\u062e \u0644\u0648\u06cc\u067e\u0631\u0633\u0628\u0627\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:hun_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:ita_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0447\u0431\u0430\u0445-\u041b\u043e\u0439\u043f\u0435\u0440\u0441\u0431\u0430\u0445"
+    ],
+    "name:nld_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:nor_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:pol_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:por_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0447\u0431\u0430\u0445-\u041b\u043e\u0439\u043f\u0435\u0440\u0441\u0431\u0430\u0445"
+    ],
+    "name:slk_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:spa_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0447\u0431\u0430\u0445-\u041b\u043e\u0458\u043f\u0435\u0440\u0441\u0431\u0430\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:uzb_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:vie_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:vol_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:war_x_preferred":[
+        "Natschbach-Loipersbach"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u5947\u5df4\u8d6b-\u6d1b\u4f0a\u73c0\u5c14\u65af\u5df4\u8d6b"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Natschbach-Loipersbach",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +122,7 @@
         }
     ],
     "wof:id":1125272245,
-    "wof:lastmodified":1509387061,
+    "wof:lastmodified":1564123323,
     "wof:name":"Natschbach-Loipersbach",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

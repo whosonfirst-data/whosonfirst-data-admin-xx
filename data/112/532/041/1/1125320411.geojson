@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Carayaca"
+    ],
+    "name:spa_x_preferred":[
+        "Carayaca"
+    ],
     "qs_pg:gn_country":"VE",
     "qs_pg:name":"Carayaca",
     "qs_pg:name_adm0":"Venezuela",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1125320411,
-    "wof:lastmodified":1505248043,
+    "wof:lastmodified":1564122898,
     "wof:name":"Carayaca",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

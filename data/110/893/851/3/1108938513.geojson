@@ -21,9 +21,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:est_x_preferred":[
+        "Niinisaari"
+    ],
+    "name:fin_x_preferred":[
+        "Niinisaari"
+    ],
+    "name:fra_x_preferred":[
+        "Niinisaari"
+    ],
+    "name:swe_x_preferred":[
+        "Bast\u00f6"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0457\u043d\u0456\u0441\u0430\u0430\u0440\u0456"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85683067,
         102191581,
         890537281,
         907199715,
@@ -32,7 +46,8 @@
         101748417,
         136253047,
         890536881,
-        1159321633
+        1159321633,
+        85683067
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1108938513,
-    "wof:lastmodified":1529714752,
+    "wof:lastmodified":1564122681,
     "wof:name":"Niinisaari",
     "wof:parent_id":890537281,
     "wof:placetype":"neighbourhood",

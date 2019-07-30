@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0648\u0648\u0644\u0628\u0631\u0648\u0645"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u043b\u044c\u0431\u0440\u0430\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Wolbrom"
+    ],
+    "name:deu_x_preferred":[
+        "Gmina Wolbrom"
+    ],
+    "name:eus_x_preferred":[
+        "Wolbrom udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0648\u0648\u0644\u0628\u0631\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Wolbrom"
+    ],
+    "name:ita_x_preferred":[
+        "Wolbrom"
+    ],
+    "name:nld_x_preferred":[
+        "Wolbrom"
+    ],
+    "name:pol_x_preferred":[
+        "Wolbrom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u044c\u0431\u0440\u043e\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Wolbrom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0412\u043e\u043b\u044c\u0431\u0440\u043e\u043c"
+    ],
+    "name:vie_x_preferred":[
+        "Wolbrom"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Wolbrom"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Wolbrom",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125357421,
-    "wof:lastmodified":1509388982,
+    "wof:lastmodified":1564122890,
     "wof:name":"Gmina Wolbrom",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

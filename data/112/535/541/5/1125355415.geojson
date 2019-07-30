@@ -16,6 +16,240 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:abk_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:ace_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:afr_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:aka_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:amh_x_preferred":[
+        "\u1351\u1295\u1273 \u12a0\u122c\u1293\u1235"
+    ],
+    "name:ang_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0646\u062a\u0627 \u0623\u0631\u064a\u0646\u0627\u0633"
+    ],
+    "name:arg_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ast_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:aym_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:bar_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u044d\u043d\u0430\u0441"
+    ],
+    "name:bre_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ceb_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ces_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:cym_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:dan_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:deu_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:diq_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03cd\u03bd\u03c4\u03b1 \u0391\u03c1\u03ad\u03bd\u03b1\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:est_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:eus_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u062a\u0627 \u0622\u0631\u0646\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:fra_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:grn_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:hat_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d4 \u05d0\u05e8\u05e0\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:hun_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ilo_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ind_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:isl_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ita_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30f3\u30bf\u30fb\u30a2\u30ec\u30fc\u30ca\u30b9"
+    ],
+    "name:kal_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10dc\u10e2\u10d0-\u10d0\u10e0\u10d4\u10dc\u10d0\u10e1\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:kor_x_preferred":[
+        "\ud47c\ud0c0\uc544\ub808\ub098\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Promontorium Arenosum"
+    ],
+    "name:lav_x_preferred":[
+        "Puntaarenasa"
+    ],
+    "name:lit_x_preferred":[
+        "Punta Arenasas"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:nno_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:nor_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:nov_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:oci_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:pms_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0648\u0646\u062a\u0627 \u0627\u0631\u06cc\u0646\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:por_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:que_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ron_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:slk_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:slv_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:spa_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e38\u0e19\u0e15\u0e32\u0e2d\u0e32\u0e40\u0e23\u0e19\u0e31\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0410\u0440\u0435\u043d\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0646\u062a\u0627 \u0622\u0631\u06cc\u0646\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:vls_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:vol_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:war_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05bc\u05d5\u05e0\u05d8\u05d0 \u05d0\u05e8\u05e2\u05e0\u05d0\u05e1"
+    ],
+    "name:zha_x_preferred":[
+        "Punta Arenas"
+    ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u963f\u96f7\u7eb3\u65af"
+    ],
     "qs_pg:gn_country":"CL",
     "qs_pg:name":"Punta Arenas",
     "qs_pg:name_adm0":"Chile",
@@ -56,7 +290,7 @@
         }
     ],
     "wof:id":1125355415,
-    "wof:lastmodified":1505248098,
+    "wof:lastmodified":1564122886,
     "wof:name":"Punta Arenas",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

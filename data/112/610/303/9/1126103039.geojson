@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "La Floresta"
+    ],
+    "name:ceb_x_preferred":[
+        "La Floresta"
+    ],
+    "name:deu_x_preferred":[
+        "La Floresta"
+    ],
+    "name:eus_x_preferred":[
+        "La Floresta"
+    ],
+    "name:ita_x_preferred":[
+        "La Floresta"
+    ],
+    "name:spa_x_preferred":[
+        "La Floresta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0424\u043b\u043e\u0440\u0435\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Floresta"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"La Floresta",
     "qs_pg:name_adm0":"M\u00e9xico",
@@ -39,10 +63,10 @@
     "woe:name_adm1":"Jalisco",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85686603,
         102191575,
         85633293,
-        102074657,
-        85686603
+        102074657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1126103039,
-    "wof:lastmodified":1509412224,
+    "wof:lastmodified":1564123013,
     "wof:name":"La Floresta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

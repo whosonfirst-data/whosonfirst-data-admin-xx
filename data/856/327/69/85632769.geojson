@@ -23,6 +23,12 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Isla Conejo"
+    ],
+    "name:deu_x_preferred":[
+        "Isla Conejo"
+    ],
     "name:eng_x_preferred":[
         "Conejo Island"
     ],
@@ -35,11 +41,17 @@
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:fra_x_preferred":[
+        "\u00cele Conejo"
+    ],
     "name:jpn_x_preferred":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
     ],
     "name:kor_x_preferred":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:lit_x_preferred":[
+        "Konecho sala"
     ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":85632769,
-    "wof:lastmodified":1528909936,
+    "wof:lastmodified":1564122669,
     "wof:name":"Conejo Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

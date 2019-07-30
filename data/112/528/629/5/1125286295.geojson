@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0648\u0648\u0648\u062a\u0633\u0648\u0627\u0648\u06a9"
+    ],
+    "name:bel_x_preferred":[
+        "\u0423\u043b\u0430\u0446\u043b\u0430\u0432\u0430\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "W\u0142oc\u0142awek"
+    ],
+    "name:eus_x_preferred":[
+        "W\u0142oc\u0142awek landa-udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0648\u0648\u0648\u062a\u0633\u0648\u0627\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "W\u0142oc\u0142awek"
+    ],
+    "name:ita_x_preferred":[
+        "W\u0142oc\u0142awek"
+    ],
+    "name:nld_x_preferred":[
+        "W\u0142oc\u0142awek"
+    ],
+    "name:pol_x_preferred":[
+        "W\u0142oc\u0142awek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u043e\u0446\u043b\u0430\u0432\u0435\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina W\u0142oc\u0142awek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u0412\u043b\u043e\u0446\u043b\u0430\u0432\u0435\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Gmina W\u0142oc\u0142awek"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina W\u0142oc\u0142awek",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125286295,
-    "wof:lastmodified":1509387429,
+    "wof:lastmodified":1564123146,
     "wof:name":"Gmina W\u0142oc\u0142awek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

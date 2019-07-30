@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:swe_x_preferred":[
+        "Salt Cay"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Salt Cay",
     "qs_pg:name_adm0":"Turks and Caicos Islands",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1125879443,
-    "wof:lastmodified":1509398016,
+    "wof:lastmodified":1564123574,
     "wof:name":"Salt Cay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

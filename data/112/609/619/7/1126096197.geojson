@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:zho_x_preferred":[
+        "\u97cb\u65af\u7279\u99ac\u683c"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Vestamager",
     "qs_pg:name_adm0":"Danmark",
@@ -39,11 +42,11 @@
     "woe:name_adm1":"Hovedstaden",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682581,
         102191581,
         1159297727,
         85633121,
-        101749159
+        101749159,
+        85682581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126096197,
-    "wof:lastmodified":1530290437,
+    "wof:lastmodified":1564124754,
     "wof:name":"Vestamager",
     "wof:parent_id":101749159,
     "wof:placetype":"neighbourhood",

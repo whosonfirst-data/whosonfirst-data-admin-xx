@@ -16,6 +16,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:ces_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:deu_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:epo_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u06af\u0633\u062f\u0648\u0631\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:hun_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:ita_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0443\u0433\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:nld_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:pol_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:por_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0443\u0433\u0441\u0434\u043e\u0440\u0444"
+    ],
+    "name:slk_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:spa_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:swe_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:uzb_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:vie_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:vol_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:war_x_preferred":[
+        "Haugsdorf"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6a\u683c\u65af\u591a\u592b"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Haugsdorf",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +119,7 @@
         }
     ],
     "wof:id":1125286269,
-    "wof:lastmodified":1509387428,
+    "wof:lastmodified":1564123139,
     "wof:name":"Haugsdorf",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,78 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u0441\u043a\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Nisko"
+    ],
+    "name:ces_x_preferred":[
+        "Nisko"
+    ],
+    "name:deu_x_preferred":[
+        "Nisko"
+    ],
+    "name:epo_x_preferred":[
+        "Nisko"
+    ],
+    "name:est_x_preferred":[
+        "Nisko"
+    ],
+    "name:fra_x_preferred":[
+        "Nisko"
+    ],
+    "name:jav_x_preferred":[
+        "Nisko"
+    ],
+    "name:lav_x_preferred":[
+        "\u0145isko"
+    ],
+    "name:msa_x_preferred":[
+        "Nisko"
+    ],
+    "name:nld_x_preferred":[
+        "Nisko"
+    ],
+    "name:pol_x_preferred":[
+        "Nisko"
+    ],
+    "name:por_x_preferred":[
+        "Nisko"
+    ],
+    "name:ron_x_preferred":[
+        "Nisko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0441\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Nisko"
+    ],
+    "name:spa_x_preferred":[
+        "Nisko"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0438\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Nisko"
+    ],
+    "name:szl_x_preferred":[
+        "\u0143isko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0441\u044c\u043a\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Nisko"
+    ],
+    "name:war_x_preferred":[
+        "Nisko"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u65af\u79d1"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Nisko",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +128,7 @@
         }
     ],
     "wof:id":1125376089,
-    "wof:lastmodified":1509389461,
+    "wof:lastmodified":1564123688,
     "wof:name":"Nisko",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

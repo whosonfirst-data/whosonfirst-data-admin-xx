@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:sco_x_preferred":[
+        "Xoco"
+    ],
+    "name:spa_x_preferred":[
+        "Xoco"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Xoco",
     "qs_pg:name_adm0":"M\u00e9xico",
@@ -39,12 +45,12 @@
     "woe:name_adm1":"Distrito Federal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85686515,
         102191575,
         85633293,
         857683023,
         890535769,
         102073737,
+        85686515,
         101991153
     ],
     "wof:breaches":[],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1126084345,
-    "wof:lastmodified":1509411327,
+    "wof:lastmodified":1564124398,
     "wof:name":"Xoco",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",

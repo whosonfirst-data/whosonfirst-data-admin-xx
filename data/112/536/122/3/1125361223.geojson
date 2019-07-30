@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Doubek"
+    ],
+    "name:deu_x_preferred":[
+        "Doubek"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Doubek",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1125361223,
-    "wof:lastmodified":1509389080,
+    "wof:lastmodified":1564124297,
     "wof:name":"Doubek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,90 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u043b\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Tuchola"
+    ],
+    "name:csb_x_preferred":[
+        "T\u00ebch\u00f2l\u00f4"
+    ],
+    "name:deu_x_preferred":[
+        "Tuchola"
+    ],
+    "name:dsb_x_preferred":[
+        "Tuchola"
+    ],
+    "name:epo_x_preferred":[
+        "Tuchola"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u062e\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tuchola"
+    ],
+    "name:jav_x_preferred":[
+        "Tuchola"
+    ],
+    "name:lav_x_preferred":[
+        "Tuhola"
+    ],
+    "name:lit_x_preferred":[
+        "Tuchola"
+    ],
+    "name:msa_x_preferred":[
+        "Tuchola"
+    ],
+    "name:nld_x_preferred":[
+        "Tuchola"
+    ],
+    "name:nor_x_preferred":[
+        "Tuchola"
+    ],
+    "name:pol_x_preferred":[
+        "Tuchola"
+    ],
+    "name:por_x_preferred":[
+        "Tuchola"
+    ],
+    "name:ron_x_preferred":[
+        "Tuchola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u043b\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Tuchola"
+    ],
+    "name:spa_x_preferred":[
+        "Tuchola"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tuchola"
+    ],
+    "name:szl_x_preferred":[
+        "Tuchola"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e39\u0e04\u0e2d\u0e25\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u043b\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Tuchola"
+    ],
+    "name:war_x_preferred":[
+        "Tuchola"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u970d\u62c9"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Tuchola",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +140,7 @@
         }
     ],
     "wof:id":1125409071,
-    "wof:lastmodified":1509390213,
+    "wof:lastmodified":1564124962,
     "wof:name":"Tuchola",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

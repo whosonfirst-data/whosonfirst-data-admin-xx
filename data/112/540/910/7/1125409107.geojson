@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u06a9\u0631\u0627\u0634\u0646\u0642\u06a9"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0456\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Kra\u015bnik"
+    ],
+    "name:eus_x_preferred":[
+        "Kra\u015bnik landa-udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u06a9\u0631\u0627\u0634\u0646\u06af\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Kra\u015bnik"
+    ],
+    "name:ita_x_preferred":[
+        "Kra\u015bnik"
+    ],
+    "name:nld_x_preferred":[
+        "Kra\u015bnik"
+    ],
+    "name:pol_x_preferred":[
+        "Kra\u015bnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0438\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Kra\u015bnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0438\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Kra\u015bnik"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Kra\u015bnik",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125409107,
-    "wof:lastmodified":1509390214,
+    "wof:lastmodified":1564125230,
     "wof:name":"Gmina Kra\u015bnik",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lehnice"
+    ],
+    "name:ces_x_preferred":[
+        "Lehnice"
+    ],
+    "name:deu_x_preferred":[
+        "Lehnice"
+    ],
+    "name:epo_x_preferred":[
+        "Lehnice"
+    ],
+    "name:eus_x_preferred":[
+        "Lehnice"
+    ],
+    "name:fra_x_preferred":[
+        "Lehnice"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00e9g"
+    ],
+    "name:ita_x_preferred":[
+        "Lehnice"
+    ],
+    "name:msa_x_preferred":[
+        "Lehnice"
+    ],
+    "name:nld_x_preferred":[
+        "Lehnice"
+    ],
+    "name:por_x_preferred":[
+        "Lehnice"
+    ],
+    "name:ron_x_preferred":[
+        "Lehnice"
+    ],
+    "name:slk_x_preferred":[
+        "Lehnice"
+    ],
+    "name:spa_x_preferred":[
+        "Lehnice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0409\u0435\u0445\u045a\u0438\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0433\u043d\u0456\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Lehnice"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Lehnice",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125343981,
-    "wof:lastmodified":1509388730,
+    "wof:lastmodified":1564122732,
     "wof:name":"Lehnice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

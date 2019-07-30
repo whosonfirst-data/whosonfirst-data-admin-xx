@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0644\u0647\u0648\u062a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:ces_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:deu_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:eus_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647\u0648\u062a\u0627"
+    ],
+    "name:hun_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:ita_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:msa_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:nld_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:por_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:slk_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:spa_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0445\u0443\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lh\u016fta"
+    ],
+    "name:vie_x_preferred":[
+        "Lh\u016fta"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lh\u016fta",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125401529,
-    "wof:lastmodified":1509390067,
+    "wof:lastmodified":1564125122,
     "wof:name":"Lh\u016fta",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

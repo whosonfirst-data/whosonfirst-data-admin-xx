@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Puklice"
+    ],
+    "name:ces_x_preferred":[
+        "Puklice"
+    ],
+    "name:eus_x_preferred":[
+        "Puklice"
+    ],
+    "name:fra_x_preferred":[
+        "Puklice"
+    ],
+    "name:hun_x_preferred":[
+        "Puklice"
+    ],
+    "name:ita_x_preferred":[
+        "Puklice"
+    ],
+    "name:msa_x_preferred":[
+        "Puklice"
+    ],
+    "name:nld_x_preferred":[
+        "Puklice"
+    ],
+    "name:pol_x_preferred":[
+        "Puklice"
+    ],
+    "name:por_x_preferred":[
+        "Puklice"
+    ],
+    "name:slk_x_preferred":[
+        "Puklice"
+    ],
+    "name:spa_x_preferred":[
+        "Puklice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u043a\u043b\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Puklice"
+    ],
+    "name:vie_x_preferred":[
+        "Puklice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Puklice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125365111,
-    "wof:lastmodified":1509389185,
+    "wof:lastmodified":1564124243,
     "wof:name":"Puklice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

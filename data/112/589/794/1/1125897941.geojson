@@ -16,6 +16,126 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u062c\u0646\u062a\u064a\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Port-Jantil"
+    ],
+    "name:bre_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0416\u0430\u043d\u0442\u0438\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:ceb_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:ces_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:dan_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:deu_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:epo_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:fin_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:fra_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:frr_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:grn_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8-\u05d2\u05e0\u05d8\u05d9\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:hun_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:ita_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30eb\u30b8\u30e3\u30f3\u30c6\u30a3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10df\u10d0\u10dc\u10e2\u10d8\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0416\u0430\u043d\u0442\u0438\u043b\u044c"
+    ],
+    "name:kbp_x_preferred":[
+        "P\u0254\u0254r\u0269-Santiiyi"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\uc7a5\ud2f0"
+    ],
+    "name:lat_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:lit_x_preferred":[
+        "Port \u017dantilis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0416\u0430\u043d\u0442\u0438\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:nor_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:pol_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:por_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:ron_x_preferred":[
+        "Mandji"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0416\u0430\u043d\u0442\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:swe_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:tur_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0416\u0430\u043d\u0442\u0456\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u062c\u06cc\u0646\u0679\u0644"
+    ],
+    "name:war_x_preferred":[
+        "Port-Gentil"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8b93\u8482\u723e\u6e2f"
+    ],
+    "name:zho_x_preferred":[
+        "\u8ba9\u8482\u5c14\u6e2f"
+    ],
     "qs_pg:gn_country":"GA",
     "qs_pg:name":"Port-Gentil",
     "qs_pg:name_adm0":"Gabon",
@@ -56,7 +176,7 @@
         }
     ],
     "wof:id":1125897941,
-    "wof:lastmodified":1505248704,
+    "wof:lastmodified":1564123479,
     "wof:name":"Port-Gentil",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

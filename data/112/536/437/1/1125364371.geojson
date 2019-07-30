@@ -16,6 +16,72 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0698\u06cc\u062f\u0644\u0648\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:ceb_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:ces_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:deu_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:eus_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u062f\u0644\u0648\u062e\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:hun_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:ita_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:lav_x_preferred":[
+        "\u017didlohovice"
+    ],
+    "name:msa_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:nld_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:pol_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:por_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0434\u043b\u043e\u0445\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:spa_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0434\u043b\u043e\u0445\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:vie_x_preferred":[
+        "\u017didlochovice"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5fb7\u6d1b\u970d\u7dad\u91c7"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"\u017didlochovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +122,7 @@
         }
     ],
     "wof:id":1125364371,
-    "wof:lastmodified":1509389169,
+    "wof:lastmodified":1564124220,
     "wof:name":"\u017didlochovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

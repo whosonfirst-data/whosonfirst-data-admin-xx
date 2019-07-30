@@ -16,6 +16,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Fermilab"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0645\u064a\u0644\u0627\u0628"
+    ],
+    "name:aze_x_preferred":[
+        "Fermilab"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0438\u043b\u0430\u0431"
+    ],
+    "name:cat_x_preferred":[
+        "Fermilab"
+    ],
+    "name:eus_x_preferred":[
+        "Fermilab"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0632\u0645\u0627\u06cc\u0634\u06af\u0627\u0647 \u0641\u0631\u0645\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Fermilab"
+    ],
+    "name:fra_x_preferred":[
+        "Fermilab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05de\u05d9\u05dc\u05d0\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u0930\u094d\u092e\u0940\u0932\u0948\u092c"
+    ],
+    "name:hun_x_preferred":[
+        "Fermilab"
+    ],
+    "name:ind_x_preferred":[
+        "Fermilab"
+    ],
+    "name:ita_x_preferred":[
+        "Fermilab"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30eb\u30df\u56fd\u7acb\u52a0\u901f\u5668\u7814\u7a76\u6240"
+    ],
+    "name:msa_x_preferred":[
+        "Fermilab"
+    ],
+    "name:nld_x_preferred":[
+        "Fermilab"
+    ],
+    "name:pol_x_preferred":[
+        "Fermilab"
+    ],
+    "name:por_x_preferred":[
+        "Fermilab"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0438\u043b\u0430\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Fermilab"
+    ],
+    "name:swe_x_preferred":[
+        "Fermilab"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1f\u0e23\u0e4c\u0e21\u0e35\u0e41\u0e25\u0e47\u0e1a"
+    ],
+    "name:tur_x_preferred":[
+        "Fermilab"
+    ],
+    "name:vie_x_preferred":[
+        "Fermilab"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d39\u7c73\u56fd\u7acb\u52a0\u901f\u5668\u5b9e\u9a8c\u5ba4"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Fermilab",
     "qs_pg:name_adm0":"United States",
@@ -65,7 +143,7 @@
         }
     ],
     "wof:id":1126093507,
-    "wof:lastmodified":1509411773,
+    "wof:lastmodified":1564124829,
     "wof:name":"Fermilab",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u062a\u0633\u06cc\u06a9\u0647\u0627\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:ces_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:deu_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:eus_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u06cc\u06a9\u0647\u0627\u06cc"
+    ],
+    "name:hun_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:ita_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:msa_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:nld_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:por_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:slk_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:spa_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:swe_x_preferred":[
+        "Cikh\u00e1j"
+    ],
+    "name:vie_x_preferred":[
+        "Cikh\u00e1j"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Cikh\u00e1j",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125417021,
-    "wof:lastmodified":1509390387,
+    "wof:lastmodified":1564125300,
     "wof:name":"Cikh\u00e1j",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

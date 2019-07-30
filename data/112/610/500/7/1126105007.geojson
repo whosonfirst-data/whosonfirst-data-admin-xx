@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Woodhouse"
+    ],
+    "name:fra_x_preferred":[
+        "Woodhouse"
+    ],
+    "name:ita_x_preferred":[
+        "Woodhouse"
+    ],
+    "name:pol_x_preferred":[
+        "Woodhouse"
+    ],
+    "name:swe_x_preferred":[
+        "Woodhouse"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Woodhouse",
     "qs_pg:name_adm0":"United Kingdom",
@@ -39,12 +54,12 @@
     "woe:name_adm1":"England",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        1360698591,
         102191581,
         85633159,
         404227469,
         101750529,
-        1360699075
+        1360699075,
+        1360698591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1126105007,
-    "wof:lastmodified":1547698504,
+    "wof:lastmodified":1564123021,
     "wof:name":"Woodhouse",
     "wof:parent_id":101750529,
     "wof:placetype":"neighbourhood",

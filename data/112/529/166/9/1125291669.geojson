@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Valy"
+    ],
+    "name:ces_x_preferred":[
+        "Valy"
+    ],
+    "name:deu_x_preferred":[
+        "Valy"
+    ],
+    "name:epo_x_preferred":[
+        "Valy"
+    ],
+    "name:fra_x_preferred":[
+        "Valy"
+    ],
+    "name:ita_x_preferred":[
+        "Valy"
+    ],
+    "name:nld_x_preferred":[
+        "Valy"
+    ],
+    "name:pol_x_preferred":[
+        "Valy"
+    ],
+    "name:slk_x_preferred":[
+        "Valy"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Valy",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1125291669,
-    "wof:lastmodified":1534379816,
+    "wof:lastmodified":1564123355,
     "wof:name":"Valy",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

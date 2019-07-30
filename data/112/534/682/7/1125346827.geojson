@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bos_x_preferred":[
+        "Rudice"
+    ],
+    "name:ceb_x_preferred":[
+        "Rudice"
+    ],
+    "name:fra_x_preferred":[
+        "Rudice"
+    ],
+    "name:hrv_x_preferred":[
+        "Rudice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0434\u0438\u0446\u0435"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Rudice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1125346827,
-    "wof:lastmodified":1509388776,
+    "wof:lastmodified":1564122768,
     "wof:name":"Rudice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

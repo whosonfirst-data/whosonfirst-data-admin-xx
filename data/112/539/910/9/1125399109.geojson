@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0627\u0644\u062f\u064a\u0627 \u062f\u064a\u0644 \u0623\u0648\u0628\u064a\u0633\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:cat_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:epo_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:eus_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:fra_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:hun_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:ina_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:ita_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:msa_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:nld_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:oci_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:pol_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:por_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:ron_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:spa_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:uzb_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:vie_x_preferred":[
+        "La Aldea del Obispo"
+    ],
+    "name:war_x_preferred":[
+        "La Aldea del Obispo"
+    ],
     "qs_pg:gn_country":"ES",
     "qs_pg:name":"La Aldea del Obispo",
     "qs_pg:name_adm0":"Espa\u00f1a",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125399109,
-    "wof:lastmodified":1509390016,
+    "wof:lastmodified":1564123982,
     "wof:name":"La Aldea del Obispo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

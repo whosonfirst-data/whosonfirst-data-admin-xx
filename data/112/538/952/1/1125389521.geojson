@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0645\u06cc\u0646\u0627 \u0627\u0648\u0628\u0648\u0631\u0646\u0642\u06a9\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0430\u0440\u043d\u0456\u043a\u0456"
+    ],
+    "name:eus_x_preferred":[
+        "Oborniki udalerria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u06cc\u0646\u0627 \u0627\u0648\u0628\u0648\u0631\u0646\u06af\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Oborniki"
+    ],
+    "name:ita_x_preferred":[
+        "Oborniki"
+    ],
+    "name:nld_x_preferred":[
+        "Oborniki"
+    ],
+    "name:pol_x_preferred":[
+        "Oborniki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u043e\u0440\u043d\u0438\u043a\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Gmina Oborniki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043c\u0456\u043d\u0430 \u041e\u0431\u043e\u0440\u043d\u0438\u043a\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "Oborniki"
+    ],
+    "name:war_x_preferred":[
+        "Gmina Oborniki"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Gmina Oborniki",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125389521,
-    "wof:lastmodified":1509389781,
+    "wof:lastmodified":1564124018,
     "wof:name":"Gmina Oborniki",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

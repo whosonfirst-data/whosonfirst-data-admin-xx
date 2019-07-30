@@ -16,6 +16,90 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ace_x_preferred":[
+        "Hu\u015fi"
+    ],
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0634\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0634 \u060c"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u0448\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipiul Hu\u0219i"
+    ],
+    "name:ces_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:dan_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:deu_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e9"
+    ],
+    "name:hun_x_preferred":[
+        "Huszv\u00e1ros"
+    ],
+    "name:ind_x_preferred":[
+        "Hu\u015fi"
+    ],
+    "name:ita_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:min_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:msa_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:nld_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:pol_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:por_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:ron_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0448\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0425\u0443\u0448\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Hu\u0219i"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0425\u0443\u0448\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0448\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Hu\u015fi"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Hu\u0219i",
     "qs_pg:name_adm0":"Rom\u00e2nia",
@@ -60,7 +144,7 @@
         }
     ],
     "wof:id":1125835275,
-    "wof:lastmodified":1509394937,
+    "wof:lastmodified":1564125391,
     "wof:name":"Hu\u0219i",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

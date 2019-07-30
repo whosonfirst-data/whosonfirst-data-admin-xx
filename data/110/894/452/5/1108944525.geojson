@@ -21,6 +21,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Stenkullen"
+    ],
+    "name:swe_x_preferred":[
+        "Stenkullen"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1108944525,
-    "wof:lastmodified":1529702282,
+    "wof:lastmodified":1564122675,
     "wof:name":"Stenkullen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:por_x_preferred":[
+        "Pedra Redonda"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pedra Redonda",
     "qs_pg:name_adm0":"Brasil",
@@ -39,11 +42,11 @@
     "woe:name_adm1":"Rio Grande do Sul",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85682015,
         102191577,
         85633009,
         101960525,
-        102059767,
-        85682015
+        102059767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1126106877,
-    "wof:lastmodified":1509412415,
+    "wof:lastmodified":1564122965,
     "wof:name":"Pedra Redonda",
     "wof:parent_id":101960525,
     "wof:placetype":"neighbourhood",

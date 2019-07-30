@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:ceb_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:deu_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:fra_x_preferred":[
+        "Baie Sainte-Anne"
+    ],
+    "name:ind_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:ita_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4-\u10e1\u10d4\u10dc\u10e2-\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc0dd\ud2b8\uc548 \uad6c"
+    ],
+    "name:msa_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:nld_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:pol_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Baie Sainte Anne"
+    ],
+    "name:swe_x_preferred":[
+        "Baie Sainte Anne"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u8056\u5b89\u90a3\u5340"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Baie Sainte Anne",
     "qs_pg:name_adm0":"Seychelles",
@@ -56,7 +98,7 @@
         }
     ],
     "wof:id":1125820417,
-    "wof:lastmodified":1509394055,
+    "wof:lastmodified":1564124936,
     "wof:name":"Baie Sainte Anne",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0641\u0644\u0628\u0627\u0628\u06a9\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Felbabka"
+    ],
+    "name:ces_x_preferred":[
+        "Felbabka"
+    ],
+    "name:deu_x_preferred":[
+        "Felbabka"
+    ],
+    "name:eus_x_preferred":[
+        "Felbabka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u0628\u0627\u0628\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Felbabka"
+    ],
+    "name:hun_x_preferred":[
+        "Felbabka"
+    ],
+    "name:ita_x_preferred":[
+        "Felbabka"
+    ],
+    "name:msa_x_preferred":[
+        "Felbabka"
+    ],
+    "name:nld_x_preferred":[
+        "Felbabka"
+    ],
+    "name:oci_x_preferred":[
+        "Felbabka"
+    ],
+    "name:pol_x_preferred":[
+        "Felbabka"
+    ],
+    "name:por_x_preferred":[
+        "Felbabka"
+    ],
+    "name:slk_x_preferred":[
+        "Felbabka"
+    ],
+    "name:spa_x_preferred":[
+        "Felbabka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u043b\u0431\u0430\u043f\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Felbabka"
+    ],
+    "name:vie_x_preferred":[
+        "Felbabka"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Felbabka",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125291091,
-    "wof:lastmodified":1509387532,
+    "wof:lastmodified":1564123405,
     "wof:name":"Felbabka",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

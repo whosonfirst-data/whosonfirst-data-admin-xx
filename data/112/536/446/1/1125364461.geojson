@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:ceb_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:deu_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:epo_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:fra_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:glg_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05e1\u05e0\u05d9\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9cc\uc0ac\ub2c8\uc694"
+    ],
+    "name:lit_x_preferred":[
+        "Mansaniljas"
+    ],
+    "name:nld_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:oci_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:pol_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0441\u0430\u043d\u0438\u043b\u044c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:swe_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0441\u0430\u043d\u0456\u043b\u044c\u0439\u043e"
+    ],
     "qs_pg:gn_country":"CR",
     "qs_pg:name":"Manzanillo",
     "qs_pg:name_adm0":"Costa Rica",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125364461,
-    "wof:lastmodified":1505248111,
+    "wof:lastmodified":1564124210,
     "wof:name":"Manzanillo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

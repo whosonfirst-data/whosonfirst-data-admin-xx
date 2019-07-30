@@ -16,6 +16,105 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0406\u043b\u0430\u0432\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043b\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:ces_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:deu_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:epo_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:est_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:eus_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0627\u0648\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:hun_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:ind_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:ita_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:jav_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ef\u30f4\u30a1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc640\ubc14"
+    ],
+    "name:lav_x_preferred":[
+        "Ilava"
+    ],
+    "name:lit_x_preferred":[
+        "Ylava"
+    ],
+    "name:msa_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:nld_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:nor_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:pol_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:por_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:ron_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0430\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:spa_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043b\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0430\u0432\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:war_x_preferred":[
+        "I\u0142awa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u74e6\u74e6"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"I\u0142awa",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +155,7 @@
         }
     ],
     "wof:id":1125412365,
-    "wof:lastmodified":1509390292,
+    "wof:lastmodified":1564125345,
     "wof:name":"I\u0142awa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

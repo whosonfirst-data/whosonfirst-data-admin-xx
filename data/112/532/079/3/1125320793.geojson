@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:msa_x_preferred":[
+        "Bongek"
+    ],
     "qs_pg:gn_country":"MY",
     "qs_pg:name":"Bongek",
     "qs_pg:name_adm0":"Malaysia",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1125320793,
-    "wof:lastmodified":1505248044,
+    "wof:lastmodified":1564122897,
     "wof:name":"Bongek",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

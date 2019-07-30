@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0646\u0647\u0648\u0644\u062a\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Rynholec"
+    ],
+    "name:ces_x_preferred":[
+        "Rynholec"
+    ],
+    "name:eus_x_preferred":[
+        "Rynholec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0646\u0647\u0648\u0644\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Rynholec"
+    ],
+    "name:hun_x_preferred":[
+        "Rynholec"
+    ],
+    "name:ita_x_preferred":[
+        "Rynholec"
+    ],
+    "name:msa_x_preferred":[
+        "Rynholec"
+    ],
+    "name:nld_x_preferred":[
+        "Rynholec"
+    ],
+    "name:por_x_preferred":[
+        "Rynholec"
+    ],
+    "name:slk_x_preferred":[
+        "Rynholec"
+    ],
+    "name:spa_x_preferred":[
+        "Rynholec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043d\u0445\u043e\u043b\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Rynholec"
+    ],
+    "name:vie_x_preferred":[
+        "Rynholec"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Rynholec",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125403203,
-    "wof:lastmodified":1509390104,
+    "wof:lastmodified":1564125206,
     "wof:name":"Rynholec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u0647\u0631\u0648\u0632\u0646\u06a9\u0648\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:ces_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:deu_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:eus_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u0647\u0631\u0648\u0632\u0646\u06a9\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:hun_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:ita_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:msa_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:nld_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:pol_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:por_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:slk_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:spa_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0425\u0440\u043e\u0437\u0435\u043d\u043a\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
+    "name:vie_x_preferred":[
+        "Star\u00fd Hrozenkov"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Star\u00fd Hrozenkov",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125404869,
-    "wof:lastmodified":1509390136,
+    "wof:lastmodified":1564125146,
     "wof:name":"Star\u00fd Hrozenkov",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

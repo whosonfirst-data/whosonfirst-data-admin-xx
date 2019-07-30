@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0628\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:ces_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:epo_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:eus_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0628\u06a9\u0648\u0648\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:hun_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:ita_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:msa_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:nld_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:pol_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:por_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:slk_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:spa_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043f\u043a\u043e\u0432\u0438\u0446\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sobkovice"
+    ],
+    "name:vie_x_preferred":[
+        "Sobkovice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Sobkovice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125269795,
-    "wof:lastmodified":1509386988,
+    "wof:lastmodified":1564123237,
     "wof:name":"Sobkovice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

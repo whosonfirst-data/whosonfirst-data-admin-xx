@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0646\u0632\u062f\u0631\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:ces_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:deu_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:eus_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0632\u062f\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:hun_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:ita_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:msa_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:nld_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:pol_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:por_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:slk_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:spa_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u0437\u0434\u0440\u0435\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Nezd\u0159ev"
+    ],
+    "name:vie_x_preferred":[
+        "Nezd\u0159ev"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Nezd\u0159ev",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125377303,
-    "wof:lastmodified":1509389489,
+    "wof:lastmodified":1564123578,
     "wof:name":"Nezd\u0159ev",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

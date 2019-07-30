@@ -16,6 +16,258 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Dawid"
+    ],
+    "name:als_x_preferred":[
+        "K\u00f6nig David"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "David"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0648\u0648\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Davud"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u0430\u0443\u044b\u0442"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u0432\u044b\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u0989\u09a6"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f51\u0f71\u0f0b\u0f56\u0f72\u0f51\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Kralj David"
+    ],
+    "name:bre_x_preferred":[
+        "David"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "David"
+    ],
+    "name:cdo_x_preferred":[
+        "D\u00e2i-b\u012dk U\u00f2ng"
+    ],
+    "name:ces_x_preferred":[
+        "David"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u0432\u0443\u0434"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0627\u0648\u0648\u062f"
+    ],
+    "name:cym_x_preferred":[
+        "Dafydd"
+    ],
+    "name:dan_x_preferred":[
+        "Kong David"
+    ],
+    "name:deu_x_preferred":[
+        "David"
+    ],
+    "name:diq_x_preferred":[
+        "Dawud"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b1\u03b2\u03af\u03b4"
+    ],
+    "name:epo_x_preferred":[
+        "Davido"
+    ],
+    "name:est_x_preferred":[
+        "Taavet"
+    ],
+    "name:eus_x_preferred":[
+        "David"
+    ],
+    "name:fao_x_preferred":[
+        "D\u00e1vid"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0648\u0648\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Daavid"
+    ],
+    "name:fra_x_preferred":[
+        "David"
+    ],
+    "name:fur_x_preferred":[
+        "Davide"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00e1iv\u00ed"
+    ],
+    "name:glg_x_preferred":[
+        "David"
+    ],
+    "name:hak_x_preferred":[
+        "Thai-v\u00ed-v\u00f2ng"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0909\u0926"
+    ],
+    "name:hrv_x_preferred":[
+        "Kralj David"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u057e\u056b\u0569"
+    ],
+    "name:ind_x_preferred":[
+        "Daud"
+    ],
+    "name:isl_x_preferred":[
+        "Dav\u00ed\u00f0 konungur"
+    ],
+    "name:ita_x_preferred":[
+        "Davide"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30d3\u30c7"
+    ],
+    "name:kab_x_preferred":[
+        "Dawed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10d5\u10d8\u10d7\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u04d9\u0443\u0456\u0442 \u041f\u0430\u0439\u0493\u0430\u043c\u0431\u0430\u0440"
+    ],
+    "name:kur_x_preferred":[
+        "Dawid"
+    ],
+    "name:lat_x_preferred":[
+        "David"
+    ],
+    "name:lav_x_preferred":[
+        "D\u0101vids"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0414\u0430\u0432\u0443\u0434 \u0438\u0434\u0430\u0432\u0441"
+    ],
+    "name:lit_x_preferred":[
+        "Dovydas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d26\u0d3e\u0d35\u0d40\u0d26\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:mlg_x_preferred":[
+        "Davida"
+    ],
+    "name:mon_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u1031\u1038\u1017\u1005\u103a\u1018\u102f\u101b\u1004\u103a"
+    ],
+    "name:nld_x_preferred":[
+        "Koning David"
+    ],
+    "name:nor_x_preferred":[
+        "Kong David"
+    ],
+    "name:oci_x_preferred":[
+        "D\u00e0vid"
+    ],
+    "name:pdc_x_preferred":[
+        "Daafit"
+    ],
+    "name:pol_x_preferred":[
+        "Dawid"
+    ],
+    "name:por_x_preferred":[
+        "David"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f\u0627\u0648\u0648\u062f"
+    ],
+    "name:ron_x_preferred":[
+        "David"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "David"
+    ],
+    "name:slk_x_preferred":[
+        "D\u00e1vid"
+    ],
+    "name:spa_x_preferred":[
+        "David"
+    ],
+    "name:sqi_x_preferred":[
+        "Mbreti David"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Daudi"
+    ],
+    "name:swe_x_preferred":[
+        "Kung David"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0bb5\u0bc0\u0ba4\u0bc1 \u0b85\u0bb0\u0b9a\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0430\u0432\u044b\u0442 \u043f\u04d9\u0439\u0433\u0430\u043c\u0431\u04d9\u0440"
+    ],
+    "name:tgl_x_preferred":[
+        "David"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e32\u0e27\u0e34\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Davud"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0624\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "David"
+    ],
+    "name:war_x_preferred":[
+        "David"
+    ],
+    "name:wol_x_preferred":[
+        "Daawuda"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u536b\u738b"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d5\u05d3 \u05d4\u05de\u05dc\u05da"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u885b\u738b"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"David",
     "qs_pg:name_adm0":"Guadeloupe",
@@ -56,7 +308,7 @@
         }
     ],
     "wof:id":1126018975,
-    "wof:lastmodified":1509407100,
+    "wof:lastmodified":1564124526,
     "wof:name":"David",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

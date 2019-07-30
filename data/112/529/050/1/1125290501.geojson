@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0634\u062a\u06cc\u062a\u0633-\u0647\u0631\u0648\u0644\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:ces_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:deu_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:eus_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0634\u062a\u06cc\u062a\u0633-\u0647\u0631\u0648\u0644\u062a\u06cc\u062a\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:hun_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:ita_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:msa_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:nld_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:por_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:slk_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:spa_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0448\u0442\u0438\u0446\u0435-\u0425\u0435\u0440\u043e\u043b\u0442\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Ho\u0161tice-Heroltice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Ho\u0161tice-Heroltice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125290501,
-    "wof:lastmodified":1509387519,
+    "wof:lastmodified":1564123427,
     "wof:name":"Ho\u0161tice-Heroltice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Igram"
+    ],
+    "name:ces_x_preferred":[
+        "Igram"
+    ],
+    "name:deu_x_preferred":[
+        "Igram"
+    ],
+    "name:epo_x_preferred":[
+        "Igram"
+    ],
+    "name:eus_x_preferred":[
+        "Igram"
+    ],
+    "name:fra_x_preferred":[
+        "Igram"
+    ],
+    "name:hun_x_preferred":[
+        "Igr\u00e1m"
+    ],
+    "name:ita_x_preferred":[
+        "Igram"
+    ],
+    "name:msa_x_preferred":[
+        "Igram"
+    ],
+    "name:nld_x_preferred":[
+        "Igram"
+    ],
+    "name:por_x_preferred":[
+        "Igram"
+    ],
+    "name:ron_x_preferred":[
+        "Igram"
+    ],
+    "name:slk_x_preferred":[
+        "Igram"
+    ],
+    "name:spa_x_preferred":[
+        "Igram"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0433\u0440\u0430\u043c"
+    ],
+    "name:war_x_preferred":[
+        "Igram"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Igram",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125274819,
-    "wof:lastmodified":1509387126,
+    "wof:lastmodified":1564123321,
     "wof:name":"Igram",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

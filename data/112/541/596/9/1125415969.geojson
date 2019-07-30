@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pedro Gonz\u00e1lez"
+    ],
+    "name:fra_x_preferred":[
+        "Pedro Gonzalez"
+    ],
+    "name:ita_x_preferred":[
+        "Pedro Gonz\u00e1lez"
+    ],
+    "name:spa_x_preferred":[
+        "Pedro Gonz\u00e1lez"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"Pedro Gonzalez",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1125415969,
-    "wof:lastmodified":1509390365,
+    "wof:lastmodified":1564125306,
     "wof:name":"Pedro Gonzalez",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

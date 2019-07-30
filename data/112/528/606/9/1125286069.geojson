@@ -16,6 +16,99 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u0631\u0648\u062f\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0420\u0443\u0434\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:dan_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:deu_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:epo_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:eus_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u0631\u0648\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:fra_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d1\u05d4 \u05e8\u05d5\u05d3\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:jav_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ubc14\ub8e8\ub2e4"
+    ],
+    "name:lav_x_preferred":[
+        "Nova Ruda"
+    ],
+    "name:lit_x_preferred":[
+        "Naujoji Ruda"
+    ],
+    "name:msa_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:nld_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:pol_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:por_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:ron_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430-\u0420\u0443\u0434\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:spa_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0420\u0443\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:szl_x_preferred":[
+        "Nowo Ruda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0420\u0443\u0434\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:war_x_preferred":[
+        "Nowa Ruda"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u9b6f\u9054"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Nowa Ruda",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +149,7 @@
         }
     ],
     "wof:id":1125286069,
-    "wof:lastmodified":1509387424,
+    "wof:lastmodified":1564123210,
     "wof:name":"Nowa Ruda",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

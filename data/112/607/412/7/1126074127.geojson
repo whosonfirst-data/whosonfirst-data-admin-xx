@@ -18,8 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lo Borg"
+    ],
+    "name:ceb_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:deu_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:eus_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644 \u0628\u0648\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Le Bourg"
+    ],
     "name:fra_x_preferred":[
         "Le Bourg"
+    ],
+    "name:hun_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:ita_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:lat_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:msa_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:nld_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:oci_x_preferred":[
+        "Lo Borg"
+    ],
+    "name:pms_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:pol_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:por_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:ron_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:slk_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:spa_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u0411\u0443\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:vol_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:war_x_preferred":[
+        "Le Bourg"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u5e03\u5c14"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:gn_fcode":"PPLX",
@@ -85,7 +160,7 @@
         }
     ],
     "wof:id":1126074127,
-    "wof:lastmodified":1531422152,
+    "wof:lastmodified":1564124577,
     "wof:name":"Le Bourg",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

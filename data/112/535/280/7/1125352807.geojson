@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:deu_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0633\u0646\u0627\u06cc\u0634"
+    ],
+    "name:fra_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:hun_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:ita_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u0442\u0446\u0435\u043d\u0430\u0439\u0445"
+    ],
+    "name:nld_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:pol_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:por_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0446\u0435\u043d\u0430\u0439\u0445"
+    ],
+    "name:slk_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:spa_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:swe_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:uzb_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:vie_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:vol_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:war_x_preferred":[
+        "Utzenaich"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u7b56\u5948\u5e0c"
+    ],
     "qs_pg:gn_country":"AT",
     "qs_pg:name":"Utzenaich",
     "qs_pg:name_adm0":"\u00d6sterreich",
@@ -56,7 +113,7 @@
         }
     ],
     "wof:id":1125352807,
-    "wof:lastmodified":1509388885,
+    "wof:lastmodified":1564122815,
     "wof:name":"Utzenaich",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

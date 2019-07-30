@@ -16,6 +16,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u0987\u099f\u09be\u0997\u09c1\u09f1\u09be\u0995\u09c1"
+    ],
+    "name:epo_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:eus_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:fra_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057f\u0561\u0563\u0578\u0582\u0561\u057d\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e2\u10d0\u10d2\u10e3\u10d0\u10e1\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0442\u0430\u0433\u0443\u0430\u0441\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:nor_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:pol_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:por_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:ron_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0442\u0430\u0433\u0443\u0430\u0441\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:vie_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:vol_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:war_x_preferred":[
+        "Itagua\u00e7u"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5854\u74dc\u8607"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Itagua\u00e7u",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +96,12 @@
     "woe:name_adm1":"Santa Catarina",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565395,
         85633009,
         101958175,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +123,7 @@
         }
     ],
     "wof:id":1126085095,
-    "wof:lastmodified":1509411362,
+    "wof:lastmodified":1564124380,
     "wof:name":"Itagua\u00e7u",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",

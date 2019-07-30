@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0647\u0631\u06cc\u0628\u0648\u06cc\u062f\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:ces_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:deu_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:eus_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u06cc\u0628\u0648\u06cc\u062f\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:hun_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:ita_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:msa_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:nld_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:pol_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:por_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:slk_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:spa_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0440\u0438\u0431\u043e\u0458\u0435\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "H\u0159ibojedy"
+    ],
+    "name:vie_x_preferred":[
+        "H\u0159ibojedy"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"H\u0159ibojedy",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125359983,
-    "wof:lastmodified":1509389051,
+    "wof:lastmodified":1564122802,
     "wof:name":"H\u0159ibojedy",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

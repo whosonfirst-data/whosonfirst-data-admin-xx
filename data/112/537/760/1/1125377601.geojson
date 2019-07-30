@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Brunovce"
+    ],
+    "name:ces_x_preferred":[
+        "Brunovce"
+    ],
+    "name:deu_x_preferred":[
+        "Brunovce"
+    ],
+    "name:epo_x_preferred":[
+        "Brunovce"
+    ],
+    "name:eus_x_preferred":[
+        "Brunovce"
+    ],
+    "name:fra_x_preferred":[
+        "Brunovce"
+    ],
+    "name:hun_x_preferred":[
+        "Brun\u00f3c"
+    ],
+    "name:ita_x_preferred":[
+        "Brunovce"
+    ],
+    "name:msa_x_preferred":[
+        "Brunovce"
+    ],
+    "name:nld_x_preferred":[
+        "Brunovce"
+    ],
+    "name:pol_x_preferred":[
+        "Brunovce"
+    ],
+    "name:ron_x_preferred":[
+        "Brunovce"
+    ],
+    "name:slk_x_preferred":[
+        "Brunovce"
+    ],
+    "name:spa_x_preferred":[
+        "Brunovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0443\u043d\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Brunovce"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Brunovce",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125377601,
-    "wof:lastmodified":1509389497,
+    "wof:lastmodified":1564123653,
     "wof:name":"Brunovce",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,132 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Lobito"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0628\u064a\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Llob\u00edn"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0628\u06cc\u062a\u0648"
+    ],
+    "name:bre_x_preferred":[
+        "Lobito"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0431\u0438\u0442\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Lobito"
+    ],
+    "name:ceb_x_preferred":[
+        "Lobito"
+    ],
+    "name:ces_x_preferred":[
+        "Lobito"
+    ],
+    "name:dan_x_preferred":[
+        "Lobito"
+    ],
+    "name:deu_x_preferred":[
+        "Lobito"
+    ],
+    "name:epo_x_preferred":[
+        "Lobito"
+    ],
+    "name:eus_x_preferred":[
+        "Lobito"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0628\u06cc\u062a\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Lobito"
+    ],
+    "name:fra_x_preferred":[
+        "Lobito"
+    ],
+    "name:hau_x_preferred":[
+        "Lobito"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d9\u05d8\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Lobito"
+    ],
+    "name:ido_x_preferred":[
+        "Lobito"
+    ],
+    "name:ind_x_preferred":[
+        "Lobito"
+    ],
+    "name:ita_x_preferred":[
+        "Lobito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30d3\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10d1\u10d8\u10e2\u10e3"
+    ],
+    "name:kon_x_preferred":[
+        "Lubitu"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ube44\ud22c"
+    ],
+    "name:lat_x_preferred":[
+        "Lobito"
+    ],
+    "name:lit_x_preferred":[
+        "Lobitas"
+    ],
+    "name:nah_x_preferred":[
+        "Lobito"
+    ],
+    "name:nld_x_preferred":[
+        "Lobito"
+    ],
+    "name:nor_x_preferred":[
+        "Lobito"
+    ],
+    "name:pol_x_preferred":[
+        "Lobito"
+    ],
+    "name:por_x_preferred":[
+        "Lobito"
+    ],
+    "name:ron_x_preferred":[
+        "Lobito"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0431\u0438\u0442\u0443"
+    ],
+    "name:slk_x_preferred":[
+        "Lobito"
+    ],
+    "name:spa_x_preferred":[
+        "Lobito"
+    ],
+    "name:swe_x_preferred":[
+        "Lobito"
+    ],
+    "name:tgl_x_preferred":[
+        "Lobito"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0431\u0456\u0442\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Lobito"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u6bd4\u6258"
+    ],
     "qs_pg:gn_country":"AO",
     "qs_pg:name":"Lobito",
     "qs_pg:name_adm0":"Angola",
@@ -56,7 +182,7 @@
         }
     ],
     "wof:id":1125897791,
-    "wof:lastmodified":1505248704,
+    "wof:lastmodified":1564123478,
     "wof:name":"Lobito",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Lhota"
+    ],
+    "name:deu_x_preferred":[
+        "Lhota"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lhota",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1125393595,
-    "wof:lastmodified":1534379827,
+    "wof:lastmodified":1564123872,
     "wof:name":"Lhota",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

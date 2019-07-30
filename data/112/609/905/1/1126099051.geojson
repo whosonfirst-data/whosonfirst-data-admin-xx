@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bpy_x_preferred":[
+        "\u09b0\u09c7\u09ac\u09cc\u0995\u09be\u09b8"
+    ],
+    "name:epo_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:eus_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:fra_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:ita_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10d1\u10dd\u10e1\u10d0\u10e1\u10d8"
+    ],
+    "name:mlg_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:nld_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:nor_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:pol_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:por_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:ron_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0431\u043e\u0441\u0430\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:vol_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:war_x_preferred":[
+        "Rebou\u00e7as"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u6ce2\u8428\u65af"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Rebou\u00e7as",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +90,12 @@
     "woe:name_adm1":"Paran\u00e1",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681983,
         102191577,
         404561111,
         85633009,
         101957995,
-        102057617
+        102057617,
+        85681983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +117,7 @@
         }
     ],
     "wof:id":1126099051,
-    "wof:lastmodified":1509412024,
+    "wof:lastmodified":1564124848,
     "wof:name":"Rebou\u00e7as",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",

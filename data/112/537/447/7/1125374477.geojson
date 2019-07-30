@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sekule"
+    ],
+    "name:ces_x_preferred":[
+        "Sekule"
+    ],
+    "name:deu_x_preferred":[
+        "Sekule"
+    ],
+    "name:epo_x_preferred":[
+        "Sekule"
+    ],
+    "name:eus_x_preferred":[
+        "Sekule"
+    ],
+    "name:fra_x_preferred":[
+        "Sekule"
+    ],
+    "name:hun_x_preferred":[
+        "Sz\u00e9kelyfalva"
+    ],
+    "name:ita_x_preferred":[
+        "Sekule"
+    ],
+    "name:msa_x_preferred":[
+        "Sekule"
+    ],
+    "name:nld_x_preferred":[
+        "Sekule"
+    ],
+    "name:por_x_preferred":[
+        "Sekule"
+    ],
+    "name:ron_x_preferred":[
+        "Sekule"
+    ],
+    "name:slk_x_preferred":[
+        "Sekule"
+    ],
+    "name:spa_x_preferred":[
+        "Sekule"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043a\u0443\u0459\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Sekule"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Sekule",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125374477,
-    "wof:lastmodified":1509389420,
+    "wof:lastmodified":1564123590,
     "wof:name":"Sekule",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

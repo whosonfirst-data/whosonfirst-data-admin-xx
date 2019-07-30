@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "La Garceana"
+    ],
+    "name:spa_x_preferred":[
+        "La Garceana"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u52a0\u723e\u585e\u963f\u7d0d"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"La Garceana",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1125413687,
-    "wof:lastmodified":1509390325,
+    "wof:lastmodified":1564125302,
     "wof:name":"La Garceana",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

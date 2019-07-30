@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:deu_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:epo_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:eus_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:fra_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:hun_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:ita_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:msa_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:nld_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:pol_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:por_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:slk_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:spa_x_preferred":[
+        "Lito\u0161ice"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0442\u043e\u0448\u0438\u0446\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Lito\u0161ice"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lito\u0161ice",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125392353,
-    "wof:lastmodified":1509389849,
+    "wof:lastmodified":1564123813,
     "wof:name":"Lito\u0161ice",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

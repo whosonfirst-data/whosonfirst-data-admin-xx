@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:ces_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:deu_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:epo_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:eus_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:fra_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:hun_x_preferred":[
+        "Szedmer\u0151c"
+    ],
+    "name:ita_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:msa_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:nld_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:ron_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:slk_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:spa_x_preferred":[
+        "Sedmerovec"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0434\u043c\u0435\u0440\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0434\u043c\u0435\u0440\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:war_x_preferred":[
+        "Sedmerovec"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Sedmerovec",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125421739,
-    "wof:lastmodified":1509390494,
+    "wof:lastmodified":1564123532,
     "wof:name":"Sedmerovec",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

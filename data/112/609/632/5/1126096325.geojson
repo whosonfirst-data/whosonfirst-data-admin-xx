@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Franklin Canyon"
+    ],
+    "name:fra_x_preferred":[
+        "Franklin Canyon"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Franklin Canyon",
     "qs_pg:name_adm0":"United States",
@@ -39,10 +45,10 @@
     "woe:name_adm1":"California",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688637,
         102191575,
         85633793,
-        102086225,
-        85688637
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1126096325,
-    "wof:lastmodified":1509411900,
+    "wof:lastmodified":1564124791,
     "wof:name":"Franklin Canyon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

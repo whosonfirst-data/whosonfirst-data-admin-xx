@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u062c\u0634\u0647 \u0648\u06cc\u0644\u06a9\u06cc\u0647"
+    ],
+    "name:deu_x_preferred":[
+        "Godziesze Wielkie"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u062c\u0634\u0647 \u0648\u06cc\u0644\u06a9\u06cc\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Godziesze Wielkie"
+    ],
+    "name:pol_x_preferred":[
+        "Godziesze Wielkie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043e\u0434\u0437\u0435\u0448\u0435-\u0412\u0435\u043b\u0438\u043a\u0456"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Godziesze Wielkie",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1125410081,
-    "wof:lastmodified":1509390238,
+    "wof:lastmodified":1564125284,
     "wof:name":"Godziesze Wielkie",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

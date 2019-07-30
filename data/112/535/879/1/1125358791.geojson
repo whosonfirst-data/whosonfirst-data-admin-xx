@@ -16,6 +16,54 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Studienka"
+    ],
+    "name:ces_x_preferred":[
+        "Studienka"
+    ],
+    "name:deu_x_preferred":[
+        "Studienka"
+    ],
+    "name:epo_x_preferred":[
+        "Studienka"
+    ],
+    "name:eus_x_preferred":[
+        "Studienka"
+    ],
+    "name:fra_x_preferred":[
+        "Studienka"
+    ],
+    "name:hun_x_preferred":[
+        "Szentistv\u00e1nk\u00fat"
+    ],
+    "name:ita_x_preferred":[
+        "Studienka"
+    ],
+    "name:msa_x_preferred":[
+        "Studienka"
+    ],
+    "name:nld_x_preferred":[
+        "Studienka"
+    ],
+    "name:por_x_preferred":[
+        "Studienka"
+    ],
+    "name:ron_x_preferred":[
+        "Studienka"
+    ],
+    "name:slk_x_preferred":[
+        "Studienka"
+    ],
+    "name:spa_x_preferred":[
+        "Studienka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0458\u0435\u043d\u043a\u0430"
+    ],
+    "name:war_x_preferred":[
+        "Studienka"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Studienka",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +104,7 @@
         }
     ],
     "wof:id":1125358791,
-    "wof:lastmodified":1509389021,
+    "wof:lastmodified":1564122860,
     "wof:name":"Studienka",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

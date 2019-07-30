@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Clearwater Lake"
+    ],
+    "name:deu_x_preferred":[
+        "Clearwater Lake"
+    ],
+    "name:swe_x_preferred":[
+        "Clearwater Lake"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Clearwater Lake",
     "qs_pg:name_adm0":"United States",
@@ -39,10 +48,10 @@
     "woe:name_adm1":"North Carolina",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85688773,
         102191575,
         85633793,
-        102087647,
-        85688773
+        102087647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1126104223,
-    "wof:lastmodified":1509412291,
+    "wof:lastmodified":1564122959,
     "wof:name":"Clearwater Lake",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

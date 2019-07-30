@@ -16,6 +16,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Harichovce"
+    ],
+    "name:ces_x_preferred":[
+        "Harichovce"
+    ],
+    "name:deu_x_preferred":[
+        "Harichovce"
+    ],
+    "name:epo_x_preferred":[
+        "Harichovce"
+    ],
+    "name:eus_x_preferred":[
+        "Harichovce"
+    ],
+    "name:fra_x_preferred":[
+        "Harichovce"
+    ],
+    "name:hun_x_preferred":[
+        "P\u00e1lmafalva"
+    ],
+    "name:ita_x_preferred":[
+        "Harichovce"
+    ],
+    "name:msa_x_preferred":[
+        "Harichovce"
+    ],
+    "name:nld_x_preferred":[
+        "Harichovce"
+    ],
+    "name:pol_x_preferred":[
+        "Harichovce"
+    ],
+    "name:ron_x_preferred":[
+        "Harichovce"
+    ],
+    "name:slk_x_preferred":[
+        "Harichovce"
+    ],
+    "name:spa_x_preferred":[
+        "Harichovce"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u0440\u0438\u0445\u043e\u0432\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0456\u0445\u043e\u0432\u0446\u0435"
+    ],
+    "name:war_x_preferred":[
+        "Harichovce"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Harichovce",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +107,7 @@
         }
     ],
     "wof:id":1125394575,
-    "wof:lastmodified":1509389906,
+    "wof:lastmodified":1564123947,
     "wof:name":"Harichovce",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

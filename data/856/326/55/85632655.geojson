@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005674,
-    "geom:area_square_m":60634887.079664,
+    "geom:area_square_m":60634887.079673,
     "geom:bbox":"80.91926193,30.179745052,81.044789,30.2467677",
     "geom:latitude":30.212778,
     "geom:longitude":80.977492,
@@ -23,6 +23,9 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Om Parvat"
+    ],
     "name:eng_x_preferred":[
         "Disputed Territory"
     ],
@@ -32,11 +35,20 @@
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:hin_x_preferred":[
+        "\u0913\u092e \u092a\u0930\u094d\u0935\u0924"
+    ],
     "name:jpn_x_preferred":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
     ],
+    "name:kan_x_preferred":[
+        "\u0c93\u0c82 \u0caa\u0cb0\u0ccd\u0cb5\u0ca4"
+    ],
     "name:kor_x_preferred":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d13\u0d02 \u0d2a\u0d7c\u0d35\u0d4d\u0d35\u0d24\u0d02"
     ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
@@ -44,11 +56,20 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c \u041f\u0430\u0440\u0432\u0430\u0442"
+    ],
     "name:swe_x_colloquial":[
         "Omtvistat omrade"
     ],
     "name:swe_x_preferred":[
         "Omtvistat omr\u00e5de"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b93\u0bae\u0bcd \u0baa\u0bb0\u0bcd\u0bb5\u0ba4\u0bae\u0bcd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043c \u041f\u0430\u0440\u0432\u0430\u0442"
     ],
     "name:zho_x_preferred":[
         "\u6709\u722d\u8b70\u7684\u9818\u571f"
@@ -191,7 +212,7 @@
         }
     ],
     "wof:id":85632655,
-    "wof:lastmodified":1528909936,
+    "wof:lastmodified":1564122670,
     "wof:name":"Om Parvat",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -16,6 +16,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u062a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:ces_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:deu_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:eus_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:hun_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:ita_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0442\u0435\u045a"
+    ],
+    "name:msa_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:nld_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:oci_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:pol_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:por_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:slk_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:spa_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0442\u0435\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Lite\u0148"
+    ],
+    "name:vie_x_preferred":[
+        "Lite\u0148"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lite\u0148",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1125399077,
-    "wof:lastmodified":1509390015,
+    "wof:lastmodified":1564123748,
     "wof:name":"Lite\u0148",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

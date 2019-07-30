@@ -16,6 +16,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:deu_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:epo_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:fra_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:jav_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:lav_x_preferred":[
+        "Mero\u0161ova"
+    ],
+    "name:msa_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:nld_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:pol_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:por_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:ron_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u043e\u0448\u0443\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0458\u0435\u0440\u043e\u0448\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u043e\u0448\u0443\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Mierosz\u00f3w"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u7f85\u8212\u592b"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Mierosz\u00f3w",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +110,7 @@
         }
     ],
     "wof:id":1125374235,
-    "wof:lastmodified":1509389414,
+    "wof:lastmodified":1564123617,
     "wof:name":"Mierosz\u00f3w",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

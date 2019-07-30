@@ -16,6 +16,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:deu_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:fra_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:ita_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:nds_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:nld_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:oci_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:pms_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:pol_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:por_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0432\u044c\u0435\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:spa_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:swe_x_preferred":[
+        "Favi\u00e8res"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0432'\u0454\u0440"
+    ],
     "qs_pg:gn_country":"FR",
     "qs_pg:name":"Favi\u00e8res",
     "qs_pg:name_adm0":"France",
@@ -56,7 +101,7 @@
         }
     ],
     "wof:id":1125273783,
-    "wof:lastmodified":1505247954,
+    "wof:lastmodified":1564123308,
     "wof:name":"Favi\u00e8res",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

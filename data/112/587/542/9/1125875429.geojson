@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:vie_x_preferred":[
+        "Sungei Kadut"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Sungei Kadut",
     "qs_pg:name_adm0":"Singapore",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125875429,
-    "wof:lastmodified":1509397682,
+    "wof:lastmodified":1564123569,
     "wof:name":"Sungei Kadut",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Jos\u00e9 Mendes"
+    ],
+    "name:fra_x_preferred":[
+        "Jos\u00e9 Mendes"
+    ],
+    "name:por_x_preferred":[
+        "Jos\u00e9 Mendes"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Jos\u00e9 Mendes",
     "qs_pg:name_adm0":"Brasil",
@@ -39,12 +48,12 @@
     "woe:name_adm1":"Santa Catarina",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85682021,
         102191577,
         404565395,
         85633009,
         101958175,
-        102060383
+        102060383,
+        85682021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1126085109,
-    "wof:lastmodified":1509411362,
+    "wof:lastmodified":1564124359,
     "wof:name":"Jos\u00e9 Mendes",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",

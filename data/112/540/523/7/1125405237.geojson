@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:ces_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:pol_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:slk_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0436\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "V\u00e1\u017eany"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"V\u00e1\u017eany",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1125405237,
-    "wof:lastmodified":1509390144,
+    "wof:lastmodified":1564125234,
     "wof:name":"V\u00e1\u017eany",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:zho_x_preferred":[
+        "\u5854\u592b\u62c9\u8fbe\u5fb7\u5f7c\u5fb7\u62c9"
+    ],
     "qs_pg:gn_country":"PA",
     "qs_pg:name":"Quebrada de Piedra",
     "qs_pg:name_adm0":"Panam\u00e1",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1125375571,
-    "wof:lastmodified":1509389447,
+    "wof:lastmodified":1564123583,
     "wof:name":"Quebrada de Piedra",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

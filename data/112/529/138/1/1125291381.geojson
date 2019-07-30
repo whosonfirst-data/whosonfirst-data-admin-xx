@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:epo_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:eus_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:hun_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:msa_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:slk_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0448\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Bo\u0161\u00edn"
+    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Bo\u0161\u00edn",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -56,7 +95,7 @@
         }
     ],
     "wof:id":1125291381,
-    "wof:lastmodified":1509387537,
+    "wof:lastmodified":1564123406,
     "wof:name":"Bo\u0161\u00edn",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

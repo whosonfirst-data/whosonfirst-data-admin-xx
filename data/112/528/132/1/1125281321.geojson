@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Chvojnica"
+    ],
+    "name:deu_x_preferred":[
+        "Chvojnica"
+    ],
+    "name:epo_x_preferred":[
+        "Chvojnica"
+    ],
+    "name:fra_x_preferred":[
+        "Chvojnica"
+    ],
+    "name:ita_x_preferred":[
+        "Chvojnica"
+    ],
+    "name:nld_x_preferred":[
+        "Chvojnica"
+    ],
+    "name:slk_x_preferred":[
+        "Chvojnica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0432\u043e\u0458\u045a\u0438\u0446\u0430"
+    ],
     "qs_pg:gn_country":"SK",
     "qs_pg:name":"Chvojnica",
     "qs_pg:name_adm0":"Slovensk\u00e1",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1125281321,
-    "wof:lastmodified":1509387300,
+    "wof:lastmodified":1564123123,
     "wof:name":"Chvojnica",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -16,6 +16,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Padew Narodowa"
+    ],
+    "name:deu_x_preferred":[
+        "Padew Narodowa"
+    ],
+    "name:nld_x_preferred":[
+        "Padew Narodowa"
+    ],
+    "name:pol_x_preferred":[
+        "Padew Narodowa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0434\u0435\u0432-\u041d\u0430\u0440\u043e\u0434\u043e\u0432\u0430"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Padew Narodowa",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1125326563,
-    "wof:lastmodified":1509388258,
+    "wof:lastmodified":1564122906,
     "wof:name":"Padew Narodowa",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

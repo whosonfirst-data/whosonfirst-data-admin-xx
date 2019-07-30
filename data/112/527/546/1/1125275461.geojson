@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u0646\u0686\u06cc\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Leoncin"
+    ],
+    "name:deu_x_preferred":[
+        "Leoncin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646\u0686\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Leoncin"
+    ],
+    "name:gla_x_preferred":[
+        "Leoncin"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u045c\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Leoncin"
+    ],
+    "name:pol_x_preferred":[
+        "Leoncin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043e\u043d\u0446\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Leoncin"
+    ],
     "qs_pg:gn_country":"PL",
     "qs_pg:name":"Leoncin",
     "qs_pg:name_adm0":"Polska",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1125275461,
-    "wof:lastmodified":1509387140,
+    "wof:lastmodified":1564123345,
     "wof:name":"Leoncin",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

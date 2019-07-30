@@ -16,6 +16,90 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ace_x_preferred":[
+        "Bor\u015fa"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ora\u0219 Bor\u0219a"
+    ],
+    "name:deu_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:epo_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0634\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05e9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Borsa"
+    ],
+    "name:ind_x_preferred":[
+        "Bor\u015fa"
+    ],
+    "name:ita_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30b7\u30e3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub974\uc0e4"
+    ],
+    "name:lit_x_preferred":[
+        "Bor\u0161a"
+    ],
+    "name:lmo_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:min_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:msa_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:pol_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:por_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:ron_x_preferred":[
+        "Bor\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0440\u0448\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0448\u0430"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05e9\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u723e\u6c99"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Bor\u0219a",
     "qs_pg:name_adm0":"Rom\u00e2nia",
@@ -60,7 +144,7 @@
         }
     ],
     "wof:id":1125831909,
-    "wof:lastmodified":1509394749,
+    "wof:lastmodified":1564125392,
     "wof:name":"Bor\u0219a",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

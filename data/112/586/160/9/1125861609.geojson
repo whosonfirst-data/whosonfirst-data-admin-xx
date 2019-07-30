@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Gian"
+    ],
+    "name:fra_x_preferred":[
+        "Gian"
+    ],
     "qs_pg:aaroncc":"XX",
     "qs_pg:gn_country":"XX",
     "qs_pg:name":"Gian",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1125861609,
-    "wof:lastmodified":1533678790,
+    "wof:lastmodified":1564123254,
     "wof:name":"Gian",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",
