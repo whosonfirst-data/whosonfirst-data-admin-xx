@@ -9,15 +9,18 @@
     "geom:bbox":"-61.56596,16.04322,-61.56596,16.04322",
     "geom:latitude":16.04322,
     "geom:longitude":-61.56596,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":19821,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":19821,
     "iso:country":"XX",
+    "lbl:bbox":"-61.58596,16.02322,-61.54596,16.06322",
     "lbl:latitude":16.04322,
     "lbl:longitude":-61.56596,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Capesterre-Belle-Eau"
@@ -250,7 +253,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u0435\u0441\u0442\u0435\u0440\u0440-\u0411\u0435\u043b\u044c-\u041e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Capesterre"
     ],
     "name:vec_x_preferred":[
@@ -300,7 +303,7 @@
     "qs_pg:woe_adm0":23424831,
     "qs_pg:woe_id":80569,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424831,
     "woe:name_adm0":"Guadeloupe",
@@ -332,7 +335,7 @@
         }
     ],
     "wof:id":1126034895,
-    "wof:lastmodified":1563322190,
+    "wof:lastmodified":1566653444,
     "wof:name":"Capesterre-Belle-Eau",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

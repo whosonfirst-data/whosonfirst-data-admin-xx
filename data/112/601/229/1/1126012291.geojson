@@ -9,15 +9,18 @@
     "geom:bbox":"55.51802,-21.28309,55.51802,-21.28309",
     "geom:latitude":-21.28309,
     "geom:longitude":55.51802,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":69986,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":69986,
     "iso:country":"XX",
+    "lbl:bbox":"55.49802,-21.30309,55.53802,-21.26309",
     "lbl:latitude":-21.28309,
     "lbl:longitude":55.51802,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Le Tampon"
@@ -256,7 +259,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435-\u0422\u0430\u043c\u043f\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Village du Tampon"
     ],
     "name:vec_x_preferred":[
@@ -312,7 +315,7 @@
     "qs_pg:woe_adm0":23424931,
     "qs_pg:woe_id":1410141,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424931,
     "woe:name_adm0":"La R\u00e9union",
@@ -344,7 +347,7 @@
         }
     ],
     "wof:id":1126012291,
-    "wof:lastmodified":1563323683,
+    "wof:lastmodified":1566654225,
     "wof:name":"Le Tampon",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"XX",
     "lbl:latitude":2.568854,
     "lbl:longitude":-54.171127,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":2.568854,
     "mps:longitude":-54.171127,
     "mz:hierarchy_label":1,
@@ -24,6 +26,7 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ces_x_preferred":[
         "Francouzsk\u00e1 Guyana"
     ],
@@ -235,7 +238,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633147,
@@ -264,7 +267,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561837364,
+    "wof:lastmodified":1566653139,
     "wof:name":"Lawa Headwaters",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -9,15 +9,18 @@
     "geom:bbox":"-60.86973,14.47212,-60.86973,14.47212",
     "geom:latitude":14.47212,
     "geom:longitude":-60.86973,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7943,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":7943,
     "iso:country":"XX",
+    "lbl:bbox":"-60.88973,14.45212,-60.84973,14.49212",
     "lbl:latitude":14.47212,
     "lbl:longitude":-60.86973,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Le Marin"
@@ -244,7 +247,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435-\u041c\u0430\u0440\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marin"
     ],
     "name:vec_x_preferred":[
@@ -294,7 +297,7 @@
     "qs_pg:woe_adm0":23424884,
     "qs_pg:woe_id":110561,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424884,
     "woe:name_adm0":"Martinique",
@@ -320,7 +323,7 @@
         }
     ],
     "wof:id":1125939077,
-    "wof:lastmodified":1563321792,
+    "wof:lastmodified":1566653164,
     "wof:name":"Le Marin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

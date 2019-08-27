@@ -9,19 +9,23 @@
     "geom:bbox":"-60.94666,14.59474,-60.94666,14.59474",
     "geom:latitude":14.59474,
     "geom:longitude":-60.94666,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":null,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"XX",
+    "lbl:bbox":"-60.96666,14.57474,-60.92666,14.61474",
     "lbl:latitude":14.59474,
     "lbl:longitude":-60.94666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "La Saint-Pierre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quartier Saint-Pierre"
     ],
     "qs_pg:gn_country":null,
@@ -44,7 +48,7 @@
     "qs_pg:woe_adm0":23424884,
     "qs_pg:woe_id":110800,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424884,
     "woe:name_adm0":"Martinique",
     "woe:name_adm1":"Marin",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1125877551,
-    "wof:lastmodified":1531422123,
+    "wof:lastmodified":1566653677,
     "wof:name":"St.-Pierre",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

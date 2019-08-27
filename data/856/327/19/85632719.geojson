@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128229,
-    "geom:area_square_m":1397914829.837241,
+    "geom:area_square_m":1397914829.837193,
     "geom:bbox":"88.971032,27.491755,90.614898,28.360825",
     "geom:latitude":28.15783,
     "geom:longitude":90.099674,
     "iso:country":"XX",
     "lbl:latitude":28.24793,
     "lbl:longitude":90.051874,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":28.24793,
     "mps:longitude":90.051874,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":-1,
+    "mz:min_zoom":0.0,
     "name:eng_x_preferred":[
         "Bhutan claimed by China"
     ],
@@ -67,12 +70,7 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs":[
-        85632695,
-        102191569,
-        85632171
-    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -83,7 +81,7 @@
     ],
     "wof:concordances":{
         "gp:id":23424770,
-        "qs:id":367727
+        "qs_pg:id":367727
     },
     "wof:country":"XX",
     "wof:geomhash":"a567f5a7aa55bc4532d00c664cd46a0c",
@@ -100,7 +98,7 @@
         }
     ],
     "wof:id":85632719,
-    "wof:lastmodified":1528909936,
+    "wof:lastmodified":1566653137,
     "wof:name":"Bhutan claimed by China",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

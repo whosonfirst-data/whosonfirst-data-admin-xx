@@ -17,8 +17,11 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Thio"
     ],
@@ -49,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24551420,
-        "qs:id":221553,
+        "qs_pg:id":221553,
         "wk:page":"Thio"
     },
     "wof:country":"XX",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890452007,
-    "wof:lastmodified":1564122687,
+    "wof:lastmodified":1566653156,
     "wof:name":"Thio",
     "wof:parent_id":85675259,
     "wof:placetype":"county",

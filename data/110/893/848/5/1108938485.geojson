@@ -10,8 +10,10 @@
     "geom:latitude":60.166797,
     "geom:longitude":24.969009,
     "iso:country":"XX",
+    "lbl:bbox":"24.9640086896,60.1617974052,24.9740086896,60.1717974052",
     "lbl:latitude":60.166797,
     "lbl:longitude":24.969009,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -69,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0430\u044f\u043d\u043e\u043a\u043a\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108727331,
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1108938485,
-    "wof:lastmodified":1563321767,
+    "wof:lastmodified":1566653150,
     "wof:name":"Katajanokka",
     "wof:parent_id":1108727331,
     "wof:placetype":"neighbourhood",

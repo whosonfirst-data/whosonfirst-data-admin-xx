@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4731536.997736,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.869628,34.152341,74.869628,34.152341",
     "geom:latitude":34.152341,
     "geom:longitude":74.869628,
     "gn:id":"",
     "iso:country":"XX",
+    "lbl:bbox":"74.864628,34.147341,74.874628,34.157341",
     "lbl:latitude":34.152341,
     "lbl:longitude":74.869628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.15372,
     "mps:longitude":74.870316,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u0428\u0430\u043b\u0438\u043c\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Shalimar Bagh"
-    ],
     "qs:gn_adm0_cc":"IN",
     "qs:gn_id":0,
     "qs:gn_local":1255634,
@@ -75,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":210,
     "wof:belongsto":[
         85632427,
@@ -88,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55957889,
-        "qs:id":476981
+        "qs_pg:id":476981
     },
     "wof:country":"XX",
     "wof:geomhash":"826bde9b4d9fcb38e9b523ea345dda12",
@@ -116,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533678812,
+    "wof:lastmodified":1566653128,
     "wof:name":"Shalimar Bagh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

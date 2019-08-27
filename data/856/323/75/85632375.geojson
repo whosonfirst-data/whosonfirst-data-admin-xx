@@ -13,6 +13,8 @@
     "iso:country":"XX",
     "lbl:latitude":35.216089,
     "lbl:longitude":33.692492,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":35.216089,
     "mps:longitude":33.692492,
     "mz:hierarchy_label":1,
@@ -406,14 +408,11 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0435\u0446\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e\u0433\u043e \u041a\u0456\u043f\u0440\u0443"
     ],
-    "name:und_x_preferred":[
-        "Ciper"
-    ],
     "name:und_x_variant":[
+        "Ciper",
         "Kibris",
         "Kipros",
         "Kuzey Kibris",
-        "Kypros",
         "Republika Ciper"
     ],
     "name:urd_x_preferred":[
@@ -556,9 +555,9 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population:date":"2013",
+    "src:population_date":"2013",
     "wof:belongsto":[
         102191569,
         85632437
@@ -589,7 +588,7 @@
         }
     ],
     "wof:id":85632375,
-    "wof:lastmodified":1563321737,
+    "wof:lastmodified":1566653132,
     "wof:name":"Northern Cyprus",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

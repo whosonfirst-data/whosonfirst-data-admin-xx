@@ -12,6 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":28.193235,
     "lbl:longitude":94.154038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":28.193235,
     "mps:longitude":94.154038,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ace_x_preferred":[
         "Arunachal Pradesh"
     ],
@@ -338,12 +341,10 @@
     "name:tur_x_preferred":[
         "Aruna\u00e7hal Pradesh"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Bharat",
         "Indija",
-        "Indland"
-    ],
-    "name:und_x_variant":[
+        "Indland",
         "Republika Indija"
     ],
     "name:urd_x_preferred":[
@@ -471,9 +472,9 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population:date":"2013",
+    "src:population_date":"2013",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -483,7 +484,7 @@
     "wof:concordances":{
         "gp:id":23424848,
         "ne:id":1159320857,
-        "qs:id":209907,
+        "qs_pg:id":209907,
         "wd:id":"Q1162"
     },
     "wof:controlled":[
@@ -508,7 +509,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563321749,
+    "wof:lastmodified":1566653137,
     "wof:name":"Arunachal Pradesh (Southern Tibet)",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -13,10 +13,13 @@
     "iso:country":"XX",
     "lbl:latitude":4.790693,
     "lbl:longitude":35.175648,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":4.790693,
     "mps:longitude":35.175648,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":0.0,
     "name:bel_x_preferred":[
         "\u0422\u0440\u043e\u0445\u0432\u0443\u0433\u043e\u043b\u044c\u043d\u0456\u043a \u0406\u043b\u0435\u043c\u0456"
     ],
@@ -129,10 +132,8 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0435\u043c\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0442\u0440\u0438\u043a\u0443\u0442\u043d\u0438\u043a"
     ],
-    "name:und_x_preferred":[
-        "Kenija"
-    ],
     "name:und_x_variant":[
+        "Kenija",
         "Republika Kenija"
     ],
     "name:zho_x_preferred":[
@@ -214,12 +215,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "wof:belongs":[
-        85632657,
-        85632329
-    ],
     "wof:belongsto":[
         102191573,
         85632657,
@@ -229,7 +226,7 @@
     "wof:concordances":{
         "gn:id":373565,
         "gp:id":23424863,
-        "qs:id":680631
+        "qs_pg:id":680631
     },
     "wof:country":"XX",
     "wof:geomhash":"90c28325fb3ee5b92df67986d5178c64",
@@ -249,7 +246,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564122670,
+    "wof:lastmodified":1566653137,
     "wof:name":"Ilemi Triangle",
     "wof:parent_id":85632657,
     "wof:placetype":"disputed",

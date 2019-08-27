@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2327417.537439,
+    "geom:area_square_m":0.0,
     "geom:bbox":"129.042664,35.063725,129.042664,35.063725",
     "geom:latitude":35.063725,
     "geom:longitude":129.042664,
     "gn:id":"",
     "iso:country":"XX",
+    "lbl:bbox":"129.037664,35.058725,129.047664,35.068725",
     "lbl:latitude":35.063725,
     "lbl:longitude":129.042664,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.061629,
     "mps:longitude":129.041586,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:kor_x_preferred":[
-        "\uc601\uc120\ub3d9"
-    ],
-    "name:unk_x_variant":[
         "\uc601\uc120\ub3d9"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -56,13 +55,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835177,
-        "qs:id":993072,
         "qs_pg:id":993072
     },
     "wof:country":"XX",
@@ -80,7 +77,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938859,
+    "wof:lastmodified":1566653128,
     "wof:name":"\uc601\uc120\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

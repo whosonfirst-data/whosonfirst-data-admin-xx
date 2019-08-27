@@ -9,15 +9,18 @@
     "geom:bbox":"-61.70215,16.02409,-61.70215,16.02409",
     "geom:latitude":16.02409,
     "geom:longitude":-61.70215,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10134,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":10134,
     "iso:country":"XX",
+    "lbl:bbox":"-61.72215,16.00409,-61.68215,16.04409",
     "lbl:latitude":16.02409,
     "lbl:longitude":-61.70215,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Basse-Terre"
@@ -208,7 +211,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0441-\u0422\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint-Claude"
     ],
     "name:urd_x_preferred":[
@@ -246,7 +249,7 @@
     "qs_pg:woe_adm0":23424831,
     "qs_pg:woe_id":80502,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424831,
     "woe:name_adm0":"Guadeloupe",
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":1125799997,
-    "wof:lastmodified":1564125372,
+    "wof:lastmodified":1566654814,
     "wof:name":"Basse-Terre",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

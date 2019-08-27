@@ -12,6 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":25.239498,
     "lbl:longitude":-13.677858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":25.239498,
     "mps:longitude":-13.677858,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ace_x_preferred":[
         "Sahara Barat"
     ],
@@ -589,7 +592,7 @@
         }
     ],
     "wof:id":1159339507,
-    "wof:lastmodified":1563324518,
+    "wof:lastmodified":1566654858,
     "wof:name":"Western Sahara",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -10,8 +10,10 @@
     "geom:latitude":57.690944,
     "geom:longitude":11.757468,
     "iso:country":"XX",
+    "lbl:bbox":"11.752467548,57.6859439914,11.762467548,57.6959439914",
     "lbl:latitude":57.690944,
     "lbl:longitude":11.757468,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:swe_x_preferred":[
         "Stenkullen"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1125410003,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1108944525,
-    "wof:lastmodified":1564122675,
+    "wof:lastmodified":1566653145,
     "wof:name":"Stenkullen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

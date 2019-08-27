@@ -12,6 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":35.340606,
     "lbl:longitude":77.129553,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.340606,
     "mps:longitude":77.129553,
     "mz:hierarchy_label":1,
@@ -381,7 +382,7 @@
     "qs:woeid":2345746,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -408,7 +409,7 @@
         }
     ],
     "wof:id":85681267,
-    "wof:lastmodified":1564122669,
+    "wof:lastmodified":1566653136,
     "wof:name":"Kashmir",
     "wof:parent_id":85632277,
     "wof:placetype":"region",

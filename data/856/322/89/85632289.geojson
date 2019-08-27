@@ -13,6 +13,8 @@
     "iso:country":"XX",
     "lbl:latitude":33.282988,
     "lbl:longitude":35.680612,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":33.282988,
     "mps:longitude":35.680612,
     "mz:hierarchy_label":1,
@@ -24,6 +26,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ara_x_preferred":[
         "\u0645\u0632\u0627\u0631\u0639 \u0634\u0628\u0639\u0627"
     ],
@@ -159,14 +162,10 @@
     "name:und_x_colloquial":[
         "Syrland"
     ],
-    "name:und_x_preferred":[
-        "Suriyah",
-        "S\u00fdrland"
-    ],
     "name:und_x_variant":[
-        "Sirska arabska republika"
-    ],
-    "name:unk_x_variant":[
+        "Suriyah",
+        "S\u00fdrland",
+        "Sirska arabska republika",
         "Mourhr Ch\u00e9ba\u00e2"
     ],
     "name:zho_x_preferred":[
@@ -282,7 +281,6 @@
         "quattroshapes"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "wof:belongsto":[
@@ -295,7 +293,7 @@
         "gn:id":166771,
         "gp:id":23424956,
         "ne:id":1159320907,
-        "qs:id":976549,
+        "qs_pg:id":976549,
         "wd:id":"Q1133272"
     },
     "wof:controlled":[
@@ -317,7 +315,7 @@
         }
     ],
     "wof:id":85632289,
-    "wof:lastmodified":1563321741,
+    "wof:lastmodified":1566653133,
     "wof:name":"Shebaa Farms",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

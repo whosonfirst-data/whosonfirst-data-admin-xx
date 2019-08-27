@@ -9,18 +9,18 @@
     "geom:bbox":"77.531547,34.181657,77.531547,34.181657",
     "geom:latitude":34.181657,
     "geom:longitude":77.531547,
-    "gn:gn_country":null,
+    "gn:country":null,
     "gn:id":"",
     "iso:country":"XX",
+    "lbl:bbox":"77.526547,34.176657,77.536547,34.186657",
     "lbl:latitude":34.181657,
     "lbl:longitude":77.531547,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
-        "Karzoo"
-    ],
-    "name:unk_x_variant":[
         "Karzoo"
     ],
     "qs_pg:gn_country":null,
@@ -40,7 +40,7 @@
     "qs_pg:woe_adm0":23424848,
     "qs_pg:woe_id":55958112,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424848,
     "woe:name_adm0":"India",
     "woe:name_adm1":"Jammu and Kashmir",
@@ -56,7 +56,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55958112,
-        "qs:id":922174,
         "qs_pg:id":922174
     },
     "wof:country":"XX",
@@ -83,7 +82,7 @@
         }
     ],
     "wof:id":1126070339,
-    "wof:lastmodified":1534379828,
+    "wof:lastmodified":1566654336,
     "wof:name":"Karzoo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

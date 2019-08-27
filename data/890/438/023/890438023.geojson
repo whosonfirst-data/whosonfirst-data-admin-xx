@@ -14,8 +14,11 @@
     "label:eng_x_preferred_longname":[
         "\u0643\u0644\u0628\u0627\u0621 County"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kalba"
     ],
@@ -34,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55922627,
-        "qs:id":897419
+        "qs_pg:id":897419
     },
     "wof:country":"XX",
     "wof:created":1469052176,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890438023,
-    "wof:lastmodified":1555220349,
+    "wof:lastmodified":1566653158,
     "wof:name":"\u0643\u0644\u0628\u0627\u0621",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -9,15 +9,18 @@
     "geom:bbox":"45.20417,-12.73361,45.20417,-12.73361",
     "geom:latitude":-12.73361,
     "geom:longitude":45.20417,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":18118,
+    "gn:country":null,
+    "gn:fcode":"PPLA",
     "gn:population":18118,
     "iso:country":"XX",
+    "lbl:bbox":"45.18417,-12.75361,45.22417,-12.71361",
     "lbl:latitude":-12.73361,
     "lbl:longitude":45.20417,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Koungou"
@@ -244,7 +247,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0435\u043d\u0433\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kongo"
     ],
     "name:vec_x_preferred":[
@@ -294,7 +297,7 @@
     "qs_pg:woe_adm0":23424886,
     "qs_pg:woe_id":22662653,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424886,
     "woe:name_adm0":"Mayotte",
@@ -326,7 +329,7 @@
         }
     ],
     "wof:id":1125992255,
-    "wof:lastmodified":1563323206,
+    "wof:lastmodified":1566653909,
     "wof:name":"Koungou",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",

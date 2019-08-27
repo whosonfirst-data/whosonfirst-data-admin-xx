@@ -10,8 +10,10 @@
     "geom:latitude":60.105069,
     "geom:longitude":29.950727,
     "iso:country":"XX",
+    "lbl:bbox":"29.9457267218,60.1000692852,29.9557267218,60.1100692852",
     "lbl:latitude":60.105069,
     "lbl:longitude":29.950727,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u043e\u0440\u0442"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688069,
         102191581,
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108943035,
-    "wof:lastmodified":1564122678,
+    "wof:lastmodified":1566653147,
     "wof:name":"Kurort",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

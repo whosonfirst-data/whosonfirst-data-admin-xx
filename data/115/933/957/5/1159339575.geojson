@@ -12,6 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":-15.889521,
     "lbl:longitude":54.518685,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-15.889521,
     "mps:longitude":54.518685,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u062a\u0631\u0648\u0645\u0644\u064a\u0646"
     ],
@@ -254,7 +257,7 @@
     "ne:scalerank":6,
     "src:geom":"naturalearth",
     "src:population":"naturalearth",
-    "src:population:date":"2017",
+    "src:population_date":"2017",
     "wof:belongsto":[
         102191581,
         85633147,
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":1159339575,
-    "wof:lastmodified":1563324526,
+    "wof:lastmodified":1566654862,
     "wof:name":"Tromelin Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

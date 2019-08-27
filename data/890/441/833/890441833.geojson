@@ -17,8 +17,11 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Hiva-Oa"
     ],
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28743666,
-        "qs:id":1290111,
+        "qs_pg:id":1290111,
         "wd:id":"Q937908",
         "wk:page":"Hiva Oa"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890441833,
-    "wof:lastmodified":1563321776,
+    "wof:lastmodified":1566653155,
     "wof:name":"Hiva Oa",
     "wof:parent_id":85676745,
     "wof:placetype":"county",

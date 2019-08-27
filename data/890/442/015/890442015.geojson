@@ -12,8 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "lbl:bbox":"77.180927,32.888811,77.220927,32.928811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Shinkhun La",
     "qs:name_adm0":"India",
     "qs:name_adm1":"Himachal Pradesh",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29214411,
-        "qs:id":1313290
+        "qs_pg:id":1313290
     },
     "wof:country":"XX",
     "wof:created":1469052346,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890442015,
-    "wof:lastmodified":1500037877,
+    "wof:lastmodified":1566653158,
     "wof:name":"Shinkhun La",
     "wof:parent_id":890511227,
     "wof:placetype":"locality",

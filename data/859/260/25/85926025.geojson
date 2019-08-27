@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31133414.790959,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.308801,37.232851,126.308801,37.232851",
     "geom:latitude":37.232851,
     "geom:longitude":126.308801,
     "gn:id":"",
     "iso:country":"XX",
+    "lbl:bbox":"126.303801,37.227851,126.313801,37.237851",
     "lbl:latitude":37.232851,
     "lbl:longitude":126.308801,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.245077,
     "mps:longitude":126.33039,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Jawol-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\uc790\uc6d4\uba74"
-    ],
-    "name:unk_x_variant":[
         "\uc790\uc6d4\uba74"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -65,13 +64,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835028,
-        "qs:id":1294596,
         "qs_pg:id":1294596
     },
     "wof:country":"XX",
@@ -89,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938851,
+    "wof:lastmodified":1566653128,
     "wof:name":"\uc790\uc6d4\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

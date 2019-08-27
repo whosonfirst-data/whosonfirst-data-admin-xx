@@ -12,8 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "lbl:bbox":"76.355236,33.995245,76.395236,34.035245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tashi"
     ],
@@ -49,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2290503,
-        "qs:id":1133763,
+        "qs_pg:id":1133763,
         "wk:page":"Tashi"
     },
     "wof:country":"XX",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890449787,
-    "wof:lastmodified":1564122686,
+    "wof:lastmodified":1566653154,
     "wof:name":"Tashi",
     "wof:parent_id":1108695701,
     "wof:placetype":"locality",

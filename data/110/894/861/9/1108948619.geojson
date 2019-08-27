@@ -10,8 +10,10 @@
     "geom:latitude":44.426075,
     "geom:longitude":8.815533,
     "iso:country":"XX",
+    "lbl:bbox":"8.8105330509,44.4210745613,8.8205330509,44.4310745613",
     "lbl:latitude":44.426075,
     "lbl:longitude":8.815533,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -66,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043b\u044c\u0457"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         404471975,
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1108948619,
-    "wof:lastmodified":1563321759,
+    "wof:lastmodified":1566653145,
     "wof:name":"Pegli",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",

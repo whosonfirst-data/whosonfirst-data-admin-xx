@@ -12,8 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "lbl:bbox":"77.528694,34.052913,77.568694,34.092913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Chuchot Shama"
     ],
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29197912,
-        "qs:id":921101,
+        "qs_pg:id":921101,
         "wd:id":"Q24909752",
         "wk:page":"Chuchot Shama"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890445673,
-    "wof:lastmodified":1563321784,
+    "wof:lastmodified":1566653159,
     "wof:name":"Chuchot Shama",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-61.49329,16.20685,-61.49329,16.20685",
     "geom:latitude":16.20685,
     "geom:longitude":-61.49329,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":28698,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":28698,
     "iso:country":"XX",
+    "lbl:bbox":"-61.51329,16.18685,-61.47329,16.22685",
     "lbl:latitude":16.20685,
     "lbl:longitude":-61.49329,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Le Gosier"
@@ -256,7 +259,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435-\u0413\u043e\u0437\u044c\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gozier"
     ],
     "name:vec_x_preferred":[
@@ -306,7 +309,7 @@
     "qs_pg:woe_adm0":23424831,
     "qs_pg:woe_id":80728,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424831,
     "woe:name_adm0":"Guadeloupe",
@@ -332,7 +335,7 @@
         }
     ],
     "wof:id":1125928429,
-    "wof:lastmodified":1563321878,
+    "wof:lastmodified":1566653217,
     "wof:name":"Le Gosier",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

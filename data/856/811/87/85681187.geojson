@@ -12,6 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":35.216071,
     "lbl:longitude":33.692434,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.216071,
     "mps:longitude":33.692434,
     "mz:hierarchy_label":1,
@@ -550,7 +551,7 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11099,
     "wof:belongsto":[
         102191569,
@@ -587,7 +588,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563321728,
+    "wof:lastmodified":1566653129,
     "wof:name":"Northern Cyprus",
     "wof:parent_id":85632375,
     "wof:placetype":"region",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15279565.24923,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.359036,37.703323,126.359036,37.703323",
     "geom:latitude":37.703323,
     "geom:longitude":126.359036,
     "gn:id":"",
     "iso:country":"XX",
+    "lbl:bbox":"126.354036,37.698323,126.364036,37.708323",
     "lbl:latitude":37.703323,
     "lbl:longitude":126.359036,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.699814,
     "mps:longitude":126.378334,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Naega-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\ub0b4\uac00\uba74"
-    ],
-    "name:unk_x_variant":[
         "\ub0b4\uac00\uba74"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -65,12 +64,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835016,
-        "qs:id":427072,
         "qs_pg:id":427072
     },
     "wof:country":"XX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938846,
+    "wof:lastmodified":1566653128,
     "wof:name":"\ub0b4\uac00\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

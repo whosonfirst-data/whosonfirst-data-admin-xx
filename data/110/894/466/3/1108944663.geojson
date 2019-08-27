@@ -10,8 +10,10 @@
     "geom:latitude":57.647127,
     "geom:longitude":11.796036,
     "iso:country":"XX",
+    "lbl:bbox":"11.791035754,57.6421268222,11.801035754,57.6521268222",
     "lbl:latitude":57.647127,
     "lbl:longitude":11.796036,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -51,7 +53,7 @@
     "name:swe_x_preferred":[
         "Asper\u00f6"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1159307581,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1108944663,
-    "wof:lastmodified":1564122679,
+    "wof:lastmodified":1566653148,
     "wof:name":"Aspero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
