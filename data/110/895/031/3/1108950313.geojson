@@ -10,8 +10,10 @@
     "geom:latitude":41.027395,
     "geom:longitude":28.956464,
     "iso:country":"XX",
+    "lbl:bbox":"28.9514635468,41.0223954069,28.9614635468,41.0323954069",
     "lbl:latitude":41.027395,
     "lbl:longitude":28.956464,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,7 +35,7 @@
     "name:tur_x_preferred":[
         "Ayakap\u0131"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":1108950313,
-    "wof:lastmodified":1563321755,
+    "wof:lastmodified":1566653140,
     "wof:name":"Ayakapi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "lbl:bbox":"77.254742,34.204491,77.294742,34.244491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bazgoo"
     ],
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2274256,
-        "qs:id":1211720,
+        "qs_pg:id":1211720,
         "wd:id":"Q21857957",
         "wk:page":"Bazgoo"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890440979,
-    "wof:lastmodified":1563321769,
+    "wof:lastmodified":1566653152,
     "wof:name":"Bazgoo",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

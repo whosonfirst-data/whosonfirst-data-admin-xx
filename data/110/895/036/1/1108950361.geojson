@@ -10,8 +10,10 @@
     "geom:latitude":41.016743,
     "geom:longitude":28.985117,
     "iso:country":"XX",
+    "lbl:bbox":"28.980116706,41.0117431139,28.990116706,41.0217431139",
     "lbl:latitude":41.016743,
     "lbl:longitude":28.985117,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -240,7 +242,7 @@
     "name:zul_x_preferred":[
         "Sarayburnu"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -262,7 +264,7 @@
         }
     ],
     "wof:id":1108950361,
-    "wof:lastmodified":1563321755,
+    "wof:lastmodified":1566653140,
     "wof:name":"Sarayburnu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

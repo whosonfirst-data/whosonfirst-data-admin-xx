@@ -12,6 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":-51.608913,
     "lbl:longitude":-58.738602,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-51.608913,
     "mps:longitude":-58.738602,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ace_x_preferred":[
         "Pulo-pulo Falkland"
     ],
@@ -488,7 +491,7 @@
     "ne:scalerank":5,
     "src:geom":"naturalearth",
     "src:population":"naturalearth",
-    "src:population:date":"2014",
+    "src:population_date":"2014",
     "wof:belongsto":[
         102191577,
         85632505,
@@ -521,7 +524,7 @@
         }
     ],
     "wof:id":1159339559,
-    "wof:lastmodified":1563324502,
+    "wof:lastmodified":1566654854,
     "wof:name":"Falkland Islands (Islas Malvinas)",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

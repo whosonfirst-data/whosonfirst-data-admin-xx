@@ -12,6 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":32.137497,
     "lbl:longitude":35.264296,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":32.137497,
     "mps:longitude":35.264296,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:afr_x_preferred":[
         "Wesoewer"
     ],
@@ -421,7 +424,7 @@
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population:date":"2017",
+    "src:population_date":"2017",
     "wof:belongsto":[
         102191569,
         85633739,
@@ -454,7 +457,7 @@
         }
     ],
     "wof:id":1159339487,
-    "wof:lastmodified":1563324507,
+    "wof:lastmodified":1566654855,
     "wof:name":"West Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

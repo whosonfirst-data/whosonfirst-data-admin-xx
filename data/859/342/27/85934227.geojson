@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5846690.314153,
+    "geom:area_square_m":0.0,
     "geom:bbox":"77.514007,34.181691,77.514007,34.181691",
     "geom:latitude":34.181691,
     "geom:longitude":77.514007,
     "iso:country":"XX",
+    "lbl:bbox":"77.509007,34.176691,77.519007,34.186691",
     "lbl:latitude":34.181691,
     "lbl:longitude":77.514007,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.184026,
     "mps:longitude":77.50931,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Changspa"
-    ],
-    "name:unk_x_variant":[
         "Changspa"
     ],
     "qs:gn_id":0,
@@ -54,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85632427,
         102191569,
@@ -93,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533678812,
+    "wof:lastmodified":1566653129,
     "wof:name":"Changspa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

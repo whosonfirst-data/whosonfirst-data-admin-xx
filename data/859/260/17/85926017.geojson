@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":50440394.001997,
+    "geom:area_square_m":0.0,
     "geom:bbox":"126.422237,37.518129,126.422237,37.518129",
     "geom:latitude":37.518129,
     "geom:longitude":126.422237,
     "gn:id":"",
     "iso:country":"XX",
+    "lbl:bbox":"126.417237,37.513129,126.427237,37.523129",
     "lbl:latitude":37.518129,
     "lbl:longitude":126.422237,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.528858,
     "mps:longitude":126.432609,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Bukdo-Myeon"
     ],
     "name:kor_x_preferred":[
-        "\ubd81\ub3c4\uba74"
-    ],
-    "name:unk_x_variant":[
         "\ubd81\ub3c4\uba74"
     ],
     "qs:gn_adm0_cc":"KR",
@@ -65,12 +64,11 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28835023,
-        "qs:id":1091446,
         "qs_pg:id":1091446
     },
     "wof:country":"XX",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1531938849,
+    "wof:lastmodified":1566653127,
     "wof:name":"\ubd81\ub3c4\uba74",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

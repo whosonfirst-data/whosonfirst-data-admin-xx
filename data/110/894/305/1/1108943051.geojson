@@ -10,8 +10,10 @@
     "geom:latitude":59.967634,
     "geom:longitude":30.28066,
     "iso:country":"XX",
+    "lbl:bbox":"30.2756600543,59.9626340767,30.2856600543,59.9726340767",
     "lbl:latitude":59.967634,
     "lbl:longitude":30.28066,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943051,
-    "wof:lastmodified":1510870333,
+    "wof:lastmodified":1566653147,
     "wof:name":"Petrogradsky",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

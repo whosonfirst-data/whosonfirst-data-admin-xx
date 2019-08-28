@@ -12,8 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "lbl:bbox":"75.087002,34.242465,75.127002,34.282465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Gund Sarsingh",
     "qs:name_adm0":"India",
     "qs:name_adm1":"Jammu and Kashmir",
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29196389,
-        "qs:id":70572
+        "qs_pg:id":70572
     },
     "wof:country":"XX",
     "wof:created":1469052801,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890452029,
-    "wof:lastmodified":1533678791,
+    "wof:lastmodified":1566653157,
     "wof:name":"Gund Sarsingh",
     "wof:parent_id":1108695713,
     "wof:placetype":"locality",

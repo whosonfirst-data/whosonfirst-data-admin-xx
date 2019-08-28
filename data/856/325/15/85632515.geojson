@@ -13,6 +13,8 @@
     "iso:country":"XX",
     "lbl:latitude":16.106038,
     "lbl:longitude":-88.256588,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":16.106038,
     "mps:longitude":-88.256588,
     "mz:hierarchy_label":1,
@@ -24,6 +26,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:eng_x_preferred":[
         "Sapodilla Cayes"
     ],
@@ -66,7 +69,7 @@
     "name:swe_x_preferred":[
         "Omtvistat omr\u00e5de"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zapatillas Cays"
     ],
     "name:zho_x_preferred":[
@@ -179,8 +182,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632571,
@@ -192,7 +194,7 @@
         "gn:id":3581128,
         "gp:id":23424760,
         "ne:id":1159320435,
-        "qs:id":1189999,
+        "qs_pg:id":1189999,
         "wd:id":"Q766270"
     },
     "wof:controlled":[
@@ -219,7 +221,7 @@
         }
     ],
     "wof:id":85632515,
-    "wof:lastmodified":1563321746,
+    "wof:lastmodified":1566653136,
     "wof:name":"Sapodilla Cayes",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

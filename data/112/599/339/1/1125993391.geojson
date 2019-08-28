@@ -9,15 +9,18 @@
     "geom:bbox":"-60.92708,14.46733,-60.92708,14.46733",
     "geom:latitude":14.46733,
     "geom:longitude":-60.92708,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9196,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":9196,
     "iso:country":"XX",
+    "lbl:bbox":"-60.94708,14.44733,-60.90708,14.48733",
     "lbl:latitude":14.46733,
     "lbl:longitude":-60.92708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Sainte-Luce"
@@ -235,9 +238,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441"
     ],
-    "name:unk_x_variant":[
-        "Sainte-Luce"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646-\u0644\u06a9\u06d2\u060c \u0645\u0631\u062a\u06cc\u0646\u0642\u06d2"
     ],
@@ -291,7 +291,7 @@
     "qs_pg:woe_adm0":23424884,
     "qs_pg:woe_id":110788,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424884,
     "woe:name_adm0":"Martinique",
@@ -317,7 +317,7 @@
         }
     ],
     "wof:id":1125993391,
-    "wof:lastmodified":1563323195,
+    "wof:lastmodified":1566653905,
     "wof:name":"Ste.-Luce",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

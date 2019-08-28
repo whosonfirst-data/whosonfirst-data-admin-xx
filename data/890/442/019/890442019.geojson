@@ -12,8 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "lbl:bbox":"74.837406,34.092088,74.877406,34.132088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09a6\u09be\u09ae\u09bf \u09ac\u09be\u0997"
     ],
@@ -79,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2290366,
-        "qs:id":1313591,
+        "qs_pg:id":1313591,
         "wd:id":"Q582982",
         "wk:page":"Badami Bagh"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890442019,
-    "wof:lastmodified":1561837366,
+    "wof:lastmodified":1566653159,
     "wof:name":"Badami Bagh",
     "wof:parent_id":1108695711,
     "wof:placetype":"locality",

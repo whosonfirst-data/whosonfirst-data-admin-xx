@@ -12,6 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":-7.297663,
     "lbl:longitude":72.398825,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":-7.297663,
     "mps:longitude":72.398825,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03c5\u03c4\u03b9\u03ba\u03ae \u0395\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03a5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7\u03c2 \u039d\u03c4\u03b9\u03ad\u03b3\u03ba\u03bf \u0393\u03ba\u03b1\u03c1\u03c3\u03af\u03b1"
     ],
@@ -137,7 +140,7 @@
     "ne:scalerank":5,
     "src:geom":"naturalearth",
     "src:population":"naturalearth",
-    "src:population:date":"2017",
+    "src:population_date":"2017",
     "wof:belongsto":[
         102191581,
         85633159,
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":1159339551,
-    "wof:lastmodified":1563324503,
+    "wof:lastmodified":1566654854,
     "wof:name":"Naval Support Facility Diego Garcia",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

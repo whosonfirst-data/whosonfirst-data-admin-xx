@@ -9,12 +9,16 @@
     "geom:bbox":"20.821666,42.356514,20.821666,42.356514",
     "geom:latitude":42.356514,
     "geom:longitude":20.821666,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"XX",
+    "lbl:bbox":"20.801666,42.336514,20.841666,42.376514",
     "lbl:latitude":42.356514,
     "lbl:longitude":20.821666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0648\u0641\u0627 \u0631\u064a\u0643\u0627"
@@ -134,7 +138,7 @@
         "Komuna e Th\u00ebrand\u00ebs"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc1\u0bb5\u0bbe  \u0bb0\u0bc7\u0b95\u0bbe"
+        "\u0b9a\u0bc1\u0bb5\u0bbe \u0bb0\u0bc7\u0b95\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c35\u0c3e \u0c30\u0c47\u0c15\u0c3e"
@@ -174,7 +178,7 @@
     "qs_pg:woe_adm0":20069818,
     "qs_pg:woe_id":537027,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":20069818,
     "woe:name_adm0":"Serbia",
     "woe:name_adm1":"Prizren",
@@ -204,7 +208,7 @@
         }
     ],
     "wof:id":1125829155,
-    "wof:lastmodified":1563324063,
+    "wof:lastmodified":1566654512,
     "wof:name":"Suva Reka",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

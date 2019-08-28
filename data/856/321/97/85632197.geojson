@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008103,
-    "geom:area_square_m":79079528.702268,
+    "geom:area_square_m":79079528.702251,
     "geom:bbox":"124.613746643,37.602027893,125.979530334,37.98374939",
     "geom:latitude":37.884266,
     "geom:longitude":124.812852,
     "iso:country":"XX",
     "lbl:latitude":37.948591,
     "lbl:longitude":124.665358,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":37.948591,
     "mps:longitude":124.665358,
     "mz:hierarchy_label":1,
@@ -23,6 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:eng_x_preferred":[
         "Yeonpyeong, Baengnyeong, and Daecheong Islands"
     ],
@@ -46,13 +49,7 @@
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs":[
-        102191569,
-        85632231,
-        85632639
-    ],
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632231,
@@ -62,7 +59,7 @@
     "wof:concordances":{
         "gn:id":8541499,
         "gp:id":23424868,
-        "qs:id":889867
+        "qs_pg:id":889867
     },
     "wof:country":"XX",
     "wof:geomhash":"3f6a87bb68ddf06fad34538df49259de",
@@ -82,7 +79,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1528909935,
+    "wof:lastmodified":1566653139,
     "wof:name":"Yeonpyeong, Baengnyeong, and Daecheong Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

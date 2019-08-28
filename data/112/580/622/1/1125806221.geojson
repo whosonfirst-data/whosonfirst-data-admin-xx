@@ -9,19 +9,23 @@
     "geom:bbox":"-52.27868,4.88441,-52.27868,4.88441",
     "geom:latitude":4.88441,
     "geom:longitude":-52.27868,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":null,
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"XX",
+    "lbl:bbox":"-52.29868,4.86441,-52.25868,4.90441",
     "lbl:latitude":4.88441,
     "lbl:longitude":-52.27868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "R\u00e9mire"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramire"
     ],
     "qs_pg:gn_country":null,
@@ -44,7 +48,7 @@
     "qs_pg:woe_adm0":23424811,
     "qs_pg:woe_id":379884,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424811,
     "woe:name_adm0":"Guyane Fran\u00e7aise",
     "woe:name_adm1":"Cayenne",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125806221,
-    "wof:lastmodified":1531422156,
+    "wof:lastmodified":1566653676,
     "wof:name":"R\u00e9mir\u00e9",
     "wof:parent_id":1091680851,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":41.024212,
     "geom:longitude":28.95675,
     "iso:country":"XX",
+    "lbl:bbox":"28.9517496492,41.0192117714,28.9617496492,41.0292117714",
     "lbl:latitude":41.024212,
     "lbl:longitude":28.95675,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:tur_x_preferred":[
         "Unkapan\u0131"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1108950295,
-    "wof:lastmodified":1563321756,
+    "wof:lastmodified":1566653141,
     "wof:name":"Unkapani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

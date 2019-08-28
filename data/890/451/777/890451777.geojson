@@ -12,8 +12,12 @@
     "gn:country":"XX",
     "gp:adm0":23424848,
     "iso:country":"XX",
+    "lbl:bbox":"74.90813,34.227138,74.94813,34.267138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Hayan Palpora",
     "qs:name_adm0":"India",
     "qs:name_adm1":"Jammu and Kashmir",
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29196384,
-        "qs:id":775519
+        "qs_pg:id":775519
     },
     "wof:country":"XX",
     "wof:created":1469052793,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890451777,
-    "wof:lastmodified":1533678792,
+    "wof:lastmodified":1566653160,
     "wof:name":"Hayan Palpora",
     "wof:parent_id":1108695711,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-61.76595,16.0589,-61.76595,16.0589",
     "geom:latitude":16.0589,
     "geom:longitude":-61.76595,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7728,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":7728,
     "iso:country":"XX",
+    "lbl:bbox":"-61.78595,16.0389,-61.74595,16.0789",
     "lbl:latitude":16.0589,
     "lbl:longitude":-61.76595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Vieux-Habitants"
@@ -247,7 +250,7 @@
     "name:ukr_x_variant":[
         "\u0412'\u0454\u0437-\u0410\u0431\u0456\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Les Habitants"
     ],
     "name:vec_x_preferred":[
@@ -297,7 +300,7 @@
     "qs_pg:woe_adm0":23424831,
     "qs_pg:woe_id":80921,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424831,
     "woe:name_adm0":"Guadeloupe",
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":1125932097,
-    "wof:lastmodified":1563321799,
+    "wof:lastmodified":1566653166,
     "wof:name":"Vieux-Habitants",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

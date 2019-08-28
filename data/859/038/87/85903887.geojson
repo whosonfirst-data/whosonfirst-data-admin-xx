@@ -10,8 +10,10 @@
     "geom:latitude":13.230658,
     "geom:longitude":80.331596,
     "iso:country":"XX",
+    "lbl:bbox":"80.326596,13.225658,80.336596,13.235658",
     "lbl:latitude":13.230658,
     "lbl:longitude":80.331596,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.230077,
     "mps:longitude":80.329285,
     "mz:hierarchy_label":0,
@@ -59,12 +61,6 @@
     "name:tam_x_preferred":[
         "\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd"
     ],
-    "name:und_x_preferred":[
-        "Kattiv\u0101kkam"
-    ],
-    "name:unk_x_variant":[
-        "Kathivakkam"
-    ],
     "name:vie_x_preferred":[
         "Kattivakkam"
     ],
@@ -99,9 +95,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":319,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563321724,
+    "wof:lastmodified":1566653127,
     "wof:name":"Kathivakkam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

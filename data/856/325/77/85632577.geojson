@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137128,
-    "geom:area_square_m":1450521818.252877,
+    "geom:area_square_m":1450521818.253343,
     "geom:bbox":"78.882566,30.949345,79.417254,31.459016",
     "geom:latitude":31.189888,
     "geom:longitude":79.139009,
@@ -13,6 +13,8 @@
     "iso:country":"XX",
     "lbl:latitude":31.235761,
     "lbl:longitude":79.082293,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":31.235761,
     "mps:longitude":79.082293,
     "mz:hierarchy_label":1,
@@ -24,6 +26,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:eng_x_preferred":[
         "Disputed Territory"
     ],
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -171,7 +174,7 @@
     "wof:concordances":{
         "gp:id":23424928,
         "ne:id":1159320859,
-        "qs:id":209907
+        "qs_pg:id":209907
     },
     "wof:controlled":[
         "wof:parent_id",
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":85632577,
-    "wof:lastmodified":1528909932,
+    "wof:lastmodified":1566653135,
     "wof:name":"Tirpani Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

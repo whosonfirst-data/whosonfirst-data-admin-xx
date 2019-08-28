@@ -13,6 +13,8 @@
     "iso:country":"XX",
     "lbl:latitude":15.152039,
     "lbl:longitude":117.753812,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":15.152039,
     "mps:longitude":117.753812,
     "mz:hierarchy_label":1,
@@ -150,7 +152,7 @@
         "Omtvistat omr\u00e5de"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b95\u0bc7\u0bb0\u0bcd\u0baa\u0bcb\u0bb0\u0bc2\u0b95\u0bcd\u0bb9\u0bcd  \u0bb7\u0bbe\u0bb2\u0bcd"
+        "\u0bb8\u0bcd\u0b95\u0bc7\u0bb0\u0bcd\u0baa\u0bcb\u0bb0\u0bc2\u0b95\u0bcd\u0bb9\u0bcd \u0bb7\u0bbe\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c4d\u0c2c\u0c4a\u0c30\u0c4b \u0c37\u0c4b\u0c32\u0c4d"
@@ -285,8 +287,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632695,
@@ -317,7 +318,7 @@
         }
     ],
     "wof:id":85632479,
-    "wof:lastmodified":1563321733,
+    "wof:lastmodified":1566653131,
     "wof:name":"Scarborough Reef",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

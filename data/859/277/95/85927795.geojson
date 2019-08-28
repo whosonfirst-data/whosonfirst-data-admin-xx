@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4642140.846686,
+    "geom:area_square_m":0.0,
     "geom:bbox":"75.125427,33.741852,75.125427,33.741852",
     "geom:latitude":33.741852,
     "geom:longitude":75.125427,
-    "gn:gn_country":null,
+    "gn:country":null,
     "gn:id":"",
     "iso:country":"XX",
+    "lbl:bbox":"75.120427,33.736852,75.130427,33.746852",
     "lbl:latitude":33.741852,
     "lbl:longitude":75.125427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.742612,
     "mps:longitude":75.124512,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Takia Magam"
-    ],
-    "name:unk_x_variant":[
         "Takia Magam"
     ],
     "qs:gn_adm0_cc":"IN",
@@ -74,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85632427,
         102191569,
@@ -86,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29196924,
-        "qs:id":960980,
         "qs_pg:id":960980
     },
     "wof:country":"XX",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379828,
+    "wof:lastmodified":1566653128,
     "wof:name":"Takia Magam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

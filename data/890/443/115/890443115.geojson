@@ -17,8 +17,11 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hao"
     ],
@@ -56,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28743694,
-        "qs:id":375401,
+        "qs_pg:id":375401,
         "wk:page":"Hao"
     },
     "wof:country":"XX",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890443115,
-    "wof:lastmodified":1564122689,
+    "wof:lastmodified":1566653158,
     "wof:name":"Hao",
     "wof:parent_id":-1,
     "wof:placetype":"county",

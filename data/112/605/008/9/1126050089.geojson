@@ -9,15 +9,18 @@
     "geom:bbox":"55.33938,-21.24181,55.33938,-21.24181",
     "geom:latitude":-21.24181,
     "geom:longitude":55.33938,
-    "gn:gn_country":null,
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8006,
+    "gn:country":null,
+    "gn:fcode":"PPL",
     "gn:population":8006,
     "iso:country":"XX",
+    "lbl:bbox":"55.31938,-21.26181,55.35938,-21.22181",
     "lbl:latitude":-21.24181,
     "lbl:longitude":55.33938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Les Avirons"
@@ -241,7 +244,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0437-\u0410\u0432\u0456\u0440\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Avirons"
     ],
     "name:vec_x_preferred":[
@@ -291,7 +294,7 @@
     "qs_pg:woe_adm0":23424931,
     "qs_pg:woe_id":1410145,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424931,
     "woe:name_adm0":"La R\u00e9union",
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":1126050089,
-    "wof:lastmodified":1563322165,
+    "wof:lastmodified":1566653434,
     "wof:name":"Les Avirons",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
