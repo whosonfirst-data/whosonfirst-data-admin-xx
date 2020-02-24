@@ -625,6 +625,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"47e6516d35a691f74b0eddc79d1ded36",
     "wof:hierarchy":[
         {
@@ -640,7 +643,7 @@
         }
     ],
     "wof:id":1159339533,
-    "wof:lastmodified":1566654852,
+    "wof:lastmodified":1582332401,
     "wof:name":"Gibraltar",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

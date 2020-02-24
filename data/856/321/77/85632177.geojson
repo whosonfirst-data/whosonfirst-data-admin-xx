@@ -396,6 +396,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"64ced82165fe95869cb37742bfa1e0a1",
     "wof:hierarchy":[
         {
@@ -418,7 +422,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653140,
+    "wof:lastmodified":1582332379,
     "wof:name":"Spratly Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

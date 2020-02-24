@@ -353,6 +353,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"4fad1af1f416a90525cc4e42b2919cc1",
     "wof:hierarchy":[
         {
@@ -367,7 +370,7 @@
         }
     ],
     "wof:id":1159339497,
-    "wof:lastmodified":1566654857,
+    "wof:lastmodified":1582332402,
     "wof:name":"Azad Kashmir",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

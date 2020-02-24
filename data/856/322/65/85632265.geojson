@@ -265,6 +265,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"3861353df6ca881a1fd861619c24a796",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":85632265,
-    "wof:lastmodified":1566653134,
+    "wof:lastmodified":1582332378,
     "wof:name":"Abyei Special Administrative Area",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

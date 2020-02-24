@@ -447,6 +447,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"0c74562d7e70a9c2365ae672428bb980",
     "wof:hierarchy":[
         {
@@ -463,7 +466,7 @@
         }
     ],
     "wof:id":1159339485,
-    "wof:lastmodified":1566654856,
+    "wof:lastmodified":1582332402,
     "wof:name":"Gaza Strip",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

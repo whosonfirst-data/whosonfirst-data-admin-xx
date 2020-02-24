@@ -94,6 +94,9 @@
         "qs_pg:id":1346706
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e77305febb9f492bb2cd8ed06cab1fa",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653129,
+    "wof:lastmodified":1582332375,
     "wof:name":"Suku",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

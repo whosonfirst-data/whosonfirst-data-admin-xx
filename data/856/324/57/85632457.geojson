@@ -355,6 +355,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"5d76ceaea473a069038b8c5d6c859298",
     "wof:hierarchy":[
         {
@@ -374,7 +377,7 @@
         }
     ],
     "wof:id":85632457,
-    "wof:lastmodified":1566653129,
+    "wof:lastmodified":1582332376,
     "wof:name":"Paracel Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

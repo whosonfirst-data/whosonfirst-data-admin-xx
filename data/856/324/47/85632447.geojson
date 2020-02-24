@@ -199,6 +199,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"3abc42d1ae22a7cbfaaa1139b92cd197",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":85632447,
-    "wof:lastmodified":1566653132,
+    "wof:lastmodified":1582332377,
     "wof:name":"Shaksam Valley",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

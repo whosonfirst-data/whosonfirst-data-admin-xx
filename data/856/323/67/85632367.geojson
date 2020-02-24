@@ -187,6 +187,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"201129462035d5549ebc2c1f9c384ab4",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":85632367,
-    "wof:lastmodified":1566653132,
+    "wof:lastmodified":1582332377,
     "wof:name":"Mbane Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

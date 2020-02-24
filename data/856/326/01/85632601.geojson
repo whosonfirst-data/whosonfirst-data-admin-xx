@@ -286,6 +286,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"9d15ba05b73a14533ec5d3110844f683",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":85632601,
-    "wof:lastmodified":1566653138,
+    "wof:lastmodified":1582332379,
     "wof:name":"Abu Musa Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

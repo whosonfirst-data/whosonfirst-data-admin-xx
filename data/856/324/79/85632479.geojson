@@ -304,6 +304,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"6367a6ef8adff5ba30e3099e835572a2",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":85632479,
-    "wof:lastmodified":1566653131,
+    "wof:lastmodified":1582332377,
     "wof:name":"Scarborough Reef",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

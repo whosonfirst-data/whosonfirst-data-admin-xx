@@ -70,6 +70,9 @@
         "gp:id":29214771
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e64040fb4436e1e7ed7822c6d8817aa",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653128,
+    "wof:lastmodified":1582332375,
     "wof:name":"Mulbek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

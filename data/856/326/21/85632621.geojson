@@ -357,6 +357,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"762a42ab0f1ecac77025a89ba755faf5",
     "wof:hierarchy":[
         {
@@ -371,7 +374,7 @@
         }
     ],
     "wof:id":85632621,
-    "wof:lastmodified":1566653138,
+    "wof:lastmodified":1582332379,
     "wof:name":"Pinnacle Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

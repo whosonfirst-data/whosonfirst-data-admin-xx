@@ -182,6 +182,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"eea273692d6d7d2d0983a1de4ecdf318",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":85632463,
-    "wof:lastmodified":1566653131,
+    "wof:lastmodified":1582332377,
     "wof:name":"Bara Hotii Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

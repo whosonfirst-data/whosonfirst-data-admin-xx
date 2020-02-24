@@ -301,6 +301,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth"
+    ],
     "wof:geomhash":"0eca541c5d6f2e44e2394be4d0d8b884",
     "wof:hierarchy":[
         {
@@ -315,7 +319,7 @@
         }
     ],
     "wof:id":85632289,
-    "wof:lastmodified":1566653133,
+    "wof:lastmodified":1582332378,
     "wof:name":"Shebaa Farms",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

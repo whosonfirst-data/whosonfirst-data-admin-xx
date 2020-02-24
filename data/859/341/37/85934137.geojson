@@ -90,6 +90,9 @@
         "qs_pg:id":476981
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"826bde9b4d9fcb38e9b523ea345dda12",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653128,
+    "wof:lastmodified":1582332375,
     "wof:name":"Shalimar Bagh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

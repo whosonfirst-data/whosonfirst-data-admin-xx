@@ -526,6 +526,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"751ffd784e526b5136b8fa331fd3b5b4",
     "wof:hierarchy":[
         {
@@ -540,7 +544,7 @@
         }
     ],
     "wof:id":85632427,
-    "wof:lastmodified":1566653130,
+    "wof:lastmodified":1582332376,
     "wof:name":"Jammu and Kashmir",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -697,6 +697,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"6501b0ccb5c098531b067144c8319676",
     "wof:hierarchy":[
         {
@@ -706,7 +709,7 @@
         }
     ],
     "wof:id":85632251,
-    "wof:lastmodified":1566653133,
+    "wof:lastmodified":1582332378,
     "wof:name":"Mayotte",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
