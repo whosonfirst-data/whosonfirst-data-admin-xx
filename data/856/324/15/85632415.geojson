@@ -330,6 +330,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"5e42068808d1c7d70dc5f290afdb042b",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
         }
     ],
     "wof:id":85632415,
-    "wof:lastmodified":1566653131,
+    "wof:lastmodified":1582332377,
     "wof:name":"Aksai Chin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

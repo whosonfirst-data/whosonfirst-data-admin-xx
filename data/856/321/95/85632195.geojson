@@ -254,6 +254,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"16d16d807e72795a1444db96eb585bb9",
     "wof:hierarchy":[
         {
@@ -267,7 +270,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566653139,
+    "wof:lastmodified":1582332379,
     "wof:name":"Lawa Headwaters",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

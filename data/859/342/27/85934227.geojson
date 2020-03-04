@@ -67,6 +67,9 @@
         "gp:id":55958110
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9af9f12bbc79d755e169c35562a35b70",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653129,
+    "wof:lastmodified":1582332375,
     "wof:name":"Changspa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -330,6 +330,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"bedf1fa95dc65251c279dd7f4e175f2a",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
         }
     ],
     "wof:id":85632277,
-    "wof:lastmodified":1566653134,
+    "wof:lastmodified":1582332378,
     "wof:name":"Siachen Glacier",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

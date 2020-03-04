@@ -492,6 +492,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"ab9478a0c3c294b1ad8f5eaeafa03948",
     "wof:hierarchy":[
         {
@@ -509,7 +512,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653137,
+    "wof:lastmodified":1582332378,
     "wof:name":"Arunachal Pradesh (Southern Tibet)",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

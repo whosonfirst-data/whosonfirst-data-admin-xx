@@ -88,6 +88,9 @@
         "qs_pg:id":960980
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66cb4e28a256ad2224f691c0795ffd0f",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653128,
+    "wof:lastmodified":1582332375,
     "wof:name":"Takia Magam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

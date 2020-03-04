@@ -301,6 +301,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"53ab8979fd992592faa18248f6c66b69",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
         }
     ],
     "wof:id":85681363,
-    "wof:lastmodified":1566653136,
+    "wof:lastmodified":1582332378,
     "wof:name":"Serranilla Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

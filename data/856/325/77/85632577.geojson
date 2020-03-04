@@ -181,6 +181,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"ecfa289caff91a0e797de02e524cd2a5",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":85632577,
-    "wof:lastmodified":1566653135,
+    "wof:lastmodified":1582332378,
     "wof:name":"Tirpani Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -317,6 +317,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"de41d709531e2242843501056d7fd7b7",
     "wof:hierarchy":[
         {
@@ -326,7 +329,7 @@
         }
     ],
     "wof:id":85632353,
-    "wof:lastmodified":1566653133,
+    "wof:lastmodified":1582332377,
     "wof:name":"Dokdo",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -245,6 +245,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"bdae6ac65278f16025bb26e7c6cff9c0",
     "wof:hierarchy":[
         {
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":85632349,
-    "wof:lastmodified":1566653133,
+    "wof:lastmodified":1582332377,
     "wof:name":"Tiran and Sanafir Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

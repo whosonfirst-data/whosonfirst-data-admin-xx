@@ -431,6 +431,9 @@
         "wof:belongsto"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"f1343bbf0eb3460f13c62fae769a52ea",
     "wof:hierarchy":[
         {
@@ -460,7 +463,7 @@
         }
     ],
     "wof:id":85632563,
-    "wof:lastmodified":1566653135,
+    "wof:lastmodified":1582332378,
     "wof:name":"Bajo Nuevo Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

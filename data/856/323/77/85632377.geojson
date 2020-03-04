@@ -211,6 +211,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"0bf995ac61fafca0992e8fd19bb30cfb",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":85632377,
-    "wof:lastmodified":1566653133,
+    "wof:lastmodified":1582332377,
     "wof:name":"Demchok",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

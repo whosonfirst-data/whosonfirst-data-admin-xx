@@ -272,6 +272,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"37c6cf1a517c8d63c34b975f7e42e084",
     "wof:hierarchy":[
         {
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":1159339503,
-    "wof:lastmodified":1566654859,
+    "wof:lastmodified":1582332402,
     "wof:name":"Korean Demilitarized Zone",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

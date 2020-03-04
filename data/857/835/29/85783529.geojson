@@ -68,6 +68,9 @@
         "qs:id":128217
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c02d0ec47b6d1f6f04b51fe312fb728",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379828,
+    "wof:lastmodified":1582332375,
     "wof:name":"Valia Veli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -308,6 +308,9 @@
         "wof:belongsto"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"065abcb2fc412456d94e30525d4098dd",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
         }
     ],
     "wof:id":85681155,
-    "wof:lastmodified":1566653129,
+    "wof:lastmodified":1582332376,
     "wof:name":"Bajo Nuevo Bank",
     "wof:parent_id":-2,
     "wof:placetype":"region",

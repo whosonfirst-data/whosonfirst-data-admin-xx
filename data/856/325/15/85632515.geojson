@@ -202,6 +202,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"1ecd1b95cc0030745f65f7e41aa1912d",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":85632515,
-    "wof:lastmodified":1566653136,
+    "wof:lastmodified":1582332378,
     "wof:name":"Sapodilla Cayes",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

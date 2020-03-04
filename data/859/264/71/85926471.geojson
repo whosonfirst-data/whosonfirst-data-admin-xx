@@ -63,6 +63,10 @@
         "qs_pg:id":993072
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfa0a420ad8dd4e061919e4776d88a85",
     "wof:hierarchy":[
         {
@@ -77,7 +81,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1566653128,
+    "wof:lastmodified":1582332375,
     "wof:name":"\uc601\uc120\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

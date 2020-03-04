@@ -951,6 +951,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"34a45722b2bedf94733ea2c42bfaa27a",
     "wof:hierarchy":[
         {
@@ -973,7 +976,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653134,
+    "wof:lastmodified":1582332378,
     "wof:name":"United Nations Buffer Zone in Cyprus",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

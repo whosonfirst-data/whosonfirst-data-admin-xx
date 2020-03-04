@@ -104,6 +104,9 @@
         "wd:id":"Q658886"
     },
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"213eabc6236d7d312654a78d584e464e",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653127,
+    "wof:lastmodified":1582332375,
     "wof:name":"Kathivakkam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

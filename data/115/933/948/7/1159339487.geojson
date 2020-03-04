@@ -441,6 +441,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"d1b4e71944f78427e2bd70e75187b3cc",
     "wof:hierarchy":[
         {
@@ -457,7 +460,7 @@
         }
     ],
     "wof:id":1159339487,
-    "wof:lastmodified":1566654855,
+    "wof:lastmodified":1582332401,
     "wof:name":"West Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -204,6 +204,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth"
+    ],
     "wof:geomhash":"81ad9569e25aeaa829cbbc701e765520",
     "wof:hierarchy":[
         {
@@ -221,7 +225,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566653136,
+    "wof:lastmodified":1582332378,
     "wof:name":"United Nations Disengagement Observer Force Zone",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

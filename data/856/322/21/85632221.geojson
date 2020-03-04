@@ -492,6 +492,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth"
+    ],
     "wof:geomhash":"5a6e219b616570fe26e6e0d19c0053de",
     "wof:hierarchy":[
         {
@@ -506,7 +510,7 @@
         }
     ],
     "wof:id":85632221,
-    "wof:lastmodified":1566653134,
+    "wof:lastmodified":1582332378,
     "wof:name":"Golan Heights",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

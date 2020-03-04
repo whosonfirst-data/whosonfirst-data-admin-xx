@@ -107,6 +107,9 @@
     },
     "wof:country":"XX",
     "wof:created":1469052800,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7ac8881630532a67203aa142fa1a07cb",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890451987,
-    "wof:lastmodified":1566653161,
+    "wof:lastmodified":1582332380,
     "wof:name":"Saida",
     "wof:parent_id":85673499,
     "wof:placetype":"county",

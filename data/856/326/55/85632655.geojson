@@ -201,6 +201,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"7e9fd3fd3c5120b0a22c863b9e96e192",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":85632655,
-    "wof:lastmodified":1566653139,
+    "wof:lastmodified":1582332379,
     "wof:name":"Om Parvat",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

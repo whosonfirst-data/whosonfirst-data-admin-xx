@@ -436,6 +436,9 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"456ec9eef5e6b3c1a7468667b6eedf35",
     "wof:hierarchy":[
         {
@@ -445,7 +448,7 @@
         }
     ],
     "wof:id":85632619,
-    "wof:lastmodified":1566653138,
+    "wof:lastmodified":1582332379,
     "wof:name":"Kuril Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
