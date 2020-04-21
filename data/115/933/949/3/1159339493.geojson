@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.001421,
-    "geom:area_square_m":17520298.901606,
-    "geom:bbox":"35.6121399706,4.58911053079,35.7058456047,4.61949738318",
+    "geom:area":0.001422,
+    "geom:area_square_m":17520458.346785,
+    "geom:bbox":"35.61214,4.589111,35.705846,4.619497",
     "geom:latitude":4.609352,
     "geom:longitude":35.672783,
     "iso:country":"XX",
@@ -95,8 +95,14 @@
     "name:srp_x_preferred":[
         "\u0418\u043b\u0435\u043c\u0438\u0458\u0441\u043a\u0438 \u0442\u0440\u043e\u0443\u0433\u0430\u043e"
     ],
+    "name:swa_x_preferred":[
+        "Pembetatu ya Ilemi"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0435\u043c\u0441\u044c\u043a\u0438\u0439 \u0442\u0440\u0438\u043a\u0443\u0442\u043d\u0438\u043a"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u83b1\u7c73\u4e09\u89d2"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u83b1\u7c73\u4e09\u89d2"
@@ -211,7 +217,7 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"1c0cd4745c35fe19ee80d8ae553ce821",
+    "wof:geomhash":"cfb87303d7f1bf8b1db28dd8366fa4a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":1159339493,
-    "wof:lastmodified":1566654857,
+    "wof:lastmodified":1587428828,
     "wof:name":"Ilemi Triangle",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -235,10 +241,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.61213997060418,
-    4.58911053079331,
-    35.70584560472605,
-    4.61949738317803
+    35.61214,
+    4.589111,
+    35.705846,
+    4.619497
 ],
-  "geometry": {"coordinates":[[[35.61213997060418,4.61949738317803],[35.63227421100012,4.61948659300013],[35.70584560472605,4.61944708053936],[35.70036487866076,4.58911053079331],[35.61213997060418,4.61949738317803]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.61214,4.619497],[35.632274,4.619487],[35.705846,4.619447],[35.700365,4.589111],[35.61214,4.619497]]],"type":"Polygon"}
 }

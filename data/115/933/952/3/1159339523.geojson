@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001793,
-    "geom:area_square_m":18096638.985867,
-    "geom:bbox":"-2.966920126,35.267874248,-2.912912564,35.329779364",
+    "geom:area_square_m":18096697.306373,
+    "geom:bbox":"-2.96692,35.267874,-2.912913,35.329779",
     "geom:latitude":35.295351,
     "geom:longitude":-2.944446,
     "iso:country":"XX",
@@ -125,6 +125,9 @@
     "name:gag_x_preferred":[
         "Melilla"
     ],
+    "name:gcr_x_preferred":[
+        "Melilla"
+    ],
     "name:gla_x_preferred":[
         "Melilla"
     ],
@@ -206,6 +209,9 @@
     "name:lat_x_preferred":[
         "Rusadir"
     ],
+    "name:lat_x_variant":[
+        "Melila"
+    ],
     "name:lav_x_preferred":[
         "Melilja"
     ],
@@ -273,6 +279,9 @@
         "Melilla"
     ],
     "name:pol_x_preferred":[
+        "Melilla"
+    ],
+    "name:por_br_x_preferred":[
         "Melilla"
     ],
     "name:por_x_preferred":[
@@ -376,6 +385,24 @@
     ],
     "name:zea_x_preferred":[
         "Melilla"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6885\u5229\u5229\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6885\u5229\u5229\u4e9e"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u6885\u5229\u5229\u4e9e"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u6885\u5229\u5229\u4e9a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6885\u5229\u5229\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9ea5\u91cc\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u6885\u5229\u5229\u4e9a"
@@ -496,7 +523,7 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"f259f24b147f2e8ee5b8ecd0c3de19e0",
+    "wof:geomhash":"5db2816bd1554d0dcc7b9cbd98249cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -510,7 +537,7 @@
         }
     ],
     "wof:id":1159339523,
-    "wof:lastmodified":1566654853,
+    "wof:lastmodified":1587428812,
     "wof:name":"Melilla",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -522,10 +549,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.96692012599988,
-    35.2678742480001,
-    -2.91291256399995,
-    35.32977936400005
+    -2.96692,
+    35.267874,
+    -2.912913,
+    35.329779
 ],
-  "geometry": {"coordinates":[[[-2.94782467399995,35.32977936400005],[-2.92202714799993,35.28799062700006],[-2.91319739499994,35.27724844000005],[-2.91291256399995,35.27692291900007],[-2.94304561399988,35.2678742480001],[-2.9637678629999,35.28621938100009],[-2.96692012599988,35.313866272],[-2.94782467399995,35.32977936400005]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-2.947825,35.329779],[-2.922027,35.287991],[-2.913197,35.277248],[-2.912913,35.276923],[-2.943046,35.267874],[-2.963768,35.286219],[-2.96692,35.313866],[-2.947825,35.329779]]],"type":"Polygon"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
-    "geom:area_square_m":105663.069285,
-    "geom:bbox":"-78.6404109365,15.8620873073,-78.6368708983,15.8672956401",
+    "geom:area_square_m":105684.628412,
+    "geom:bbox":"-78.640411,15.862087,-78.636871,15.867296",
     "geom:latitude":15.864461,
     "geom:longitude":-78.638119,
     "gp:id":0,
@@ -144,6 +144,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc7\u0bb0\u0bcd\u0bb0\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0baa\u0bc7\u0b99\u0bcd\u0b95\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc7\u0bb0\u0bcd\u0bb0\u0bbe\u0ba9\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe  \u0baa\u0bc7\u0b99\u0bcd\u0b95\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c30\u0c3e\u0c28\u0c3f\u0c32\u0c3e \u0c2c\u0c4d\u0c2f\u0c3e\u0c02\u0c15\u0c4d"
@@ -304,7 +307,7 @@
     "wof:geom_alt":[
         "naturalearth"
     ],
-    "wof:geomhash":"53ab8979fd992592faa18248f6c66b69",
+    "wof:geomhash":"87d6d1a069f7c0e0539aacad0bd054de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":85681363,
-    "wof:lastmodified":1582332378,
+    "wof:lastmodified":1587428797,
     "wof:name":"Serranilla Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -338,10 +341,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.64041093651548,
-    15.86208730728345,
-    -78.63687089827329,
-    15.86729564008175
+    -78.640411,
+    15.862087,
+    -78.636871,
+    15.867296
 ],
-  "geometry": {"coordinates":[[[-78.63707434830252,15.86208730728345],[-78.64041093651548,15.8639997425941],[-78.63687089827329,15.86729564008175],[-78.63707434830252,15.86208730728345]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-78.637074,15.862087],[-78.640411,15.864],[-78.636871,15.867296],[-78.637074,15.862087]]],"type":"Polygon"}
 }

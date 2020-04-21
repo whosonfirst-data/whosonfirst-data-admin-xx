@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000014,
-    "geom:area_square_m":141145.87173,
-    "geom:bbox":"-5.42084009,35.910874356,-5.415969541,35.915597312",
+    "geom:area_square_m":141144.329978,
+    "geom:bbox":"-5.42084,35.910874,-5.41597,35.915597",
     "geom:latitude":35.913205,
     "geom:longitude":-5.418612,
     "iso:country":"XX",
@@ -152,6 +152,18 @@
     "name:war_x_preferred":[
         "Isla Perejil"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4f69\u96f7\u5e0c\u5c14\u5c9b"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4f69\u96f7\u5e0c\u723e\u5cf6"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4f69\u96f7\u5e0c\u5c14\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f69\u96f7\u5e0c\u723e\u5cf6"
+    ],
     "name:zho_x_preferred":[
         "\u4f69\u96f7\u5e0c\u723e\u5cf6"
     ],
@@ -266,7 +278,7 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"416c71bb8e81c791887d98fd2014c39f",
+    "wof:geomhash":"6f058b462c7a14aaef7e93efad7e92f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -280,7 +292,7 @@
         }
     ],
     "wof:id":1159339589,
-    "wof:lastmodified":1566654862,
+    "wof:lastmodified":1587428835,
     "wof:name":"Perejil Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -290,10 +302,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.42084008999996,
-    35.91087435600008,
-    -5.41596954099992,
-    35.91559731200005
+    -5.42084,
+    35.910874,
+    -5.41597,
+    35.915597
 ],
-  "geometry": {"coordinates":[[[-5.41877379599993,35.91559731200005],[-5.41596954099992,35.91353101900006],[-5.41788824199995,35.91087435600008],[-5.42024971999996,35.91161231800004],[-5.42084008999996,35.91426898100008],[-5.41877379599993,35.91559731200005]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-5.418774,35.915597],[-5.41597,35.913531],[-5.417888,35.910874],[-5.42025,35.911612],[-5.42084,35.914269],[-5.418774,35.915597]]],"type":"Polygon"}
 }
