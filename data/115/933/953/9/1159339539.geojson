@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008738,
-    "geom:area_square_m":84488113.81318,
-    "geom:bbox":"-7.317713989,38.503355168,-7.196689213,38.617695618",
+    "geom:area_square_m":84487964.726487,
+    "geom:bbox":"-7.317714,38.503355,-7.196689,38.617696",
     "geom:latitude":38.559665,
     "geom:longitude":-7.246826,
     "iso:country":"XX",
@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u064a\u0641\u064a\u0646\u0632\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u064a\u0641\u064a\u0646\u0632\u0627"
+    ],
     "name:ast_x_preferred":[
         "Olivenza"
     ],
@@ -48,6 +51,12 @@
         "Olivenza"
     ],
     "name:deu_x_preferred":[
+        "Olivenza"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Olivenza"
+    ],
+    "name:eng_gb_x_preferred":[
         "Olivenza"
     ],
     "name:eng_x_preferred":[
@@ -73,6 +82,9 @@
     ],
     "name:fra_x_preferred":[
         "Olivenza"
+    ],
+    "name:fra_x_variant":[
+        "Olivence"
     ],
     "name:glg_x_preferred":[
         "Olivenza"
@@ -148,6 +160,9 @@
     ],
     "name:war_x_preferred":[
         "Olivenza"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5967\u5229\u6587\u85a9"
     ],
     "name:zho_x_preferred":[
         "\u5965\u5229\u6587\u8428"
@@ -264,7 +279,7 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"3cda385b06907b19db14cfade499dbc6",
+    "wof:geomhash":"3f13f8ebb1cd31841bfa1bdb54531c22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -278,7 +293,7 @@
         }
     ],
     "wof:id":1159339539,
-    "wof:lastmodified":1566654850,
+    "wof:lastmodified":1587428806,
     "wof:name":"Olivenza",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -290,10 +305,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.31771398899991,
-    38.50335516800003,
-    -7.19668921299993,
-    38.61769561800007
+    -7.317714,
+    38.503355,
+    -7.196689,
+    38.617696
 ],
-  "geometry": {"coordinates":[[[-7.31771398899991,38.55625234000009],[-7.27585607999993,38.6038204960001],[-7.27043005399986,38.61769561800007],[-7.24356388999985,38.61190705200003],[-7.20655756599993,38.59217034600002],[-7.19668921299993,38.56503237500002],[-7.19668921299993,38.5181576980001],[-7.22629427199996,38.50335516800003],[-7.26330059599988,38.51569060900006],[-7.28550438999983,38.54036149200005],[-7.31771398899991,38.55625234000009]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-7.317714,38.556252],[-7.275856,38.60382],[-7.27043,38.617696],[-7.243564,38.611907],[-7.206558,38.59217],[-7.196689,38.565032],[-7.196689,38.518158],[-7.226294,38.503355],[-7.263301,38.515691],[-7.285504,38.540361],[-7.317714,38.556252]]],"type":"Polygon"}
 }

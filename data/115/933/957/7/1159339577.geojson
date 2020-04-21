@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1976196.090611,
-    "geom:bbox":"47.28793379,-11.569919529,47.306407097,-11.55063242",
+    "geom:area_square_m":1976238.826719,
+    "geom:bbox":"47.287934,-11.56992,47.306407,-11.550632",
     "geom:latitude":-11.562026,
     "geom:longitude":47.297971,
     "iso:country":"XX",
@@ -59,6 +59,9 @@
     "name:epo_x_preferred":[
         "Insularo Glorioso"
     ],
+    "name:eus_x_preferred":[
+        "Uharte loriatsuak"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u0627\u06cc\u0631 \u06af\u0644\u0648\u0631\u06cc\u0648\u0633\u0648"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:ita_x_preferred":[
         "Isole Glorioso"
+    ],
+    "name:ita_x_variant":[
+        "Isole Gloriose"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30ed\u30ea\u30aa\u30bd\u8af8\u5cf6"
@@ -160,6 +166,18 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Glorieuses"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u683c\u6d1b\u91cc\u5384\u65af\u7fa4\u5c9b"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u683c\u6d1b\u91cc\u5384\u65af\u7fa4\u5cf6"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u683c\u6d1b\u91cc\u5384\u65af\u7fa4\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u683c\u6d1b\u91cc\u5384\u65af\u7fa4\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u683c\u6d1b\u91cc\u5384\u65af\u7fa4\u5c9b"
@@ -278,7 +296,7 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"fa95b7e3a2299825d456326311dfd9e3",
+    "wof:geomhash":"ec44f0d346d0a6ee12132745b16cc61f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -293,7 +311,7 @@
         }
     ],
     "wof:id":1159339577,
-    "wof:lastmodified":1566654861,
+    "wof:lastmodified":1587428832,
     "wof:name":"Glorioso Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -305,10 +323,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.28793379000012,
-    -11.56991952899995,
-    47.30640709700015,
-    -11.55063241999989
+    47.287934,
+    -11.56992,
+    47.306407,
+    -11.550632
 ],
-  "geometry": {"coordinates":[[[47.28793379000012,-11.56552499799994],[47.29957116000003,-11.55063241999989],[47.30640709700015,-11.56991952899995],[47.28793379000012,-11.56552499799994]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[47.287934,-11.565525],[47.299571,-11.550632],[47.306407,-11.56992],[47.287934,-11.565525]]],"type":"Polygon"}
 }

@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
-    "geom:area_square_m":30954.139733,
-    "geom:bbox":"-13.691314257,57.596258856,-13.687652148,57.59780508",
+    "geom:area_square_m":30949.35083,
+    "geom:bbox":"-13.691314,57.596259,-13.687652,57.597805",
     "geom:latitude":57.597012,
-    "geom:longitude":-13.689544,
+    "geom:longitude":-13.689543,
     "iso:country":"XX",
     "lbl:latitude":57.597032,
     "lbl:longitude":-13.689544,
@@ -45,6 +45,9 @@
         "Rockall"
     ],
     "name:deu_x_preferred":[
+        "Rockall"
+    ],
+    "name:eng_ca_x_preferred":[
         "Rockall"
     ],
     "name:eng_x_preferred":[
@@ -134,6 +137,9 @@
     "name:sco_x_preferred":[
         "Rockall"
     ],
+    "name:slk_x_preferred":[
+        "Rockall"
+    ],
     "name:spa_x_preferred":[
         "Rockall"
     ],
@@ -149,8 +155,23 @@
     "name:tur_x_preferred":[
         "Rockall"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043a\u043e\u043b"
+    ],
     "name:vie_x_preferred":[
         "Rockall"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7f57\u79d1\u5c14"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u7f85\u79d1\u723e"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u7f57\u79d1\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f85\u79d1\u723e"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u79d1\u723e"
@@ -266,7 +287,7 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"02f01f32a5fd8deec21f11a6d23e2fa4",
+    "wof:geomhash":"27e4c1f600dda59979e72129b6032778",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -281,7 +302,7 @@
         }
     ],
     "wof:id":1159339571,
-    "wof:lastmodified":1566654861,
+    "wof:lastmodified":1587428832,
     "wof:name":"Rockall",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -291,10 +312,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -13.69131425699993,
-    57.59625885600008,
-    -13.68765214799993,
-    57.59780508000006
+    -13.691314,
+    57.596259,
+    -13.687652,
+    57.597805
 ],
-  "geometry": {"coordinates":[[[-13.69041907499991,57.59625885600008],[-13.69131425699993,57.59650299700007],[-13.69131425699993,57.59715403900003],[-13.69041907499991,57.59780508000006],[-13.68858801999994,57.59780508000006],[-13.68765214799993,57.59715403900003],[-13.68765214799993,57.59686920800004],[-13.68858801999994,57.59625885600008],[-13.69041907499991,57.59625885600008]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-13.690419,57.596259],[-13.691314,57.596503],[-13.691314,57.597154],[-13.690419,57.597805],[-13.688588,57.597805],[-13.687652,57.597154],[-13.687652,57.596869],[-13.688588,57.596259],[-13.690419,57.596259]]],"type":"Polygon"}
 }
