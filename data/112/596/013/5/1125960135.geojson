@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u062f\u064a\u0634\u0648"
+    ],
+    "name:eng_x_preferred":[
+        "Mogadishu"
+    ],
     "qs_pg:gn_country":"SO",
     "qs_pg:name":"\u0645\u0642\u062f\u064a\u0634\u0648",
     "qs_pg:name_adm0":"Somalia",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125960135,
-    "wof:lastmodified":1566654065,
-    "wof:name":"\u0645\u0642\u062f\u064a\u0634\u0648",
+    "wof:lastmodified":1601427756,
+    "wof:name":"Mogadishu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",

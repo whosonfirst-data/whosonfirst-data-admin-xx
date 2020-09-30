@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Al Kout"
+    ],
     "qs_pg:gn_country":"IQ",
     "qs_pg:name":"\u0627\u0644\u0643\u0648\u062a",
     "qs_pg:name_adm0":"Iraq",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125898151,
-    "wof:lastmodified":1566653642,
-    "wof:name":"\u0627\u0644\u0643\u0648\u062a",
+    "wof:lastmodified":1601427756,
+    "wof:name":"Al Kout",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",

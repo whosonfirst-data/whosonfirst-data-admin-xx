@@ -20,6 +20,15 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mayang Miao"
+    ],
+    "name:eng_x_variant":[
+        "Mayang Miao Autonomous County"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u9633\u82d7\u65cf\u81ea\u6cbb\u53bf"
+    ],
     "qs_pg:gn_country":"CN",
     "qs_pg:name":"\u9ebb\u9633\u82d7\u65cf\u81ea\u6cbb\u53bf",
     "qs_pg:name_adm0":"\u4e2d\u570b",
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":1125403285,
-    "wof:lastmodified":1566654698,
-    "wof:name":"\u9ebb\u9633\u82d7\u65cf\u81ea\u6cbb\u53bf",
+    "wof:lastmodified":1601427754,
+    "wof:name":"Mayang Miao",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

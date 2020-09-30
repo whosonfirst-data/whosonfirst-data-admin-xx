@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Wanning"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u5b81\u5e02"
+    ],
     "qs_pg:gn_country":"CN",
     "qs_pg:name":"\u4e07\u5b81\u5e02",
     "qs_pg:name_adm0":"\u4e2d\u570b",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125382841,
-    "wof:lastmodified":1566653955,
-    "wof:name":"\u4e07\u5b81\u5e02",
+    "wof:lastmodified":1601427755,
+    "wof:name":"Wanning",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

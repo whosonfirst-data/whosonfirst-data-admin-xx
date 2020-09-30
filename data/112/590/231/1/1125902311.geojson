@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Gangneung-si"
+    ],
+    "name:kor_x_preferred":[
+        "\uac15\ub989\uc2dc"
+    ],
     "qs_pg:gn_country":"KR",
     "qs_pg:name":"\uac15\ub989\uc2dc",
     "qs_pg:name_adm0":"\ud55c\uad6d",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125902311,
-    "wof:lastmodified":1566653911,
-    "wof:name":"\uac15\ub989\uc2dc",
+    "wof:lastmodified":1601427757,
+    "wof:name":"Gangneung-si",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
