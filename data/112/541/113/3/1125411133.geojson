@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Samsan-myeon"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0bc\uc0b0\uba74"
+    ],
     "qs_pg:gn_country":"KR",
     "qs_pg:name":"\uc0bc\uc0b0\uba74",
     "qs_pg:name_adm0":"\ud55c\uad6d",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125411133,
-    "wof:lastmodified":1566654810,
-    "wof:name":"\uc0bc\uc0b0\uba74",
+    "wof:lastmodified":1601427757,
+    "wof:name":"Samsan-myeon",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

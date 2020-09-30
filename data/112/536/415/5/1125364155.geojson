@@ -20,6 +20,15 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Lichuan"
+    ],
+    "name:eng_x_variant":[
+        "Lichuan District"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ece\u5ddd\u533a"
+    ],
     "qs_pg:gn_country":"CN",
     "qs_pg:name":"\u9ece\u5ddd\u533a",
     "qs_pg:name_adm0":"\u4e2d\u570b",
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":1125364155,
-    "wof:lastmodified":1566654020,
-    "wof:name":"\u9ece\u5ddd\u533a",
+    "wof:lastmodified":1601427754,
+    "wof:name":"Lichuan",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

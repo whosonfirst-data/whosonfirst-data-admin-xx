@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Longjing"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u4e95\u5e02"
+    ],
     "qs_pg:gn_country":"CN",
     "qs_pg:name":"\u9f99\u4e95\u5e02",
     "qs_pg:name_adm0":"\u4e2d\u570b",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125396465,
-    "wof:lastmodified":1566653867,
-    "wof:name":"\u9f99\u4e95\u5e02",
+    "wof:lastmodified":1601427754,
+    "wof:name":"Longjing",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

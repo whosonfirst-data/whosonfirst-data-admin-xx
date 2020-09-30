@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kanose"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u702c"
+    ],
     "qs_pg:gn_country":"JP",
     "qs_pg:name":"\u9e7f\u702c",
     "qs_pg:name_adm0":"\u65e5\u672c",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125416139,
-    "wof:lastmodified":1566654771,
-    "wof:name":"\u9e7f\u702c",
+    "wof:lastmodified":1601427754,
+    "wof:name":"Kanose",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

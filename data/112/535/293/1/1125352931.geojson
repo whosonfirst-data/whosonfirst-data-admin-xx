@@ -20,6 +20,15 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Wannian"
+    ],
+    "name:eng_x_variant":[
+        "Wannian County"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u5e74\u53bf"
+    ],
     "qs_pg:gn_country":"CN",
     "qs_pg:name":"\u4e07\u5e74\u53bf",
     "qs_pg:name_adm0":"\u4e2d\u570b",
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":1125352931,
-    "wof:lastmodified":1566653242,
-    "wof:name":"\u4e07\u5e74\u53bf",
+    "wof:lastmodified":1601427755,
+    "wof:name":"Wannian",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

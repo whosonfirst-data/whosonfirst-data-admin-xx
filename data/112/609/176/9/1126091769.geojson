@@ -19,6 +19,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "I"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"\u30a4",
     "qs_pg:name_adm0":"\u65e5\u672c",
@@ -42,11 +48,11 @@
     "woe:name_adm1":"\u5343\u8449\u770c",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85672797,
         102191569,
         85632429,
+        1108741637,
         102031963,
-        1108741637
+        85672797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +73,8 @@
         }
     ],
     "wof:id":1126091769,
-    "wof:lastmodified":1566654508,
-    "wof:name":"\u30a4",
+    "wof:lastmodified":1601427756,
+    "wof:name":"I",
     "wof:parent_id":102031963,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",

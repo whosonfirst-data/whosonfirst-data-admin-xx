@@ -20,6 +20,15 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Longyou"
+    ],
+    "name:eng_x_variant":[
+        "Longyou County"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u6e38\u53bf"
+    ],
     "qs_pg:gn_country":"CN",
     "qs_pg:name":"\u9f99\u6e38\u53bf",
     "qs_pg:name_adm0":"\u4e2d\u570b",
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":1125414749,
-    "wof:lastmodified":1566654785,
-    "wof:name":"\u9f99\u6e38\u53bf",
+    "wof:lastmodified":1601427754,
+    "wof:name":"Longyou",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",

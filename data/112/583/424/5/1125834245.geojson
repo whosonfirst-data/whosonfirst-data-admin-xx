@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Busan"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc0b0"
+    ],
     "qs_pg:gn_country":"KR",
     "qs_pg:name":"\ubd80\uc0b0",
     "qs_pg:name_adm0":"\ud55c\uad6d",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1125834245,
-    "wof:lastmodified":1566654837,
-    "wof:name":"\ubd80\uc0b0",
+    "wof:lastmodified":1601427757,
+    "wof:name":"Busan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",

@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0628\u0627\u0637"
+    ],
+    "name:eng_x_preferred":[
+        "Mirbat"
+    ],
     "qs_pg:gn_country":"OM",
     "qs_pg:name":"\u0645\u0631\u0628\u0627\u0637",
     "qs_pg:name_adm0":"\u0639\u0645\u0627\u0646",
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":1126037031,
-    "wof:lastmodified":1566653443,
-    "wof:name":"\u0645\u0631\u0628\u0627\u0637",
+    "wof:lastmodified":1601427756,
+    "wof:name":"Mirbat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
