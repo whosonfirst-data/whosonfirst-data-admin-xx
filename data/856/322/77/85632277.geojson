@@ -9,7 +9,6 @@
     "geom:bbox":"76.760438,35.00876,77.82317,35.675788",
     "geom:latitude":35.368137,
     "geom:longitude":77.162361,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":35.340606,
     "lbl:longitude":77.129553,
@@ -362,7 +361,7 @@
         }
     ],
     "wof:id":85632277,
-    "wof:lastmodified":1587428794,
+    "wof:lastmodified":1603251378,
     "wof:name":"Siachen Glacier",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

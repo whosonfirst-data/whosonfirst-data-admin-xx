@@ -9,7 +9,6 @@
     "geom:bbox":"34.49955368,27.903749466,34.740390778,28.011249542",
     "geom:latitude":27.946765,
     "geom:longitude":34.598692,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":27.944352,
     "lbl:longitude":34.551927,
@@ -262,7 +261,7 @@
         }
     ],
     "wof:id":85632349,
-    "wof:lastmodified":1582332377,
+    "wof:lastmodified":1603251378,
     "wof:name":"Tiran and Sanafir Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

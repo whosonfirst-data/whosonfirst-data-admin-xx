@@ -9,7 +9,6 @@
     "geom:bbox":"79.138206,32.519093,79.561282,33.237886",
     "geom:latitude":32.875943,
     "geom:longitude":79.333941,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":32.818062,
     "lbl:longitude":79.331887,
@@ -235,7 +234,7 @@
         }
     ],
     "wof:id":85632377,
-    "wof:lastmodified":1587428791,
+    "wof:lastmodified":1603251378,
     "wof:name":"Demchok",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -9,7 +9,6 @@
     "geom:bbox":"77.92412,33.386916,80.421723,35.987873",
     "geom:latitude":35.031389,
     "geom:longitude":79.132115,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":35.098491,
     "lbl:longitude":79.139257,
@@ -372,7 +371,7 @@
         }
     ],
     "wof:id":85632415,
-    "wof:lastmodified":1587428789,
+    "wof:lastmodified":1603251378,
     "wof:name":"Aksai Chin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

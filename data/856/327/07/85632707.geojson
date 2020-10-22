@@ -9,7 +9,6 @@
     "geom:bbox":"34.383781199,4.62053488285,35.7812825883,5.033421",
     "geom:latitude":4.760973,
     "geom:longitude":35.124871,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":4.790693,
     "lbl:longitude":35.175648,
@@ -243,10 +242,7 @@
         }
     ],
     "wof:id":85632707,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1566653137,
+    "wof:lastmodified":1603251379,
     "wof:name":"Ilemi Triangle",
     "wof:parent_id":85632657,
     "wof:placetype":"disputed",

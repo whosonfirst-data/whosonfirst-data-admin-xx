@@ -9,7 +9,6 @@
     "geom:bbox":"131.863083,37.238254,131.872231,37.244232",
     "geom:latitude":37.240829,
     "geom:longitude":131.867119,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":37.242798,
     "lbl:longitude":131.861357,
@@ -335,7 +334,7 @@
         }
     ],
     "wof:id":85632353,
-    "wof:lastmodified":1587428791,
+    "wof:lastmodified":1603251378,
     "wof:name":"Dokdo",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

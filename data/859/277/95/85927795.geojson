@@ -10,7 +10,6 @@
     "geom:latitude":33.741852,
     "geom:longitude":75.125427,
     "gn:country":null,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:bbox":"75.120427,33.736852,75.130427,33.746852",
     "lbl:latitude":33.741852,
@@ -113,10 +112,7 @@
         }
     ],
     "wof:id":85927795,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582332375,
+    "wof:lastmodified":1603251376,
     "wof:name":"Takia Magam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

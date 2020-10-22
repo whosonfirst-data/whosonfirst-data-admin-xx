@@ -9,7 +9,6 @@
     "geom:bbox":"9.36152856,0.79869483,9.41190444,0.81012294",
     "geom:latitude":0.80818,
     "geom:longitude":9.379161,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":0.808621,
     "lbl:longitude":9.379812,
@@ -204,7 +203,7 @@
         }
     ],
     "wof:id":85632367,
-    "wof:lastmodified":1582332377,
+    "wof:lastmodified":1603251378,
     "wof:name":"Mbane Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

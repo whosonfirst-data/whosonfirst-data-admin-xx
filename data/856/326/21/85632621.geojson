@@ -9,7 +9,6 @@
     "geom:bbox":"123.509552,25.738722,124.570358,25.931223",
     "geom:latitude":25.795292,
     "geom:longitude":123.589123,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":25.766863,
     "lbl:longitude":123.527155,
@@ -404,7 +403,7 @@
         }
     ],
     "wof:id":85632621,
-    "wof:lastmodified":1587428801,
+    "wof:lastmodified":1603251379,
     "wof:name":"Pinnacle Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

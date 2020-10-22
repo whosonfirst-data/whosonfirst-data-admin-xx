@@ -153,7 +153,6 @@
     "wof:belongsto":[
         102191569,
         85632315,
-        1376891411,
         85633739
     ],
     "wof:breaches":[],
@@ -167,16 +166,16 @@
         {
             "continent_id":102191569,
             "country_id":85632315,
-            "disputed_id":1376891411
+            "disputed_id":1376891409
         },
         {
             "continent_id":102191569,
             "country_id":85633739,
-            "disputed_id":1376891411
+            "disputed_id":1376891409
         }
     ],
     "wof:id":1376891409,
-    "wof:lastmodified":1566653152,
+    "wof:lastmodified":1603251381,
     "wof:name":"Mount Scopus",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

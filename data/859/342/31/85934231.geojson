@@ -10,7 +10,6 @@
     "geom:latitude":34.172247,
     "geom:longitude":77.530555,
     "gn:country":null,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:bbox":"77.525555,34.167247,77.535555,34.177247",
     "lbl:latitude":34.172247,
@@ -119,10 +118,7 @@
         }
     ],
     "wof:id":85934231,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582332375,
+    "wof:lastmodified":1603251377,
     "wof:name":"Suku",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

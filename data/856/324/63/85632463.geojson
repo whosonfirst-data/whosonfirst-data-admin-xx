@@ -9,7 +9,6 @@
     "geom:bbox":"79.700583,30.558143,80.2492695,31.005804",
     "geom:latitude":30.766586,
     "geom:longitude":80.025401,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":30.718364,
     "lbl:longitude":80.123118,
@@ -199,7 +198,7 @@
         }
     ],
     "wof:id":85632463,
-    "wof:lastmodified":1582332377,
+    "wof:lastmodified":1603251377,
     "wof:name":"Bara Hotii Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

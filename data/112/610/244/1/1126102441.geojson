@@ -10,7 +10,6 @@
     "geom:latitude":8.509567,
     "geom:longitude":76.885982,
     "gn:country":null,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:bbox":"76.880982,8.504567,76.890982,8.514567",
     "lbl:latitude":8.509567,
@@ -71,7 +70,7 @@
         }
     ],
     "wof:id":1126102441,
-    "wof:lastmodified":1566653333,
+    "wof:lastmodified":1603251385,
     "wof:name":"Valia Veli",
     "wof:parent_id":102028407,
     "wof:placetype":"neighbourhood",

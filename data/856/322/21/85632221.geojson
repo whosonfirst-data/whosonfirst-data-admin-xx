@@ -9,7 +9,6 @@
     "geom:bbox":"35.586898,32.677555,35.895392,33.333882",
     "geom:latitude":33.002797,
     "geom:longitude":35.737688,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":32.988085,
     "lbl:longitude":35.748193,
@@ -525,7 +524,7 @@
         }
     ],
     "wof:id":85632221,
-    "wof:lastmodified":1587428793,
+    "wof:lastmodified":1603251378,
     "wof:name":"Golan Heights",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

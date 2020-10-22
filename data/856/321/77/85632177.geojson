@@ -9,7 +9,6 @@
     "geom:bbox":"111.91375,6.32768,116.473801,11.462083",
     "geom:latitude":9.951282,
     "geom:longitude":114.418501,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":10.72954,
     "lbl:longitude":115.81956,
@@ -419,10 +418,7 @@
         }
     ],
     "wof:id":85632177,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582332379,
+    "wof:lastmodified":1603251380,
     "wof:name":"Spratly Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -9,7 +9,6 @@
     "geom:bbox":"78.882566,30.949345,79.417254,31.459016",
     "geom:latitude":31.189888,
     "geom:longitude":79.139009,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":31.235761,
     "lbl:longitude":79.082293,
@@ -198,7 +197,7 @@
         }
     ],
     "wof:id":85632577,
-    "wof:lastmodified":1582332378,
+    "wof:lastmodified":1603251379,
     "wof:name":"Tirpani Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

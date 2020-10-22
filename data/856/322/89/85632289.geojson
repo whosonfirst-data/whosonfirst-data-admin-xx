@@ -9,7 +9,6 @@
     "geom:bbox":"35.62452,33.262173,35.72754,33.326332",
     "geom:latitude":33.286437,
     "geom:longitude":35.681551,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":33.282988,
     "lbl:longitude":35.680612,
@@ -322,7 +321,7 @@
         }
     ],
     "wof:id":85632289,
-    "wof:lastmodified":1587428793,
+    "wof:lastmodified":1603251378,
     "wof:name":"Shebaa Farms",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

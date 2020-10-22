@@ -10,7 +10,6 @@
     "geom:latitude":34.181657,
     "geom:longitude":77.531547,
     "gn:country":null,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:bbox":"77.526547,34.176657,77.536547,34.186657",
     "lbl:latitude":34.181657,
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":1126070339,
-    "wof:lastmodified":1566654336,
+    "wof:lastmodified":1603251409,
     "wof:name":"Karzoo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

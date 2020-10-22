@@ -9,7 +9,6 @@
     "geom:bbox":"129.042664,35.063725,129.042664,35.063725",
     "geom:latitude":35.063725,
     "geom:longitude":129.042664,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:bbox":"129.037664,35.058725,129.047664,35.068725",
     "lbl:latitude":35.063725,
@@ -78,10 +77,7 @@
         }
     ],
     "wof:id":85926471,
-    "wof:lang":[
-        "kor"
-    ],
-    "wof:lastmodified":1582332375,
+    "wof:lastmodified":1603251377,
     "wof:name":"\uc601\uc120\ub3d9",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

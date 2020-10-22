@@ -9,7 +9,6 @@
     "geom:bbox":"-88.328415,16.094,-88.239998,16.163279",
     "geom:latitude":16.129947,
     "geom:longitude":-88.275189,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":16.106038,
     "lbl:longitude":-88.256588,
@@ -227,7 +226,7 @@
         }
     ],
     "wof:id":85632515,
-    "wof:lastmodified":1587428796,
+    "wof:lastmodified":1603251379,
     "wof:name":"Sapodilla Cayes",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

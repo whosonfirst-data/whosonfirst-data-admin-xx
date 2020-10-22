@@ -11,7 +11,6 @@
     "geom:bbox":"72.352859497,-7.445444584,72.494552612,-7.223750114",
     "geom:latitude":-7.339768,
     "geom:longitude":72.435092,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":-7.399182,
     "lbl:longitude":72.460534,
@@ -41,6 +40,9 @@
         "wof:belongsto"
     ],
     "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"2b07ae00e0ec451e264446c39662b31d",
     "wof:hierarchy":[
         {
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1108832315,
-    "wof:lastmodified":1566653151,
+    "wof:lastmodified":1603251380,
     "wof:name":"Diego Garcia NSF",
     "wof:parent_id":-3,
     "wof:placetype":"campus",

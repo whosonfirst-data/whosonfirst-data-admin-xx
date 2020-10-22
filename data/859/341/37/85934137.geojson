@@ -9,7 +9,6 @@
     "geom:bbox":"74.869628,34.152341,74.869628,34.152341",
     "geom:latitude":34.152341,
     "geom:longitude":74.869628,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:bbox":"74.864628,34.147341,74.874628,34.157341",
     "lbl:latitude":34.152341,
@@ -115,10 +114,7 @@
         }
     ],
     "wof:id":85934137,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1582332375,
+    "wof:lastmodified":1603251376,
     "wof:name":"Shalimar Bagh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

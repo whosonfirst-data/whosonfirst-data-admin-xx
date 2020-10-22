@@ -12,7 +12,6 @@
     "geom:bbox":"73.750507,32.300587,79.561282,35.513331",
     "geom:latitude":33.767272,
     "geom:longitude":76.61554,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":34.023448,
     "lbl:longitude":77.296374,
@@ -574,7 +573,7 @@
         }
     ],
     "wof:id":85632427,
-    "wof:lastmodified":1587428788,
+    "wof:lastmodified":1603251377,
     "wof:name":"Jammu and Kashmir",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -10,7 +10,6 @@
     "geom:latitude":32.099702,
     "geom:longitude":34.76766,
     "gn:country":null,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":32.09882,
     "lbl:longitude":34.775167,
@@ -156,10 +155,7 @@
         }
     ],
     "wof:id":85907309,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1566653128,
+    "wof:lastmodified":1603251376,
     "wof:name":"Tel-aviv Port",
     "wof:parent_id":1125955239,
     "wof:placetype":"neighbourhood",
