@@ -1,0 +1,319 @@
+{
+  "id": 1108833329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0076,
+    "geom:area_square_m":87445068.801011,
+    "geom:bbox":"39.629162,-21.526714,39.746252,-21.434601",
+    "geom:latitude":-21.482254,
+    "geom:longitude":39.682239,
+    "iso:country":"XX",
+    "iso:parent":"FR",
+    "lbl:latitude":-21.497628,
+    "lbl:longitude":39.695105,
+    "mps:latitude":-21.497628,
+    "mps:longitude":39.695105,
+    "mz:hierarchy_label":1,
+    "mz:hierarchy_label_country":0,
+    "mz:hierarchy_label_county":0,
+    "mz:hierarchy_label_localadmin":0,
+    "mz:hierarchy_label_locality":1,
+    "mz:hierarchy_label_macrocounty":0,
+    "mz:hierarchy_label_macroregion":0,
+    "mz:hierarchy_label_region":0,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0635\u0627\u0635 \u0627\u0644\u0647\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:aze_x_preferred":[
+        "Bassas da \u0130ndiya adalar\u0131"
+    ],
+    "name:cat_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:ceb_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:ces_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:dan_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:deu_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:ell_x_preferred":[
+        "\u038e\u03c6\u03b1\u03bb\u03bf\u03c2 \u0399\u03bd\u03b4\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:epo_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:est_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u0627\u0633 \u062f\u0627 \u0627\u06cc\u0646\u062f\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:fra_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Bassas da India"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e1\u05d0\u05e1 \u05d3\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0938 \u0926\u093e \u0907\u0928\u094d\u0921\u093f\u092f\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:hun_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:ind_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:ita_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b5\u30b9\u30fb\u30c0\u30fb\u30a4\u30f3\u30c7\u30a3\u30a2"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e1\u10d0\u10e1-\u10d3\u10d0-\u10d8\u10dc\u10d3\u10d8\u10d0"
+    ],
+    "name:lav_x_preferred":[
+        "Basa da Indija"
+    ],
+    "name:lij_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:lit_x_preferred":[
+        "Basas da Indija"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u0441 \u0434\u0430 \u0418\u043d\u0434\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:nld_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:nob_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:nor_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:oci_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:pol_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:por_x_preferred":[
+        "Bassas da \u00cdndia"
+    ],
+    "name:ron_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0441\u0430\u0441-\u0434\u0430-\u0418\u043d\u0434\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:slk_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:spa_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u0441 \u0434\u0430 \u0418\u043d\u0434\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:tur_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u0441-\u0434\u0430-\u0406\u043d\u0434\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0633\u0627\u0633 \u062f\u0627 \u0627\u0646\u0688\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Bassas da India"
+    ],
+    "name:zho_x_preferred":[
+        "\u5370\u5ea6\u7901"
+    ],
+    "ne:ABBREV":"B.dI.",
+    "ne:ABBREV_LEN":5,
+    "ne:ADM0_A3":"ATF",
+    "ne:ADM0_A3_IS":"ATF",
+    "ne:ADM0_A3_UN":-99,
+    "ne:ADM0_A3_US":"ATF",
+    "ne:ADM0_A3_WB":-99,
+    "ne:ADM0_DIF":1,
+    "ne:ADMIN":"French Southern and Antarctic Lands",
+    "ne:BRK_A3":"B27",
+    "ne:BRK_DIFF":1,
+    "ne:BRK_GROUP":null,
+    "ne:BRK_NAME":"Bassas da India",
+    "ne:CONTINENT":"Africa",
+    "ne:ECONOMY":"7. Least developed region",
+    "ne:FIPS_10_":"BS",
+    "ne:FORMAL_EN":"Bassas da India",
+    "ne:FORMAL_FR":"Basse de Judie",
+    "ne:GDP_MD_EST":0,
+    "ne:GDP_YEAR":2016,
+    "ne:GEOUNIT":"French Southern and Antarctic Lands",
+    "ne:GEOU_DIF":0,
+    "ne:GU_A3":"ATF",
+    "ne:HOMEPART":-99,
+    "ne:INCOME_GRP":"5. Low income",
+    "ne:ISO_A2":"-99",
+    "ne:ISO_A3":"-99",
+    "ne:ISO_A3_EH":"-99",
+    "ne:ISO_N3":"-99",
+    "ne:LABELRANK":6,
+    "ne:LASTCENSUS":-99,
+    "ne:LEVEL":4,
+    "ne:LONG_LEN":15,
+    "ne:MAPCOLOR13":11,
+    "ne:MAPCOLOR7":7,
+    "ne:MAPCOLOR8":5,
+    "ne:MAPCOLOR9":9,
+    "ne:MAX_LABEL":11,
+    "ne:MIN_LABEL":6,
+    "ne:MIN_ZOOM":0,
+    "ne:NAME":"Bassas da India",
+    "ne:NAME_ALT":null,
+    "ne:NAME_AR":"\u0628\u0635\u0627\u0635 \u0627\u0644\u0647\u0646\u062f",
+    "ne:NAME_BN":null,
+    "ne:NAME_CIAWF":null,
+    "ne:NAME_DE":"Bassas da India",
+    "ne:NAME_EL":"\u038e\u03c6\u03b1\u03bb\u03bf\u03c2 \u0399\u03bd\u03b4\u03af\u03b1\u03c2",
+    "ne:NAME_EN":"Bassas da India",
+    "ne:NAME_ES":"Bassas da India",
+    "ne:NAME_FR":"Bassas da India",
+    "ne:NAME_HI":null,
+    "ne:NAME_HU":"Bassas da India",
+    "ne:NAME_ID":"Bassas da India",
+    "ne:NAME_IT":"Bassas da India",
+    "ne:NAME_JA":"\u30d0\u30b5\u30b9\u30fb\u30c0\u30fb\u30a4\u30f3\u30c7\u30a3\u30a2",
+    "ne:NAME_KO":null,
+    "ne:NAME_LEN":15,
+    "ne:NAME_LONG":"Bassas da India",
+    "ne:NAME_NL":"Bassas da India",
+    "ne:NAME_PL":"Bassas da India",
+    "ne:NAME_PT":"Bassas da \u00cdndia",
+    "ne:NAME_RU":"\u0411\u0430\u0441\u0441\u0430\u0441-\u0434\u0430-\u0418\u043d\u0434\u0438\u044f",
+    "ne:NAME_SORT":"Bassas da India",
+    "ne:NAME_SV":"Bassas da India",
+    "ne:NAME_TR":"Bassas da India",
+    "ne:NAME_VI":"Bassas da India",
+    "ne:NAME_ZH":"\u5370\u5ea6\u7901",
+    "ne:NE_ID":1159320665,
+    "ne:NOTE_ADM0":"Fr.",
+    "ne:NOTE_BRK":"Admin. by France; Claimed by Madagascar",
+    "ne:POP_EST":0,
+    "ne:POP_RANK":1,
+    "ne:POP_YEAR":2017,
+    "ne:POSTAL":"BI",
+    "ne:REGION_UN":"Africa",
+    "ne:REGION_WB":"Sub-Saharan Africa",
+    "ne:SOVEREIGNT":"France",
+    "ne:SOV_A3":"FR1",
+    "ne:SUBREGION":"Eastern Africa",
+    "ne:SUBUNIT":"Bassas da India",
+    "ne:SU_A3":"BSI",
+    "ne:SU_DIF":1,
+    "ne:TINY":-99,
+    "ne:TYPE":"Geo subunit",
+    "ne:UN_A3":"-099",
+    "ne:WB_A2":"-99",
+    "ne:WB_A3":"-99",
+    "ne:WIKIDATAID":"Q220601",
+    "ne:WIKIPEDIA":-99,
+    "ne:WOE_ID":23424769,
+    "ne:WOE_ID_EH":23424769,
+    "ne:WOE_NOTE":"WOE admin-1 (territory) match.",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:scalerank":8,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        85632223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936202,
+        "ne:id":1159320665,
+        "wd:id":"Q220601"
+    },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
+    "wof:country":"XX",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"af94c89c3f1939f172513bd6e317eaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "disputed_id":1108833329
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632223,
+            "disputed_id":1108833329
+        }
+    ],
+    "wof:id":1108833329,
+    "wof:lastmodified":1615501570,
+    "wof:name":"Bassas da India",
+    "wof:parent_id":-2,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:shortcode":"TF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85632337
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.629162,
+    -21.526714,
+    39.746252,
+    -21.434601
+],
+  "geometry": {"coordinates":[[[[39.629255,-21.464466],[39.633268,-21.457177],[39.642038,-21.447867],[39.654426,-21.440699],[39.67669,-21.43585],[39.695257,-21.434601],[39.704724,-21.437672],[39.70903,-21.4418],[39.707234,-21.44525],[39.706004,-21.450345],[39.708579,-21.458866],[39.715943,-21.464674],[39.723918,-21.470879],[39.729301,-21.473781],[39.73498,-21.471604],[39.739574,-21.471661],[39.743924,-21.473842],[39.746104,-21.47898],[39.746252,-21.484985],[39.743711,-21.492215],[39.737401,-21.500488],[39.728224,-21.508898],[39.718319,-21.514922],[39.709182,-21.519596],[39.697427,-21.524089],[39.68492,-21.526507],[39.672995,-21.526714],[39.661904,-21.524366],[39.65196,-21.52085],[39.643311,-21.514433],[39.638452,-21.505702],[39.631736,-21.487775],[39.629162,-21.473724],[39.629255,-21.464466]]]],"type":"MultiPolygon"}
+}
