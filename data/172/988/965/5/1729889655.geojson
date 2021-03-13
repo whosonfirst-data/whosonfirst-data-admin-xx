@@ -1,0 +1,226 @@
+{
+  "id": 1729889655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.171988,
+    "geom:bbox":"33.181136,21.711049,34.077008,21.995454",
+    "geom:latitude":21.882414,
+    "geom:longitude":33.676742,
+    "iso:country":"XX",
+    "lbl:latitude":21.862249,
+    "lbl:longitude":33.668021,
+    "mps:latitude":21.862249,
+    "mps:longitude":33.668021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0637\u0648\u064a\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03c1 \u03a4\u03b1\u03bf\u03c5\u03af\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:fra_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8 \u05d8\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:ind_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:ita_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30eb\u30fb\u30bf\u30a6\u30a3\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ub974 \ud0c0\uc70c"
+    ],
+    "name:nld_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:pol_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:por_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440-\u0422\u0430\u0432\u0438\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:swe_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:tur_x_preferred":[
+        "Bir Tavil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0440-\u0422\u0430\u0432\u0456\u043b\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u6cf0\u7ef4\u52d2"
+    ],
+    "ne:abbrev":"B. Tawil",
+    "ne:abbrev_len":8,
+    "ne:adm0_a3":"BRT",
+    "ne:adm0_a3_ar":"BRT",
+    "ne:adm0_a3_bd":"BRT",
+    "ne:adm0_a3_br":"BRT",
+    "ne:adm0_a3_cn":"BRT",
+    "ne:adm0_a3_de":"BRT",
+    "ne:adm0_a3_eg":"BRT",
+    "ne:adm0_a3_es":"BRT",
+    "ne:adm0_a3_fr":"BRT",
+    "ne:adm0_a3_gb":"BRT",
+    "ne:adm0_a3_gr":"BRT",
+    "ne:adm0_a3_id":"BRT",
+    "ne:adm0_a3_il":"BRT",
+    "ne:adm0_a3_in":"BRT",
+    "ne:adm0_a3_is":"-99",
+    "ne:adm0_a3_it":"BRT",
+    "ne:adm0_a3_jp":"BRT",
+    "ne:adm0_a3_ko":"BRT",
+    "ne:adm0_a3_ma":"BRT",
+    "ne:adm0_a3_nl":"BRT",
+    "ne:adm0_a3_np":"BRT",
+    "ne:adm0_a3_pk":"BRT",
+    "ne:adm0_a3_pl":"BRT",
+    "ne:adm0_a3_ps":"BRT",
+    "ne:adm0_a3_pt":"BRT",
+    "ne:adm0_a3_ru":"BRT",
+    "ne:adm0_a3_sa":"BRT",
+    "ne:adm0_a3_se":"BRT",
+    "ne:adm0_a3_tr":"BRT",
+    "ne:adm0_a3_tw":"BRT",
+    "ne:adm0_a3_ua":"BRT",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"BRT",
+    "ne:adm0_a3_vn":"BRT",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":0,
+    "ne:admin":"Bir Tawil",
+    "ne:brk_a3":"B94",
+    "ne:brk_diff":1,
+    "ne:brk_name":"Bir Tawil",
+    "ne:continent":"Africa",
+    "ne:economy":"7. Least developed region",
+    "ne:fc_iso":"Unrecognized",
+    "ne:featurecla":"Admin-0 indeterminant",
+    "ne:fips_10":"-99",
+    "ne:gdp_md":0,
+    "ne:gdp_year":2019,
+    "ne:geou_dif":0,
+    "ne:geounit":"Bir Tawil",
+    "ne:gu_a3":"BRT",
+    "ne:homepart":-99,
+    "ne:income_grp":"5. Low income",
+    "ne:iso_a2":"-99",
+    "ne:iso_a2_eh":"-99",
+    "ne:iso_a3":"-99",
+    "ne:iso_a3_eh":"-99",
+    "ne:iso_n3":"-99",
+    "ne:iso_n3_eh":"-99",
+    "ne:labelrank":8,
+    "ne:lbl_latitude":21.862249,
+    "ne:lbl_longitude":33.668021,
+    "ne:level":2,
+    "ne:long_len":9,
+    "ne:mapcolor13":5,
+    "ne:mapcolor7":1,
+    "ne:mapcolor8":1,
+    "ne:mapcolor9":2,
+    "ne:max_label":9,
+    "ne:min_label":7,
+    "ne:min_zoom":7,
+    "ne:name":"Bir Tawil",
+    "ne:name_ar":"\u0628\u064a\u0631 \u0637\u0648\u064a\u0644",
+    "ne:name_de":"Bir Tawil",
+    "ne:name_el":"\u039c\u03c0\u03b9\u03c1 \u03a4\u03b1\u03bf\u03c5\u03af\u03bb",
+    "ne:name_en":"Bir Tawil",
+    "ne:name_es":"Bir Tawil",
+    "ne:name_fr":"Bir Tawil",
+    "ne:name_he":"\u05d1\u05d9\u05e8 \u05d8\u05d5\u05d5\u05d9\u05dc",
+    "ne:name_id":"Bir Tawil",
+    "ne:name_it":"Bir Tawil",
+    "ne:name_ja":"\u30d3\u30eb\u30fb\u30bf\u30a6\u30a3\u30fc\u30eb",
+    "ne:name_ko":"\ube44\ub974 \ud0c0\uc70c",
+    "ne:name_len":9,
+    "ne:name_long":"Bir Tawil",
+    "ne:name_nl":"Bir Tawil",
+    "ne:name_pl":"Bir Tawil",
+    "ne:name_pt":"Bir Tawil",
+    "ne:name_ru":"\u0411\u0438\u0440-\u0422\u0430\u0432\u0438\u043b\u044c",
+    "ne:name_sort":"Bir Tawil",
+    "ne:name_sv":"Bir Tawil",
+    "ne:name_tr":"Bir Tavil",
+    "ne:name_uk":"\u0411\u0456\u0440-\u0422\u0430\u0432\u0456\u043b\u044c",
+    "ne:name_vi":"Bir Tawil",
+    "ne:name_zh":"\u6bd4\u5c14\u6cf0\u7ef4\u52d2",
+    "ne:ne_id":1729635091,
+    "ne:note_brk":"Between Egypt and Sudan",
+    "ne:pop_est":0,
+    "ne:pop_rank":1,
+    "ne:pop_year":2019,
+    "ne:region_un":"Africa",
+    "ne:region_wb":"Middle East & North Africa",
+    "ne:scalerank":0,
+    "ne:sov_a3":"BRT",
+    "ne:sovereignt":"Bir Tawil",
+    "ne:su_a3":"BRT",
+    "ne:su_dif":0,
+    "ne:subregion":"Northern Africa",
+    "ne:subunit":"Bir Tawil",
+    "ne:tiny":-99,
+    "ne:type":"Indeterminate",
+    "ne:un_a3":"-099",
+    "ne:wb_a2":"-99",
+    "ne:wb_a3":"-99",
+    "ne:wikidataid":"Q620634",
+    "ne:woe_id":-99,
+    "ne:woe_id_eh":-99,
+    "ne:woe_note":"No WOE equivalent.",
+    "src:geom":"naturalearth",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1729635091,
+        "wd:id":"Q620634"
+    },
+    "wof:country":"XX",
+    "wof:created":1615593822,
+    "wof:geomhash":"9591be4ceea87d6e1512ef0637addd0c",
+    "wof:hierarchy":[],
+    "wof:id":1729889655,
+    "wof:lastmodified":1615593822,
+    "wof:name":"Bir Tawil",
+    "wof:parent_id":-1,
+    "wof:placetype":"disputed",
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.181136,
+    21.711049,
+    34.077008,
+    21.995454
+],
+  "geometry": {"coordinates":[[[33.181136,21.995409],[33.392359,21.995454],[33.625058,21.995454],[33.857706,21.995454],[34.076127,21.995454],[34.077008,21.995454],[34.007974,21.791101],[34.005472,21.784394],[33.55832,21.711049],[33.181136,21.995409]]],"type":"Polygon"}
+}

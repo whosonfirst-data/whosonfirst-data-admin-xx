@@ -1,0 +1,228 @@
+{
+  "id": 1729889657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.576428,
+    "geom:bbox":"34.084179,21.995454,36.899181,23.139293",
+    "geom:latitude":22.359549,
+    "geom:longitude":35.518173,
+    "iso:country":"XX",
+    "lbl:latitude":22.449695,
+    "lbl:longitude":35.496205,
+    "mps:latitude":22.449695,
+    "mps:longitude":35.496205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062b\u0644\u062b \u062d\u0644\u0627\u064a\u0628"
+    ],
+    "name:deu_x_preferred":[
+        "Hala\u2019ib-Dreieck"
+    ],
+    "name:eng_x_preferred":[
+        "Halaib Triangle"
+    ],
+    "name:fra_x_preferred":[
+        "Triangle de Hala'ib"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e9\u05d5\u05dc\u05e9 \u05d7\u05dc\u05d0\u05d9\u05d1"
+    ],
+    "name:ind_x_preferred":[
+        "Segitiga Hala'ib"
+    ],
+    "name:ita_x_preferred":[
+        "Triangolo di Hala'ib"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e9\u30fc\u30a4\u30d6\u30fb\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud560\ub77c\uc785 \ud2b8\ub77c\uc774\uc575\uae00"
+    ],
+    "name:nld_x_preferred":[
+        "Hala'ib-driehoek"
+    ],
+    "name:pol_x_preferred":[
+        "Tr\u00f3jk\u0105t Hala\u2019ib"
+    ],
+    "name:por_x_preferred":[
+        "Tri\u00e2ngulo de Hala'ib"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a \u0425\u0430\u043b\u0430\u0438\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tri\u00e1ngulo de Hala'ib"
+    ],
+    "name:swe_x_preferred":[
+        "Hala'ibtriangeln"
+    ],
+    "name:tur_x_preferred":[
+        "Hala'ib \u00dc\u00e7geni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0457\u0431\u0441\u044c\u043a\u0438\u0439 \u0442\u0440\u0438\u043a\u0443\u0442\u043d\u0438\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062b\u0644\u062b \u062d\u0644\u0627\u06cc\u0628"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u62c9\u4f0a\u535c\u4e09\u89d2\u533a"
+    ],
+    "ne:abbrev":"H.Triangle",
+    "ne:abbrev_len":10,
+    "ne:adm0_a3":"EGY",
+    "ne:adm0_a3_ar":"EGY",
+    "ne:adm0_a3_bd":"EGY",
+    "ne:adm0_a3_br":"EGY",
+    "ne:adm0_a3_cn":"EGY",
+    "ne:adm0_a3_de":"EGY",
+    "ne:adm0_a3_eg":"EGY",
+    "ne:adm0_a3_es":"EGY",
+    "ne:adm0_a3_fr":"EGY",
+    "ne:adm0_a3_gb":"EGY",
+    "ne:adm0_a3_gr":"EGY",
+    "ne:adm0_a3_id":"EGY",
+    "ne:adm0_a3_il":"EGY",
+    "ne:adm0_a3_in":"EGY",
+    "ne:adm0_a3_is":"-99",
+    "ne:adm0_a3_it":"EGY",
+    "ne:adm0_a3_jp":"EGY",
+    "ne:adm0_a3_ko":"EGY",
+    "ne:adm0_a3_ma":"EGY",
+    "ne:adm0_a3_nl":"EGY",
+    "ne:adm0_a3_np":"EGY",
+    "ne:adm0_a3_pk":"EGY",
+    "ne:adm0_a3_pl":"EGY",
+    "ne:adm0_a3_ps":"EGY",
+    "ne:adm0_a3_pt":"EGY",
+    "ne:adm0_a3_ru":"EGY",
+    "ne:adm0_a3_sa":"EGY",
+    "ne:adm0_a3_se":"EGY",
+    "ne:adm0_a3_tr":"EGY",
+    "ne:adm0_a3_tw":"EGY",
+    "ne:adm0_a3_ua":"EGY",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"EGY",
+    "ne:adm0_a3_vn":"EGY",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":0,
+    "ne:admin":"Egypt",
+    "ne:brk_a3":"B93",
+    "ne:brk_diff":1,
+    "ne:brk_name":"Halayib Triangle",
+    "ne:continent":"Africa",
+    "ne:economy":"7. Least developed region",
+    "ne:fc_iso":"Unrecognized",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:fips_10":"-99",
+    "ne:gdp_md":-99,
+    "ne:gdp_year":2016,
+    "ne:geou_dif":0,
+    "ne:geounit":"Egypt",
+    "ne:gu_a3":"EGY",
+    "ne:homepart":-99,
+    "ne:income_grp":"5. Low income",
+    "ne:iso_a2":"-99",
+    "ne:iso_a2_eh":"EG",
+    "ne:iso_a3":"-99",
+    "ne:iso_a3_eh":"EGY",
+    "ne:iso_n3":"-99",
+    "ne:iso_n3_eh":"818",
+    "ne:labelrank":8,
+    "ne:lbl_latitude":22.449695,
+    "ne:lbl_longitude":35.496205,
+    "ne:level":5,
+    "ne:long_len":16,
+    "ne:mapcolor13":2,
+    "ne:mapcolor7":4,
+    "ne:mapcolor8":6,
+    "ne:mapcolor9":7,
+    "ne:max_label":9,
+    "ne:min_label":7,
+    "ne:min_zoom":7,
+    "ne:name":"Halayib Triangle",
+    "ne:name_ar":"\u0645\u062b\u0644\u062b \u062d\u0644\u0627\u064a\u0628",
+    "ne:name_de":"Hala\u2019ib-Dreieck",
+    "ne:name_en":"Halaib Triangle",
+    "ne:name_es":"Tri\u00e1ngulo de Hala'ib",
+    "ne:name_fr":"Triangle de Hala'ib",
+    "ne:name_he":"\u05de\u05e9\u05d5\u05dc\u05e9 \u05d7\u05dc\u05d0\u05d9\u05d1",
+    "ne:name_id":"Segitiga Hala'ib",
+    "ne:name_it":"Triangolo di Hala'ib",
+    "ne:name_ja":"\u30cf\u30e9\u30fc\u30a4\u30d6\u30fb\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
+    "ne:name_ko":"\ud560\ub77c\uc785 \ud2b8\ub77c\uc774\uc575\uae00",
+    "ne:name_len":16,
+    "ne:name_long":"Halayib Triangle",
+    "ne:name_nl":"Hala'ib-driehoek",
+    "ne:name_pl":"Tr\u00f3jk\u0105t Hala\u2019ib",
+    "ne:name_pt":"Tri\u00e2ngulo de Hala'ib",
+    "ne:name_ru":"\u0422\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a \u0425\u0430\u043b\u0430\u0438\u0431\u0430",
+    "ne:name_sort":"Halayib Triangle",
+    "ne:name_sv":"Hala'ibtriangeln",
+    "ne:name_tr":"Hala'ib \u00dc\u00e7geni",
+    "ne:name_uk":"\u0425\u0430\u043b\u0430\u0457\u0431\u0441\u044c\u043a\u0438\u0439 \u0442\u0440\u0438\u043a\u0443\u0442\u043d\u0438\u043a",
+    "ne:name_ur":"\u0645\u062b\u0644\u062b \u062d\u0644\u0627\u06cc\u0628",
+    "ne:name_zh":"\u54c8\u62c9\u4f0a\u535c\u4e09\u89d2\u533a",
+    "ne:ne_id":1729635095,
+    "ne:note_adm0":"Egypt",
+    "ne:note_brk":"Admin. by Egypt; Claimed by Sudan",
+    "ne:pop_est":200,
+    "ne:pop_rank":2,
+    "ne:pop_year":2017,
+    "ne:postal":"HT",
+    "ne:region_un":"Africa",
+    "ne:region_wb":"Middle East & North Africa",
+    "ne:scalerank":0,
+    "ne:sov_a3":"EGY",
+    "ne:sovereignt":"Egypt",
+    "ne:su_a3":"EGY",
+    "ne:su_dif":0,
+    "ne:subregion":"Northern Africa",
+    "ne:subunit":"Egypt",
+    "ne:tiny":-99,
+    "ne:type":"Disputed",
+    "ne:un_a3":"-099",
+    "ne:wb_a2":"-99",
+    "ne:wb_a3":"-99",
+    "ne:wikidataid":"Q796684",
+    "ne:woe_id":-99,
+    "ne:woe_id_eh":-99,
+    "ne:woe_note":"No WOE equivalent.",
+    "src:geom":"naturalearth",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"naturalearth",
+    "src:population_date":"2017",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ne:id":1729635095,
+        "wd:id":"Q796684"
+    },
+    "wof:country":"XX",
+    "wof:created":1615593823,
+    "wof:geomhash":"b416d7a5e6432577a28597e63a3db37a",
+    "wof:hierarchy":[],
+    "wof:id":1729889657,
+    "wof:lastmodified":1615593823,
+    "wof:name":"Halaib Triangle",
+    "wof:parent_id":-1,
+    "wof:placetype":"disputed",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-xx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.084179,
+    21.995454,
+    36.899181,
+    23.139293
+],
+  "geometry": {"coordinates":[[[[36.883637,21.995714],[36.649887,21.995713],[36.417239,21.995661],[36.184592,21.995609],[35.951841,21.995609],[35.719194,21.995609],[35.486443,21.995558],[35.253796,21.995558],[35.021149,21.995558],[34.788501,21.995558],[34.555751,21.995506],[34.323103,21.995454],[34.090456,21.995454],[34.084179,21.995454],[34.147476,22.191856],[34.261633,22.215638],[34.691515,22.275325],[34.959905,22.853595],[35.212088,22.786263],[35.219943,22.793212],[35.223539,22.792147],[35.621087,23.139293],[35.635171,23.110925],[35.654642,23.07375],[35.667817,22.982611],[35.675059,22.96662],[35.695305,22.932126],[35.737071,22.883979],[35.763682,22.870429],[35.751638,22.885972],[35.723399,22.931871],[35.742931,22.931301],[35.755707,22.922309],[35.764415,22.90766],[35.771169,22.890286],[35.781912,22.841132],[35.784923,22.833197],[35.80128,22.822577],[35.809581,22.811347],[35.816661,22.798896],[35.8296,22.784817],[35.847547,22.762989],[35.885964,22.735695],[35.922172,22.722116],[35.940196,22.71662],[35.943126,22.712795],[35.955821,22.704495],[35.969493,22.697984],[35.984386,22.693793],[36.04005,22.690172],[36.120616,22.675686],[36.197765,22.651679],[36.226085,22.635443],[36.274669,22.592353],[36.290538,22.568183],[36.296368,22.521999],[36.313416,22.491613],[36.343177,22.467129],[36.374522,22.445258],[36.389898,22.438752],[36.404755,22.432884],[36.401556,22.448571],[36.406859,22.448577],[36.4281,22.426045],[36.422823,22.397605],[36.439823,22.356443],[36.507698,22.328048],[36.540572,22.310405],[36.562839,22.296677],[36.623303,22.249568],[36.713715,22.169135],[36.732758,22.159613],[36.747569,22.160956],[36.751313,22.166938],[36.753266,22.173163],[36.756847,22.176907],[36.764903,22.174954],[36.782237,22.164455],[36.790375,22.15762],[36.795665,22.150784],[36.809418,22.120754],[36.818207,22.108832],[36.833263,22.095852],[36.87194,22.074112],[36.895383,22.066133],[36.899181,22.029853],[36.898448,22.017483],[36.891856,22.006741],[36.8838,21.996649],[36.883637,21.995714]]],[[[36.651215,22.271755],[36.657319,22.263658],[36.661469,22.261501],[36.659923,22.24433],[36.658051,22.25491],[36.646902,22.254299],[36.638113,22.253323],[36.631033,22.252143],[36.631277,22.256171],[36.631928,22.265815],[36.63559,22.269843],[36.637462,22.276923],[36.642589,22.27912],[36.648936,22.28144],[36.651703,22.277859],[36.649994,22.276109],[36.644298,22.27322],[36.651215,22.271755]]],[[[36.204275,22.670071],[36.203949,22.665432],[36.206798,22.659857],[36.202647,22.65644],[36.200857,22.651679],[36.193207,22.662218],[36.187999,22.6671],[36.185313,22.672919],[36.177989,22.676093],[36.170014,22.683783],[36.194347,22.685329],[36.204275,22.670071]]],[[[36.063487,22.738105],[36.066254,22.732815],[36.066661,22.728135],[36.061615,22.729967],[36.059418,22.733873],[36.055675,22.743272],[36.043305,22.731879],[36.047048,22.726101],[36.042084,22.720852],[36.038341,22.737169],[36.050873,22.749986],[36.055919,22.760728],[36.066254,22.766913],[36.064382,22.760728],[36.061697,22.755398],[36.063162,22.752631],[36.064382,22.743272],[36.063487,22.738105]]],[[[36.22755,22.792873],[36.241222,22.790269],[36.250173,22.789496],[36.245616,22.786892],[36.237071,22.787014],[36.223318,22.78734],[36.211762,22.786811],[36.206554,22.784288],[36.196788,22.79092],[36.203949,22.789984],[36.210623,22.792344],[36.217947,22.793402],[36.217865,22.800605],[36.217052,22.80744],[36.213959,22.813625],[36.220144,22.805569],[36.223806,22.802598],[36.223806,22.800279],[36.220388,22.797024],[36.221853,22.79267],[36.22755,22.792873]]]],"type":"MultiPolygon"}
+}
