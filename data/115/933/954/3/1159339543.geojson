@@ -201,7 +201,7 @@
         }
     ],
     "wof:id":1159339543,
-    "wof:lastmodified":1615595295,
+    "wof:lastmodified":1615596208,
     "wof:name":"Chumbi Valley",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -209,7 +209,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85632719
+    ],
     "wof:tags":[]
 },
   "bbox": [
