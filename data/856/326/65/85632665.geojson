@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
     "geom:area_square_m":1367741.202986,
-    "geom:bbox":"43.138694763,12.710361481,43.157833099,12.72124958",
+    "geom:bbox":"43.138695,12.710361,43.157833,12.72125",
     "geom:latitude":12.716178,
     "geom:longitude":43.146767,
     "iso:country":"XX",
@@ -26,8 +26,11 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":0.0,
+    "name:deu_x_preferred":[
+        "Doumeira"
+    ],
     "name:eng_x_preferred":[
-        "Doumera Island"
+        "Doumeira Islands"
     ],
     "name:eng_x_unknown":[
         "XX"
@@ -44,11 +47,26 @@
     "name:kor_x_preferred":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
     ],
+    "name:nld_x_preferred":[
+        "Doumeira-eilanden"
+    ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
     ],
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
+    ],
+    "name:pol_x_preferred":[
+        "Doumeira"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Doumeira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043c\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Doumeira"
     ],
     "name:swe_x_colloquial":[
         "Omtvistat omrade"
@@ -60,11 +78,131 @@
         "Dum\u0113ra Des\u0113t"
     ],
     "name:zho_x_preferred":[
-        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+        "\u675c\u6885\u4f0a\u62c9\u5cf6"
     ],
     "name:zho_x_variant":[
         "\u6709\u4e89\u8bae\u7684\u9886\u571f"
     ],
+    "ne:abbrev_len":0,
+    "ne:adm0_a3":"ERI",
+    "ne:adm0_a3_ar":"ERI",
+    "ne:adm0_a3_bd":"UUU",
+    "ne:adm0_a3_br":"ERI",
+    "ne:adm0_a3_cn":"ERI",
+    "ne:adm0_a3_de":"ERI",
+    "ne:adm0_a3_eg":"ERI",
+    "ne:adm0_a3_es":"ERI",
+    "ne:adm0_a3_fr":"ERI",
+    "ne:adm0_a3_gb":"ERI",
+    "ne:adm0_a3_gr":"UUU",
+    "ne:adm0_a3_id":"UUU",
+    "ne:adm0_a3_il":"UUU",
+    "ne:adm0_a3_in":"ERI",
+    "ne:adm0_a3_is":"-99",
+    "ne:adm0_a3_it":"UUU",
+    "ne:adm0_a3_jp":"UUU",
+    "ne:adm0_a3_ko":"UUU",
+    "ne:adm0_a3_ma":"UUU",
+    "ne:adm0_a3_nl":"UUU",
+    "ne:adm0_a3_np":"ERI",
+    "ne:adm0_a3_pk":"ERI",
+    "ne:adm0_a3_pl":"UUU",
+    "ne:adm0_a3_ps":"UUU",
+    "ne:adm0_a3_pt":"UUU",
+    "ne:adm0_a3_ru":"ERI",
+    "ne:adm0_a3_sa":"ERI",
+    "ne:adm0_a3_se":"UUU",
+    "ne:adm0_a3_tr":"UUU",
+    "ne:adm0_a3_tw":"ERI",
+    "ne:adm0_a3_ua":"ERI",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"UUU",
+    "ne:adm0_a3_vn":"UUU",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":0,
+    "ne:admin":"Eritrea",
+    "ne:brk_a3":"B87",
+    "ne:brk_diff":1,
+    "ne:brk_name":"Doumera Island",
+    "ne:continent":"Africa",
+    "ne:economy":"7. Least developed region",
+    "ne:fc_bd":"Unrecognized",
+    "ne:fc_gr":"Unrecognized",
+    "ne:fc_id":"Unrecognized",
+    "ne:fc_il":"Unrecognized",
+    "ne:fc_iso":"Unrecognized",
+    "ne:fc_it":"Unrecognized",
+    "ne:fc_jp":"Unrecognized",
+    "ne:fc_ko":"Unrecognized",
+    "ne:fc_ma":"Unrecognized",
+    "ne:fc_nl":"Unrecognized",
+    "ne:fc_pl":"Unrecognized",
+    "ne:fc_ps":"Unrecognized",
+    "ne:fc_pt":"Unrecognized",
+    "ne:fc_se":"Unrecognized",
+    "ne:fc_tr":"Unrecognized",
+    "ne:fc_us":"Unrecognized",
+    "ne:fc_vn":"Unrecognized",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:fips_10":"-99",
+    "ne:gdp_md":0,
+    "ne:gdp_year":2016,
+    "ne:geou_dif":0,
+    "ne:geounit":"Eritrea",
+    "ne:gu_a3":"ERI",
+    "ne:homepart":1,
+    "ne:income_grp":"5. Low income",
+    "ne:iso_a2":"-99",
+    "ne:iso_a2_eh":"ER",
+    "ne:iso_a3":"-99",
+    "ne:iso_a3_eh":"ERI",
+    "ne:iso_n3":"-99",
+    "ne:iso_n3_eh":"232",
+    "ne:labelrank":4,
+    "ne:level":5,
+    "ne:long_len":14,
+    "ne:mapcolor13":12,
+    "ne:mapcolor7":3,
+    "ne:mapcolor8":1,
+    "ne:mapcolor9":2,
+    "ne:max_label":9,
+    "ne:min_label":6,
+    "ne:min_zoom":7,
+    "ne:name":"Doumera I.",
+    "ne:name_de":"Doumeira",
+    "ne:name_en":"Doumeira Islands",
+    "ne:name_es":"Isla Doumeira",
+    "ne:name_len":10,
+    "ne:name_long":"Doumera Island",
+    "ne:name_nl":"Doumeira-eilanden",
+    "ne:name_pl":"Doumeira",
+    "ne:name_pt":"Ilhas Doumeira",
+    "ne:name_ru":"\u0414\u0443\u043c\u0435\u0439\u0440\u0430",
+    "ne:name_sort":"Doumera Island",
+    "ne:name_zh":"\u675c\u6885\u4f0a\u62c9\u5cf6",
+    "ne:ne_id":1159320583,
+    "ne:note_brk":"Admin. By Eritrea; Claimed by Djibouti",
+    "ne:pop_est":0,
+    "ne:pop_rank":1,
+    "ne:pop_year":2019,
+    "ne:region_un":"Africa",
+    "ne:region_wb":"Sub-Saharan Africa",
+    "ne:scalerank":7,
+    "ne:sov_a3":"ERI",
+    "ne:sovereignt":"Eritrea",
+    "ne:su_a3":"ERI",
+    "ne:su_dif":0,
+    "ne:subregion":"Eastern Africa",
+    "ne:subunit":"Eritrea",
+    "ne:tiny":-99,
+    "ne:type":"Disputed",
+    "ne:un_a3":"-99",
+    "ne:wb_a2":"-99",
+    "ne:wb_a3":"-99",
+    "ne:wikidataid":"Q1252656",
+    "ne:woe_id":-99,
+    "ne:woe_id_eh":-99,
+    "ne:woe_note":"No WOE equivalent.",
     "qs:a0":"Eritrea",
     "qs:adm0":"Eritrea",
     "qs:adm0_a3":"ERI",
@@ -81,12 +219,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":223738,
-        "gp:id":23424806,
-        "qs_pg:id":236317
+        "ne:id":1159320583,
+        "wd:id":"Q1252656"
     },
     "wof:country":"XX",
-    "wof:geomhash":"60198204230df09bc136fa0f011fc530",
+    "wof:geomhash":"45d190d7cff4c44bba11809635e1297d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,8 +237,8 @@
         }
     ],
     "wof:id":85632665,
-    "wof:lastmodified":1566653138,
-    "wof:name":"Doumera Island",
+    "wof:lastmodified":1615595297,
+    "wof:name":"Doumeira Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",
@@ -110,10 +247,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.13869476300005,
-    12.71036148100006,
-    43.15783309900013,
-    12.72124958000006
+    43.138695,
+    12.710361,
+    43.157833,
+    12.72125
 ],
-  "geometry": {"coordinates":[[[[43.15202713000008,12.71913909900007],[43.15286254900008,12.71833324400006],[43.15286254900008,12.71500015300006],[43.15119552600004,12.71333313000002],[43.15080642700008,12.71119403800003],[43.14658355700004,12.71122264900004],[43.14494323700006,12.71036148100006],[43.14324951200007,12.71122264900004],[43.14288711500006,12.71247196200005],[43.13872146600005,12.71663856500004],[43.13869476300005,12.71916675600005],[43.13991546600005,12.72041702300004],[43.14241790800003,12.72038841200003],[43.14408493000008,12.71875],[43.14494323700006,12.71875],[43.14827728300003,12.72122192400008],[43.14988708500005,12.72124958000006],[43.15202713000008,12.72000026700005],[43.15202713000008,12.71913909900007]]],[[[43.15783309900013,12.71577739700012],[43.15661239600013,12.71458339700013],[43.15565086428472,12.71755256226152],[43.15372085600018,12.71913909900007],[43.15494537400008,12.71955585500012],[43.15705490100009,12.71749973300018],[43.15700149500009,12.71663856500015],[43.15783309900013,12.71577739700012]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[43.152027,12.719139],[43.152863,12.718333],[43.152863,12.715],[43.151196,12.713333],[43.150806,12.711194],[43.146584,12.711223],[43.144943,12.710361],[43.14325,12.711223],[43.142887,12.712472],[43.138721,12.716639],[43.138695,12.719167],[43.139915,12.720417],[43.142418,12.720388],[43.144085,12.71875],[43.144943,12.71875],[43.148277,12.721222],[43.149887,12.72125],[43.152027,12.72],[43.152027,12.719139]]],[[[43.157833,12.715777],[43.156612,12.714583],[43.155651,12.717553],[43.153721,12.719139],[43.154945,12.719556],[43.157055,12.7175],[43.157001,12.716639],[43.157833,12.715777]]]],"type":"MultiPolygon"}
 }
