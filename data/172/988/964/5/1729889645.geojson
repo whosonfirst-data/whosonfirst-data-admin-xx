@@ -25,20 +25,116 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u062a\u0641\u0639\u0627\u062a \u0642\u0631\u0629 \u0628\u0627\u063a"
     ],
+    "name:arc_x_preferred":[
+        "\u0722\u0713\u0718\u072a\u0722\u0718 \u0729\u072a\u0712\u0710\u0713"
+    ],
+    "name:arg_x_preferred":[
+        "Alto Karabakh"
+    ],
+    "name:ast_x_preferred":[
+        "Nagorno Karabaj"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u063a\u0644\u064a\u0642 \u0642\u0627\u0631\u0627\u0628\u0627\u063a"
+    ],
+    "name:aze_x_preferred":[
+        "Da\u011fl\u0131q Qaraba\u011f"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u0430\u0443\u043b\u044b \u04a0\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0433\u043e\u0440\u043d\u044b \u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997\u09cb\u09b0\u09a8\u09cb-\u0995\u09be\u09b0\u09be\u09ac\u09be\u0996"
+    ],
+    "name:bos_x_preferred":[
+        "Nagorni Karabah"
+    ],
+    "name:bre_x_preferred":[
+        "Nagorno-Karabac'h"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0433\u043e\u0440\u043d\u0438 \u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Alt Karabagh"
+    ],
+    "name:cat_x_variant":[
+        "Alt Karabakh"
+    ],
+    "name:ces_x_preferred":[
+        "N\u00e1horn\u00ed Karabach"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u043c\u0430\u043d\u0438\u0439\u043d-\u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u0627\u06af\u06c6\u0631\u0646\u06c6-\u0642\u06d5\u0631\u06d5\u0628\u0627\u063a"
+    ],
+    "name:crh_x_preferred":[
+        "Da\u011fl\u0131q Qaraba\u011f"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Bergkarabach"
     ],
     "name:deu_x_preferred":[
         "Bergkarabach"
     ],
+    "name:div_x_preferred":[
+        "\u0782\u07a6\u078e\u07af\u0782\u07af-\u0786\u07a6\u0783\u07a6\u0784\u07a6\u0786\u07b0"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03b3\u03ba\u03cc\u03c1\u03bd\u03bf-\u039a\u03b1\u03c1\u03b1\u03bc\u03c0\u03ac\u03c7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Nagorno-Karabakh"
     ],
     "name:eng_x_preferred":[
         "Nagorno-Karabakh"
     ],
+    "name:epo_x_preferred":[
+        "Montara Karaba\u0125o"
+    ],
+    "name:est_x_preferred":[
+        "M\u00e4gi-Karabahh"
+    ],
+    "name:eus_x_preferred":[
+        "Karabakh Garaia"
+    ],
+    "name:fao_x_preferred":[
+        "Nagorno-Karabakk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647\u200c\u0628\u0627\u063a"
+    ],
+    "name:fin_x_preferred":[
+        "Vuoristo-Karabah"
+    ],
     "name:fra_x_preferred":[
         "Haut-Karabagh"
+    ],
+    "name:frp_x_preferred":[
+        "H\u00f4t-Karabag"
+    ],
+    "name:fry_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:gle_x_preferred":[
+        "An Nagarna-Carabaic"
+    ],
+    "name:glg_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:glv_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0abe\u0a97\u0acb\u0ab0\u0acd\u0aa8\u0acb-\u0a95\u0ab0\u0aac\u0abe\u0a96"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d2\u05d5\u05e8\u05e0\u05d5 \u05e7\u05e8\u05d1\u05d0\u05da"
@@ -46,38 +142,167 @@
     "name:hin_x_preferred":[
         "\u0928\u093e\u0917\u094b\u0930\u094d\u0928\u094b-\u0915\u093e\u0930\u093e\u092c\u093e\u0916\u093c"
     ],
+    "name:hrv_x_preferred":[
+        "Gorski Karabah"
+    ],
     "name:hun_x_preferred":[
         "Hegyi-Karabah"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u057c\u0576\u0561\u0575\u056b\u0576 \u0542\u0561\u0580\u0561\u0562\u0561\u0572"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053c\u0565\u057c\u0576\u0561\u0575\u056b\u0576 \u0542\u0561\u0580\u0561\u0562\u0561\u0572"
+    ],
+    "name:ile_x_preferred":[
+        "Nagorni-Karabakh"
+    ],
+    "name:ilo_x_preferred":[
+        "Nagorno-Karabakh"
     ],
     "name:ind_x_preferred":[
         "Nagorno-Karabakh"
     ],
+    "name:isl_x_preferred":[
+        "Nagorn\u00f3-Karabak"
+    ],
     "name:ita_x_preferred":[
         "Alto Karabakh"
+    ],
+    "name:ita_x_variant":[
+        "Alto Karabakh"
+    ],
+    "name:jam_x_preferred":[
+        "Nagorno-Karabak"
+    ],
+    "name:jav_x_preferred":[
+        "Nagorno Karabakh"
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30b4\u30eb\u30ce\u30fb\u30ab\u30e9\u30d0\u30d5"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d7\u10d8\u10d0\u10dc\u10d8 \u10e7\u10d0\u10e0\u10d0\u10d1\u10d0\u10e6\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430\u0431\u0430\u049b"
+    ],
     "name:kor_x_preferred":[
         "\ub098\uace0\ub974\ub178\uce74\ub77c\ubc14\ud750"
+    ],
+    "name:lad_x_preferred":[
+        "Nagorno Karabah"
+    ],
+    "name:lat_x_preferred":[
+        "Qarabag Montanum"
+    ],
+    "name:lat_x_variant":[
+        "Carabachia Montana"
+    ],
+    "name:lav_x_preferred":[
+        "Kalnu Karabaha"
+    ],
+    "name:lez_x_preferred":[
+        "\u0421\u0443\u0432\u0430\u043d \u041a\u044a\u0430\u0440\u0430\u0431\u0430\u0433\u044a"
+    ],
+    "name:lit_x_preferred":[
+        "Kaln\u0173 Karabachas"
+    ],
+    "name:ltz_x_preferred":[
+        "Biergkarabach"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u093e\u0917\u094b\u0930\u094d\u0928\u094b-\u0915\u093e\u0930\u093e\u092c\u093e\u0916"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u0433\u043e\u0440\u043d\u043e-\u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:msa_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0642\u0631\u0647\u200c\u0628\u0627\u063a"
+    ],
+    "name:nan_x_preferred":[
+        "Nagorno-Karabakh"
     ],
     "name:nld_x_preferred":[
         "Nagorno-Karabach"
     ],
+    "name:nno_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:nob_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:nov_x_preferred":[
+        "Nagorno-Karabak"
+    ],
+    "name:oss_x_preferred":[
+        "\u0423\u00e6\u043b\u0445\u043e\u0445 \u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:pam_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a28\u0a3e\u0a17\u0a4b\u0a30\u0a28\u0a4b-\u0a15\u0a3e\u0a30\u0a3e\u0a2c\u0a3e\u0a16"
+    ],
     "name:pol_x_preferred":[
         "G\u00f3rski Karabach"
+    ],
+    "name:por_br_x_preferred":[
+        "Nagorno-Karabakh"
     ],
     "name:por_x_preferred":[
         "Nagorno-Karabakh"
     ],
+    "name:que_x_preferred":[
+        "Urqusapa Kharabaq"
+    ],
+    "name:ron_x_preferred":[
+        "Nagorno-Karabah"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439 \u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:scn_x_preferred":[
+        "Nagorno Karabakh"
+    ],
+    "name:sco_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:slv_x_preferred":[
+        "Gorski Karabah"
     ],
     "name:spa_x_preferred":[
         "Nagorno Karabaj"
     ],
+    "name:sqi_x_preferred":[
+        "Nagorni Karabah"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0433\u043e\u0440\u043d\u043e-\u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:sun_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:swa_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
     "name:swe_x_preferred":[
         "Nagorno-Karabach"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbe\u0b95\u0bcb\u0bb0\u0bcd\u0ba9\u0bcb-\u0b95\u0bb0\u0bbe\u0baa\u0b95\u0bcd \u0baa\u0bbf\u0bb0\u0ba4\u0bc7\u0b9a\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0443\u043b\u044b \u041a\u0430\u0440\u0430\u0431\u0430\u0445"
+    ],
+    "name:tgl_x_preferred":[
+        "Nagorno-Karabah"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e01\u0e2d\u0e23\u0e4c\u0e42\u0e19-\u0e04\u0e32\u0e23\u0e32\u0e1a\u0e31\u0e04"
     ],
     "name:tur_x_preferred":[
         "Da\u011fl\u0131k Karaba\u011f"
@@ -90,6 +315,18 @@
     ],
     "name:vie_x_preferred":[
         "Nagorno-Karabakh"
+    ],
+    "name:war_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7eb3\u6208\u5c14\u8bfa-\u5361\u62c9\u5df4\u8d6b"
+    ],
+    "name:yor_x_preferred":[
+        "Nagorno-Karabakh"
+    ],
+    "name:yue_x_preferred":[
+        "\u7d0d\u6208\u723e\u8afe-\u5361\u62c9\u5df4\u8d6b"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u6208\u723e\u8afe-\u5361\u62c9\u5df4\u8d6b"
@@ -251,7 +488,7 @@
         }
     ],
     "wof:id":1729889645,
-    "wof:lastmodified":1615843329,
+    "wof:lastmodified":1615844933,
     "wof:name":"Nagorno-Karabakh",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -259,7 +496,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159339521
+    ],
     "wof:tags":[]
 },
   "bbox": [

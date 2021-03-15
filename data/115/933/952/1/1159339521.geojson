@@ -2,7 +2,7 @@
   "id": 1159339521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"11-10-2020",
     "edtf:inception":"uuuu",
     "geom:area":1.253603,
     "geom:area_square_m":11915636426.007082,
@@ -24,7 +24,7 @@
     "mz:hierarchy_label_macrocounty":0,
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":0.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u062a\u0641\u0639\u0627\u062a \u0642\u0631\u0629 \u0628\u0627\u063a"
@@ -488,14 +488,16 @@
         }
     ],
     "wof:id":1159339521,
-    "wof:lastmodified":1615595293,
+    "wof:lastmodified":1615844927,
     "wof:name":"Nagorno-Karabakh",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:population":146573,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729889645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
