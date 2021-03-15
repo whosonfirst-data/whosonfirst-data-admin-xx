@@ -227,6 +227,10 @@
         "gp:id":23424863,
         "qs_pg:id":680631
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"XX",
     "wof:geomhash":"4ddecb4112cd12371c323f9c8b0ef3a4",
     "wof:hierarchy":[
@@ -245,7 +249,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1615843369,
+    "wof:lastmodified":1615851597,
     "wof:name":"Ilemi Triangle",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -560,7 +560,7 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"wof",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
         "quattroshapes"
@@ -602,7 +602,7 @@
         }
     ],
     "wof:id":85632427,
-    "wof:lastmodified":1615595290,
+    "wof:lastmodified":1615851596,
     "wof:name":"Kashmir",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

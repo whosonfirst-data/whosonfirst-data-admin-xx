@@ -193,6 +193,10 @@
         "ne:id":1729632181,
         "wd:id":"Q11703222"
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"XX",
     "wof:geomhash":"9a190d37c41f2a242f172b4333b946ec",
     "wof:hierarchy":[
@@ -203,7 +207,7 @@
         }
     ],
     "wof:id":85633005,
-    "wof:lastmodified":1615595294,
+    "wof:lastmodified":1615851596,
     "wof:name":"Brazilian Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

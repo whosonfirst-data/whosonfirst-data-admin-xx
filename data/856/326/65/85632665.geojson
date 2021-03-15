@@ -222,6 +222,10 @@
         "ne:id":1159320583,
         "wd:id":"Q1252656"
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"XX",
     "wof:geomhash":"45d190d7cff4c44bba11809635e1297d",
     "wof:hierarchy":[
@@ -237,7 +241,7 @@
         }
     ],
     "wof:id":85632665,
-    "wof:lastmodified":1615595297,
+    "wof:lastmodified":1615851597,
     "wof:name":"Doumeira Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

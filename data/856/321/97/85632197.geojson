@@ -160,6 +160,10 @@
         "ne:id":1159320989,
         "wd:id":"Q482854"
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"XX",
     "wof:geomhash":"9515d76d58a1afbe40495cf6eaccf2ac",
     "wof:hierarchy":[
@@ -178,7 +182,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1615595296,
+    "wof:lastmodified":1615851597,
     "wof:name":"Korean islands under UN jurisdiction",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

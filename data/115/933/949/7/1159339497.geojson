@@ -394,7 +394,7 @@
     "ne:woe_id":2346500,
     "ne:woe_id_eh":2346500,
     "ne:woe_note":"WOE admin-1 (territory) match.",
-    "src:geom":"wof",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth"
     ],
@@ -433,7 +433,7 @@
         }
     ],
     "wof:id":1159339497,
-    "wof:lastmodified":1615595292,
+    "wof:lastmodified":1615851603,
     "wof:name":"Azad Kashmir",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
