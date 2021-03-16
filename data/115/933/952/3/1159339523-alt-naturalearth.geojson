@@ -1,0 +1,18 @@
+{
+  "id": 1159339523,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"naturalearth",
+    "src:geom":"naturalearth",
+    "wof:geomhash":"5db2816bd1554d0dcc7b9cbd98249cf5",
+    "wof:id":1159339523,
+    "wof:repo":"whosonfirst-data-admin-xx"
+},
+  "bbox": [
+    -2.96692,
+    35.267874,
+    -2.912913,
+    35.329779
+],
+  "geometry": {"coordinates":[[[-2.947825,35.329779],[-2.922027,35.287991],[-2.913197,35.277248],[-2.912913,35.276923],[-2.943046,35.267874],[-2.963768,35.286219],[-2.96692,35.313866],[-2.947825,35.329779]]],"type":"Polygon"}
+}

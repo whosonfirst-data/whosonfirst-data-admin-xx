@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000163,
+    "geom:area":0.000437,
     "geom:area_square_m":1976238.826719,
-    "geom:bbox":"47.287934,-11.56992,47.306407,-11.550632",
-    "geom:latitude":-11.562026,
-    "geom:longitude":47.297971,
+    "geom:bbox":"47.284842,-11.591124,47.311581,-11.567892",
+    "geom:latitude":-11.578966,
+    "geom:longitude":47.298189,
     "iso:country":"XX",
-    "lbl:latitude":-11.562049,
-    "lbl:longitude":47.297831,
+    "lbl:latitude":-11.579564,
+    "lbl:longitude":47.298444,
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":6.0,
-    "mps:latitude":-11.562049,
-    "mps:longitude":47.297831,
+    "mps:latitude":-11.579564,
+    "mps:longitude":47.298444,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -302,7 +302,11 @@
     "ne:woe_id":23424830,
     "ne:woe_id_eh":23424830,
     "ne:woe_note":"WOE admin-1 (territory) match.",
-    "src:geom":"naturalearth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "src:population_date":"2017",
     "wof:belongsto":[
@@ -323,7 +327,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"ec44f0d346d0a6ee12132745b16cc61f",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"9fd55f36abedce79bdcae79ab1fd49ae",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -338,7 +345,7 @@
         }
     ],
     "wof:id":1159339577,
-    "wof:lastmodified":1615595296,
+    "wof:lastmodified":1615853430,
     "wof:name":"Glorioso Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -350,10 +357,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.287934,
-    -11.56992,
-    47.306407,
-    -11.550632
+    47.284842,
+    -11.591124,
+    47.311581,
+    -11.567892
 ],
-  "geometry": {"coordinates":[[[47.287934,-11.565525],[47.299571,-11.550632],[47.306407,-11.56992],[47.287934,-11.565525]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[47.296458,-11.568331],[47.305444,-11.570961],[47.311581,-11.577097],[47.311143,-11.582796],[47.306759,-11.588056],[47.300842,-11.591124],[47.292732,-11.588056],[47.285061,-11.579508],[47.284842,-11.574248],[47.289664,-11.568769],[47.294047,-11.567892],[47.296458,-11.568331]]],"type":"Polygon"}
 }

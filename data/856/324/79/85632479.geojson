@@ -4,19 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.016597,
     "geom:area_square_m":0.036935,
-    "geom:bbox":"117.835777,15.146694,117.835779,15.146696",
-    "geom:latitude":15.146695,
-    "geom:longitude":117.835778,
+    "geom:bbox":"117.700485,15.094599,117.865325,15.23689",
+    "geom:latitude":15.156448,
+    "geom:longitude":117.772013,
     "gp:id":0,
     "iso:country":"XX",
-    "lbl:latitude":15.152039,
-    "lbl:longitude":117.753812,
+    "lbl:latitude":15.155808,
+    "lbl:longitude":117.765341,
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":6.0,
-    "mps:latitude":15.152039,
-    "mps:longitude":117.753812,
+    "mps:latitude":15.155808,
+    "mps:longitude":117.765341,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -309,9 +309,10 @@
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -330,9 +331,10 @@
     ],
     "wof:country":"XX",
     "wof:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
-    "wof:geomhash":"227bc52206202802f3b1f9d3db830630",
+    "wof:geomhash":"a2548f86f96330d45ade67c50cafa0a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
         }
     ],
     "wof:id":85632479,
-    "wof:lastmodified":1615595297,
+    "wof:lastmodified":1615853429,
     "wof:name":"Scarborough Shoal",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -356,10 +358,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    117.835777,
-    15.146694,
-    117.835779,
-    15.146696
+    117.700485,
+    15.094599,
+    117.865325,
+    15.23689
 ],
-  "geometry": {"coordinates":[[[117.83577699999999,15.146694],[117.83577699999999,15.146695],[117.835778,15.146696],[117.835779,15.146694],[117.83577699999999,15.146694]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[117.712149,15.229892],[117.727699,15.23689],[117.74325,15.235335],[117.775907,15.214341],[117.80700899999999,15.18946],[117.847441,15.175464],[117.865325,15.14825],[117.855994,15.115593],[117.837333,15.10082],[117.810897,15.094599],[117.78446,15.099265],[117.761134,15.100042],[117.726922,15.095377],[117.707483,15.110928],[117.706706,15.127256],[117.700485,15.194125],[117.70204,15.214341],[117.712149,15.229892]]],"type":"Polygon"}
 }

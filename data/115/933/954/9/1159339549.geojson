@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000344,
+    "geom:area":0.000485,
     "geom:area_square_m":4061484.594058,
-    "geom:bbox":"42.724376,-17.076104,42.7588,-17.057306",
-    "geom:latitude":-17.065173,
-    "geom:longitude":42.743829,
+    "geom:bbox":"42.697121,-17.064254,42.749807,-17.045263",
+    "geom:latitude":-17.054622,
+    "geom:longitude":42.723456,
     "iso:country":"XX",
-    "lbl:latitude":-17.065343,
-    "lbl:longitude":42.743829,
+    "lbl:latitude":-17.056201,
+    "lbl:longitude":42.723457,
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":6.0,
-    "mps:latitude":-17.065343,
-    "mps:longitude":42.743829,
+    "mps:latitude":-17.056201,
+    "mps:longitude":42.723457,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -237,7 +237,11 @@
     "ne:woe_id":23424862,
     "ne:woe_id_eh":23424862,
     "ne:woe_note":"WOE admin-1 (territory) match.",
-    "src:geom":"naturalearth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "src:population_date":"2017",
     "wof:belongsto":[
@@ -258,7 +262,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"faa603794346bcc0d2f0bba96d5b722d",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"c1989cff2f5f12306583b45fa8479f5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -273,7 +280,7 @@
         }
     ],
     "wof:id":1159339549,
-    "wof:lastmodified":1615595295,
+    "wof:lastmodified":1615853432,
     "wof:name":"Juan de Nova Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -285,10 +292,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.724376,
-    -17.076104,
-    42.7588,
-    -17.057306
+    42.697121,
+    -17.064254,
+    42.749807,
+    -17.045263
 ],
-  "geometry": {"coordinates":[[[42.751801,-17.076104],[42.724376,-17.063572],[42.738129,-17.057306],[42.7588,-17.060642],[42.751801,-17.076104]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[42.699163,-17.045263],[42.707332,-17.046692],[42.718768,-17.047713],[42.731224,-17.049551],[42.741435,-17.053023],[42.747561,-17.057516],[42.749807,-17.06017],[42.744498,-17.061191],[42.733675,-17.059558],[42.732245,-17.060987],[42.731837,-17.062825],[42.728774,-17.061804],[42.726119,-17.062825],[42.724077,-17.064254],[42.721626,-17.063233],[42.71693,-17.060783],[42.710395,-17.059353],[42.709374,-17.05629],[42.70774,-17.053023],[42.702022,-17.050164],[42.697121,-17.046692],[42.69753,-17.045263],[42.699163,-17.045263]]],"type":"Polygon"}
 }

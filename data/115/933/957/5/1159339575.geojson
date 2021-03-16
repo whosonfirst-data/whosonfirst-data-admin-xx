@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000029,
+    "geom:area":0.000078,
     "geom:area_square_m":349767.942764,
-    "geom:bbox":"54.514496,-15.894057,54.521332,-15.885186",
-    "geom:latitude":-15.889608,
-    "geom:longitude":54.518918,
+    "geom:bbox":"54.516589,-15.897506,54.528616,-15.884638",
+    "geom:latitude":-15.891435,
+    "geom:longitude":54.523078,
     "iso:country":"XX",
-    "lbl:latitude":-15.889521,
-    "lbl:longitude":54.518685,
+    "lbl:latitude":-15.891441,
+    "lbl:longitude":54.523169,
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":6.0,
-    "mps:latitude":-15.889521,
-    "mps:longitude":54.518685,
+    "mps:latitude":-15.891441,
+    "mps:longitude":54.523169,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -305,7 +305,11 @@
     "ne:woe_id":23424959,
     "ne:woe_id_eh":23424959,
     "ne:woe_note":"WOE admin-1 (territory) match.",
-    "src:geom":"naturalearth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "src:population_date":"2017",
     "wof:belongsto":[
@@ -326,7 +330,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"16f1a283d96a1282bd1cbfae52570ea8",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"71eee6c39b2aa4a464989e48966bee0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -341,7 +348,7 @@
         }
     ],
     "wof:id":1159339575,
-    "wof:lastmodified":1615595296,
+    "wof:lastmodified":1615853429,
     "wof:name":"Tromelin Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -353,10 +360,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.514496,
-    -15.894057,
-    54.521332,
-    -15.885186
+    54.516589,
+    -15.897506,
+    54.528616,
+    -15.884638
 ],
-  "geometry": {"coordinates":[[[54.514496,-15.889581],[54.520925,-15.885186],[54.521332,-15.894057],[54.514496,-15.889581]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[54.516589,-15.884638],[54.517851,-15.885227],[54.519197,-15.885816],[54.524495,-15.888087],[54.527607,-15.890778],[54.528616,-15.893133],[54.528028,-15.895656],[54.527355,-15.897338],[54.524832,-15.897506],[54.522729,-15.895488],[54.520374,-15.893553],[54.518103,-15.889769],[54.516589,-15.884638]]],"type":"Polygon"}
 }
