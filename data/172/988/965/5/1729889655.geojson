@@ -11,6 +11,8 @@
     "iso:country":"XX",
     "lbl:latitude":21.862249,
     "lbl:longitude":33.668021,
+    "lbl:max_zoom":9.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":21.862249,
     "mps:longitude":33.668021,
     "mz:hierarchy_label":1,
@@ -22,6 +24,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0637\u0648\u064a\u0644"
     ],
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":1729889655,
-    "wof:lastmodified":1615843340,
+    "wof:lastmodified":1615911931,
     "wof:name":"Bir Tawil",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

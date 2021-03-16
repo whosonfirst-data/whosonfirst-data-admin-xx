@@ -12,8 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":6.094247,
     "lbl:longitude":-59.644771,
-    "lbl:max_zoom":10.0,
-    "lbl:min_zoom":6.0,
+    "lbl:max_zoom":9.0,
+    "lbl:min_zoom":7.7,
     "mps:latitude":6.094247,
     "mps:longitude":-59.644771,
     "mz:hierarchy_label":1,
@@ -25,7 +25,7 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u064a\u0627\u0646\u0627 \u0627\u0633\u064a\u0643\u064a\u0628\u0627"
     ],
@@ -270,7 +270,7 @@
         }
     ],
     "wof:id":1159339519,
-    "wof:lastmodified":1615595293,
+    "wof:lastmodified":1615911928,
     "wof:name":"Guayana Esequiba",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

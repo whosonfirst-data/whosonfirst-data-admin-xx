@@ -13,7 +13,7 @@
     "iso:country":"XX",
     "lbl:latitude":9.744144,
     "lbl:longitude":28.414264,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":9.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":9.744144,
     "mps:longitude":28.414264,
@@ -26,7 +26,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":4.7,
     "name:ara_x_preferred":[
         "\u0623\u0628\u064a\u064a"
     ],
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":85632265,
-    "wof:lastmodified":1615595294,
+    "wof:lastmodified":1615911929,
     "wof:name":"Abyei",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

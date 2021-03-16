@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":45.978332,
     "lbl:longitude":63.383897,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":9.5,
     "lbl:min_zoom":6.0,
     "mps:latitude":45.978332,
     "mps:longitude":63.383897,
@@ -25,7 +25,7 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0643\u0648\u0646\u0648\u0631"
     ],
@@ -478,7 +478,7 @@
         }
     ],
     "wof:id":1159339535,
-    "wof:lastmodified":1615595295,
+    "wof:lastmodified":1615911930,
     "wof:name":"Baikonur",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

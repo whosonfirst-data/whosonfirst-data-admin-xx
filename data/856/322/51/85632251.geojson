@@ -14,7 +14,7 @@
     "lbl:latitude":-12.774755,
     "lbl:longitude":45.151319,
     "lbl:max_zoom":10.0,
-    "lbl:min_zoom":6.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":-12.774755,
     "mps:longitude":45.151319,
     "mz:hierarchy_label":1,
@@ -768,7 +768,7 @@
         }
     ],
     "wof:id":85632251,
-    "wof:lastmodified":1615595295,
+    "wof:lastmodified":1615911931,
     "wof:name":"Mayotte",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":35.288599,
     "lbl:longitude":-2.949298,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":11.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":35.288599,
     "mps:longitude":-2.949298,
@@ -571,7 +571,7 @@
         }
     ],
     "wof:id":1159339523,
-    "wof:lastmodified":1615853432,
+    "wof:lastmodified":1615911929,
     "wof:name":"Melilla",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

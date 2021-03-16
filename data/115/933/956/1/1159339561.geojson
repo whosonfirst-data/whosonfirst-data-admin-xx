@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":-22.36684,
     "lbl:longitude":40.364098,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":11.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":-22.36684,
     "mps:longitude":40.364098,
@@ -372,7 +372,7 @@
         }
     ],
     "wof:id":1159339561,
-    "wof:lastmodified":1615853430,
+    "wof:lastmodified":1615911932,
     "wof:name":"Europa Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

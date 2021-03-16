@@ -12,8 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":42.390774,
     "lbl:longitude":44.130783,
-    "lbl:max_zoom":10.0,
-    "lbl:min_zoom":6.0,
+    "lbl:max_zoom":9.0,
+    "lbl:min_zoom":6.5,
     "mps:latitude":42.390774,
     "mps:longitude":44.130783,
     "mz:hierarchy_label":1,
@@ -25,7 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Suid-Osseti\u00eb"
     ],
@@ -648,7 +648,7 @@
         }
     ],
     "wof:id":1159339515,
-    "wof:lastmodified":1615595293,
+    "wof:lastmodified":1615911928,
     "wof:name":"South Ossetia",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -27,7 +27,7 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:max_zoom":10.0,
-    "mz:min_zoom":5.0,
+    "mz:min_zoom":0.0,
     "name:ace_x_preferred":[
         "Siprus Utara"
     ],
@@ -653,7 +653,7 @@
         }
     ],
     "wof:id":85632375,
-    "wof:lastmodified":1615595294,
+    "wof:lastmodified":1615911930,
     "wof:name":"Turkish Republic of Northern Cyprus",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

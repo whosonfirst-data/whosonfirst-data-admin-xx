@@ -11,6 +11,8 @@
     "iso:country":"XX",
     "lbl:latitude":42.59024,
     "lbl:longitude":20.875449,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":42.59024,
     "mps:longitude":20.875449,
     "mz:hierarchy_label":1,
@@ -22,6 +24,7 @@
     "mz:hierarchy_label_macroregion":1,
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
+    "mz:min_zoom":0.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u0648\u0641\u0648"
     ],
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":1729889643,
-    "wof:lastmodified":1615853433,
+    "wof:lastmodified":1615911928,
     "wof:name":"Kosovo",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":39.93976,
     "lbl:longitude":46.680722,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":9.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":39.93976,
     "mps:longitude":46.680722,
@@ -25,7 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":0,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u062a\u0641\u0639\u0627\u062a \u0642\u0631\u0629 \u0628\u0627\u063a"
     ],
@@ -488,7 +488,7 @@
         }
     ],
     "wof:id":1159339521,
-    "wof:lastmodified":1615844927,
+    "wof:lastmodified":1615911928,
     "wof:name":"Nagorno-Karabakh",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

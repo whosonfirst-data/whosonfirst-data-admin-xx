@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":57.597032,
     "lbl:longitude":-13.689544,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":9.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":57.597032,
     "mps:longitude":-13.689544,
@@ -25,7 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":7.0,
     "name:bre_x_preferred":[
         "Rocabarraigh"
     ],
@@ -327,7 +327,7 @@
         }
     ],
     "wof:id":1159339571,
-    "wof:lastmodified":1615595296,
+    "wof:lastmodified":1615911932,
     "wof:name":"Rockall",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

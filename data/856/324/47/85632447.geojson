@@ -12,8 +12,8 @@
     "iso:country":"XX",
     "lbl:latitude":36.068562,
     "lbl:longitude":76.294417,
-    "lbl:max_zoom":10.0,
-    "lbl:min_zoom":6.0,
+    "lbl:max_zoom":9.0,
+    "lbl:min_zoom":7.7,
     "mps:latitude":36.068562,
     "mps:longitude":76.294417,
     "mz:hierarchy_label":1,
@@ -25,7 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":3.7,
     "name:bho_x_preferred":[
         "\u0915\u0930\u093e\u0915\u094b\u0930\u092e-\u092a\u093e\u0930 \u0907\u0932\u093e\u0915\u093e"
     ],
@@ -244,7 +244,7 @@
         }
     ],
     "wof:id":85632447,
-    "wof:lastmodified":1615595293,
+    "wof:lastmodified":1615911928,
     "wof:name":"Trans-Karakoram Tract",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

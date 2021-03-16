@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":45.298991,
     "lbl:longitude":34.204665,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":8.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":45.298991,
     "mps:longitude":34.204665,
@@ -25,7 +25,7 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u049e\u0440\u044b\u043c"
     ],
@@ -648,7 +648,7 @@
         }
     ],
     "wof:id":1159339547,
-    "wof:lastmodified":1615595295,
+    "wof:lastmodified":1615911930,
     "wof:name":"Crimean Peninsula",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

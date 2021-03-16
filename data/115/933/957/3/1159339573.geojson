@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":18.40587,
     "lbl:longitude":-75.012107,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":11.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":18.40587,
     "mps:longitude":-75.012107,
@@ -455,7 +455,7 @@
         }
     ],
     "wof:id":1159339573,
-    "wof:lastmodified":1615595296,
+    "wof:lastmodified":1615911933,
     "wof:name":"Navassa Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

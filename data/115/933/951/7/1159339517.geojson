@@ -12,7 +12,7 @@
     "iso:country":"XX",
     "lbl:latitude":35.893918,
     "lbl:longitude":-5.358593,
-    "lbl:max_zoom":10.0,
+    "lbl:max_zoom":11.0,
     "lbl:min_zoom":6.0,
     "mps:latitude":35.893918,
     "mps:longitude":-5.358593,
@@ -571,7 +571,7 @@
         }
     ],
     "wof:id":1159339517,
-    "wof:lastmodified":1615853431,
+    "wof:lastmodified":1615911928,
     "wof:name":"Ceuta",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

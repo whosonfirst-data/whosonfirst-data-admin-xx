@@ -13,7 +13,7 @@
     "lbl:latitude":-6.190826,
     "lbl:longitude":71.348349,
     "lbl:max_zoom":10.0,
-    "lbl:min_zoom":6.0,
+    "lbl:min_zoom":5.0,
     "mps:latitude":-6.190826,
     "mps:longitude":71.348349,
     "mz:hierarchy_label":1,
@@ -427,7 +427,7 @@
         }
     ],
     "wof:id":1159339553,
-    "wof:lastmodified":1615595296,
+    "wof:lastmodified":1615911932,
     "wof:name":"South Sandwich Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
