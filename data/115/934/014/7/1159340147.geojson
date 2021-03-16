@@ -28,11 +28,11 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Andean Southern Ice Field (Campo de Hielo Sur)"
+        "Andean Southern Ice Field"
     ],
     "name:eng_x_variant":[
         "Disputed border area with Argentina",
-        "Andean Southern Ice Field"
+        "Andean Southern Ice Field (Campo de Hielo Sur)"
     ],
     "name:spa_x_preferred":[
         "Campo de Hielo Sur"
@@ -73,8 +73,8 @@
         }
     ],
     "wof:id":1159340147,
-    "wof:lastmodified":1615851603,
-    "wof:name":"Andean Southern Ice Field (Campo de Hielo Sur)",
+    "wof:lastmodified":1615935309,
+    "wof:name":"Andean Southern Ice Field",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",

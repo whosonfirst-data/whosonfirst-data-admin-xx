@@ -9,7 +9,6 @@
     "geom:bbox":"35.62452,33.262173,35.72754,33.326332",
     "geom:latitude":33.286437,
     "geom:longitude":35.681551,
-    "gn:id":"",
     "iso:country":"XX",
     "lbl:latitude":33.282988,
     "lbl:longitude":35.680612,
@@ -54,7 +53,7 @@
         "Syrien"
     ],
     "name:eng_x_preferred":[
-        "Shebaa farms"
+        "Shebaa Farms"
     ],
     "name:eng_x_unknown":[
         "SY",
@@ -63,6 +62,7 @@
     "name:eng_x_variant":[
         "Syrian",
         "Syrian Arab Republic",
+        "Shebaa farms",
         "Syyria",
         "Syria"
     ],
@@ -369,8 +369,8 @@
         }
     ],
     "wof:id":85632289,
-    "wof:lastmodified":1615911930,
-    "wof:name":"Shebaa farms",
+    "wof:lastmodified":1615932825,
+    "wof:name":"Shebaa Farms",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:population":20178485,
