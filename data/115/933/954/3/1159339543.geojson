@@ -127,7 +127,7 @@
     "ne:mapcolor7":5,
     "ne:mapcolor8":6,
     "ne:mapcolor9":1,
-    "ne:max_label":9,
+    "ne:max_label":9.0,
     "ne:min_label":7.7,
     "ne:min_zoom":6.7,
     "ne:name":"Bhutan",
@@ -201,7 +201,7 @@
         }
     ],
     "wof:id":1159339543,
-    "wof:lastmodified":1615911930,
+    "wof:lastmodified":1616015339,
     "wof:name":"Chumbi Valley",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -253,7 +253,7 @@
     "ne:mapcolor9":9,
     "ne:max_label":10.7,
     "ne:min_label":5.7,
-    "ne:min_zoom":0,
+    "ne:min_zoom":0.0,
     "ne:name":"Tromelin I.",
     "ne:name_ar":"\u062c\u0632\u064a\u0631\u0629 \u062a\u0631\u0648\u0645\u0644\u064a\u0646",
     "ne:name_de":"Tromelin",
@@ -348,7 +348,7 @@
         }
     ],
     "wof:id":1159339575,
-    "wof:lastmodified":1615911933,
+    "wof:lastmodified":1616015341,
     "wof:name":"Tromelin Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -200,9 +200,9 @@
     "ne:mapcolor7":7,
     "ne:mapcolor8":5,
     "ne:mapcolor9":9,
-    "ne:max_label":9,
+    "ne:max_label":9.0,
     "ne:min_label":7.7,
-    "ne:min_zoom":6,
+    "ne:min_zoom":6.0,
     "ne:name":"Fr. Guiana",
     "ne:name_en":"Lawa Headwaters",
     "ne:name_len":10,
@@ -274,7 +274,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1615911927,
+    "wof:lastmodified":1616015336,
     "wof:name":"Lawa Headwaters",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -299,7 +299,7 @@
     "ne:mapcolor7":4,
     "ne:mapcolor8":4,
     "ne:mapcolor9":4,
-    "ne:max_label":9,
+    "ne:max_label":9.0,
     "ne:min_label":7.7,
     "ne:min_zoom":3.7,
     "ne:name":"China",
@@ -398,7 +398,7 @@
         }
     ],
     "wof:id":85632415,
-    "wof:lastmodified":1615911925,
+    "wof:lastmodified":1616015334,
     "wof:name":"Aksai Chin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

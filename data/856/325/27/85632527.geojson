@@ -921,9 +921,9 @@
     "ne:mapcolor7":4,
     "ne:mapcolor8":1,
     "ne:mapcolor9":1,
-    "ne:max_label":11,
+    "ne:max_label":11.0,
     "ne:min_label":7.7,
-    "ne:min_zoom":7,
+    "ne:min_zoom":7.0,
     "ne:name":"Cyprus U.N. Buffer Zone",
     "ne:name_ar":"\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0639\u0627\u0632\u0644\u0629 \u0641\u064a \u0642\u0628\u0631\u0635",
     "ne:name_bn":"\u09b8\u09be\u0987\u09aa\u09cd\u09b0\u09be\u09b8 \u099c\u09be\u09a4\u09bf\u09b8\u0982\u0998 \u09ac\u09be\u09ab\u09be\u09b0 \u099c\u09cb\u09a8",
@@ -1031,7 +1031,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1615911930,
+    "wof:lastmodified":1616015338,
     "wof:name":"United Nations Buffer Zone in Cyprus",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

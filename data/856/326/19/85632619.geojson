@@ -394,7 +394,7 @@
     "ne:mapcolor9":7,
     "ne:max_label":5.2,
     "ne:min_label":1.7,
-    "ne:min_zoom":4,
+    "ne:min_zoom":4.0,
     "ne:name":"Russia",
     "ne:name_ar":"\u062c\u0632\u0631 \u0627\u0644\u0643\u0648\u0631\u064a\u0644",
     "ne:name_bn":"\u0995\u09c1\u09b0\u09bf\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c",
@@ -486,7 +486,7 @@
         }
     ],
     "wof:id":85632619,
-    "wof:lastmodified":1615911931,
+    "wof:lastmodified":1616015340,
     "wof:name":"Kuril Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

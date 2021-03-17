@@ -115,9 +115,9 @@
     "ne:mapcolor7":4,
     "ne:mapcolor8":1,
     "ne:mapcolor9":1,
-    "ne:max_label":11,
+    "ne:max_label":11.0,
     "ne:min_label":7.7,
-    "ne:min_zoom":7,
+    "ne:min_zoom":7.0,
     "ne:name":"Korean islands under UN jurisdiction",
     "ne:name_en":"Korean islands under UN jurisdiction",
     "ne:name_len":36,
@@ -182,7 +182,7 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1615911932,
+    "wof:lastmodified":1616015341,
     "wof:name":"Korean islands under UN jurisdiction",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

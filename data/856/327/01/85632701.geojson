@@ -454,7 +454,7 @@
     "ne:mapcolor7":1,
     "ne:mapcolor8":3,
     "ne:mapcolor9":2,
-    "ne:max_label":9,
+    "ne:max_label":9.0,
     "ne:min_label":7.7,
     "ne:min_zoom":3.7,
     "ne:name":"India",
@@ -558,7 +558,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1615911927,
+    "wof:lastmodified":1616015335,
     "wof:name":"Arunachal Pradesh",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

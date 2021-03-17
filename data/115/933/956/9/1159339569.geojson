@@ -383,7 +383,7 @@
     "ne:mapcolor9":1,
     "ne:max_label":10.7,
     "ne:min_label":5.7,
-    "ne:min_zoom":0,
+    "ne:min_zoom":0.0,
     "ne:name":"Wake Atoll",
     "ne:name_ar":"\u062c\u0632\u064a\u0631\u0629 \u0648\u064a\u0643",
     "ne:name_bn":"\u0993\u09af\u09bc\u09c7\u0995 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c",
@@ -480,7 +480,7 @@
         }
     ],
     "wof:id":1159339569,
-    "wof:lastmodified":1615931849,
+    "wof:lastmodified":1616015341,
     "wof:name":"Wake Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

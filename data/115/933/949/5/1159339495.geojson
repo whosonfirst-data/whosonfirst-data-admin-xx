@@ -318,7 +318,7 @@
     "ne:mapcolor7":2,
     "ne:mapcolor8":2,
     "ne:mapcolor9":3,
-    "ne:max_label":9,
+    "ne:max_label":9.0,
     "ne:min_label":7.7,
     "ne:min_zoom":3.7,
     "ne:name":"Pakistan",
@@ -412,7 +412,7 @@
         }
     ],
     "wof:id":1159339495,
-    "wof:lastmodified":1615911926,
+    "wof:lastmodified":1616015335,
     "wof:name":"Gilgit-Baltistan",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

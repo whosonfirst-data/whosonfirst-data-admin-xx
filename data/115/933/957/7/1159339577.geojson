@@ -250,7 +250,7 @@
     "ne:mapcolor9":9,
     "ne:max_label":10.7,
     "ne:min_label":5.7,
-    "ne:min_zoom":0,
+    "ne:min_zoom":0.0,
     "ne:name":"Glorioso Is.",
     "ne:name_ar":"\u062c\u0632\u0631 \u0643\u0644\u0648\u0631\u064a\u0648\u0633\u0648",
     "ne:name_de":"\u00celes Glorieuses",
@@ -345,7 +345,7 @@
         }
     ],
     "wof:id":1159339577,
-    "wof:lastmodified":1615911933,
+    "wof:lastmodified":1616015341,
     "wof:name":"Glorioso Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
