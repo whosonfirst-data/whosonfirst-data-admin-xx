@@ -238,13 +238,15 @@
         }
     ],
     "wof:id":1729889651,
-    "wof:lastmodified":1616015339,
+    "wof:lastmodified":1616026124,
     "wof:name":"Southern Patagonian Ice Field",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1159340147
+    ],
     "wof:tags":[]
 },
   "bbox": [
