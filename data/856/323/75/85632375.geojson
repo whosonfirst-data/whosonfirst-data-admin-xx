@@ -628,8 +628,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "ne:id":1159320531,
-        "wd:id":"Q23681",
-        "woe:id":-90
+        "wd:id":"Q23681"
     },
     "wof:controlled":[
         "wof:parent_id",
@@ -653,7 +652,7 @@
         }
     ],
     "wof:id":85632375,
-    "wof:lastmodified":1616015338,
+    "wof:lastmodified":1616025512,
     "wof:name":"Turkish Republic of Northern Cyprus",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

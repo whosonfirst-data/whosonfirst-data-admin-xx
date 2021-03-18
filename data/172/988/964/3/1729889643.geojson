@@ -238,8 +238,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "ne:id":1159321007,
-        "wd:id":"Q1246",
-        "woe:id":-90
+        "wd:id":"Q1246"
     },
     "wof:controlled":[
         "wof:parent_id",
@@ -264,7 +263,7 @@
         }
     ],
     "wof:id":1729889643,
-    "wof:lastmodified":1616015337,
+    "wof:lastmodified":1616025512,
     "wof:name":"Kosovo",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

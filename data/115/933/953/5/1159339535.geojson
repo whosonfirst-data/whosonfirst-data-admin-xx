@@ -455,8 +455,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "ne:id":1159320965,
-        "wd:id":"Q165413",
-        "woe:id":-90
+        "wd:id":"Q165413"
     },
     "wof:controlled":[
         "wof:parent_id",
@@ -478,7 +477,7 @@
         }
     ],
     "wof:id":1159339535,
-    "wof:lastmodified":1616015338,
+    "wof:lastmodified":1616025516,
     "wof:name":"Baikonur",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
