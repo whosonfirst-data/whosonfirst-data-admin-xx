@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000051,
+    "geom:area":0.000005,
     "geom:area_square_m":602687.19477,
-    "geom:bbox":"-63.643625,15.694037,-63.633941,15.702948",
-    "geom:latitude":15.698723,
-    "geom:longitude":-63.63815,
+    "geom:bbox":"-63.619954,15.66622,-63.61763,15.671458",
+    "geom:latitude":15.668966,
+    "geom:longitude":-63.618476,
     "iso:country":"XX",
-    "lbl:latitude":15.698715,
-    "lbl:longitude":-63.638077,
+    "lbl:latitude":15.670368,
+    "lbl:longitude":-63.618749,
     "lbl:max_zoom":9.0,
     "lbl:min_zoom":7.0,
-    "mps:latitude":15.698715,
-    "mps:longitude":-63.638077,
+    "mps:latitude":15.670368,
+    "mps:longitude":-63.618749,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -200,7 +200,11 @@
     "ne:woe_id":-99,
     "ne:woe_id_eh":-99,
     "ne:woe_note":"No WOE equivalent.",
-    "src:geom":"naturalearth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632503,
@@ -219,7 +223,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"05a3bfbab37df87b7a3079a636d0904e",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"58b40916166a9ebce4367eef59d72619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -238,7 +245,7 @@
         }
     ],
     "wof:id":1159339567,
-    "wof:lastmodified":1616015341,
+    "wof:lastmodified":1616193484,
     "wof:name":"Isla Aves",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -248,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -63.643625,
-    15.694037,
-    -63.633941,
-    15.702948
+    -63.619954,
+    15.66622,
+    -63.61763,
+    15.671458
 ],
-  "geometry": {"coordinates":[[[-63.639882,15.696031],[-63.643625,15.700588],[-63.639638,15.702948],[-63.634592,15.700588],[-63.633941,15.696194],[-63.635487,15.694037],[-63.639882,15.696031]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-63.619954,15.671352],[-63.619911,15.671458],[-63.61989,15.671416],[-63.619658,15.671394],[-63.619489,15.671162],[-63.61913,15.671014],[-63.618433,15.67093],[-63.617947,15.670381],[-63.617778,15.669684],[-63.617694,15.66867],[-63.61763,15.667698],[-63.617694,15.66698],[-63.618011,15.666558],[-63.618391,15.666283],[-63.618729,15.66622],[-63.618898,15.6666],[-63.619046,15.666917],[-63.619088,15.667276],[-63.618518,15.667255],[-63.618327,15.667931],[-63.618222,15.668459],[-63.618412,15.669219],[-63.61894,15.669747],[-63.619383,15.670085],[-63.619721,15.670613],[-63.619954,15.671352]]],"type":"Polygon"}
 }

@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000154,
+    "geom:area":0.0003,
     "geom:area_square_m":1874071.285445,
-    "geom:bbox":"-171.086537,-11.066095,-171.072825,-11.051365",
-    "geom:latitude":-11.057943,
-    "geom:longitude":-171.079758,
+    "geom:bbox":"-171.090172,-11.065137,-171.066082,-11.04782",
+    "geom:latitude":-11.055649,
+    "geom:longitude":-171.078475,
     "iso:country":"XX",
-    "lbl:latitude":-11.058187,
-    "lbl:longitude":-171.079888,
+    "lbl:latitude":-11.056037,
+    "lbl:longitude":-171.07945,
     "lbl:max_zoom":9.0,
     "lbl:min_zoom":6.5,
-    "mps:latitude":-11.058187,
-    "mps:longitude":-171.079888,
+    "mps:latitude":-11.056037,
+    "mps:longitude":-171.07945,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -234,7 +234,11 @@
     "ne:woe_id":12485832,
     "ne:woe_id_eh":12485832,
     "ne:woe_note":"WOE physical feature",
-    "src:geom":"naturalearth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
     "src:population_date":"2005",
     "wof:belongsto":[
@@ -255,7 +259,10 @@
         "wof:hierarchy"
     ],
     "wof:country":"XX",
-    "wof:geomhash":"25d8ba7d9057a1f70bbb9adea20d6e76",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"42d9041864cc2fef3afb0d2c0940ac80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -270,7 +277,7 @@
         }
     ],
     "wof:id":1159339565,
-    "wof:lastmodified":1616015340,
+    "wof:lastmodified":1616193484,
     "wof:name":"Swains Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -282,10 +289,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -171.086537,
-    -11.066095,
-    -171.072825,
-    -11.051365
+    -171.090172,
+    -11.065137,
+    -171.066082,
+    -11.04782
 ],
-  "geometry": {"coordinates":[[[-171.07282499999999,-11.052504],[-171.073476,-11.062107],[-171.08153200000001,-11.066095],[-171.08653699999999,-11.060317],[-171.08564200000001,-11.051365],[-171.07282499999999,-11.052504]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-171.08884599999999,-11.050752],[-171.083958,-11.048867],[-171.076975,-11.048029],[-171.07138900000001,-11.04782],[-171.06859600000001,-11.049845],[-171.06608199999999,-11.053615],[-171.06615199999999,-11.056059],[-171.06796800000001,-11.057875],[-171.072576,-11.060807],[-171.07446100000001,-11.062623],[-171.076277,-11.064368],[-171.07886099999999,-11.065137],[-171.08228199999999,-11.065067],[-171.08605299999999,-11.061715],[-171.08863600000001,-11.058573],[-171.090103,-11.05578],[-171.090172,-11.052987],[-171.08996300000001,-11.05173],[-171.08884599999999,-11.050752]]],"type":"Polygon"}
 }

@@ -4,19 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000009,
+    "geom:area":0.00035,
     "geom:area_square_m":105684.628412,
-    "geom:bbox":"-78.640411,15.862087,-78.636871,15.867296",
-    "geom:latitude":15.864461,
-    "geom:longitude":-78.638119,
+    "geom:bbox":"-78.651827,15.845592,-78.632073,15.886285",
+    "geom:latitude":15.864731,
+    "geom:longitude":-78.640393,
     "gp:id":0,
     "iso:country":"XX",
-    "lbl:latitude":15.864308,
-    "lbl:longitude":-78.63824,
+    "lbl:latitude":15.863979,
+    "lbl:longitude":-78.638597,
     "lbl:max_zoom":9.5,
     "lbl:min_zoom":7.0,
-    "mps:latitude":15.864308,
-    "mps:longitude":-78.63824,
+    "mps:latitude":15.863979,
+    "mps:longitude":-78.638597,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -339,9 +339,10 @@
     "qs:scale":4000000,
     "qs:source":"Natural Earth",
     "qs:type":"Admin-1 aggregation",
-    "src:geom":"quattroshapes",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1604,
@@ -363,9 +364,10 @@
     ],
     "wof:country":"XX",
     "wof:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "quattroshapes"
     ],
-    "wof:geomhash":"87d6d1a069f7c0e0539aacad0bd054de",
+    "wof:geomhash":"4dffb28a50b0145cf9fd1db50a6dfc3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -389,7 +391,7 @@
         }
     ],
     "wof:id":85681363,
-    "wof:lastmodified":1616015341,
+    "wof:lastmodified":1616193487,
     "wof:name":"Serranilla Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -399,10 +401,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -78.640411,
-    15.862087,
-    -78.636871,
-    15.867296
+    -78.651827,
+    15.845592,
+    -78.632073,
+    15.886285
 ],
-  "geometry": {"coordinates":[[[-78.637074,15.862087],[-78.640411,15.864],[-78.636871,15.867296],[-78.637074,15.862087]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-78.64036900000001,15.87868],[-78.64431999999999,15.883223],[-78.64431999999999,15.885396],[-78.642839,15.886285],[-78.638987,15.885989],[-78.63553,15.883026],[-78.632863,15.877396],[-78.63207300000001,15.868803],[-78.634443,15.862284],[-78.64036900000001,15.850431],[-78.64353,15.846876],[-78.646888,15.845592],[-78.650049,15.846184],[-78.651827,15.847271],[-78.65133299999999,15.851024],[-78.64758,15.85537],[-78.64540700000001,15.85942],[-78.641851,15.867618],[-78.639579,15.873149],[-78.639579,15.875717],[-78.639876,15.877001],[-78.64036900000001,15.87868]]],"type":"Polygon"}
 }
