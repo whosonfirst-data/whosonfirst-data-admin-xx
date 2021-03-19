@@ -4,18 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000113,
+    "geom:area":0.000075,
     "geom:area_square_m":1367741.202986,
-    "geom:bbox":"43.138694763,12.710361481,43.157833099,12.72124958",
-    "geom:latitude":12.716178,
-    "geom:longitude":43.146767,
+    "geom:bbox":"43.139771,12.711616,43.15854,12.721336",
+    "geom:latitude":12.716691,
+    "geom:longitude":43.147745,
     "iso:country":"XX",
-    "lbl:latitude":12.715624,
-    "lbl:longitude":43.14754,
-    "lbl:max_zoom":10.0,
+    "lbl:latitude":12.716434,
+    "lbl:longitude":43.148161,
+    "lbl:max_zoom":9.0,
     "lbl:min_zoom":6.0,
-    "mps:latitude":12.715624,
-    "mps:longitude":43.14754,
+    "mps:latitude":12.716434,
+    "mps:longitude":43.148161,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -25,9 +25,12 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":7.0,
+    "name:deu_x_preferred":[
+        "Doumeira"
+    ],
     "name:eng_x_preferred":[
-        "Doumera Island"
+        "Doumeira Islands"
     ],
     "name:eng_x_unknown":[
         "XX"
@@ -44,11 +47,26 @@
     "name:kor_x_preferred":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
     ],
+    "name:nld_x_preferred":[
+        "Doumeira-eilanden"
+    ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
     ],
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
+    ],
+    "name:pol_x_preferred":[
+        "Doumeira"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Doumeira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043c\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Doumeira"
     ],
     "name:swe_x_colloquial":[
         "Omtvistat omrade"
@@ -60,19 +78,141 @@
         "Dum\u0113ra Des\u0113t"
     ],
     "name:zho_x_preferred":[
-        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+        "\u675c\u6885\u4f0a\u62c9\u5cf6"
     ],
     "name:zho_x_variant":[
         "\u6709\u4e89\u8bae\u7684\u9886\u571f"
     ],
+    "ne:abbrev_len":0,
+    "ne:adm0_a3":"ERI",
+    "ne:adm0_a3_ar":"ERI",
+    "ne:adm0_a3_bd":"UUU",
+    "ne:adm0_a3_br":"ERI",
+    "ne:adm0_a3_cn":"ERI",
+    "ne:adm0_a3_de":"ERI",
+    "ne:adm0_a3_eg":"ERI",
+    "ne:adm0_a3_es":"ERI",
+    "ne:adm0_a3_fr":"ERI",
+    "ne:adm0_a3_gb":"ERI",
+    "ne:adm0_a3_gr":"UUU",
+    "ne:adm0_a3_id":"UUU",
+    "ne:adm0_a3_il":"UUU",
+    "ne:adm0_a3_in":"ERI",
+    "ne:adm0_a3_is":"-99",
+    "ne:adm0_a3_it":"UUU",
+    "ne:adm0_a3_jp":"UUU",
+    "ne:adm0_a3_ko":"UUU",
+    "ne:adm0_a3_ma":"UUU",
+    "ne:adm0_a3_nl":"UUU",
+    "ne:adm0_a3_np":"ERI",
+    "ne:adm0_a3_pk":"ERI",
+    "ne:adm0_a3_pl":"UUU",
+    "ne:adm0_a3_ps":"UUU",
+    "ne:adm0_a3_pt":"UUU",
+    "ne:adm0_a3_ru":"ERI",
+    "ne:adm0_a3_sa":"ERI",
+    "ne:adm0_a3_se":"UUU",
+    "ne:adm0_a3_tr":"UUU",
+    "ne:adm0_a3_tw":"ERI",
+    "ne:adm0_a3_ua":"ERI",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"UUU",
+    "ne:adm0_a3_vn":"UUU",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":0,
+    "ne:admin":"Eritrea",
+    "ne:brk_a3":"B87",
+    "ne:brk_diff":1,
+    "ne:brk_name":"Doumera Island",
+    "ne:continent":"Africa",
+    "ne:economy":"7. Least developed region",
+    "ne:fc_bd":"Unrecognized",
+    "ne:fc_gr":"Unrecognized",
+    "ne:fc_id":"Unrecognized",
+    "ne:fc_il":"Unrecognized",
+    "ne:fc_iso":"Unrecognized",
+    "ne:fc_it":"Unrecognized",
+    "ne:fc_jp":"Unrecognized",
+    "ne:fc_ko":"Unrecognized",
+    "ne:fc_ma":"Unrecognized",
+    "ne:fc_nl":"Unrecognized",
+    "ne:fc_pl":"Unrecognized",
+    "ne:fc_ps":"Unrecognized",
+    "ne:fc_pt":"Unrecognized",
+    "ne:fc_se":"Unrecognized",
+    "ne:fc_tr":"Unrecognized",
+    "ne:fc_us":"Unrecognized",
+    "ne:fc_vn":"Unrecognized",
+    "ne:featurecla":"Admin-0 claim area",
+    "ne:fips_10":"-99",
+    "ne:gdp_md":0,
+    "ne:gdp_year":2016,
+    "ne:geou_dif":0,
+    "ne:geounit":"Eritrea",
+    "ne:gu_a3":"ERI",
+    "ne:homepart":1,
+    "ne:income_grp":"5. Low income",
+    "ne:iso_a2":"-99",
+    "ne:iso_a2_eh":"ER",
+    "ne:iso_a3":"-99",
+    "ne:iso_a3_eh":"ERI",
+    "ne:iso_n3":"-99",
+    "ne:iso_n3_eh":"232",
+    "ne:labelrank":4,
+    "ne:level":5,
+    "ne:long_len":14,
+    "ne:mapcolor13":12,
+    "ne:mapcolor7":3,
+    "ne:mapcolor8":1,
+    "ne:mapcolor9":2,
+    "ne:max_label":9.0,
+    "ne:min_label":6.0,
+    "ne:min_zoom":7.0,
+    "ne:name":"Doumera I.",
+    "ne:name_de":"Doumeira",
+    "ne:name_en":"Doumeira Islands",
+    "ne:name_es":"Isla Doumeira",
+    "ne:name_len":10,
+    "ne:name_long":"Doumera Island",
+    "ne:name_nl":"Doumeira-eilanden",
+    "ne:name_pl":"Doumeira",
+    "ne:name_pt":"Ilhas Doumeira",
+    "ne:name_ru":"\u0414\u0443\u043c\u0435\u0439\u0440\u0430",
+    "ne:name_sort":"Doumera Island",
+    "ne:name_zh":"\u675c\u6885\u4f0a\u62c9\u5cf6",
+    "ne:ne_id":1159320583,
+    "ne:note_brk":"Admin. By Eritrea; Claimed by Djibouti",
+    "ne:pop_est":0,
+    "ne:pop_rank":1,
+    "ne:pop_year":2019,
+    "ne:region_un":"Africa",
+    "ne:region_wb":"Sub-Saharan Africa",
+    "ne:scalerank":7,
+    "ne:sov_a3":"ERI",
+    "ne:sovereignt":"Eritrea",
+    "ne:su_a3":"ERI",
+    "ne:su_dif":0,
+    "ne:subregion":"Eastern Africa",
+    "ne:subunit":"Eritrea",
+    "ne:tiny":-99,
+    "ne:type":"Disputed",
+    "ne:un_a3":"-99",
+    "ne:wb_a2":"-99",
+    "ne:wb_a3":"-99",
+    "ne:wikidataid":"Q1252656",
+    "ne:woe_id":-99,
+    "ne:woe_id_eh":-99,
+    "ne:woe_note":"No WOE equivalent.",
     "qs:a0":"Eritrea",
     "qs:adm0":"Eritrea",
     "qs:adm0_a3":"ERI",
     "qs:level":"adm0",
     "qs:scale":200000,
     "qs:source":"US State Department, with Natural Earth mods",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
@@ -81,12 +221,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":223738,
-        "gp:id":23424806,
-        "qs_pg:id":236317
+        "ne:id":1159320583,
+        "wd:id":"Q1252656"
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"XX",
-    "wof:geomhash":"60198204230df09bc136fa0f011fc530",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"03efbcd137a675ca3ddf71b8a8015f9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,8 +246,8 @@
         }
     ],
     "wof:id":85632665,
-    "wof:lastmodified":1566653138,
-    "wof:name":"Doumera Island",
+    "wof:lastmodified":1616193485,
+    "wof:name":"Doumeira Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",
@@ -110,10 +256,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.13869476300005,
-    12.71036148100006,
-    43.15783309900013,
-    12.72124958000006
+    43.139771,
+    12.711616,
+    43.15854,
+    12.721336
 ],
-  "geometry": {"coordinates":[[[[43.15202713000008,12.71913909900007],[43.15286254900008,12.71833324400006],[43.15286254900008,12.71500015300006],[43.15119552600004,12.71333313000002],[43.15080642700008,12.71119403800003],[43.14658355700004,12.71122264900004],[43.14494323700006,12.71036148100006],[43.14324951200007,12.71122264900004],[43.14288711500006,12.71247196200005],[43.13872146600005,12.71663856500004],[43.13869476300005,12.71916675600005],[43.13991546600005,12.72041702300004],[43.14241790800003,12.72038841200003],[43.14408493000008,12.71875],[43.14494323700006,12.71875],[43.14827728300003,12.72122192400008],[43.14988708500005,12.72124958000006],[43.15202713000008,12.72000026700005],[43.15202713000008,12.71913909900007]]],[[[43.15783309900013,12.71577739700012],[43.15661239600013,12.71458339700013],[43.15565086428472,12.71755256226152],[43.15372085600018,12.71913909900007],[43.15494537400008,12.71955585500012],[43.15705490100009,12.71749973300018],[43.15700149500009,12.71663856500015],[43.15783309900013,12.71577739700012]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[43.153726,12.720208],[43.154548,12.720147],[43.155036,12.720026],[43.155554,12.719843],[43.155889,12.71969],[43.156011,12.719508],[43.156194,12.719355],[43.156285,12.719294],[43.156316,12.719111],[43.156498,12.718959],[43.156742,12.718807],[43.156986,12.718654],[43.157199,12.718502],[43.157443,12.718228],[43.157687,12.717954],[43.157931,12.717649],[43.158205,12.717344],[43.158449,12.71707],[43.15851,12.716796],[43.15854,12.716613],[43.15851,12.71643],[43.158388,12.716369],[43.158144,12.7164],[43.157626,12.716491],[43.157413,12.716552],[43.15723,12.716674],[43.157047,12.716857],[43.156834,12.71704],[43.156712,12.717222],[43.15659,12.717466],[43.156377,12.717527],[43.156163,12.717649],[43.156011,12.717923],[43.155706,12.718197],[43.155615,12.71838],[43.155615,12.718624],[43.155493,12.718898],[43.154914,12.719203],[43.154579,12.719264],[43.154213,12.719386],[43.153878,12.719477],[43.153604,12.719599],[43.153543,12.71966],[43.153482,12.719782],[43.153421,12.720026],[43.153452,12.720147],[43.153726,12.720208]]],[[[43.14041,12.719629],[43.141142,12.719538],[43.142056,12.719751],[43.143,12.719843],[43.143884,12.719629],[43.144311,12.719172],[43.144707,12.71902],[43.145164,12.718898],[43.145438,12.718868],[43.145895,12.718898],[43.146352,12.719111],[43.14684,12.719416],[43.147266,12.719629],[43.147906,12.719751],[43.148363,12.719965],[43.148972,12.72033],[43.149247,12.720605],[43.149582,12.721031],[43.149643,12.721244],[43.149917,12.721336],[43.150344,12.721336],[43.150679,12.721122],[43.150709,12.720848],[43.151044,12.720544],[43.151288,12.720361],[43.151227,12.720117],[43.151075,12.719873],[43.150922,12.719477],[43.151014,12.719142],[43.151258,12.718807],[43.151745,12.718502],[43.15205,12.718289],[43.152385,12.717649],[43.152537,12.717222],[43.152507,12.716979],[43.152294,12.716643],[43.152019,12.716369],[43.151958,12.716125],[43.151867,12.715729],[43.151715,12.715425],[43.151166,12.714876],[43.151014,12.714602],[43.15074,12.714114],[43.150648,12.713779],[43.150465,12.713322],[43.150465,12.713139],[43.15074,12.712439],[43.150862,12.712286],[43.150862,12.711982],[43.150405,12.711616],[43.148911,12.711738],[43.147754,12.71189],[43.147083,12.712317],[43.14687,12.71256],[43.146565,12.712957],[43.146443,12.713261],[43.14623,12.713505],[43.146017,12.713688],[43.145651,12.713779],[43.145225,12.713779],[43.144646,12.713749],[43.144006,12.713657],[43.143671,12.713627],[43.143366,12.713657],[43.143031,12.713993],[43.142787,12.714358],[43.142604,12.714876],[43.142269,12.715242],[43.142147,12.715455],[43.142025,12.716095],[43.142056,12.7164],[43.142056,12.716796],[43.141842,12.717192],[43.140867,12.717558],[43.140624,12.71774],[43.140776,12.718167],[43.140776,12.718319],[43.140563,12.718563],[43.140258,12.718746],[43.139923,12.719051],[43.139801,12.719233],[43.139771,12.719508],[43.139892,12.719629],[43.140136,12.719629],[43.14041,12.719629]]]],"type":"MultiPolygon"}
 }

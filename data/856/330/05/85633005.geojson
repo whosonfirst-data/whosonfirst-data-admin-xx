@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
     "geom:area_square_m":5358841.902161,
-    "geom:bbox":"-57.648480123,-30.193841237,-57.604616484,-30.174191766",
-    "geom:latitude":-30.182657,
+    "geom:bbox":"-57.64848,-30.193841,-57.604616,-30.174192",
+    "geom:latitude":-30.182656,
     "geom:longitude":-57.627569,
     "iso:country":"XX",
     "lbl:latitude":-30.180584,
     "lbl:longitude":-57.627852,
-    "lbl:max_zoom":10.0,
-    "lbl:min_zoom":6.0,
+    "lbl:max_zoom":9.0,
+    "lbl:min_zoom":7.7,
     "mps:latitude":-30.180584,
     "mps:longitude":-57.627852,
     "mz:hierarchy_label":1,
@@ -25,9 +25,12 @@
     "mz:hierarchy_label_macroregion":0,
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
-    "mz:min_zoom":0.0,
+    "mz:min_zoom":7.0,
+    "name:deu_x_preferred":[
+        "Isla Brasilera"
+    ],
     "name:eng_x_preferred":[
-        "Brazil Island"
+        "Brazilian Island"
     ],
     "name:eng_x_unknown":[
         "XX"
@@ -50,6 +53,12 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
+    "name:por_x_preferred":[
+        "Ilha Brasileira"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Brasilera"
+    ],
     "name:swe_x_colloquial":[
         "Omtvistat omrade"
     ],
@@ -60,11 +69,112 @@
         "Ilha Brasileira"
     ],
     "name:zho_x_preferred":[
-        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+        "\u5df4\u897f\u5cf6"
     ],
     "name:zho_x_variant":[
         "\u6709\u4e89\u8bae\u7684\u9886\u571f"
     ],
+    "ne:abbrev_len":0,
+    "ne:adm0_a3":"BRI",
+    "ne:adm0_a3_ar":"BRI",
+    "ne:adm0_a3_bd":"BRI",
+    "ne:adm0_a3_br":"BRI",
+    "ne:adm0_a3_cn":"BRI",
+    "ne:adm0_a3_de":"BRI",
+    "ne:adm0_a3_eg":"BRI",
+    "ne:adm0_a3_es":"BRI",
+    "ne:adm0_a3_fr":"BRI",
+    "ne:adm0_a3_gb":"BRI",
+    "ne:adm0_a3_gr":"BRI",
+    "ne:adm0_a3_id":"BRI",
+    "ne:adm0_a3_il":"BRI",
+    "ne:adm0_a3_in":"BRI",
+    "ne:adm0_a3_is":"-99",
+    "ne:adm0_a3_it":"BRI",
+    "ne:adm0_a3_jp":"BRI",
+    "ne:adm0_a3_ko":"BRI",
+    "ne:adm0_a3_ma":"BRI",
+    "ne:adm0_a3_nl":"BRI",
+    "ne:adm0_a3_np":"BRI",
+    "ne:adm0_a3_pk":"BRI",
+    "ne:adm0_a3_pl":"BRI",
+    "ne:adm0_a3_ps":"BRI",
+    "ne:adm0_a3_pt":"BRI",
+    "ne:adm0_a3_ru":"BRI",
+    "ne:adm0_a3_sa":"BRI",
+    "ne:adm0_a3_se":"BRI",
+    "ne:adm0_a3_tr":"BRI",
+    "ne:adm0_a3_tw":"BRI",
+    "ne:adm0_a3_ua":"BRI",
+    "ne:adm0_a3_un":-99,
+    "ne:adm0_a3_us":"BRI",
+    "ne:adm0_a3_vn":"BRI",
+    "ne:adm0_a3_wb":-99,
+    "ne:adm0_dif":0,
+    "ne:admin":"Brazilian Island",
+    "ne:brk_a3":"B85",
+    "ne:brk_diff":1,
+    "ne:brk_name":"Brazilian Island",
+    "ne:continent":"South America",
+    "ne:economy":"3. Emerging region: BRIC",
+    "ne:fc_iso":"Unrecognized",
+    "ne:featurecla":"Admin-0 indeterminant",
+    "ne:fips_10":"-99",
+    "ne:gdp_md":0,
+    "ne:gdp_year":2019,
+    "ne:geou_dif":0,
+    "ne:geounit":"Brazilian Island",
+    "ne:gu_a3":"BRI",
+    "ne:homepart":-99,
+    "ne:income_grp":"3. Upper middle income",
+    "ne:iso_a2":"-99",
+    "ne:iso_a2_eh":"BR",
+    "ne:iso_a3":"-99",
+    "ne:iso_a3_eh":"BRA",
+    "ne:iso_n3":"-99",
+    "ne:iso_n3_eh":"076",
+    "ne:labelrank":9,
+    "ne:level":2,
+    "ne:long_len":16,
+    "ne:mapcolor13":3,
+    "ne:mapcolor7":1,
+    "ne:mapcolor8":5,
+    "ne:mapcolor9":2,
+    "ne:max_label":9.0,
+    "ne:min_label":7.7,
+    "ne:min_zoom":7.0,
+    "ne:name":"Brazilian I.",
+    "ne:name_de":"Isla Brasilera",
+    "ne:name_en":"Brazilian Island",
+    "ne:name_es":"Isla Brasilera",
+    "ne:name_len":12,
+    "ne:name_long":"Brazilian Island",
+    "ne:name_pt":"Ilha Brasileira",
+    "ne:name_sort":"Brazil (Braziliera I.)",
+    "ne:name_zh":"\u5df4\u897f\u5cf6",
+    "ne:ne_id":1729632181,
+    "ne:note_brk":"Claimed by Brazil and Uruguay",
+    "ne:pop_est":0,
+    "ne:pop_rank":1,
+    "ne:pop_year":2019,
+    "ne:region_un":"Americas",
+    "ne:region_wb":"Latin America & Caribbean",
+    "ne:scalerank":0,
+    "ne:sov_a3":"BRI",
+    "ne:sovereignt":"Brazilian Island",
+    "ne:su_a3":"BRI",
+    "ne:su_dif":0,
+    "ne:subregion":"South America",
+    "ne:subunit":"Brazilian Island",
+    "ne:tiny":-99,
+    "ne:type":"Indeterminate",
+    "ne:un_a3":"-99",
+    "ne:wb_a2":"-99",
+    "ne:wb_a3":"-99",
+    "ne:wikidataid":"Q11703222",
+    "ne:woe_id":-99,
+    "ne:woe_id_eh":-99,
+    "ne:woe_note":"No WOE equivalent.",
     "qs:a0":"Brazil",
     "qs:adm0":"Brazil",
     "qs:adm0_a3":"BRA",
@@ -80,11 +190,15 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":3469059,
-        "gp:id":23424928
+        "ne:id":1729632181,
+        "wd:id":"Q11703222"
     },
+    "wof:controlled":[
+        "wof:parent_id",
+        "wof:hierarchy"
+    ],
     "wof:country":"XX",
-    "wof:geomhash":"c86de26bc9b4ff8dfac345cfa8066bf0",
+    "wof:geomhash":"9a190d37c41f2a242f172b4333b946ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,8 +207,8 @@
         }
     ],
     "wof:id":85633005,
-    "wof:lastmodified":1566653129,
-    "wof:name":"Brazil Island",
+    "wof:lastmodified":1616015337,
+    "wof:name":"Brazilian Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",
@@ -103,10 +217,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -57.64848012299996,
-    -30.19384123699996,
-    -57.60461648399996,
-    -30.17419176599998
+    -57.64848,
+    -30.193841,
+    -57.604616,
+    -30.174192
 ],
-  "geometry": {"coordinates":[[[-57.60585980899998,-30.18462013699997],[-57.61300360199994,-30.18917640399997],[-57.61545965399995,-30.18966139299994],[-57.61589494599997,-30.18956094099997],[-57.62075013199996,-30.18795370699996],[-57.62396459999997,-30.18725054199996],[-57.62798268499995,-30.18691570199996],[-57.62985779199994,-30.18694918599994],[-57.63367497299998,-30.18781977099997],[-57.63608582399996,-30.18855641999994],[-57.63863061099994,-30.18972836099994],[-57.64067313699996,-30.19056546199994],[-57.64335186099999,-30.19210572799994],[-57.64526045099996,-30.19294282899995],[-57.64666678099996,-30.19347857399998],[-57.64819669299993,-30.19378983399997],[-57.64848012299996,-30.19384123699996],[-57.64663329599995,-30.18537543599996],[-57.64509303099999,-30.18021889299996],[-57.64181159499998,-30.17747320199993],[-57.63544962699996,-30.17492841499995],[-57.62731300499996,-30.17419176599998],[-57.61616281899995,-30.17640171299996],[-57.60466591899996,-30.18020689899998],[-57.60461648399996,-30.18093989399995],[-57.60462891699996,-30.18243188399998],[-57.60497704799997,-30.18363790999996],[-57.60585980899998,-30.18462013699997]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-57.60586,-30.18462],[-57.613004,-30.189176],[-57.61546,-30.189661],[-57.615895,-30.189561],[-57.62075,-30.187954],[-57.623965,-30.187251],[-57.627983,-30.186916],[-57.629858,-30.186949],[-57.633675,-30.18782],[-57.636086,-30.188556],[-57.638631,-30.189728],[-57.640673,-30.190565],[-57.643352,-30.192106],[-57.64526,-30.192943],[-57.646667,-30.193479],[-57.648197,-30.19379],[-57.64848,-30.193841],[-57.646633,-30.185375],[-57.645093,-30.180219],[-57.641812,-30.177473],[-57.63545,-30.174928],[-57.627313,-30.174192],[-57.616163,-30.176402],[-57.604666,-30.180207],[-57.604616,-30.18094],[-57.604629,-30.182432],[-57.604977,-30.183638],[-57.60586,-30.18462]]],"type":"Polygon"}
 }
