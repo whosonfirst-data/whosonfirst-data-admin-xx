@@ -4,17 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.171988,
-    "geom:bbox":"33.181136,21.711049,34.077008,21.995454",
-    "geom:latitude":21.882414,
-    "geom:longitude":33.676742,
+    "geom:area":0.175454,
+    "geom:bbox":"33.167393,21.724959,34.078501,22.000008",
+    "geom:latitude":21.886165,
+    "geom:longitude":33.6787,
     "iso:country":"XX",
-    "lbl:latitude":21.862249,
-    "lbl:longitude":33.668021,
+    "lbl:latitude":21.868492,
+    "lbl:longitude":33.6787,
     "lbl:max_zoom":9.0,
     "lbl:min_zoom":7.0,
-    "mps:latitude":21.862249,
-    "mps:longitude":33.668021,
+    "mps:latitude":21.868492,
+    "mps:longitude":33.6787,
     "mz:hierarchy_label":1,
     "mz:hierarchy_label_country":0,
     "mz:hierarchy_label_county":0,
@@ -202,7 +202,10 @@
     "ne:woe_id":-99,
     "ne:woe_id_eh":-99,
     "ne:woe_note":"No WOE equivalent.",
-    "src:geom":"naturalearth",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
@@ -220,7 +223,10 @@
     ],
     "wof:country":"XX",
     "wof:created":1615593822,
-    "wof:geomhash":"9591be4ceea87d6e1512ef0637addd0c",
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
+    "wof:geomhash":"52dc9ab52388518adc9aaabe191f6c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":1729889655,
-    "wof:lastmodified":1616015339,
+    "wof:lastmodified":1617307083,
     "wof:name":"Bir Tawil",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
@@ -244,10 +250,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.181136,
-    21.711049,
-    34.077008,
-    21.995454
+    33.167393,
+    21.724959,
+    34.078501,
+    22.000008
 ],
-  "geometry": {"coordinates":[[[33.181136,21.995409],[33.392359,21.995454],[33.625058,21.995454],[33.857706,21.995454],[34.076127,21.995454],[34.077008,21.995454],[34.007974,21.791101],[34.005472,21.784394],[33.55832,21.711049],[33.181136,21.995409]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.078501,22.000008],[33.998588,21.767471],[33.552594,21.724959],[33.167393,22.0],[34.078501,22.000008]]],"type":"Polygon"}
 }
