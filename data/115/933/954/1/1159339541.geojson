@@ -27,6 +27,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
+        "Northwest Valleys"
+    ],
+    "name:eng_x_variant":[
         "Bhutan (northwest valleys)"
     ],
     "ne:abbrev":"Bhutan",
@@ -168,8 +171,8 @@
         }
     ],
     "wof:id":1159339541,
-    "wof:lastmodified":1616193486,
-    "wof:name":"Bhutan (northwest valleys)",
+    "wof:lastmodified":1617305898,
+    "wof:name":"Northwest Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:population":1000,

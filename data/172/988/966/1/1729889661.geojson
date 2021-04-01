@@ -25,8 +25,47 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u0430\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160arengradska Ada"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160arengradska Ada"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u03a3\u03ac\u03c1\u03b5\u03bd\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
-        "\u0160arengrad Island"
+        "Sarengrad Island"
+    ],
+    "name:eng_x_variant":[
+        "Island of \u0160arengrad"
+    ],
+    "name:eus_x_preferred":[
+        "\u0160arengradeko uhartea"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160arengradska ada"
+    ],
+    "name:ita_x_preferred":[
+        "Isola di \u0160arengrad"
+    ],
+    "name:nno_x_preferred":[
+        "\u0160arengradska ada"
+    ],
+    "name:ron_x_preferred":[
+        "Insula \u0160arengrad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434 (\u043e\u0441\u0442\u0440\u043e\u0432)"
+    ],
+    "name:spa_x_preferred":[
+        "Isla de \u0160arengrad"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u0430\u0434\u0430"
     ],
     "ne:abbrev_len":0,
     "ne:adm0_a3":"SRB",
@@ -135,7 +174,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ne:id":1729635103
+        "ne:id":1729635103,
+        "wd:id":"Q391205",
+        "wk:page":"Island_of_\u0160arengrad"
     },
     "wof:controlled":[
         "wof:parent_id",
@@ -160,8 +201,8 @@
         }
     ],
     "wof:id":1729889661,
-    "wof:lastmodified":1616193485,
-    "wof:name":"\u0160arengrad Island",
+    "wof:lastmodified":1617305902,
+    "wof:name":"Sarengrad Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",

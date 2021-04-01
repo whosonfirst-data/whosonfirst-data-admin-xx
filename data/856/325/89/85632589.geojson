@@ -26,55 +26,12 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":0.0,
-    "name:ces_x_preferred":[
-        "Izrael"
-    ],
     "name:eng_x_preferred":[
-        "No Man's Land (Jerusalem)"
-    ],
-    "name:eng_x_unknown":[
-        "IL",
-        "ISR"
+        "No Man's Land - Jerusalem"
     ],
     "name:eng_x_variant":[
-        "Israeli",
-        "State of Israel",
-        "Israel"
-    ],
-    "name:fra_x_preferred":[
-        "Isra\u00ebl"
-    ],
-    "name:ger_x_variant":[
-        "Staat Israel"
-    ],
-    "name:hun_x_preferred":[
-        "Izrael"
-    ],
-    "name:ita_x_preferred":[
-        "Israele"
-    ],
-    "name:jpn_x_preferred":[
-        "\u30a4\u30b9\u30e9\u30a8\u30eb"
-    ],
-    "name:jpn_x_variant":[
-        "\u30a4\u30b9\u30e9\u30a8\u30eb\u56fd"
-    ],
-    "name:kor_x_preferred":[
-        "\uc774\uc2a4\ub77c\uc5d8"
-    ],
-    "name:nld_x_preferred":[
-        "Isra\u00ebl"
-    ],
-    "name:pol_x_preferred":[
-        "Izrael"
-    ],
-    "name:und_x_variant":[
-        "\u00cdsrael",
-        "Yisra'el",
-        "Yisrael"
-    ],
-    "name:zho_x_preferred":[
-        "\u4ee5\u8272\u5217"
+        "No Man's Land (Jerusalem)",
+        "No Man's Land"
     ],
     "ne:abbrev":"Isr.",
     "ne:adm0_a3":"ISR",
@@ -159,8 +116,8 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1615851597,
-    "wof:name":"No Man's Land (Jerusalem)",
+    "wof:lastmodified":1617305924,
+    "wof:name":"No Man's Land - Jerusalem",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:population":7233701,

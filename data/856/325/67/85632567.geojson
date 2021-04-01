@@ -27,37 +27,13 @@
     "mz:is_current":1,
     "mz:min_zoom":0.0,
     "name:eng_x_preferred":[
-        "Disputed Territory"
+        "Koualou-Kourou Neutral Zone"
     ],
-    "name:eng_x_unknown":[
-        "XX"
+    "name:eng_x_variant":[
+        "Benin (dispute with Burkina Faso)"
     ],
-    "name:fin_x_preferred":[
-        "kiistelty alue"
-    ],
-    "name:jpn_x_preferred":[
-        "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
-    ],
-    "name:kor_x_preferred":[
-        "\ubd84\uc7c1\uc9c0\uc5ed"
-    ],
-    "name:nor_x_colloquial":[
-        "Omstridt omrade"
-    ],
-    "name:nor_x_preferred":[
-        "Omstridt omr\u00e5de"
-    ],
-    "name:swe_x_colloquial":[
-        "Omtvistat omrade"
-    ],
-    "name:swe_x_preferred":[
-        "Omtvistat omr\u00e5de"
-    ],
-    "name:zho_x_preferred":[
-        "\u6709\u722d\u8b70\u7684\u9818\u571f"
-    ],
-    "name:zho_x_variant":[
-        "\u6709\u4e89\u8bae\u7684\u9886\u571f"
+    "name:fra_x_preferred":[
+        "Koualou-Kourou Zone Neutre"
     ],
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
@@ -92,8 +68,8 @@
         }
     ],
     "wof:id":85632567,
-    "wof:lastmodified":1615851597,
-    "wof:name":"Benin (dispute with Burkina Faso)",
+    "wof:lastmodified":1617305920,
+    "wof:name":"Koualou-Kourou Neutral Zone",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",

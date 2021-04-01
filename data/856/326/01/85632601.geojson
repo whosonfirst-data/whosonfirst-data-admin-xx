@@ -62,11 +62,9 @@
     "name:eng_x_preferred":[
         "Abu Musa"
     ],
-    "name:eng_x_unknown":[
-        "XX"
-    ],
     "name:eng_x_variant":[
-        "Disputed Territory"
+        "Abu Musa Island",
+        "Abu Musa I."
     ],
     "name:eus_x_preferred":[
         "Abu Musa"
@@ -345,7 +343,7 @@
         }
     ],
     "wof:id":85632601,
-    "wof:lastmodified":1616015341,
+    "wof:lastmodified":1617305928,
     "wof:name":"Abu Musa",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

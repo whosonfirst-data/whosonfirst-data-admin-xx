@@ -27,25 +27,10 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "name:eng_x_preferred":[
-        "Korean islands under UN jurisdiction"
-    ],
-    "name:eng_x_unknown":[
-        "KOR",
-        "KR"
+        "Yeonpyeong, Baengnyeong, and Daecheong Islands"
     ],
     "name:eng_x_variant":[
         "Korean islands under UN jurisdiction"
-    ],
-    "name:und_x_variant":[
-        "Etel\u00e4-Korea",
-        "Ongjin-gun",
-        "Han'guk",
-        "Hanguk",
-        "Kankoku",
-        "Nam-han",
-        "ROK",
-        "Republika Koreja",
-        "S\u00f8r-Korea"
     ],
     "ne:abbrev":"N.L.L. Is.",
     "ne:abbrev_len":10,
@@ -182,8 +167,8 @@
     "wof:lang":[
         "kor"
     ],
-    "wof:lastmodified":1616015341,
-    "wof:name":"Korean islands under UN jurisdiction",
+    "wof:lastmodified":1617305906,
+    "wof:name":"Yeonpyeong, Baengnyeong, and Daecheong Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:repo":"whosonfirst-data-admin-xx",

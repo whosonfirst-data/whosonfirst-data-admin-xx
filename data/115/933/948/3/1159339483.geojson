@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Atacama border dispute"
     ],
+    "name:eng_x_variant":[
+        "Atacama"
+    ],
     "name:ind_x_preferred":[
         "Sengketa perbatasan Atacama"
     ],
@@ -170,8 +173,8 @@
         }
     ],
     "wof:id":1159339483,
-    "wof:lastmodified":1587428826,
-    "wof:name":"Atacama border dispute",
+    "wof:lastmodified":1617305894,
+    "wof:name":"Atacama",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
     "wof:population":542038,
