@@ -20,6 +20,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09a4\u09cd\u09af\u09be\u09a4\u09ad\u09cd\u09af\u09be\u0981"
+    ],
     "name:ceb_x_preferred":[
         "Tatvan"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Tatvan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c4\u03b2\u03ac\u03bd"
     ],
     "name:epo_x_preferred":[
         "Tatvan"
@@ -41,8 +47,23 @@
     "name:gag_x_preferred":[
         "Tatvan"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u0924\u094d\u0935\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Tatvan"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0561\u057f\u057e\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Tatvan"
+    ],
+    "name:ita_x_preferred":[
+        "Tatvan"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ud2b8\ubc18"
     ],
     "name:kur_x_preferred":[
         "Tetwan"
@@ -68,6 +89,9 @@
     "name:pol_x_preferred":[
         "Tatvan"
     ],
+    "name:spa_x_preferred":[
+        "Tatvan"
+    ],
     "name:swa_x_preferred":[
         "Tatvan"
     ],
@@ -79,6 +103,9 @@
     ],
     "name:tur_x_preferred":[
         "Tatvan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0442\u0432\u0430\u043d"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u062a\u0648\u0627\u0646"
@@ -129,7 +156,7 @@
         }
     ],
     "wof:id":1125898521,
-    "wof:lastmodified":1566653646,
+    "wof:lastmodified":1636497626,
     "wof:name":"Tatvan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

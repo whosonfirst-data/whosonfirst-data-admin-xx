@@ -20,7 +20,22 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u0995\u09c1\u09a8\u09be\u09df\u09c7\u09a4\u09bf\u09b0\u09be\u09b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03bf\u03c5\u03bd\u03b1\u03ca\u03c4\u03b9\u03c1\u03ac"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0915\u0941\u0928\u093e\u092f\u0924\u093f\u0930\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Al Qunaytirah"
+    ],
     "name:sco_x_preferred":[
+        "Al Qunaytirah"
+    ],
+    "name:vie_x_preferred":[
         "Al Qunaytirah"
     ],
     "qs_pg:gn_country":"IL",
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1125962027,
-    "wof:lastmodified":1566654065,
+    "wof:lastmodified":1636497639,
     "wof:name":"Al Qunaytirah",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

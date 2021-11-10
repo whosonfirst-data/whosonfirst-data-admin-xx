@@ -395,6 +395,9 @@
         "Pohjoine"
     ],
     "name:vie_x_preferred":[
+        "Qu\u1eadn B\u1eafc"
+    ],
+    "name:vie_x_variant":[
         "H\u01b0\u1edbng B\u1eafc"
     ],
     "name:war_x_preferred":[
@@ -411,6 +414,12 @@
     ],
     "name:yor_x_preferred":[
         "\u00c0r\u00edw\u00e1"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5317"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5317\u65b9"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"North",
@@ -460,7 +469,7 @@
         }
     ],
     "wof:id":1126103609,
-    "wof:lastmodified":1566653377,
+    "wof:lastmodified":1636497611,
     "wof:name":"North",
     "wof:parent_id":101728675,
     "wof:placetype":"neighbourhood",

@@ -52,7 +52,28 @@
         "Omtvistat omrade"
     ],
     "name:swe_x_preferred":[
+        "Bara Hotii-dalarna"
+    ],
+    "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
+    ],
+    "name:tur_x_preferred":[
+        "Bara Hotii Vadileri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u043d\u0438 \u0411\u0430\u0440\u0430-\u0425\u043e\u0442\u0456\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u0627 \u06c1\u0648\u062a\u06cc \u0648\u0627\u062f\u06cc\u0627\u06ba"
+    ],
+    "name:vie_x_preferred":[
+        "Thung l\u0169ng Bara Hotii"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u62c9\u970d\u8482\u5c71\u8c37"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u62c9\u970d\u8482\u5c71\u8c37"
     ],
     "name:zho_x_preferred":[
         "\u6709\u722d\u8b70\u7684\u9818\u571f"
@@ -202,7 +223,7 @@
         }
     ],
     "wof:id":85632463,
-    "wof:lastmodified":1616015338,
+    "wof:lastmodified":1636497601,
     "wof:name":"Bara Hotii Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

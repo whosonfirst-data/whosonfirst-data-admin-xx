@@ -20,13 +20,76 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0643\u0648\u0645\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u0995\u09c1\u09ae\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Mikumi"
+    ],
+    "name:deu_x_preferred":[
+        "Mikumi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03ba\u03bf\u03cd\u03bc\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648\u0645\u06cc"
     ],
     "name:fin_x_preferred":[
         "Mikumi"
     ],
+    "name:fra_x_preferred":[
+        "Mikumi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e7\u05d5\u05de\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0915\u0942\u092e\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Mikumi"
+    ],
+    "name:ind_x_preferred":[
+        "Mikumi"
+    ],
+    "name:ita_x_preferred":[
+        "Mikumi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30af\u30df"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ucfe0\ubbf8"
+    ],
+    "name:pol_x_preferred":[
+        "Mikumi"
+    ],
+    "name:por_x_preferred":[
+        "Mikumi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0443\u043c\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Mikumi"
+    ],
+    "name:swe_x_preferred":[
+        "Mikumi"
+    ],
     "name:tur_x_preferred":[
+        "Mikumi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043a\u0443\u043c\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648\u0645\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Mikumi"
     ],
     "qs_pg:gn_country":"TZ",
@@ -69,7 +132,7 @@
         }
     ],
     "wof:id":1126026337,
-    "wof:lastmodified":1566653429,
+    "wof:lastmodified":1636497612,
     "wof:name":"Mikumi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

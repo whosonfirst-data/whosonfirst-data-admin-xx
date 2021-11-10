@@ -20,6 +20,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8"
+    ],
     "qs_pg:gn_country":"CR",
     "qs_pg:name":"Bolivar",
     "qs_pg:name_adm0":"Costa Rica",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125318661,
-    "wof:lastmodified":1566653984,
+    "wof:lastmodified":1636497635,
     "wof:name":"Bolivar",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

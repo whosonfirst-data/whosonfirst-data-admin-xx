@@ -70,10 +70,31 @@
         "Omtvistat omrade"
     ],
     "name:swe_x_preferred":[
+        "Sapodilla Cayes"
+    ],
+    "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
+    ],
+    "name:tur_x_preferred":[
+        "Sapodilla Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043f\u043e\u0434\u0438\u043b\u043b\u0430 \u041a\u0430\u0454\u0441"
     ],
     "name:und_x_variant":[
         "Zapatillas Cays"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u067e\u0648\u0688\u06cc\u0644\u0627 \u06a9\u0627\u0626\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Sapodilla Cayes"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4eba\u5fc3\u679c\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c99\u6ce2\u8fea\u4e9e\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6709\u722d\u8b70\u7684\u9818\u571f"
@@ -231,7 +252,7 @@
         }
     ],
     "wof:id":85632515,
-    "wof:lastmodified":1616193487,
+    "wof:lastmodified":1636497603,
     "wof:name":"Sapodilla Cayes",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

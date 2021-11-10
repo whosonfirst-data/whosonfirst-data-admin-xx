@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u0996\u09cb\u09b2\u09ae\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0441\u043a"
     ],
@@ -50,6 +53,9 @@
     "name:deu_x_preferred":[
         "Cholmsk"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03bb\u03bc\u03c3\u03ba"
+    ],
     "name:epo_x_preferred":[
         "\u0124olmsk"
     ],
@@ -62,11 +68,17 @@
     "name:fra_x_preferred":[
         "Kholmsk"
     ],
+    "name:hin_x_preferred":[
+        "\u0916\u094b\u0932\u094d\u092e\u094d\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Cholmsk"
     ],
     "name:hun_x_preferred":[
         "Holmszk"
+    ],
+    "name:ind_x_preferred":[
+        "Kholmsk"
     ],
     "name:ita_x_preferred":[
         "Cholmsk"
@@ -86,8 +98,14 @@
     "name:pol_x_preferred":[
         "Cho\u0142msk"
     ],
+    "name:por_x_preferred":[
+        "Kholmsk"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Kholmsk"
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0441\u043a"
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":1125894525,
-    "wof:lastmodified":1566653633,
+    "wof:lastmodified":1636497621,
     "wof:name":"Kholmsk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

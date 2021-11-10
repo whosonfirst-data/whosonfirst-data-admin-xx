@@ -88,6 +88,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aaf\u0abe\u0a9a\u0ac0\u0aa8 \u0a97\u0acd\u0ab2\u0ac7\u0ab6\u0abf\u0aaf\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d7\u05d5\u05df \u05e1\u05d9\u05d0\u05e6'\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u092f\u093e\u091a\u0940\u0928"
     ],
@@ -422,7 +425,7 @@
         }
     ],
     "wof:id":85632277,
-    "wof:lastmodified":1617307083,
+    "wof:lastmodified":1636497603,
     "wof:name":"Siachen Glacier",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

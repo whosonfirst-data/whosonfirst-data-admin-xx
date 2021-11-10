@@ -36,6 +36,9 @@
     "name:aze_x_preferred":[
         "Bassas da \u0130ndiya adalar\u0131"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b8\u09b8\u09be\u09b8 \u09a6\u09be \u0987\u09a8\u09cd\u09a1\u09bf\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Bassas da India"
     ],
@@ -98,6 +101,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e1\u10d0\u10e1-\u10d3\u10d0-\u10d8\u10dc\u10d3\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc0ac\uc2a4 \ub2e4 \uc778\ub514\uc544"
     ],
     "name:lav_x_preferred":[
         "Basa da Indija"
@@ -328,7 +334,7 @@
         }
     ],
     "wof:id":1108833329,
-    "wof:lastmodified":1616015341,
+    "wof:lastmodified":1636497607,
     "wof:name":"Bassas da India",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

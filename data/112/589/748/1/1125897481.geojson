@@ -65,6 +65,9 @@
     "name:hin_x_preferred":[
         "\u0926\u092c\u094d\u092c\u094b"
     ],
+    "name:hun_x_preferred":[
+        "Dubbo"
+    ],
     "name:ita_x_preferred":[
         "Dubbo"
     ],
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1125897481,
-    "wof:lastmodified":1566653637,
+    "wof:lastmodified":1636497623,
     "wof:name":"Dubbo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

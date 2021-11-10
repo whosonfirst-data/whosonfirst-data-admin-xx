@@ -56,7 +56,13 @@
     "name:fra_x_preferred":[
         "Savannakhet"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d0\u05e0\u05d0\u05db\u05d0\u05ea"
+    ],
     "name:hrv_x_preferred":[
+        "Savannakhet"
+    ],
+    "name:hun_x_preferred":[
         "Savannakhet"
     ],
     "name:ind_x_preferred":[
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":1125800765,
-    "wof:lastmodified":1566653676,
+    "wof:lastmodified":1636497628,
     "wof:name":"Savannakhet",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

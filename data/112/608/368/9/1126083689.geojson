@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ind_x_preferred":[
+        "Newham"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Newham",
     "qs_pg:name_adm0":"United Kingdom",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1126083689,
-    "wof:lastmodified":1566654115,
+    "wof:lastmodified":1636497640,
     "wof:name":"Newham",
     "wof:parent_id":1158857293,
     "wof:placetype":"neighbourhood",

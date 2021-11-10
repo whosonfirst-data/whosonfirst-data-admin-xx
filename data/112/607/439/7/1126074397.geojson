@@ -25,6 +25,9 @@
     "name:ast_x_preferred":[
         "Vila Real"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be \u09b0\u09bf\u09af\u09bc\u09be\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Vila Real"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:deu_x_preferred":[
         "Vila Real"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b1 \u03a1\u03b5\u03ac\u03bb"
     ],
     "name:epo_x_preferred":[
         "Vila Real"
@@ -54,6 +60,12 @@
     ],
     "name:glg_x_preferred":[
         "Vila Real"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05d4 \u05e8\u05d9\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0932\u093e \u0930\u093f\u092f\u0932"
     ],
     "name:hun_x_preferred":[
         "Vila Real"
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":1126074397,
-    "wof:lastmodified":1566654266,
+    "wof:lastmodified":1636497643,
     "wof:name":"Vila Real",
     "wof:parent_id":101958161,
     "wof:placetype":"neighbourhood",

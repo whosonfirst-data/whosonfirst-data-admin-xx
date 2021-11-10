@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Achtarak"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e9\u05ea\u05e8\u05e7"
+    ],
     "name:hsb_x_preferred":[
         "A\u0161tarak"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1125841187,
-    "wof:lastmodified":1566654819,
+    "wof:lastmodified":1636497652,
     "wof:name":"Ashtarak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -66,7 +66,28 @@
         "Omtvistat omrade"
     ],
     "name:swe_x_preferred":[
+        "Conejo-\u00f6n"
+    ],
+    "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
+    ],
+    "name:tur_x_preferred":[
+        "Conejo Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u041a\u043e\u043d\u044c\u0454\u0445\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0646\u06cc\u062c\u0648 \u0622\u0626\u0644\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Conejo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u79d1\u5c3c\u970d\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u79d1\u5c3c\u970d\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6709\u722d\u8b70\u7684\u9818\u571f"
@@ -118,7 +139,7 @@
         }
     ],
     "wof:id":85632769,
-    "wof:lastmodified":1617307083,
+    "wof:lastmodified":1636497604,
     "wof:name":"Conejo Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

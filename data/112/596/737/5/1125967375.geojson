@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0432\u0430\u0440\u0443\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ad\u09be\u09b0\u09c1\u09df\u09be"
+    ],
     "name:bod_x_preferred":[
         "\u0f68\u0f0b\u0f5d\u0f0b\u0f62\u0f74\u0f0b\u0f68\u0f0d"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d5\u05e8\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0935\u093e\u0930\u0941\u0906"
     ],
     "name:hrv_x_preferred":[
         "Avarua"
@@ -275,7 +281,7 @@
         }
     ],
     "wof:id":1125967375,
-    "wof:lastmodified":1566654064,
+    "wof:lastmodified":1636497639,
     "wof:name":"Avarua",
     "wof:parent_id":85670089,
     "wof:placetype":"locality",

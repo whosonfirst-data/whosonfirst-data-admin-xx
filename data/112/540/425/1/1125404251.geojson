@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Longyan"
     ],
+    "name:hun_x_preferred":[
+        "Longyan"
+    ],
     "name:zho_x_preferred":[
         "\u9f99\u5ca9\u5e02"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125404251,
-    "wof:lastmodified":1601427754,
+    "wof:lastmodified":1636497647,
     "wof:name":"Longyan",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

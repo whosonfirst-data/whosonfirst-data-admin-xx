@@ -264,6 +264,9 @@
         "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u06a9\u0627 \u062e\u0637\u06c1"
     ],
     "name:vie_x_preferred":[
+        "L\u00e3nh th\u1ed5 Anh t\u1ea1i \u1ea4n \u0110\u1ed9 D\u01b0\u01a1ng"
+    ],
+    "name:vie_x_variant":[
         "L\u00e3nh th\u1ed5 \u1ea4n \u0110\u1ed9 D\u01b0\u01a1ng thu\u1ed9c Anh"
     ],
     "name:war_x_preferred":[
@@ -271,6 +274,12 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 \u00d2kun \u00cdnd\u00ed\u00e0 Br\u00edt\u00e1n\u00ec"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u82f1\u5c5e\u5370\u5ea6\u6d0b\u9886\u5730"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u82f1\u5c6c\u5370\u5ea6\u6d0b\u9818\u5730"
     ],
     "name:zho_x_preferred":[
         "\u5357\u6851\u5a01\u5947\u7fa4\u5cf6"
@@ -445,7 +454,7 @@
         }
     ],
     "wof:id":1159339553,
-    "wof:lastmodified":1616193487,
+    "wof:lastmodified":1636497656,
     "wof:name":"British Indian Ocean Territory",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

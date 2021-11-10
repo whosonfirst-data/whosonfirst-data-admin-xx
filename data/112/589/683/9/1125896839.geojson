@@ -38,6 +38,9 @@
     "name:hsb_x_preferred":[
         "Rocha"
     ],
+    "name:hun_x_preferred":[
+        "Rocha"
+    ],
     "name:ita_x_preferred":[
         "Rocha"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125896839,
-    "wof:lastmodified":1566653643,
+    "wof:lastmodified":1636497625,
     "wof:name":"Rocha",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

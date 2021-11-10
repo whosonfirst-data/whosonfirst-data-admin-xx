@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0633\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b2\u09b8\u09be\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0441\u0430\u0441"
     ],
@@ -29,11 +35,32 @@
     "name:deu_x_preferred":[
         "Balsas"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bb\u03c3\u03b1\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0633\u0627\u0633"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dc\u05e1\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0932\u0938\u093e\u0938"
+    ],
     "name:hun_x_preferred":[
+        "Balsas"
+    ],
+    "name:ind_x_preferred":[
         "Balsas"
     ],
     "name:ita_x_preferred":[
         "Balsas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30b5\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc1c\uc0ac\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Balsas"
@@ -58,6 +85,15 @@
     ],
     "name:swe_x_preferred":[
         "Balsas"
+    ],
+    "name:tur_x_preferred":[
+        "Balsas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u0633\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Balsas"
     ],
     "qs_pg:gn_country":"EC",
     "qs_pg:name":"Balsas",
@@ -99,7 +135,7 @@
         }
     ],
     "wof:id":1125396395,
-    "wof:lastmodified":1566653876,
+    "wof:lastmodified":1636497632,
     "wof:name":"Balsas",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

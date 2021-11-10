@@ -66,13 +66,31 @@
         "Omtvistat omrade"
     ],
     "name:swe_x_preferred":[
+        "N\u00e4ra Om Parvat"
+    ],
+    "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
     ],
     "name:tam_x_preferred":[
         "\u0b93\u0bae\u0bcd \u0baa\u0bb0\u0bcd\u0bb5\u0ba4\u0bae\u0bcd"
     ],
+    "name:tur_x_preferred":[
+        "Om Parvat Yak\u0131n\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u043c \u041f\u0430\u0440\u0432\u0430\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0645 \u067e\u0631\u0648\u062a \u06a9\u06d2 \u0642\u0631\u06cc\u0628"
+    ],
+    "name:vie_x_preferred":[
+        "G\u1ea7n Om Parvat"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e15\u5c14\u74e6\u7279t"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e15\u723e\u74e6\u7279"
     ],
     "name:zho_x_preferred":[
         "\u6709\u722d\u8b70\u7684\u9818\u571f"
@@ -223,7 +241,7 @@
         }
     ],
     "wof:id":85632655,
-    "wof:lastmodified":1616015337,
+    "wof:lastmodified":1636497604,
     "wof:name":"Near Om Parvat",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

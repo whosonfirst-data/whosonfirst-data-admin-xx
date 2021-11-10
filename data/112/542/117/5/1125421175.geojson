@@ -29,6 +29,15 @@
     "name:deu_x_preferred":[
         "Jezersko"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0631\u0633\u06a9\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d6\u05e8\u05e1\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Jezersko"
+    ],
     "name:ita_x_preferred":[
         "Jezersko"
     ],
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125421175,
-    "wof:lastmodified":1566653662,
+    "wof:lastmodified":1636497627,
     "wof:name":"Jezersko",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

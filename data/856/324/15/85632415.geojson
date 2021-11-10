@@ -96,6 +96,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0915\u094d\u0938\u093e\u0908 \u091a\u093f\u0928"
     ],
+    "name:hun_x_preferred":[
+        "Akszaj Csin"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0584\u057d\u0561\u0575\u0579\u056b\u0576"
     ],
@@ -398,7 +401,7 @@
         }
     ],
     "wof:id":85632415,
-    "wof:lastmodified":1616015334,
+    "wof:lastmodified":1636497601,
     "wof:name":"Aksai Chin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

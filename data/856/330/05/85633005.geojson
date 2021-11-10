@@ -45,7 +45,13 @@
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
     ],
     "name:kor_x_preferred":[
+        "\ube0c\ub77c\uc9c8\ub9ac\uc548 \uc544\uc77c\ub79c\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
+    ],
+    "name:nld_x_preferred":[
+        "Brazilian Island"
     ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
@@ -53,8 +59,14 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
+    "name:pol_x_preferred":[
+        "Isla Brasilera"
+    ],
     "name:por_x_preferred":[
         "Ilha Brasileira"
+    ],
+    "name:rus_x_preferred":[
+        "\u043e\u0441\u0442\u0440\u043e\u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0435\u0440\u0430"
     ],
     "name:spa_x_preferred":[
         "Isla Brasilera"
@@ -65,8 +77,17 @@
     "name:swe_x_preferred":[
         "Omtvistat omr\u00e5de"
     ],
+    "name:tur_x_preferred":[
+        "Brezilya Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Ilha Brasileira"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Brazilian"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u897f\u5cf6"
@@ -207,7 +228,7 @@
         }
     ],
     "wof:id":85633005,
-    "wof:lastmodified":1616015337,
+    "wof:lastmodified":1636497601,
     "wof:name":"Brazilian Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -40,6 +40,9 @@
     "name:bar_x_preferred":[
         "Roura"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u0989\u09b0\u09be"
+    ],
     "name:bre_x_preferred":[
         "Roura"
     ],
@@ -82,6 +85,9 @@
     "name:fao_x_preferred":[
         "Roura"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Roura"
     ],
@@ -108,6 +114,12 @@
     ],
     "name:gsw_x_preferred":[
         "Roura"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d0\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0909\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Roura"
@@ -136,6 +148,9 @@
     "name:jam_x_preferred":[
         "Roura"
     ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fc\u30e9"
+    ],
     "name:kab_x_preferred":[
         "Roura"
     ],
@@ -144,6 +159,9 @@
     ],
     "name:kon_x_preferred":[
         "Roura"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub77c"
     ],
     "name:lat_x_preferred":[
         "Roura"
@@ -250,6 +268,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0631\u0627"
+    ],
     "name:vec_x_preferred":[
         "Roura"
     ],
@@ -273,6 +294,12 @@
     ],
     "name:wol_x_preferred":[
         "Roura"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9c81\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9b6f\u62c9"
     ],
     "name:zul_x_preferred":[
         "Roura"
@@ -341,7 +368,7 @@
         }
     ],
     "wof:id":1125981893,
-    "wof:lastmodified":1566654074,
+    "wof:lastmodified":1636497640,
     "wof:name":"Roura",
     "wof:parent_id":1091680907,
     "wof:placetype":"locality",

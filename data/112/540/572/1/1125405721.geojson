@@ -23,6 +23,18 @@
     "name:eng_x_preferred":[
         "Huanghua"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0622\u0646\u06af\u0648\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d0\u05d7\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Huanghua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ec4\u9a4a"
+    ],
     "name:zho_x_preferred":[
         "\u9ec4\u9a85\u5e02"
     ],
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1125405721,
-    "wof:lastmodified":1601427754,
+    "wof:lastmodified":1636497648,
     "wof:name":"Huanghua",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

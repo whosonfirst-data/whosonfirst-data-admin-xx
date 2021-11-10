@@ -20,6 +20,69 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0643\u0631\u0648\u0632"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u0995\u09cd\u09b0\u09c1\u099c"
+    ],
+    "name:deu_x_preferred":[
+        "La Cruz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u039a\u03c1\u03bf\u03c5\u03b6"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u06a9\u0631\u0648\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "La Cruz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e7\u05e8\u05d5\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0915\u094d\u0930\u0942\u091c\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "La Cruz"
+    ],
+    "name:ind_x_preferred":[
+        "La Cruz"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30af\u30eb\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c \ud06c\ub8e8\uc988"
+    ],
+    "name:por_x_preferred":[
+        "La Cruz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "La Cruz"
+    ],
+    "name:tur_x_preferred":[
+        "La Cruz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0631\u0648\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "La Cruz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u514b\u9c81\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af"
+    ],
     "qs_pg:gn_country":"CL",
     "qs_pg:name":"La Cruz",
     "qs_pg:name_adm0":"Chile",
@@ -60,7 +123,7 @@
         }
     ],
     "wof:id":1125406181,
-    "wof:lastmodified":1566654557,
+    "wof:lastmodified":1636497647,
     "wof:name":"La Cruz",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

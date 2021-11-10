@@ -20,6 +20,15 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0627\u0645\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05de\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Boorama"
+    ],
     "qs_pg:gn_country":"SO",
     "qs_pg:name":"Boorama",
     "qs_pg:name_adm0":"Somalia",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1126021287,
-    "wof:lastmodified":1566653430,
+    "wof:lastmodified":1636497612,
     "wof:name":"Boorama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

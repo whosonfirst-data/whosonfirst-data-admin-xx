@@ -52,10 +52,31 @@
         "Omtvistat omrade"
     ],
     "name:swe_x_preferred":[
+        "Mbani\u00e9-\u00f6n"
+    ],
+    "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
+    ],
+    "name:tur_x_preferred":[
+        "Mbane Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u041c\u0431\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Isla Ba\u00f1e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0645\u0628\u06cc\u0646 \u0622\u0626\u0644\u06cc\u0646\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Mbane"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u59c6\u5df4\u5c3c\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u5c3c\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6709\u722d\u8b70\u7684\u9818\u571f"
@@ -208,7 +229,7 @@
         }
     ],
     "wof:id":85632367,
-    "wof:lastmodified":1616193487,
+    "wof:lastmodified":1636497602,
     "wof:name":"Mbane Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

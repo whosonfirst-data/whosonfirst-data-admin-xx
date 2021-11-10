@@ -65,6 +65,9 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d5 \u05d0\u05de\u05e1\u05d8\u05e8\u05d3\u05dd"
     ],
+    "name:hun_x_preferred":[
+        "New Amsterdam"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0578\u0580 \u0531\u0574\u057d\u057f\u0565\u0580\u0564\u0561\u0574"
     ],
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1125896155,
-    "wof:lastmodified":1566653642,
+    "wof:lastmodified":1636497625,
     "wof:name":"New Amsterdam",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

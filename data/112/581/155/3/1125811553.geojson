@@ -50,6 +50,9 @@
     "name:epo_x_preferred":[
         "Kenema"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kenema"
     ],
@@ -57,6 +60,9 @@
         "Kenema"
     ],
     "name:hrv_x_preferred":[
+        "Kenema"
+    ],
+    "name:hun_x_preferred":[
         "Kenema"
     ],
     "name:ind_x_preferred":[
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":1125811553,
-    "wof:lastmodified":1566653519,
+    "wof:lastmodified":1636497617,
     "wof:name":"Kenema",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

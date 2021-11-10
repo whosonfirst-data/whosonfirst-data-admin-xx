@@ -20,17 +20,41 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u099c\u09be\u09ad\u09bf\u09df\u09c7\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "San Javier"
     ],
     "name:deu_x_preferred":[
         "San Javier"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03b1\u03b2\u03b9\u03ad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0627\u0648\u06cc\u0631"
+    ],
     "name:fra_x_preferred":[
+        "San Javier"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d7\u05d1\u05d9\u05d9\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u091c\u093c\u0947\u0935\u093f\u092f\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "San Javier"
+    ],
+    "name:ind_x_preferred":[
         "San Javier"
     ],
     "name:ita_x_preferred":[
         "San Javier"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ud558\ube44\uc5d0\ub974"
     ],
     "name:mlg_x_preferred":[
         "San Javier"
@@ -57,6 +81,18 @@
         "San Javier"
     ],
     "name:swe_x_preferred":[
+        "San Javier"
+    ],
+    "name:tur_x_preferred":[
+        "San Javier"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0430\u0432\u2019\u0454\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062c\u06cc\u0648\u06cc\u0626\u0631"
+    ],
+    "name:vie_x_preferred":[
         "San Javier"
     ],
     "qs_pg:gn_country":"VE",
@@ -99,7 +135,7 @@
         }
     ],
     "wof:id":1125364407,
-    "wof:lastmodified":1566654013,
+    "wof:lastmodified":1636497637,
     "wof:name":"San Javier",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -23,7 +23,16 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0631\u0648\u062d"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a4\u09cd\u09b0\u09c1\u09b9"
+    ],
     "name:eng_x_preferred":[
+        "Matruh"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0924\u094d\u0930\u0941\u0939"
+    ],
+    "name:vie_x_preferred":[
         "Matruh"
     ],
     "qs_pg:gn_country":"EG",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1125812357,
-    "wof:lastmodified":1601427756,
+    "wof:lastmodified":1636497617,
     "wof:name":"Matruh",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

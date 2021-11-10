@@ -26,6 +26,9 @@
     "name:bak_x_preferred":[
         "\u0418\u043b\u044c\u044f\u043f\u0435\u043b\u044c"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b2\u09cd\u09b2\u09be\u09aa\u09c7\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "Illapel"
     ],
@@ -42,6 +45,18 @@
         "\u0627\u06cc\u0627\u067e\u0644"
     ],
     "name:fra_x_preferred":[
+        "Illapel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05e4\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0932\u093e\u092a\u0947\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Illapel"
+    ],
+    "name:ind_x_preferred":[
         "Illapel"
     ],
     "name:ita_x_preferred":[
@@ -85,6 +100,15 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e22\u0e32\u0e40\u0e1b\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Illapel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u044c\u044f\u043f\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u06cc\u0644"
     ],
     "name:vie_x_preferred":[
         "Illapel"
@@ -135,7 +159,7 @@
         }
     ],
     "wof:id":1125374623,
-    "wof:lastmodified":1566653709,
+    "wof:lastmodified":1636497630,
     "wof:name":"Illapel",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -50,6 +50,9 @@
     "name:hrv_x_preferred":[
         "Ambon"
     ],
+    "name:hun_x_preferred":[
+        "Ambon"
+    ],
     "name:ind_x_preferred":[
         "Ambon"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1125897203,
-    "wof:lastmodified":1566653650,
+    "wof:lastmodified":1636497627,
     "wof:name":"Ambon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

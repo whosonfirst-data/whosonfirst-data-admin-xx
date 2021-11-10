@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u0633\u062a\u06cc\u0626\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09b2\u09be\u09a4\u09bf\u09a8\u09be"
+    ],
     "name:bos_x_preferred":[
         "Slatina"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d0\u05d8\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0932\u0947\u091f\u093f\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Slatina"
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1125391897,
-    "wof:lastmodified":1566653823,
+    "wof:lastmodified":1636497632,
     "wof:name":"Slatina",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

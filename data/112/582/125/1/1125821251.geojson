@@ -201,6 +201,9 @@
         "\u0412\u0435\u043d\u0442\u0441\u043f\u0456\u043b\u0441"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u06cc\u0646\u0679\u067e\u0644\u0633"
+    ],
+    "name:urd_x_variant":[
         "\u0648\u06cc\u0646\u062a\u067e\u0644\u0633"
     ],
     "name:uzb_x_preferred":[
@@ -214,6 +217,12 @@
     ],
     "name:war_x_preferred":[
         "Ventspils"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6587\u8328\u76ae\u5c14\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6587\u8328\u76ae\u723e\u65af"
     ],
     "name:zho_x_preferred":[
         "\u6587\u8328\u76ae\u5c14\u65af"
@@ -258,7 +267,7 @@
         }
     ],
     "wof:id":1125821251,
-    "wof:lastmodified":1566654513,
+    "wof:lastmodified":1636497645,
     "wof:name":"Ventspils",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

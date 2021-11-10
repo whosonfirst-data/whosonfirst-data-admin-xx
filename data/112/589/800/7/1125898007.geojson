@@ -75,6 +75,9 @@
         "Agadez"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05d0\u05d3\u05d6"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d2\u05d3\u05d6"
     ],
     "name:hrv_x_preferred":[
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":1125898007,
-    "wof:lastmodified":1566653643,
+    "wof:lastmodified":1636497626,
     "wof:name":"Agadez",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

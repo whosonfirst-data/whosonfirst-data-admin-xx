@@ -20,23 +20,47 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09cb\u09df\u09be\u09a8\u09cd\u09a4\u09b8\u09c7\u09a4\u09cd\u09b0\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Maroantsetra"
     ],
     "name:deu_x_preferred":[
         "Maroantsetra"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03bf\u03b1\u03bd\u03c4\u03c3\u03ad\u03c4\u03c1\u03b1"
+    ],
     "name:est_x_preferred":[
         "Maroantsetra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0627\u0646\u062a\u0633\u062a\u0631\u0627"
     ],
     "name:fra_x_preferred":[
         "Maroantsetra"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d5\u05d0\u05e0\u05d8\u05e1\u05d8\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094b\u090f\u0902\u091f\u0938\u0947\u0924\u094d\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:hun_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:ind_x_preferred":[
         "Maroantsetra"
     ],
     "name:ita_x_preferred":[
         "Maroantsetra"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub85c\uc548\uccb4\ud2b8\ub77c"
     ],
     "name:mlg_x_preferred":[
         "Maroantsetra"
@@ -53,7 +77,19 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0443\u0430\u043d\u0446\u0435\u0442\u0440\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Maroantsetra"
+    ],
     "name:swe_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:tur_x_preferred":[
+        "Maroantsetra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0627\u0646\u0679\u0633\u0631\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Maroantsetra"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +135,7 @@
         }
     ],
     "wof:id":1125965517,
-    "wof:lastmodified":1566654064,
+    "wof:lastmodified":1636497638,
     "wof:name":"Maroantsetra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

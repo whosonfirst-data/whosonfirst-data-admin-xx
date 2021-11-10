@@ -222,9 +222,10 @@
         "\u067e\u0627\u0631\u0627\u06a9\u06cc\u0644 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "name:vie_x_preferred":[
-        "qu\u1ea7n \u0111\u1ea3o Ho\u00e0ng Sa"
+        "Qu\u1ea7n \u0111\u1ea3o Paracel"
     ],
     "name:vie_x_variant":[
+        "qu\u1ea7n \u0111\u1ea3o Ho\u00e0ng Sa",
         "qu\u1ea7n \u0111\u1ea3o Ho\u00e0ng Sa"
     ],
     "name:yue_x_preferred":[
@@ -428,7 +429,7 @@
         }
     ],
     "wof:id":85632457,
-    "wof:lastmodified":1616015340,
+    "wof:lastmodified":1636497601,
     "wof:name":"Paracel Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

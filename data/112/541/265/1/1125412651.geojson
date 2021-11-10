@@ -26,6 +26,9 @@
     "name:ast_x_preferred":[
         "\u1e36\u1e37inares"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09a8\u09be\u09b0\u09c7\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Linares"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:deu_x_preferred":[
         "Linares"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bd\u03ac\u03c1\u03b5\u03c2"
     ],
     "name:eus_x_preferred":[
         "Linares"
@@ -47,11 +53,20 @@
     "name:glg_x_preferred":[
         "Linares"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05d0\u05e8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0907\u0928\u093e\u0930\u0947\u091c\u093c"
+    ],
     "name:hun_x_preferred":[
         "Linares"
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0576\u0561\u0580\u0565\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Linares"
     ],
     "name:ita_x_preferred":[
         "Linares"
@@ -89,11 +104,23 @@
     "name:swe_x_preferred":[
         "Linares"
     ],
+    "name:tur_x_preferred":[
+        "Linares"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0430\u0440\u0435\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u0627\u0631\u06cc\u0632"
+    ],
     "name:vie_x_preferred":[
         "Linares"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5229\u7eb3\u96f7\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5229\u7d0d\u96f7\u65af"
     ],
     "qs_pg:gn_country":"CL",
     "qs_pg:name":"Linares",
@@ -135,7 +162,7 @@
         }
     ],
     "wof:id":1125412651,
-    "wof:lastmodified":1566654796,
+    "wof:lastmodified":1636497651,
     "wof:name":"Linares",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

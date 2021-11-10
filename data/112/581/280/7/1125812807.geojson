@@ -20,8 +20,14 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0646\u064a\u0648\u0643\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0627\u0646\u06cc\u0648\u06a9\u06cc"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09a8\u09bf\u09df\u09c1\u0995\u09bf"
     ],
     "name:cat_x_preferred":[
         "Nanyuki"
@@ -32,10 +38,25 @@
     "name:deu_x_preferred":[
         "Nanyuki"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bd\u03b9\u03bf\u03cd\u03ba\u03b9"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0646\u06cc\u0648\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Nanyuki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e0\u05d9\u05d5\u05e7\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0928\u094d\u092f\u0942\u0915\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Nanyuki"
+    ],
+    "name:ind_x_preferred":[
         "Nanyuki"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +64,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10dc\u10d8\u10e3\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\uc720\ud0a4"
     ],
     "name:nld_x_preferred":[
         "Nanyuki"
@@ -68,8 +92,17 @@
     "name:swe_x_preferred":[
         "Nanyuki"
     ],
+    "name:tur_x_preferred":[
+        "Nanyuki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043d\u044c\u044e\u043a\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0646\u06cc\u0648\u06a9\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Nanyuki"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u7d10\u57fa"
@@ -114,7 +147,7 @@
         }
     ],
     "wof:id":1125812807,
-    "wof:lastmodified":1566653518,
+    "wof:lastmodified":1636497617,
     "wof:name":"Nanyuki",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

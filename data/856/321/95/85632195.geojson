@@ -125,10 +125,31 @@
         "Guyana Francesca"
     ],
     "name:swe_x_preferred":[
+        "Lawa-k\u00e4llomr\u00e5det"
+    ],
+    "name:swe_x_variant":[
         "Franska Guyana"
+    ],
+    "name:tur_x_preferred":[
+        "Lawa Irmak Kayna\u011f\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0442\u043e\u043a\u0438 \u041b\u0430\u0432\u0438"
     ],
     "name:und_x_variant":[
         "Department of French Guiana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0648\u0627 \u06c1\u06cc\u0688\u06a9\u0648\u0627\u0631\u0679\u0631\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u01b0\u1ee3ng ngu\u1ed3n s\u00f4ng Lawa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u74e6\u6e90\u5934"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u74e6\u6c34\u6e90"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u5c6c\u572d\u4e9e\u90a3"
@@ -277,7 +298,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1617666608,
+    "wof:lastmodified":1636497605,
     "wof:name":"Lawa Headwaters",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

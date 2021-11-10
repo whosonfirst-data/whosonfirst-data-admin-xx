@@ -38,8 +38,14 @@
     "name:fra_x_preferred":[
         "Myitkyina"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d8\u05e7\u05d9\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u094d\u092f\u093f\u0924\u094d\u091a\u0940\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Myitkyina"
     ],
     "name:ind_x_preferred":[
         "Myitkyina"
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":1125897239,
-    "wof:lastmodified":1566653637,
+    "wof:lastmodified":1636497623,
     "wof:name":"Myitkyina",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

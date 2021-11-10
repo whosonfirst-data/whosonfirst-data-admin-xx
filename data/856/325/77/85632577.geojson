@@ -52,7 +52,28 @@
         "Omtvistat omrade"
     ],
     "name:swe_x_preferred":[
+        "Tirpani-dalarna"
+    ],
+    "name:swe_x_variant":[
         "Omtvistat omr\u00e5de"
+    ],
+    "name:tur_x_preferred":[
+        "Tirpani Vadileri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u043d\u0438 \u0422\u0456\u0440\u043f\u0430\u043d\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u067e\u0627\u0646\u06cc \u0648\u0627\u062f\u06cc\u0627\u06ba"
+    ],
+    "name:vie_x_preferred":[
+        "Thung l\u0169ng Tirpani"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8482\u5c14\u5e15\u5c3c\u5c71\u8c37"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8482\u723e\u5e15\u5c3c\u5c71\u8c37"
     ],
     "name:zho_x_preferred":[
         "\u6709\u722d\u8b70\u7684\u9818\u571f"
@@ -202,7 +223,7 @@
         }
     ],
     "wof:id":85632577,
-    "wof:lastmodified":1616015338,
+    "wof:lastmodified":1636497603,
     "wof:name":"Tirpani Valleys",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

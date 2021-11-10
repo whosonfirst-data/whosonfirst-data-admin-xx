@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Kampong Cham"
     ],
+    "name:hun_x_preferred":[
+        "Kampong Cham"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e33\u0e1b\u0e07\u0e08\u0e32\u0e21"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125897257,
-    "wof:lastmodified":1566653635,
+    "wof:lastmodified":1636497622,
     "wof:name":"Kampong Cham",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

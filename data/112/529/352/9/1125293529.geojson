@@ -111,6 +111,9 @@
         "\u30b5\u30fc\u30af\u5cf6"
     ],
     "name:kor_x_preferred":[
+        "\uc0ac\ud06c"
+    ],
+    "name:kor_x_variant":[
         "\uc0ac\ud06c\uc12c"
     ],
     "name:lat_x_preferred":[
@@ -179,11 +182,20 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u043a"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0631\u06a9"
+    ],
     "name:vie_x_preferred":[
         "Sark"
     ],
     "name:vls_x_preferred":[
         "Sark"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u514b\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u85a9\u514b\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u514b\u5cf6"
@@ -232,7 +244,7 @@
         }
     ],
     "wof:id":1125293529,
-    "wof:lastmodified":1566653585,
+    "wof:lastmodified":1636497619,
     "wof:name":"Sark",
     "wof:parent_id":85681219,
     "wof:placetype":"localadmin",

@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u041c\u043e\u043b\u0435"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b2\u09a6\u09c7"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b2\u09a1\u09c7"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:fra_x_preferred":[
         "Molde"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0932\u094d\u0921"
     ],
     "name:hrv_x_preferred":[
         "Molde"
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":1125897901,
-    "wof:lastmodified":1566653628,
+    "wof:lastmodified":1636497619,
     "wof:name":"Molde",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

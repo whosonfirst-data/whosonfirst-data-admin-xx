@@ -23,7 +23,25 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0644\u0648\u062a"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09b2\u09c1\u09a4"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bb\u03bf\u03cd\u03c4"
+    ],
     "name:eng_x_preferred":[
+        "Nalut"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05dc\u05d5\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0932\u0941\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Nalut"
+    ],
+    "name:ind_x_preferred":[
         "Nalut"
     ],
     "qs_pg:gn_country":"LY",
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1125959449,
-    "wof:lastmodified":1601427756,
+    "wof:lastmodified":1636497609,
     "wof:name":"Nalut",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

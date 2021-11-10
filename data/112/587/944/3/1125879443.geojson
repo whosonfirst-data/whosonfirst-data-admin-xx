@@ -20,11 +20,86 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0645\u0644\u062d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09b2\u09cd\u099f \u0995\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Salt Cay"
     ],
+    "name:deu_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bb\u03c4 \u039a\u03ad\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u062a \u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05d8 \u05e7\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0932\u094d\u091f \u0915\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:ind_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:ita_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30eb\u30c8\u30fb\u30b1\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\ud2b8 \ucf00\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:pol_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:por_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0442-\u041a\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo Sal"
+    ],
     "name:swe_x_preferred":[
         "Salt Cay"
+    ],
+    "name:tur_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u0442-\u041a\u0435\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u0679 \u06a9\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7d22\u5c14\u7279\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d22\u723e\u7279\u5cf6"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Salt Cay",
@@ -66,7 +141,7 @@
         }
     ],
     "wof:id":1125879443,
-    "wof:lastmodified":1566653680,
+    "wof:lastmodified":1636497629,
     "wof:name":"Salt Cay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

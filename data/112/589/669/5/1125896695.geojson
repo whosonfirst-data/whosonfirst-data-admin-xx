@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0435\u0439-\u041f\u0435\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7 \u09aa\u09c7\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "May Pen"
     ],
@@ -38,11 +41,23 @@
     "name:ell_x_preferred":[
         "\u039c\u03ad\u03b9 \u03a0\u03b5\u03bd"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc \u067e\u0646"
+    ],
     "name:fra_x_preferred":[
         "May Pen"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d9 \u05e4\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947 \u092a\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "May Pen"
+    ],
+    "name:ind_x_preferred":[
+        "May Pen"
     ],
     "name:ita_x_preferred":[
         "May Pen"
@@ -71,8 +86,14 @@
     "name:swe_x_preferred":[
         "May Pen"
     ],
+    "name:tur_x_preferred":[
+        "May Pen"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0626\u06d2 \u067e\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "May Pen"
     ],
     "qs_pg:gn_country":"JM",
     "qs_pg:name":"May Pen",
@@ -114,7 +135,7 @@
         }
     ],
     "wof:id":1125896695,
-    "wof:lastmodified":1566653633,
+    "wof:lastmodified":1636497620,
     "wof:name":"May Pen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

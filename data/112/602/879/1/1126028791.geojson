@@ -20,6 +20,27 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u062a\u0627\u0631\u0627\u0645\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09bf\u09a4\u09be\u09b0\u09be\u09ae\u09be"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u062a\u0627\u0631\u0627\u0645\u0627"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093f\u0924\u093e\u0930\u093e\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Gitarama"
+    ],
+    "name:ind_x_preferred":[
+        "Gitarama"
+    ],
+    "name:vie_x_preferred":[
+        "Gitarama"
+    ],
     "qs_pg:gn_country":"RW",
     "qs_pg:name":"Gitarama",
     "qs_pg:name_adm0":"Rwanda",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1126028791,
-    "wof:lastmodified":1566653430,
+    "wof:lastmodified":1636497612,
     "wof:name":"Gitarama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0627\u0628\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09cd\u09af\u09be\u09ac\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Krabi"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:fra_x_preferred":[
         "Krabi"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u092c\u0940"
     ],
     "name:hun_x_preferred":[
         "Krabi"
@@ -86,8 +95,14 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e1a\u0e32\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48"
     ],
+    "name:tur_x_preferred":[
+        "Krabi"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0431\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0627\u0628\u06cc"
     ],
     "name:vie_x_preferred":[
         "Krabi"
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":1125881987,
-    "wof:lastmodified":1566653522,
+    "wof:lastmodified":1636497618,
     "wof:name":"Krabi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

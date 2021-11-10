@@ -20,13 +20,28 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09a6\u09c7\u09b0\u09a8\u09be\u09b2\u09c7\u09b8"
+    ],
     "name:ceb_x_preferred":[
         "Pedernales"
     ],
     "name:deu_x_preferred":[
         "Pedernales"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bd\u03c4\u03b5\u03c1\u03bd\u03ac\u03bb\u03b5\u03c2"
+    ],
     "name:fra_x_preferred":[
+        "Pedernales"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d3\u05e8\u05e0\u05d0\u05dc\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Pedernales"
+    ],
+    "name:ind_x_preferred":[
         "Pedernales"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +66,15 @@
         "\u041f\u0435\u0434\u0435\u0440\u043d\u0430\u043b\u0435\u0441"
     ],
     "name:swe_x_preferred":[
+        "Pedernales"
+    ],
+    "name:tur_x_preferred":[
+        "Pedernales"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0434\u0435\u0440\u043d\u0430\u043b\u0435\u0441"
+    ],
+    "name:vie_x_preferred":[
         "Pedernales"
     ],
     "qs_pg:gn_country":"DO",
@@ -93,7 +117,7 @@
         }
     ],
     "wof:id":1125766201,
-    "wof:lastmodified":1566654515,
+    "wof:lastmodified":1636497645,
     "wof:name":"Pedernales",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

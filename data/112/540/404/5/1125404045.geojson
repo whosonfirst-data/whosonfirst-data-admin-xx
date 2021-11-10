@@ -80,7 +80,13 @@
     "name:gor_x_preferred":[
         "Kota Kupang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e4\u05d0\u05e0\u05d2"
+    ],
     "name:hrv_x_preferred":[
+        "Kupang"
+    ],
+    "name:hun_x_preferred":[
         "Kupang"
     ],
     "name:ind_x_preferred":[
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":1125404045,
-    "wof:lastmodified":1566654684,
+    "wof:lastmodified":1636497650,
     "wof:name":"Kupang",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

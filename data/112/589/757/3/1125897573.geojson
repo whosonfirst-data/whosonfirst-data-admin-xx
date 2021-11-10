@@ -32,8 +32,14 @@
     "name:deu_x_preferred":[
         "Tagum"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06af\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
         "Tagum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d2\u05d5\u05dd"
     ],
     "name:ilo_x_preferred":[
         "Tagum"
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1125897573,
-    "wof:lastmodified":1566653640,
+    "wof:lastmodified":1636497624,
     "wof:name":"Tagum",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

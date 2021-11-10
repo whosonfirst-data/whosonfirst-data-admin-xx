@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-5.3499495,36.142212,-5.3499495,36.142212",
+    "geom:bbox":"-5.34995,36.142212,-5.34995,36.142212",
     "geom:latitude":36.142212,
     "geom:longitude":-5.34995,
     "gn:country":null,
@@ -462,6 +462,9 @@
         "\u0413\u0456\u0431\u0440\u0430\u043b\u0442\u0430\u0440"
     ],
     "name:urd_x_preferred":[
+        "\u06af\u0628\u0631\u0627\u0644\u0679\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642"
     ],
     "name:uzb_x_preferred":[
@@ -503,6 +506,12 @@
     "name:zea_x_preferred":[
         "Hibraltar"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u76f4\u5e03\u7f57\u9640"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76f4\u5e03\u7f85\u9640"
+    ],
     "name:zho_x_preferred":[
         "\u76f4\u5e03\u7f57\u9640"
     ],
@@ -538,7 +547,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497301883,
-    "wof:geomhash":"f512a3a33b22d1464997dd1e6c572061",
+    "wof:geomhash":"923edc4fe97383b335564c57065a7635",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -549,7 +558,7 @@
         }
     ],
     "wof:id":1126037401,
-    "wof:lastmodified":1566653442,
+    "wof:lastmodified":1636497613,
     "wof:name":"Gibraltar",
     "wof:parent_id":85684619,
     "wof:placetype":"locality",
@@ -559,10 +568,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.3499495,
+    -5.34995,
     36.142212,
-    -5.3499495,
+    -5.34995,
     36.142212
 ],
-  "geometry": {"coordinates":[-5.3499495,36.142212],"type":"Point"}
+  "geometry": {"coordinates":[-5.34995,36.142212],"type":"Point"}
 }

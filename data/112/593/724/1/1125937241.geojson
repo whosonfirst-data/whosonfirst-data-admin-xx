@@ -20,6 +20,36 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09b8\u09bf\u09df\u09be"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0626\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e6'\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0942\u0938\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Lucea"
+    ],
+    "name:ind_x_preferred":[
+        "Lucea"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc2dc\uc544"
+    ],
+    "name:tur_x_preferred":[
+        "Lucea"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0633\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Lucea"
+    ],
     "qs_pg:gn_country":"JM",
     "qs_pg:name":"Lucea",
     "qs_pg:name_adm0":"Jamaica",
@@ -60,7 +90,7 @@
         }
     ],
     "wof:id":1125937241,
-    "wof:lastmodified":1566653165,
+    "wof:lastmodified":1636497607,
     "wof:name":"Lucea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

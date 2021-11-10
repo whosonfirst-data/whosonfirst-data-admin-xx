@@ -20,11 +20,44 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ac\u09be\u09df\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Sabaya"
     ],
     "name:deu_x_preferred":[
         "Sabaya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03b3\u03b9\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0628\u0627\u06cc\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d0\u05d9\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u092c\u093e\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sabaya"
+    ],
+    "name:ind_x_preferred":[
+        "Sabaya"
+    ],
+    "name:ita_x_preferred":[
+        "Sabaya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d0\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ubc14\uc57c"
+    ],
+    "name:pol_x_preferred":[
+        "Sabaja"
     ],
     "name:que_x_preferred":[
         "Sawaya"
@@ -33,6 +66,18 @@
         "\u0421\u0430\u0431\u0430\u044f"
     ],
     "name:spa_x_preferred":[
+        "Sabaya"
+    ],
+    "name:tur_x_preferred":[
+        "Sabaya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u0439\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0628\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Sabaya"
     ],
     "name:war_x_preferred":[
@@ -81,7 +126,7 @@
         }
     ],
     "wof:id":1125374549,
-    "wof:lastmodified":1566653707,
+    "wof:lastmodified":1636497630,
     "wof:name":"Sabaya",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

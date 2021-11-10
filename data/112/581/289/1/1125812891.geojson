@@ -20,11 +20,71 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0627\u0641\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ad\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u0430\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Tsavo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03b2\u03bf"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Tsavo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e1\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u094d\u0938\u093e\u0935\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Tsavo"
+    ],
+    "name:ita_x_preferred":[
+        "Tsavo"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc28\ubcf4"
+    ],
+    "name:nld_x_preferred":[
+        "Tsavo"
+    ],
+    "name:pol_x_preferred":[
+        "Tsavo"
+    ],
+    "name:por_x_preferred":[
+        "Tsavo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tsavo"
+    ],
+    "name:swe_x_preferred":[
+        "Tsavo"
+    ],
+    "name:tur_x_preferred":[
+        "Tsavo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0441\u0430\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0633\u0627\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Tsavo"
     ],
     "qs_pg:gn_country":"KE",
     "qs_pg:name":"Tsavo",
@@ -66,7 +126,7 @@
         }
     ],
     "wof:id":1125812891,
-    "wof:lastmodified":1566653518,
+    "wof:lastmodified":1636497617,
     "wof:name":"Tsavo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

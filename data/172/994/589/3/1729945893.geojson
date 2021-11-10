@@ -230,10 +230,11 @@
         "\u00ccxo\u0142e Spratly"
     ],
     "name:vie_x_preferred":[
-        "Qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa"
+        "Qu\u1ea7n \u0111\u1ea3o Spratly"
     ],
     "name:vie_x_variant":[
-        "qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa"
+        "qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa",
+        "Qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa"
     ],
     "name:wuu_x_preferred":[
         "\u5357\u6c99\u7fa4\u5c9b"
@@ -246,6 +247,12 @@
     ],
     "name:zha_x_preferred":[
         "Nanzsah ginzdauj"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5357\u6c99\u7fa4\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u6c99\u7fa4\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5357\u6c99\u7fa4\u5c9b"
@@ -433,7 +440,7 @@
         }
     ],
     "wof:id":1729945893,
-    "wof:lastmodified":1618447828,
+    "wof:lastmodified":1636497606,
     "wof:name":"Spratly Islands",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

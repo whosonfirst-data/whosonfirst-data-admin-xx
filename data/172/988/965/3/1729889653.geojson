@@ -25,8 +25,53 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0643\u0646 \u0623\u0631\u064a\u062a\u062c\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09b0\u09cd\u09a8\u09be\u09b0 \u0985\u09ab \u0986\u09b0\u09cd\u09a4\u09bf\u0997\u09be\u09b8"
+    ],
+    "name:deu_x_preferred":[
+        "Corner of Artigas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03bd\u03b5\u03c1 \u03bf\u03c6 \u0391\u03c1\u03c4\u03af\u03b3\u03ba\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Corner of Artigas"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0634\u0647 \u0622\u0631\u062a\u06cc\u06af\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Artigas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e0\u05ea \u05d0\u05e8\u05d8\u05d9\u05d2\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0949\u0930\u094d\u0928\u0930 \u0911\u092b\u093c \u0906\u0930\u094d\u091f\u0940\u0917\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Rinc\u00f3n de Artigas"
+    ],
+    "name:ind_x_preferred":[
+        "Corner of Artigas"
+    ],
+    "name:ita_x_preferred":[
+        "Rinc\u00f3n de Artigas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30c6\u30a3\u30ac\u30b9\u306e\u30b3\u30fc\u30ca\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ub108 \uc624\ube0c \uc544\ub974\ud2f0\uac00\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Corner of Artigas"
+    ],
+    "name:pol_x_preferred":[
+        "Rinc\u00f3n de Artigas"
     ],
     "name:por_x_preferred":[
         "Rinc\u00e3o de Artigas"
@@ -37,8 +82,26 @@
     "name:spa_x_preferred":[
         "Rinc\u00f3n de Artigas"
     ],
+    "name:swe_x_preferred":[
+        "H\u00f6rnet av Artigas"
+    ],
+    "name:tur_x_preferred":[
+        "Corner of Artigas"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043d\u043a\u043e\u043d-\u0434\u0435-\u0410\u0440\u0442\u0456\u0433\u0430\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0631\u0646\u0631 \u0622\u0641 \u0622\u0631\u0679\u06cc\u06af\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Corner of Artigas"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u8482\u52a0\u65af\u89d2"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u8482\u52a0\u65af\u89d2"
     ],
     "ne:abbrev_len":0,
     "ne:adm0_a3":"BRA",
@@ -211,7 +274,7 @@
         }
     ],
     "wof:id":1729889653,
-    "wof:lastmodified":1616193485,
+    "wof:lastmodified":1636497606,
     "wof:name":"Corner of Artigas",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

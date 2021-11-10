@@ -22,6 +22,9 @@
     "name:bel_x_preferred":[
         "\u0422\u0440\u043e\u0445\u0432\u0443\u0433\u043e\u043b\u044c\u043d\u0456\u043a \u0406\u043b\u0435\u043c\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09b2\u09c7\u09ae\u09bf \u099f\u09cd\u09b0\u09be\u09df\u09be\u0999\u09cd\u0997\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Triangle d'Ilemi"
     ],
@@ -38,6 +41,9 @@
         "Republik Kenia",
         "Ilemi-Dreieck"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bb\u03ad\u03bc\u03b9 \u03a4\u03c1\u03b1\u03ca\u03ac\u03bd\u03b3\u03ba\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Kenya"
     ],
@@ -50,6 +56,9 @@
         "Ken\u00eda",
         "Rep. Kenya",
         "Republic of Kenya"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062b\u0644\u062b \u0627\u06cc\u0644\u06cc\u0645\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kenian"
@@ -68,6 +77,9 @@
     ],
     "name:hrv_x_preferred":[
         "Ilemijski trokut"
+    ],
+    "name:hun_x_preferred":[
+        "Ilemi h\u00e1romsz\u00f6g"
     ],
     "name:ind_x_preferred":[
         "Segitiga Ilemi"
@@ -128,12 +140,24 @@
     "name:swa_x_preferred":[
         "Pembetatu ya Ilemi"
     ],
+    "name:swe_x_preferred":[
+        "Ilemitriangeln"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130lemi \u00dc\u00e7geni"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0435\u043c\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0442\u0440\u0438\u043a\u0443\u0442\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
         "Kenija",
         "Republika Kenija"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0645\u06cc \u0679\u0631\u0627\u0626\u06cc \u0627\u06cc\u0646\u06af\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Tam gi\u00e1c Ilemi"
     ],
     "name:zho_x_preferred":[
         "\u80af\u4e9e"
@@ -324,7 +348,7 @@
         }
     ],
     "wof:id":85632707,
-    "wof:lastmodified":1617307086,
+    "wof:lastmodified":1636497604,
     "wof:name":"Ilemi Triangle",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

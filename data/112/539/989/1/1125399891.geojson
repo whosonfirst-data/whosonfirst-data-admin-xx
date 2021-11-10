@@ -20,6 +20,12 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062c\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09b2\u09be\u099c\u09be\u09b8"
+    ],
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
@@ -29,11 +35,32 @@
     "name:deu_x_preferred":[
         "Las Lajas"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c2 \u039b\u03ac\u03c7\u03b1\u03c2"
+    ],
     "name:fra_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05dc\u05d0\u05d7\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0932\u091c\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:ind_x_preferred":[
         "Las Lajas"
     ],
     "name:ita_x_preferred":[
         "Las Lajas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30e9\u30cf\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc2a4 \ub77c\ud558\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Las Lachasas"
@@ -48,6 +75,12 @@
         "Las Lajas"
     ],
     "name:swe_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062c\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
         "Las Lajas"
     ],
     "qs_pg:gn_country":"PA",
@@ -90,7 +123,7 @@
         }
     ],
     "wof:id":1125399891,
-    "wof:lastmodified":1566653894,
+    "wof:lastmodified":1636497632,
     "wof:name":"Las Lajas",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Naklo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05e0\u05d0\u05dd"
+    ],
     "name:hrv_x_preferred":[
         "Naklo"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1125768313,
-    "wof:lastmodified":1566654517,
+    "wof:lastmodified":1636497646,
     "wof:name":"Naklo",
     "wof:parent_id":1108959497,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "\u05e8\u05e6\u05d5\u05e2\u05ea \u05e2\u05d6\u05d4"
     ],
     "name:hin_x_preferred":[
+        "\u0917\u093e\u091c\u093c\u093e \u092a\u091f\u094d\u091f\u0940"
+    ],
+    "name:hin_x_variant":[
         "\u0917\u093c\u091c\u093c\u093e \u092a\u091f\u094d\u091f\u0940"
     ],
     "name:hrv_x_preferred":[
@@ -542,7 +545,7 @@
         }
     ],
     "wof:id":1159339485,
-    "wof:lastmodified":1616015334,
+    "wof:lastmodified":1636497657,
     "wof:name":"Gaza Strip",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

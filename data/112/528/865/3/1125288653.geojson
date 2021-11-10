@@ -20,14 +20,44 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09df\u09c7\u09ad\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Cuevo"
     ],
     "name:deu_x_preferred":[
         "Cuevo"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03ad\u03b2\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0626\u0648"
+    ],
     "name:fra_x_preferred":[
         "Cuevo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d0\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u092f\u0942\u0935\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Cuevo"
+    ],
+    "name:ind_x_preferred":[
+        "Cuevo"
+    ],
+    "name:ita_x_preferred":[
+        "Cuevo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a8\u30dc"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\uc5d0\ubcf4"
     ],
     "name:nld_x_preferred":[
         "Cuevo"
@@ -38,10 +68,25 @@
     "name:que_x_preferred":[
         "Cuevo"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u044d\u0432\u043e"
+    ],
     "name:spa_x_preferred":[
         "Cuevo"
     ],
     "name:swe_x_preferred":[
+        "Cuevo"
+    ],
+    "name:tur_x_preferred":[
+        "Cuevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0435\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0626\u06cc\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Cuevo"
     ],
     "qs_pg:gn_country":"BO",
@@ -84,7 +129,7 @@
         }
     ],
     "wof:id":1125288653,
-    "wof:lastmodified":1566653488,
+    "wof:lastmodified":1636497616,
     "wof:name":"Cuevo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

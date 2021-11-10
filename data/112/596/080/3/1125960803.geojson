@@ -20,8 +20,14 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u0995\u09cb\u0995\u09cb\u099f\u09cb\u09a8\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Mkokotoni"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ba\u03bf\u03ba\u03bf\u03c4\u03cc\u03bd\u03b9"
     ],
     "name:epo_x_preferred":[
         "Mkokotoni"
@@ -32,13 +38,31 @@
     "name:fra_x_preferred":[
         "Mkokotoni"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e7\u05d5\u05e7\u05d5\u05d8\u05d5\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0915\u094b\u0915\u094b\u091f\u094b\u0928\u0940"
+    ],
     "name:hrv_x_preferred":[
+        "Mkokotoni"
+    ],
+    "name:hun_x_preferred":[
+        "Mkokotoni"
+    ],
+    "name:ind_x_preferred":[
         "Mkokotoni"
     ],
     "name:ita_x_preferred":[
         "Mkokotoni"
     ],
+    "name:kor_x_preferred":[
+        "\uc74c\ucf54\ucf54\ud1a0\ub2c8"
+    ],
     "name:nld_x_preferred":[
+        "Mkokotoni"
+    ],
+    "name:pol_x_preferred":[
         "Mkokotoni"
     ],
     "name:ron_x_preferred":[
@@ -47,14 +71,26 @@
     "name:rus_x_preferred":[
         "\u041c\u043a\u043e\u043a\u043e\u0442\u043e\u043d\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Mkokotoni"
+    ],
     "name:swa_x_preferred":[
         "Mkokotoni"
     ],
     "name:swe_x_preferred":[
         "Mkokotoni"
     ],
+    "name:tur_x_preferred":[
+        "Mkokotoni"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043a\u043e\u043a\u043e\u0442\u043e\u043d\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u06a9\u0648\u0679\u0648\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Mkokotoni"
     ],
     "name:yor_x_preferred":[
         "Mkokotoni"
@@ -99,7 +135,7 @@
         }
     ],
     "wof:id":1125960803,
-    "wof:lastmodified":1566654067,
+    "wof:lastmodified":1636497639,
     "wof:name":"Mkokotoni",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

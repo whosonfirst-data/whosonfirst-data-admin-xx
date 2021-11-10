@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Bovec"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d1\u05e5"
+    ],
     "name:hrv_x_preferred":[
         "Bovec"
     ],
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1126051393,
-    "wof:lastmodified":1566653436,
+    "wof:lastmodified":1636497612,
     "wof:name":"Bovec",
     "wof:parent_id":1108959541,
     "wof:placetype":"locality",

@@ -32,7 +32,13 @@
     "name:fra_x_preferred":[
         "Pivka"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d1\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Pivka"
+    ],
+    "name:hun_x_preferred":[
         "Pivka"
     ],
     "name:nld_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125768479,
-    "wof:lastmodified":1566654516,
+    "wof:lastmodified":1636497646,
     "wof:name":"Pivka",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

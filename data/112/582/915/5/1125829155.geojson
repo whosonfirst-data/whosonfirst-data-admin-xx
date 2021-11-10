@@ -153,10 +153,19 @@
         "\u0421\u0443\u0432\u0430-\u0420\u0435\u043a\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0648\u0627 \u0631\u06cc\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u0648\u0648\u0627 \u0631\u06cc\u06a9\u0627"
     ],
     "name:vie_x_preferred":[
         "Suva Reka"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u82cf\u74e6\u96f7\u5361"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8607\u74e6\u96f7\u5361"
     ],
     "name:zho_x_preferred":[
         "\u8607\u74e6\u96f7\u5361"
@@ -208,7 +217,7 @@
         }
     ],
     "wof:id":1125829155,
-    "wof:lastmodified":1566654512,
+    "wof:lastmodified":1636497645,
     "wof:name":"Suva Reka",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

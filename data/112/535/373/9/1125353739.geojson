@@ -20,6 +20,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d9\u05dc\u05d9\u05d4"
+    ],
     "qs_pg:gn_country":"EC",
     "qs_pg:name":"Sevilla",
     "qs_pg:name_adm0":"Ecuador",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125353739,
-    "wof:lastmodified":1566653279,
+    "wof:lastmodified":1636497609,
     "wof:name":"Sevilla",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

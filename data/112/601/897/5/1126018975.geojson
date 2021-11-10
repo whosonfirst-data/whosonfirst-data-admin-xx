@@ -246,6 +246,9 @@
         "\u0e14\u0e32\u0e27\u0e34\u0e14"
     ],
     "name:tur_x_preferred":[
+        "David"
+    ],
+    "name:tur_x_variant":[
         "Davud"
     ],
     "name:ukr_x_preferred":[
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":1126018975,
-    "wof:lastmodified":1566654226,
+    "wof:lastmodified":1636497641,
     "wof:name":"David",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

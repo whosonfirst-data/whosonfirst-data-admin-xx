@@ -19,6 +19,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0644\u064a\u062f\u0627\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09b2\u09c7\u09a6\u09be\u09a6"
+    ],
     "name:bre_x_preferred":[
         "Soledad"
     ],
@@ -34,8 +40,23 @@
     "name:fra_x_preferred":[
         "Soledad"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05d3\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0932\u0921\u0948\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Soledad"
+    ],
+    "name:ind_x_preferred":[
+        "Soledad"
+    ],
     "name:ita_x_preferred":[
         "Soledad"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\ub808\ub2e4\ub4dc"
     ],
     "name:lit_x_preferred":[
         "Soledad"
@@ -56,6 +77,9 @@
         "\u0421\u043e\u043b\u0435\u0434\u0430\u0434"
     ],
     "name:swe_x_preferred":[
+        "Soledad"
+    ],
+    "name:vie_x_preferred":[
         "Soledad"
     ],
     "name:vol_x_preferred":[
@@ -111,7 +135,7 @@
         }
     ],
     "wof:id":1126089075,
-    "wof:lastmodified":1566654077,
+    "wof:lastmodified":1636497640,
     "wof:name":"Soledad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

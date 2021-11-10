@@ -83,6 +83,9 @@
         "Vicente Guerrero"
     ],
     "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0441\u0435\u043d\u0442\u0435-\u0413\u0435\u0440\u0440\u0435\u0440\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u0413\u0435\u0440\u0440\u0435\u0440\u043e"
     ],
     "name:sco_x_preferred":[
@@ -97,11 +100,26 @@
     "name:swe_x_preferred":[
         "Vicente Guerrero"
     ],
+    "name:tur_x_preferred":[
+        "Vicente Guerrero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0441\u0435\u043d\u0442\u0435-\u0413\u0435\u0440\u0440\u0435\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u06cc\u0646\u0679 \u06af\u0631\u06cc\u0631\u0648"
+    ],
     "name:vie_x_preferred":[
         "Vicente Guerrero"
     ],
     "name:yor_x_preferred":[
         "Vicente Guerrero"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7ef4\u68ee\u7279\u683c\u96f7\u7f57"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dad\u68ee\u7279\u00b7\u683c\u96f7\u7f85"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u68ee\u7279\u00b7\u683c\u96f7\u7f57"
@@ -154,7 +172,7 @@
         }
     ],
     "wof:id":1126102799,
-    "wof:lastmodified":1566653384,
+    "wof:lastmodified":1636497611,
     "wof:name":"Vicente Guerrero",
     "wof:parent_id":102000955,
     "wof:placetype":"neighbourhood",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.055831,32.3345575,-117.055831,32.3345575",
+    "geom:bbox":"-117.055831,32.334558,-117.055831,32.334558",
     "geom:latitude":32.334558,
     "geom:longitude":-117.055831,
     "gn:country":null,
@@ -74,6 +74,9 @@
         "\u0413\u043e\u043b\u0443\u0431\u043a\u0430"
     ],
     "name:vie_x_preferred":[
+        "La Paloma"
+    ],
+    "name:vie_x_variant":[
         "C\u00e1nh bu\u1ed3m xa x\u01b0a"
     ],
     "qs_pg:gn_country":null,
@@ -112,7 +115,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497311859,
-    "wof:geomhash":"14ad28e1fd1fe3e35c7c4c282337f181",
+    "wof:geomhash":"0318020ade59f9075f24c7faf75c9c74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1126080499,
-    "wof:lastmodified":1566654094,
+    "wof:lastmodified":1636497640,
     "wof:name":"La Paloma",
     "wof:parent_id":101993581,
     "wof:placetype":"neighbourhood",
@@ -135,9 +138,9 @@
 },
   "bbox": [
     -117.055831,
-    32.3345575,
+    32.334558,
     -117.055831,
-    32.3345575
+    32.334558
 ],
-  "geometry": {"coordinates":[-117.055831,32.3345575],"type":"Point"}
+  "geometry": {"coordinates":[-117.055831,32.334558],"type":"Point"}
 }

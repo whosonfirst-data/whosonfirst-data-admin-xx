@@ -19,6 +19,21 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6z\u00e9p"
+    ],
+    "name:vie_x_preferred":[
+        "Centre"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Centre",
     "qs_pg:name_adm0":"France",
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":1126092255,
-    "wof:lastmodified":1566654469,
+    "wof:lastmodified":1636497644,
     "wof:name":"Centre",
     "wof:parent_id":101748979,
     "wof:placetype":"neighbourhood",

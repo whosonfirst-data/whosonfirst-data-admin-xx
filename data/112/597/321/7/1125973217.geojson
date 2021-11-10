@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.483632,42.7809365,20.483632,42.7809365",
+    "geom:bbox":"20.483632,42.780937,20.483632,42.780937",
     "geom:latitude":42.780937,
     "geom:longitude":20.483632,
     "gn:country":null,
@@ -141,10 +141,19 @@
         "\u0406\u0441\u0442\u043e\u043a"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u0633\u0679\u0648\u06a9"
+    ],
+    "name:urd_x_variant":[
         "\u06cc\u0633\u062a\u0648\u06a9"
     ],
     "name:vie_x_preferred":[
         "Istok"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f0a\u65af\u6258\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f0a\u65af\u6258\u514b"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u6258\u514b"
@@ -185,7 +194,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497298251,
-    "wof:geomhash":"ee951708aee52f4c8b63ef9356fde25f",
+    "wof:geomhash":"2ec2b546963f81beeb9dbc21605d4610",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":1125973217,
-    "wof:lastmodified":1566653914,
+    "wof:lastmodified":1636497634,
     "wof:name":"Istok",
     "wof:parent_id":1108809555,
     "wof:placetype":"locality",
@@ -207,9 +216,9 @@
 },
   "bbox": [
     20.483632,
-    42.7809365,
+    42.780937,
     20.483632,
-    42.7809365
+    42.780937
 ],
-  "geometry": {"coordinates":[20.483632,42.7809365],"type":"Point"}
+  "geometry": {"coordinates":[20.483632,42.780937],"type":"Point"}
 }

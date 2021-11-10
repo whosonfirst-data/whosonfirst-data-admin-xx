@@ -95,6 +95,9 @@
         "Bat\u0131"
     ],
     "name:vie_x_preferred":[
+        "Bati"
+    ],
+    "name:vie_x_variant":[
         "Bat\u0131"
     ],
     "name:war_x_preferred":[
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1126085173,
-    "wof:lastmodified":1566654106,
+    "wof:lastmodified":1636497640,
     "wof:name":"Bati",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

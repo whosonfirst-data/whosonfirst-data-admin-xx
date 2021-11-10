@@ -20,6 +20,9 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8"
+    ],
     "qs_pg:gn_country":"VE",
     "qs_pg:name":"Bolivar",
     "qs_pg:name_adm0":"Venezuela",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125288807,
-    "wof:lastmodified":1566653452,
+    "wof:lastmodified":1636497614,
     "wof:name":"Bolivar",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

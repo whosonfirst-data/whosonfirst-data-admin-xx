@@ -32,6 +32,9 @@
     "name:eng_x_variant":[
         "Atacama"
     ],
+    "name:hun_x_preferred":[
+        "Atacama"
+    ],
     "name:ind_x_preferred":[
         "Sengketa perbatasan Atacama"
     ],
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":1159339483,
-    "wof:lastmodified":1617666608,
+    "wof:lastmodified":1636497657,
     "wof:name":"Atacama",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

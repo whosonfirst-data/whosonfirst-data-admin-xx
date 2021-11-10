@@ -26,6 +26,9 @@
     "name:ang_x_preferred":[
         "Grytviken"
     ],
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u062a\u0641\u064a\u0643\u0646"
+    ],
     "name:aze_x_preferred":[
         "Qryotviken"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Grytviken"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b9\u03c4\u03b2\u03ac\u03b9\u03ba\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Grytviken"
@@ -206,6 +212,9 @@
     "name:tuk_x_preferred":[
         "Gr\u00fdutwiken"
     ],
+    "name:tur_x_preferred":[
+        "Grytviken"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u044e\u0442\u0432\u0456\u043a\u0435\u043d"
     ],
@@ -272,7 +281,7 @@
         }
     ],
     "wof:id":1125767669,
-    "wof:lastmodified":1566654516,
+    "wof:lastmodified":1636497645,
     "wof:name":"Grytviken",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

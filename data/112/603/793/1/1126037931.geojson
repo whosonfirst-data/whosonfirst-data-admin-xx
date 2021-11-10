@@ -20,11 +20,41 @@
     "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u062a\u064a\u0648\u0646\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09a4\u09c1\u09a8\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Ituni"
     ],
     "name:deu_x_preferred":[
         "Ituni"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03bf\u03cd\u03bd\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062a\u0648\u0646\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d8\u05d5\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u091f\u0941\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Ituni"
+    ],
+    "name:ind_x_preferred":[
+        "Ituni"
+    ],
+    "name:ita_x_preferred":[
+        "Ituni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30c4\u30cb"
     ],
     "name:lit_x_preferred":[
         "Itunis"
@@ -32,10 +62,28 @@
     "name:pol_x_preferred":[
         "Ituni"
     ],
+    "name:por_x_preferred":[
+        "Ituni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0442\u0443\u043d\u0438"
+    ],
     "name:spa_x_preferred":[
         "Ituni"
     ],
     "name:swe_x_preferred":[
+        "Ituni"
+    ],
+    "name:tur_x_preferred":[
+        "Ituni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0442\u0443\u043d\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u0648\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Ituni"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +129,7 @@
         }
     ],
     "wof:id":1126037931,
-    "wof:lastmodified":1566653443,
+    "wof:lastmodified":1636497614,
     "wof:name":"Ituni",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

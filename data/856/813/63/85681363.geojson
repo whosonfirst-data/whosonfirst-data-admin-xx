@@ -67,6 +67,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0ab0\u0ac7\u0aa8\u0abf\u0ab2\u0abe \u0aac\u0ac7\u0aa8\u0acd\u0a95"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d3\u05ea \u05e1\u05e8\u05e0\u05d9\u05dc\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0930\u093e\u0928\u093f\u0932\u093e \u0924\u091f"
     ],
@@ -391,7 +394,7 @@
         }
     ],
     "wof:id":85681363,
-    "wof:lastmodified":1616193487,
+    "wof:lastmodified":1636497604,
     "wof:name":"Serranilla Bank",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -41,7 +41,13 @@
     "name:fra_x_preferred":[
         "Thika"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e7\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Thika"
+    ],
+    "name:hun_x_preferred":[
         "Thika"
     ],
     "name:ita_x_preferred":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1125812867,
-    "wof:lastmodified":1566653518,
+    "wof:lastmodified":1636497617,
     "wof:name":"Thika",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

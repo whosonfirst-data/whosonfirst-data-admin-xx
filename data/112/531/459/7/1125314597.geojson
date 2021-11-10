@@ -78,6 +78,9 @@
         "Lom"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041b\u043e\u043c"
+    ],
+    "name:rus_x_variant":[
         "\u041b\u043e\u043c"
     ],
     "name:slk_x_preferred":[
@@ -95,8 +98,23 @@
     "name:swe_x_preferred":[
         "Lom"
     ],
+    "name:tur_x_preferred":[
+        "Lom"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Lom"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
     ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lom",
@@ -138,7 +156,7 @@
         }
     ],
     "wof:id":1125314597,
-    "wof:lastmodified":1566654001,
+    "wof:lastmodified":1636497636,
     "wof:name":"Lom",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
