@@ -17,9 +17,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Miquelon"
+    ],
+    "name:eng_x_variant":[
+        "Miqeulon"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Miqeulon",
     "qs_pg:name_adm0":"Saint-Pierre-Et-Miquelon",
@@ -64,8 +70,8 @@
         }
     ],
     "wof:id":1125829001,
-    "wof:lastmodified":1566654511,
-    "wof:name":"Miqeulon",
+    "wof:lastmodified":1640215292,
+    "wof:name":"Miquelon",
     "wof:parent_id":85677297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
