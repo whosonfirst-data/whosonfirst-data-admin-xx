@@ -95,6 +95,9 @@
         "\u0110\u00e0i Loan"
     ],
     "name:zho_x_preferred":[
+        "\u53f0\u7063"
+    ],
+    "name:zho_x_variant":[
         "\u4e2d\u83ef\u6c11\u570b"
     ],
     "ne:abbrev":"Taiwan",
@@ -242,9 +245,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ne:id":1159321335,
+        "ne:id":"1159321335",
         "wd:id":"Q865",
-        "woe:id":23424971
+        "woe:id":"23424971"
     },
     "wof:controlled":[
         "wof:parent_id",
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":1729889663,
-    "wof:lastmodified":1616015339,
+    "wof:lastmodified":1665618506,
     "wof:name":"Taiwan",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
