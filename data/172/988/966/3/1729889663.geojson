@@ -106,13 +106,43 @@
     "name:vie_x_preferred":[
         "\u0110\u00e0i Loan"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u53f0\u6e7e"
+    ],
+    "name:zho_cn_x_variant":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tiong-ho\u00e2 B\u00een-kok"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u53f0\u7063"
+    ],
+    "name:zho_tw_x_variant":[
+        "\u4e2d\u83ef\u6c11\u570b"
+    ],
     "name:zho_x_preferred":[
         "\u53f0\u7063"
     ],
     "name:zho_x_variant":[
-        "\u4e2d\u83ef\u6c11\u570b",
         "\u53f0\u6e7e",
+        "\u4e2d\u83ef\u6c11\u570b",
         "\u81fa\u7063"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
     ],
     "ne:abbrev":"Taiwan",
     "ne:abbrev_len":6,
@@ -287,7 +317,7 @@
         }
     ],
     "wof:id":1729889663,
-    "wof:lastmodified":1665677090,
+    "wof:lastmodified":1665678346,
     "wof:name":"Taiwan",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
