@@ -32,6 +32,9 @@
         "\u09a4\u09be\u0987\u0993\u09af\u09bc\u09be\u09a8"
     ],
     "name:deu_x_preferred":[
+        "Taiwan"
+    ],
+    "name:deu_x_variant":[
         "Republik China"
     ],
     "name:ell_x_preferred":[
@@ -50,6 +53,9 @@
         "\u091a\u0940\u0928\u0940 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
     ],
     "name:hun_x_preferred":[
+        "Tajvan"
+    ],
+    "name:hun_x_variant":[
         "K\u00ednai K\u00f6zt\u00e1rsas\u00e1g"
     ],
     "name:ind_x_preferred":[
@@ -68,6 +74,9 @@
         "Taiwan"
     ],
     "name:pol_x_preferred":[
+        "Tajwan"
+    ],
+    "name:pol_x_variant":[
         "Republika Chi\u0144ska"
     ],
     "name:por_x_preferred":[
@@ -77,6 +86,9 @@
         "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
     "name:spa_x_preferred":[
+        "Isla de Taiw\u00e1n"
+    ],
+    "name:spa_x_variant":[
         "Rep\u00fablica de China"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +107,12 @@
         "\u0110\u00e0i Loan"
     ],
     "name:zho_x_preferred":[
-        "\u4e2d\u83ef\u6c11\u570b"
+        "\u53f0\u7063"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u83ef\u6c11\u570b",
+        "\u53f0\u6e7e",
+        "\u81fa\u7063"
     ],
     "ne:abbrev":"Taiwan",
     "ne:abbrev_len":6,
@@ -270,7 +287,7 @@
         }
     ],
     "wof:id":1729889663,
-    "wof:lastmodified":1616015339,
+    "wof:lastmodified":1665677090,
     "wof:name":"Taiwan",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
