@@ -420,13 +420,14 @@
             "region_id":85681267
         },
         {
+            "continent_id":102191569,
             "country_id":85632469,
             "disputed_id":85632277,
             "region_id":85681267
         }
     ],
     "wof:id":85681267,
-    "wof:lastmodified":1670517009,
+    "wof:lastmodified":1672957520,
     "wof:name":"Kashmir",
     "wof:parent_id":85632277,
     "wof:placetype":"region",

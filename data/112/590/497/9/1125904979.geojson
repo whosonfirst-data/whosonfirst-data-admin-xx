@@ -50,7 +50,7 @@
     "woe:name_adm1":"Jammu and Kashmir",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85672137,
+        1796791505,
         85632427,
         102191569,
         85632659,
@@ -72,7 +72,7 @@
             "county_id":1108695697,
             "disputed_id":85632427,
             "locality_id":1125904979,
-            "region_id":85672137
+            "region_id":1796791505
         },
         {
             "continent_id":102191569,
@@ -80,11 +80,11 @@
             "county_id":1108695697,
             "disputed_id":85632427,
             "locality_id":1125904979,
-            "region_id":85672137
+            "region_id":1796791505
         }
     ],
     "wof:id":1125904979,
-    "wof:lastmodified":1566653910,
+    "wof:lastmodified":1672958947,
     "wof:name":"Hanoo",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",
