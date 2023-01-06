@@ -119,7 +119,7 @@
     "woe:name_adm1":"Jammu and Kashmir",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85672137,
+        1796791507,
         85632427,
         102191569,
         85632659,
@@ -141,7 +141,7 @@
             "county_id":1108695711,
             "disputed_id":85632427,
             "locality_id":1126017767,
-            "region_id":85672137
+            "region_id":1796791507
         },
         {
             "continent_id":102191569,
@@ -149,11 +149,11 @@
             "county_id":1108695711,
             "disputed_id":85632427,
             "locality_id":1126017767,
-            "region_id":85672137
+            "region_id":1796791507
         }
     ],
     "wof:id":1126017767,
-    "wof:lastmodified":1566654225,
+    "wof:lastmodified":1672958950,
     "wof:name":"Mamer",
     "wof:parent_id":1108695711,
     "wof:placetype":"locality",

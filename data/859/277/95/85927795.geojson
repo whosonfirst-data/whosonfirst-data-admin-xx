@@ -75,11 +75,12 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1796791507,
         85632427,
         102191569,
         85632659,
+        102030941,
         1108695721,
-        85672137,
         85632469
     ],
     "wof:breaches":[],
@@ -98,27 +99,27 @@
             "country_id":85632659,
             "county_id":1108695721,
             "disputed_id":85632427,
-            "locality_id":-1,
+            "locality_id":102030941,
             "neighbourhood_id":85927795,
-            "region_id":85672137
+            "region_id":1796791507
         },
         {
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108695721,
             "disputed_id":85632427,
-            "locality_id":-1,
+            "locality_id":102030941,
             "neighbourhood_id":85927795,
-            "region_id":85672137
+            "region_id":1796791507
         }
     ],
     "wof:id":85927795,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582332375,
+    "wof:lastmodified":1672959317,
     "wof:name":"Takia Magam",
-    "wof:parent_id":-1,
+    "wof:parent_id":102030941,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

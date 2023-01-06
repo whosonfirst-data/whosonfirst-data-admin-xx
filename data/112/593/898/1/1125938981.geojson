@@ -89,7 +89,7 @@
     "woe:name_adm1":"Jammu and Kashmir",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85672137,
+        1796791507,
         85632427,
         102191569,
         85632659,
@@ -112,7 +112,7 @@
             "county_id":1108695721,
             "disputed_id":85632427,
             "locality_id":1125938981,
-            "region_id":85672137
+            "region_id":1796791507
         },
         {
             "continent_id":102191569,
@@ -120,11 +120,11 @@
             "county_id":1108695721,
             "disputed_id":85632427,
             "locality_id":1125938981,
-            "region_id":85672137
+            "region_id":1796791507
         }
     ],
     "wof:id":1125938981,
-    "wof:lastmodified":1566653167,
+    "wof:lastmodified":1672958948,
     "wof:name":"Kukernag",
     "wof:parent_id":1108695721,
     "wof:placetype":"locality",

@@ -81,7 +81,7 @@
         102191569,
         85632659,
         1108695711,
-        85672137,
+        1796791507,
         85632469
     ],
     "wof:breaches":[],
@@ -102,7 +102,7 @@
             "disputed_id":85632427,
             "locality_id":-1,
             "neighbourhood_id":85934137,
-            "region_id":85672137
+            "region_id":1796791507
         },
         {
             "continent_id":102191569,
@@ -111,14 +111,14 @@
             "disputed_id":85632427,
             "locality_id":-1,
             "neighbourhood_id":85934137,
-            "region_id":85672137
+            "region_id":1796791507
         }
     ],
     "wof:id":85934137,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582332375,
+    "wof:lastmodified":1672959317,
     "wof:name":"Shalimar Bagh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

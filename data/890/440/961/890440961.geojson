@@ -100,9 +100,9 @@
     "wd:wordcount":530,
     "wof:belongsto":[
         102191569,
-        85632427,
         85632659,
-        85672137,
+        1796791507,
+        85632427,
         85632469
     ],
     "wof:breaches":[],
@@ -120,20 +120,20 @@
             "country_id":85632659,
             "county_id":890440961,
             "disputed_id":85632427,
-            "region_id":85672137
+            "region_id":1796791507
         },
         {
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890440961,
             "disputed_id":85632427,
-            "region_id":85672137
+            "region_id":1796791507
         }
     ],
     "wof:id":890440961,
-    "wof:lastmodified":1566653152,
+    "wof:lastmodified":1672957540,
     "wof:name":"Punch",
-    "wof:parent_id":85672137,
+    "wof:parent_id":1796791507,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

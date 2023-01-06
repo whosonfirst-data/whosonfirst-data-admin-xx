@@ -50,7 +50,7 @@
         102191569,
         85632659,
         1108695697,
-        85672137,
+        1796791505,
         85632469
     ],
     "wof:breaches":[],
@@ -69,7 +69,7 @@
             "disputed_id":85632427,
             "locality_id":-1,
             "neighbourhood_id":1126070339,
-            "region_id":85672137
+            "region_id":1796791505
         },
         {
             "continent_id":102191569,
@@ -78,11 +78,11 @@
             "disputed_id":85632427,
             "locality_id":-1,
             "neighbourhood_id":1126070339,
-            "region_id":85672137
+            "region_id":1796791505
         }
     ],
     "wof:id":1126070339,
-    "wof:lastmodified":1566654336,
+    "wof:lastmodified":1672959317,
     "wof:name":"Karzoo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

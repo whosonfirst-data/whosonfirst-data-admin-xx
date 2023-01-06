@@ -73,7 +73,7 @@
     "qs:pop_sr":"0",
     "wd:wordcount":1070,
     "wof:belongsto":[
-        85672137,
+        1796791505,
         85632427,
         102191569,
         85632659,
@@ -97,7 +97,7 @@
             "county_id":1108695697,
             "disputed_id":85632427,
             "locality_id":890449775,
-            "region_id":85672137
+            "region_id":1796791505
         },
         {
             "continent_id":102191569,
@@ -105,11 +105,11 @@
             "county_id":1108695697,
             "disputed_id":85632427,
             "locality_id":890449775,
-            "region_id":85672137
+            "region_id":1796791505
         }
     ],
     "wof:id":890449775,
-    "wof:lastmodified":1566653153,
+    "wof:lastmodified":1672958946,
     "wof:name":"Nubra Valley",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",
