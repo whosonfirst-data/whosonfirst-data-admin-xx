@@ -151,6 +151,9 @@
     "name:por_x_preferred":[
         "Glaciar de Siachen"
     ],
+    "name:ron_x_preferred":[
+        "Ghe\u021barul Siachen"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0430\u0447\u0435\u043d"
     ],
@@ -377,7 +380,7 @@
         }
     ],
     "wof:id":1729989201,
-    "wof:lastmodified":1636497605,
+    "wof:lastmodified":1678301895,
     "wof:name":"Siachen Glacier",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
