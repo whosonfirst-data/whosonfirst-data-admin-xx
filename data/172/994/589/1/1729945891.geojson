@@ -153,6 +153,9 @@
     "name:glv_x_preferred":[
         "Yn Cheeprey Hwoaie"
     ],
+    "name:guj_x_preferred":[
+        "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0ac0\u0aaf \u0ab8\u0abe\u0aaf\u0aaa\u0acd\u0ab0\u0ab8"
+    ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u0938\u093e\u0907\u092a\u094d\u0930\u0938"
     ],
@@ -444,7 +447,6 @@
     ],
     "name:zho_x_variant":[
         "\u585e\u6d66\u8def\u65af",
-        "\u8cfd\u666e\u52d2\u65af",
         "\u8cfd\u666e\u52d2\u65af"
     ],
     "ne:abbrev":"N. Cy.",
@@ -629,7 +631,7 @@
         }
     ],
     "wof:id":1729945891,
-    "wof:lastmodified":1636497605,
+    "wof:lastmodified":1678302695,
     "wof:name":"Northern Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
