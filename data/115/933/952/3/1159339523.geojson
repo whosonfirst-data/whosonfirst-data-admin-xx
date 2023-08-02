@@ -38,6 +38,9 @@
     "name:arg_x_preferred":[
         "Melilla"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0644\u064a\u0644\u064a\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u0644\u064a\u064a\u0627"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:aze_x_preferred":[
         "Melilya"
+    ],
+    "name:bar_x_preferred":[
+        "Melilla"
     ],
     "name:bcl_x_preferred":[
         "Melilla"
@@ -120,6 +126,9 @@
         "Melilya"
     ],
     "name:frr_x_preferred":[
+        "Melilla"
+    ],
+    "name:fry_x_preferred":[
         "Melilla"
     ],
     "name:gag_x_preferred":[
@@ -227,6 +236,9 @@
     "name:lit_x_preferred":[
         "Melilja"
     ],
+    "name:lld_x_preferred":[
+        "Melilla"
+    ],
     "name:lmo_x_preferred":[
         "Melilla"
     ],
@@ -239,11 +251,17 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0932\u093f\u092f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u044d\u043b\u0438\u043b\u044c\u044f"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0459\u0430"
     ],
     "name:mlg_x_preferred":[
         "Melilla"
+    ],
+    "name:mon_x_preferred":[
+        "\u041c\u0435\u043b\u0438\u043b\u044c\u044f"
     ],
     "name:msa_x_preferred":[
         "Melilla"
@@ -275,6 +293,9 @@
     "name:pam_x_preferred":[
         "Melilla"
     ],
+    "name:pap_x_preferred":[
+        "Melilla"
+    ],
     "name:pms_x_preferred":[
         "Melilla"
     ],
@@ -286,6 +307,12 @@
     ],
     "name:por_x_preferred":[
         "Melilla"
+    ],
+    "name:por_x_variant":[
+        "Melilha"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0644\u06cc\u0644\u06cc\u0647"
     ],
     "name:ron_x_preferred":[
         "Melilla"
@@ -301,6 +328,9 @@
     ],
     "name:sco_x_preferred":[
         "Melilla"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u1084\u1087\u101c\u102e\u1087\u101c\u1083\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dd9\u0dbd\u0dd2\u0dbd\u0dca\u0dbd\u0dcf"
@@ -571,7 +601,7 @@
         }
     ],
     "wof:id":1159339523,
-    "wof:lastmodified":1616015337,
+    "wof:lastmodified":1690922075,
     "wof:name":"Melilla",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

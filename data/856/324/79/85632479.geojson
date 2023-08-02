@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Escull Scarborough"
     ],
+    "name:ces_x_preferred":[
+        "Scarborough Shoal"
+    ],
     "name:dan_x_preferred":[
         "Scarborough Shoal"
     ],
@@ -174,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00e3i c\u1ea1n Scarborough"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ec3\u5dd6\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u9ec4\u5ca9\u5c9b"
@@ -348,7 +354,7 @@
         }
     ],
     "wof:id":85632479,
-    "wof:lastmodified":1616015342,
+    "wof:lastmodified":1690921920,
     "wof:name":"Scarborough Shoal",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

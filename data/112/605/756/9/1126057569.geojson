@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Lamentin"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0645\u0646\u062a\u064a\u0646"
+    ],
     "name:ast_x_preferred":[
         "Lamentin"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:deu_x_preferred":[
         "Lamentin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bc\u03b1\u03bd\u03c4\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lamentin"
@@ -163,6 +169,9 @@
     "name:lit_x_preferred":[
         "Lamentin"
     ],
+    "name:lld_x_preferred":[
+        "Lamentin"
+    ],
     "name:ltz_x_preferred":[
         "Lamentin"
     ],
@@ -247,6 +256,9 @@
     "name:swe_x_preferred":[
         "Lamentin"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
+    ],
     "name:tur_x_preferred":[
         "Lamentin"
     ],
@@ -282,6 +294,9 @@
     ],
     "name:wol_x_preferred":[
         "Lamentin"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8292\u5766"
     ],
     "name:zul_x_preferred":[
         "Lamentin"
@@ -338,7 +353,7 @@
         }
     ],
     "wof:id":1126057569,
-    "wof:lastmodified":1566653435,
+    "wof:lastmodified":1690921973,
     "wof:name":"Lamentin",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

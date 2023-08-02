@@ -31,8 +31,14 @@
     "name:pol_x_preferred":[
         "Whitton"
     ],
+    "name:spa_x_preferred":[
+        "Whitton"
+    ],
     "name:srp_x_preferred":[
         "Viton"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0626\u0679\u0646"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Whitton",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1126088855,
-    "wof:lastmodified":1566654127,
+    "wof:lastmodified":1690922028,
     "wof:name":"Whitton",
     "wof:parent_id":1158857311,
     "wof:placetype":"neighbourhood",

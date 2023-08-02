@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Cilaos"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u0627\u0648\u0633"
+    ],
     "name:arg_x_preferred":[
         "Cilaos"
     ],
@@ -49,6 +52,9 @@
     "name:ces_x_preferred":[
         "Cilaos"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0438\u043b\u0430\u043e"
+    ],
     "name:cos_x_preferred":[
         "Cilaos"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:deu_x_preferred":[
         "Cilaos"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bb\u03b1\u03cc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Cilaos"
@@ -102,6 +111,9 @@
     ],
     "name:gsw_x_preferred":[
         "Cilaos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d0\u05d5"
     ],
     "name:hrv_x_preferred":[
         "Cilaos"
@@ -154,8 +166,14 @@
     "name:lit_x_preferred":[
         "Cilaos"
     ],
+    "name:lld_x_preferred":[
+        "Cilaos"
+    ],
     "name:ltz_x_preferred":[
         "Cilaos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u0932\u093e\u0913\u0938"
     ],
     "name:min_x_preferred":[
         "Cilaos"
@@ -235,6 +253,9 @@
     "name:swe_x_preferred":[
         "Cilaos"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043b\u0430\u043e"
+    ],
     "name:tur_x_preferred":[
         "Cilaos"
     ],
@@ -264,6 +285,9 @@
     ],
     "name:wol_x_preferred":[
         "Cilaos"
+    ],
+    "name:zho_x_preferred":[
+        "\u9521\u62c9\u5965\u65af"
     ],
     "name:zul_x_preferred":[
         "Cilaos"
@@ -320,7 +344,7 @@
         }
     ],
     "wof:id":1126012301,
-    "wof:lastmodified":1566654226,
+    "wof:lastmodified":1690922033,
     "wof:name":"Cilaos",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

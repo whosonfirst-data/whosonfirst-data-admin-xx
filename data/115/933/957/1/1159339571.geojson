@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0643\u0648\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0643\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Rockall"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u0995\u09b2"
     ],
@@ -114,9 +120,6 @@
         "\u30ed\u30c3\u30b3\u30fc\u30eb\u5cf6"
     ],
     "name:kor_x_preferred":[
-        "\ub85c\uce7c\uc12c"
-    ],
-    "name:kor_x_variant":[
         "\ub85c\uce7c\uc12c"
     ],
     "name:lit_x_preferred":[
@@ -349,7 +352,7 @@
         }
     ],
     "wof:id":1159339571,
-    "wof:lastmodified":1636497659,
+    "wof:lastmodified":1690922087,
     "wof:name":"Rockall",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

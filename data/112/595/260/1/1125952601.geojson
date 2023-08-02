@@ -43,8 +43,17 @@
     "name:bar_x_preferred":[
         "Saint-Paul"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u043d-\u041f\u043e\u043b\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0981-\u09aa\u09cb\u09b2"
+    ],
     "name:bre_x_preferred":[
         "Saint-Paul"
+    ],
+    "name:bre_x_variant":[
+        "Sant-Paol"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d \u041f\u043e\u043b"
@@ -58,6 +67,9 @@
     "name:ces_x_preferred":[
         "Saint-Paul"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043d-\u041f\u043e\u043b\u044c"
+    ],
     "name:cos_x_preferred":[
         "Saint-Paul"
     ],
@@ -69,6 +81,9 @@
     ],
     "name:deu_x_preferred":[
         "Saint-Paul"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u03a0\u03c9\u03bb"
     ],
     "name:eng_x_preferred":[
         "Saint-Paul"
@@ -178,11 +193,17 @@
     "name:lit_x_preferred":[
         "Sen Polis"
     ],
+    "name:lld_x_preferred":[
+        "Saint-Paul"
+    ],
     "name:ltz_x_preferred":[
         "Saint-Paul"
     ],
     "name:min_x_preferred":[
         "Saint-Paul"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u043d \u041f\u043e\u043b"
     ],
     "name:mlg_x_preferred":[
         "Saint-Paul"
@@ -374,7 +395,7 @@
         }
     ],
     "wof:id":1125952601,
-    "wof:lastmodified":1566653221,
+    "wof:lastmodified":1690921960,
     "wof:name":"Saint-Paul",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

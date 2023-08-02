@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "F\u00f6gl\u00f6"
     ],
+    "name:gle_x_preferred":[
+        "F\u00f6gl\u00f6"
+    ],
     "name:glg_x_preferred":[
         "F\u00f6gl\u00f6"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:lav_x_preferred":[
         "Fjoglo"
+    ],
+    "name:lim_x_preferred":[
+        "F\u00f6gl\u00f6"
     ],
     "name:lit_x_preferred":[
         "Fijoglijo"
@@ -124,6 +130,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc6\u0ddc\u0d9c\u0dca\u0dbd\u0ddd"
+    ],
+    "name:smn_x_preferred":[
+        "F\u00f6gl\u00f6"
     ],
     "name:spa_x_preferred":[
         "F\u00f6gl\u00f6"
@@ -207,7 +216,7 @@
         }
     ],
     "wof:id":1126049251,
-    "wof:lastmodified":1566653440,
+    "wof:lastmodified":1690921979,
     "wof:name":"F\u00f6gl\u00f6",
     "wof:parent_id":907198485,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:spa_x_preferred":[
         "Corredor de Atacama"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u5854\u5361\u99ac\u908a\u754c\u722d\u7aef"
+    ],
     "ne:ABBREV":"Atacama",
     "ne:ABBREV_LEN":7,
     "ne:ADM0_A3":"CHL",
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":1159339483,
-    "wof:lastmodified":1636497657,
+    "wof:lastmodified":1690922080,
     "wof:name":"Atacama",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -19,11 +19,17 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Kir\u0259cburnu"
+    ],
     "name:eng_x_preferred":[
         "Kire\u00e7burnu"
     ],
     "name:tur_x_preferred":[
         "Kire\u00e7burnu"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0631\u06cc\u0686\u0628\u0648\u0631\u0646\u0648"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kire\u00e7burnu",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1126106477,
-    "wof:lastmodified":1566653387,
+    "wof:lastmodified":1690921967,
     "wof:name":"Kire\u00e7burnu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

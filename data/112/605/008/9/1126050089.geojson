@@ -49,6 +49,9 @@
     "name:ces_x_preferred":[
         "Les Avirons"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435\u0437-\u0410\u0432\u0438\u0433\u04c0\u043e\u043d"
+    ],
     "name:cos_x_preferred":[
         "Les Avirons"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:deu_x_preferred":[
         "Les Avirons"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03b6 \u0391\u03b2\u03b9\u03c1\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Les Avirons"
@@ -157,6 +163,9 @@
     "name:lit_x_preferred":[
         "Les Avirons"
     ],
+    "name:lld_x_preferred":[
+        "Les Avirons"
+    ],
     "name:ltz_x_preferred":[
         "Les Avirons"
     ],
@@ -238,6 +247,9 @@
     "name:swe_x_preferred":[
         "Les Avirons"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435\u0437-\u0410\u0432\u0438\u0440\u043e\u043d"
+    ],
     "name:tur_x_preferred":[
         "Les Avirons"
     ],
@@ -270,6 +282,9 @@
     ],
     "name:wol_x_preferred":[
         "Les Avirons"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u8428\u7ef4\u9f99"
     ],
     "name:zul_x_preferred":[
         "Les Avirons"
@@ -326,7 +341,7 @@
         }
     ],
     "wof:id":1126050089,
-    "wof:lastmodified":1566653434,
+    "wof:lastmodified":1690921972,
     "wof:name":"Les Avirons",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

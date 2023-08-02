@@ -26,14 +26,23 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:amh_x_preferred":[
+        "\u1279\u121d\u1262 \u1238\u1208\u1246"
+    ],
     "name:eng_x_preferred":[
         "Chumbi Valley"
     ],
     "name:fra_x_preferred":[
         "vall\u00e9e de Chumbi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05de\u05e7 \u05e6'\u05d5\u05de\u05d1\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u0941\u092e\u094d\u092c\u0940 \u0918\u093e\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Chumbi-v\u00f6lgy"
     ],
     "name:ind_x_preferred":[
         "Lembah Chumbi"
@@ -41,8 +50,20 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30f3\u30d3\u8c37"
     ],
+    "name:lit_x_preferred":[
+        "\u010cumbi"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1a\u0d41\u0d02\u0d2c\u0d3f \u0d24\u0d3e\u0d34\u0d4d\u200c\u0d35\u0d30"
+    ],
     "name:nld_x_preferred":[
         "Chumbi"
+    ],
+    "name:nob_x_preferred":[
+        "Chumbidalen"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0686\u064f\u0645\u0628\u06cc \u0648\u0627\u062f\u06cc"
     ],
     "name:pol_x_preferred":[
         "Chumbi"
@@ -52,6 +73,12 @@
     ],
     "name:spa_x_preferred":[
         "Valle de Chumbi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043b\u0438\u043d\u0430 \u0427\u0443\u043c\u0431\u0438"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bae\u0bcd\u0baa\u0bbf \u0baa\u0bc0\u0b9f\u0baa\u0bc2\u0bae\u0bbf"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0443\u043c\u0431\u0456"
@@ -208,7 +235,7 @@
         }
     ],
     "wof:id":1159339543,
-    "wof:lastmodified":1617307083,
+    "wof:lastmodified":1690922071,
     "wof:name":"Chumbi Valley",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

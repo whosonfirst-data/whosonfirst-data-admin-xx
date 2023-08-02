@@ -26,6 +26,12 @@
     "name:ceb_x_preferred":[
         "Miejsce Piastowe"
     ],
+    "name:ces_x_preferred":[
+        "Miejsce Piastowe"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0439\u0441\u0446\u0435-\u041f\u044f\u0441\u0442\u043e\u0432\u0435"
+    ],
     "name:deu_x_preferred":[
         "Miejsce Piastowe"
     ],
@@ -35,11 +41,17 @@
     "name:fra_x_preferred":[
         "Miejsce Piastowe"
     ],
+    "name:nan_x_preferred":[
+        "Miejsce Piastowe"
+    ],
     "name:nld_x_preferred":[
         "Miejsce Piastowe"
     ],
     "name:pol_x_preferred":[
         "Miejsce Piastowe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u0439\u0441\u0446\u0435-\u041f\u044f\u0441\u0442\u043e\u0432\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0439\u0441\u0446\u0435-\u041f\u044f\u0441\u0442\u043e\u0432\u0435"
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":1126051331,
-    "wof:lastmodified":1566653432,
+    "wof:lastmodified":1690921970,
     "wof:name":"Miejsce Piastowe",
     "wof:parent_id":102079455,
     "wof:placetype":"locality",

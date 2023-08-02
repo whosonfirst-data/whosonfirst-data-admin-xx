@@ -26,6 +26,9 @@
     "name:azb_x_preferred":[
         "\u0644\u0627\u0642\u0648\u0633\u0627\u0646\u062a\u0648"
     ],
+    "name:bre_x_preferred":[
+        "Lagosanto"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441\u0430\u043d\u0442\u043e"
     ],
@@ -38,8 +41,14 @@
     "name:ces_x_preferred":[
         "Lagosanto"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0433\u043e\u0441\u0430\u043d\u0442\u043e"
+    ],
     "name:deu_x_preferred":[
         "Lagosanto"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03ba\u03bf\u03c3\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:eml_x_preferred":[
         "Lagh"
@@ -57,6 +66,9 @@
         "\u0644\u0627\u06af\u0648\u0633\u0627\u0646\u062a\u0648"
     ],
     "name:fra_x_preferred":[
+        "Lagosanto"
+    ],
+    "name:gle_x_preferred":[
         "Lagosanto"
     ],
     "name:hun_x_preferred":[
@@ -83,6 +95,9 @@
     "name:lat_x_preferred":[
         "Lacus Sancti Appiani"
     ],
+    "name:lld_x_preferred":[
+        "Lagosanto"
+    ],
     "name:lmo_x_preferred":[
         "Lagosanto"
     ],
@@ -96,6 +111,9 @@
         "Lagosanto"
     ],
     "name:nld_x_preferred":[
+        "Lagosanto"
+    ],
+    "name:nob_x_preferred":[
         "Lagosanto"
     ],
     "name:oci_x_preferred":[
@@ -123,6 +141,18 @@
         "Lagosanto"
     ],
     "name:srp_x_preferred":[
+        "Lagosanto"
+    ],
+    "name:swe_x_preferred":[
+        "Lagosanto"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0433\u043e\u0437\u0430\u043d\u0442\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Lagosanto"
+    ],
+    "name:tur_x_preferred":[
         "Lagosanto"
     ],
     "name:ukr_x_preferred":[
@@ -195,7 +225,7 @@
         }
     ],
     "wof:id":1126032747,
-    "wof:lastmodified":1566653442,
+    "wof:lastmodified":1690921980,
     "wof:name":"Lago Santo",
     "wof:parent_id":404472383,
     "wof:placetype":"locality",

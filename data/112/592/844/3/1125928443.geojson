@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Baillif"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u064a\u0641"
+    ],
     "name:ast_x_preferred":[
         "Baillif"
     ],
@@ -55,6 +58,9 @@
     "name:ces_x_preferred":[
         "Baillif"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0439\u0438\u0444"
+    ],
     "name:cos_x_preferred":[
         "Baillif"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:deu_x_preferred":[
         "Baillif"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b3\u03af\u03c6"
     ],
     "name:eng_x_preferred":[
         "Baillif"
@@ -81,6 +90,9 @@
     ],
     "name:fao_x_preferred":[
         "Baillif"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u06cc\u0641"
     ],
     "name:fin_x_preferred":[
         "Baillif"
@@ -161,6 +173,9 @@
         "Baillif"
     ],
     "name:lit_x_preferred":[
+        "Baillif"
+    ],
+    "name:lld_x_preferred":[
         "Baillif"
     ],
     "name:ltz_x_preferred":[
@@ -247,6 +262,9 @@
     "name:swe_x_preferred":[
         "Baillif"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0439\u0438\u0444"
+    ],
     "name:tur_x_preferred":[
         "Baillif"
     ],
@@ -279,6 +297,9 @@
     ],
     "name:wol_x_preferred":[
         "Baillif"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4f0a\u592b"
     ],
     "name:zul_x_preferred":[
         "Baillif"
@@ -329,7 +350,7 @@
         }
     ],
     "wof:id":1125928443,
-    "wof:lastmodified":1566653218,
+    "wof:lastmodified":1690921958,
     "wof:name":"Baillif",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

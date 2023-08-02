@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.3388985,47.113032,15.3388985,47.113032",
+    "geom:bbox":"15.338899,47.113032,15.338899,47.113032",
     "geom:latitude":47.113032,
     "geom:longitude":15.338899,
     "gn:country":null,
@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Judendorf-Strassengel"
     ],
+    "name:che_x_preferred":[
+        "\u042e\u0434\u0435\u043d\u0434\u043e\u0440\u0444-\u0428\u0442\u0440\u0430\u0441\u0435\u043d\u0433\u0435\u043b\u044c"
+    ],
     "name:dan_x_preferred":[
         "Judendorf-Strassengel"
     ],
@@ -32,10 +35,16 @@
     "name:eng_x_preferred":[
         "Judendorf-Stra\u00dfengel"
     ],
+    "name:est_x_preferred":[
+        "Judendorf-Stra\u00dfengel"
+    ],
     "name:fas_x_preferred":[
         "\u06cc\u0648\u062f\u0646\u062f\u0648\u0631\u0641"
     ],
     "name:fra_x_preferred":[
+        "Judendorf-Stra\u00dfengel"
+    ],
+    "name:gle_x_preferred":[
         "Judendorf-Stra\u00dfengel"
     ],
     "name:hun_x_preferred":[
@@ -55,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Judendorf-Strassengel"
+    ],
+    "name:tat_x_preferred":[
+        "\u042e\u0434\u0435\u043d\u0434\u043e\u0440\u0444-\u0428\u0442\u0440\u0430\u0441\u0435\u043d\u0433\u0435\u043b\u044c"
     ],
     "name:uzb_x_preferred":[
         "Judendorf-Stra\u00dfengel"
@@ -108,7 +120,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497289962,
-    "wof:geomhash":"47a0953e2907ca39992b8faf35914d28",
+    "wof:geomhash":"bf472cb8ee2c28b9b8af26748445cc43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1125767881,
-    "wof:lastmodified":1566654517,
+    "wof:lastmodified":1690922051,
     "wof:name":"Judendorf-strassengel",
     "wof:parent_id":1108839197,
     "wof:placetype":"locality",
@@ -130,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.3388985,
+    15.338899,
     47.113032,
-    15.3388985,
+    15.338899,
     47.113032
 ],
-  "geometry": {"coordinates":[15.3388985,47.113032],"type":"Point"}
+  "geometry": {"coordinates":[15.338899,47.113032],"type":"Point"}
 }

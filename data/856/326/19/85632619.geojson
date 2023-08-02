@@ -77,6 +77,9 @@
     "name:chv_x_preferred":[
         "\u041a\u0443\u0440\u0438\u043b \u0443\u0442\u0440\u0430\u0432\u0115\u0441\u0435\u043c"
     ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u06af\u06d5\u06a9\u0627\u0646\u06cc \u06a9\u0648\u0631\u06cc\u0644"
+    ],
     "name:dan_x_preferred":[
         "Kurilerne"
     ],
@@ -116,6 +119,9 @@
     "name:fra_x_preferred":[
         "\u00eeles Kouriles"
     ],
+    "name:frr_x_preferred":[
+        "Kuriilen"
+    ],
     "name:fry_x_preferred":[
         "Koerilen"
     ],
@@ -142,6 +148,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0580\u056b\u056c\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Kurili"
     ],
     "name:ind_x_preferred":[
         "Kepulauan Kuril"
@@ -308,6 +317,9 @@
     ],
     "name:vls_x_preferred":[
         "Koerieln"
+    ],
+    "name:war_x_preferred":[
+        "Kapuropod-an Kuril"
     ],
     "name:wuu_x_preferred":[
         "\u5343\u5c9b\u7fa4\u5c9b"
@@ -486,7 +498,7 @@
         }
     ],
     "wof:id":85632619,
-    "wof:lastmodified":1616015340,
+    "wof:lastmodified":1690921929,
     "wof:name":"Kuril Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Ytre Enebakk"
     ],
+    "name:dan_x_preferred":[
+        "Ytre Enebakk"
+    ],
     "name:deu_x_preferred":[
         "Ytre Enebakk"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125830229,
-    "wof:lastmodified":1566654837,
+    "wof:lastmodified":1690922065,
     "wof:name":"Ytre-enebakk",
     "wof:parent_id":1159297449,
     "wof:placetype":"locality",

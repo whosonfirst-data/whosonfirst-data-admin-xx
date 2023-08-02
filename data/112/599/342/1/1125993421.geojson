@@ -43,6 +43,12 @@
     "name:hye_x_preferred":[
         "\u054c\u056b\u0576\u056f\u0578\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Rincon"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d"
+    ],
     "name:nld_x_preferred":[
         "Rincon"
     ],
@@ -53,6 +59,9 @@
         "Rincon"
     ],
     "name:pol_x_preferred":[
+        "Rincon"
+    ],
+    "name:por_x_preferred":[
         "Rincon"
     ],
     "name:rus_x_preferred":[
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1125993421,
-    "wof:lastmodified":1566653910,
+    "wof:lastmodified":1690922012,
     "wof:name":"Dorp Rinc\u00f3n",
     "wof:parent_id":85675535,
     "wof:placetype":"locality",

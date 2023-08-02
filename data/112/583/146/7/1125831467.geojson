@@ -20,16 +20,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0634\u062a\u064a\u067e\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
     ],
     "name:ceb_x_preferred":[
         "Be\u0219tepe"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
+    ],
     "name:eng_x_preferred":[
         "Be\u0219tepe"
     ],
     "name:fra_x_preferred":[
+        "Be\u0219tepe"
+    ],
+    "name:gle_x_preferred":[
         "Be\u0219tepe"
     ],
     "name:hun_x_preferred":[
@@ -44,6 +53,9 @@
     "name:nld_x_preferred":[
         "Be\u0219tepe"
     ],
+    "name:pol_x_preferred":[
+        "Be\u0219tepe"
+    ],
     "name:por_x_preferred":[
         "Be\u0219tepe"
     ],
@@ -51,6 +63,9 @@
         "Be\u0219tepe"
     ],
     "name:srp_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
+    ],
+    "name:tat_x_preferred":[
         "\u0411\u0435\u0448\u0442\u0435\u043f\u0435"
     ],
     "name:ukr_x_preferred":[
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1125831467,
-    "wof:lastmodified":1566654843,
+    "wof:lastmodified":1690922069,
     "wof:name":"Be\u0219tepe",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

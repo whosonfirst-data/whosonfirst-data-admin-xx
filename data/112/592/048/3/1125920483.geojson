@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.2134165,45.4921375,14.2134165,45.4921375",
+    "geom:bbox":"14.213416,45.492137,14.213416,45.492137",
     "geom:latitude":45.492137,
     "geom:longitude":14.213416,
     "gn:country":null,
@@ -23,6 +23,9 @@
     "name:bos_x_preferred":[
         "Starod"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0434"
+    ],
     "name:eng_x_preferred":[
         "Starod"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:hrv_x_preferred":[
         "Starod"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0434"
     ],
     "name:nld_x_preferred":[
         "Starod"
@@ -43,6 +49,9 @@
     ],
     "name:slv_x_preferred":[
         "Starod"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0434"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0434"
@@ -83,7 +92,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497296465,
-    "wof:geomhash":"c00bf0a5d1a04f644da046641abd8eef",
+    "wof:geomhash":"1e16d5ad9cf2a48a7afaecf24e65d40b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1125920483,
-    "wof:lastmodified":1566653217,
+    "wof:lastmodified":1690921958,
     "wof:name":"Starod",
     "wof:parent_id":1108959873,
     "wof:placetype":"locality",
@@ -104,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.2134165,
-    45.4921375,
-    14.2134165,
-    45.4921375
+    14.213416,
+    45.492137,
+    14.213416,
+    45.492137
 ],
-  "geometry": {"coordinates":[14.2134165,45.4921375],"type":"Point"}
+  "geometry": {"coordinates":[14.213416,45.492137],"type":"Point"}
 }

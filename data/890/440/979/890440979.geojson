@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Bazgoo"
     ],
+    "name:mar_x_preferred":[
+        "\u092c\u091d\u0917\u0941"
+    ],
     "name:nld_x_preferred":[
         "Bazgoo"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":890440979,
-    "wof:lastmodified":1672957787,
+    "wof:lastmodified":1690921946,
     "wof:name":"Bazgoo",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

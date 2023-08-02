@@ -132,6 +132,9 @@
     "name:jpn_x_variant":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10d9\u10d0\u10d9\u10e3\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc13c\uce74\ucfe0 \uc5f4\ub3c4"
     ],
@@ -146,6 +149,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u91e3\u9b5a\u81fa\u5217\u5dbc"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d46\u0d7b\u0d15\u0d3e\u0d15\u0d4d\u0d15\u0d41 \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
     ],
     "name:mon_x_preferred":[
         "\u0421\u044d\u043d\u043a\u0430\u043a\u04af"
@@ -186,6 +192,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u043a\u0430\u043a\u0443"
     ],
+    "name:ryu_x_preferred":[
+        "\u5c16\u95a3\u8af8\u5cf6"
+    ],
     "name:scn_x_preferred":[
         "\u00ccsuli Di\u00e0oy\u00fa"
     ],
@@ -208,8 +217,7 @@
         "Senkaku\u00f6arna"
     ],
     "name:swe_x_variant":[
-        "Omtvistat omr\u00e5de",
-        "Senkaku\u00f6arna"
+        "Omtvistat omr\u00e5de"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0ba9\u0bcd\u0b95\u0bbe\u0b95\u0bc1 \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
@@ -433,7 +441,7 @@
         }
     ],
     "wof:id":85632621,
-    "wof:lastmodified":1616193487,
+    "wof:lastmodified":1690921930,
     "wof:name":"Senkaku Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

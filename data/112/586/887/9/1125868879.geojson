@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
+    "name:epo_x_preferred":[
+        "Alah\u00e4rm\u00e4"
+    ],
     "name:est_x_preferred":[
         "Alah\u00e4rm\u00e4 vald"
     ],
@@ -36,6 +39,9 @@
         "Alah\u00e4rm\u00e4"
     ],
     "name:fra_x_preferred":[
+        "Alah\u00e4rm\u00e4"
+    ],
+    "name:gle_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
     "name:hun_x_preferred":[
@@ -56,8 +62,17 @@
     "name:sme_x_preferred":[
         "Alah\u00e4rm\u00e4"
     ],
+    "name:smn_x_preferred":[
+        "Alah\u00e4rm\u00e4"
+    ],
+    "name:sms_x_preferred":[
+        "Alah\u00e4rm\u00e4"
+    ],
     "name:swe_x_preferred":[
         "Alah\u00e4rm\u00e4"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6d77\u5c14\u8fc8"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Alah\u00e4rm\u00e4",
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1125868879,
-    "wof:lastmodified":1566653512,
+    "wof:lastmodified":1690921984,
     "wof:name":"Alah\u00e4rm\u00e4",
     "wof:parent_id":907199237,
     "wof:placetype":"locality",

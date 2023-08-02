@@ -29,11 +29,17 @@
     "name:ace_x_preferred":[
         "Pulo-pulo Falkland"
     ],
+    "name:afr_x_preferred":[
+        "Falkland-eilande"
+    ],
     "name:amh_x_preferred":[
         "\u134b\u120d\u12ad\u120b\u1295\u12f5 \u12f0\u1234\u1276\u127d"
     ],
     "name:ang_x_preferred":[
         "Folcland \u012aegland"
+    ],
+    "name:anp_x_preferred":[
+        "\u092b\u0949\u0915\u0932\u0948\u0923\u094d\u0921"
     ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0641\u0648\u0643\u0644\u0627\u0646\u062f"
@@ -47,6 +53,9 @@
     "name:ast_x_preferred":[
         "Islles Malvines"
     ],
+    "name:awa_x_preferred":[
+        "\u092b\u093c\u0949\u0915\u0932\u0948\u0902\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
     "name:azb_x_preferred":[
         "\u0641\u0627\u0644\u06a9\u0644\u0627\u0646\u062f \u0622\u062f\u0627\u0644\u0627\u0631\u06cc"
     ],
@@ -56,6 +65,12 @@
     "name:bak_x_preferred":[
         "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434 \u0443\u0442\u0440\u0430\u0443\u0499\u0430\u0440\u044b"
     ],
+    "name:ban_x_preferred":[
+        "Kapuloan Falkland"
+    ],
+    "name:bar_x_preferred":[
+        "Foiklandinsln"
+    ],
     "name:bcl_x_preferred":[
         "Islang Falkland"
     ],
@@ -64,6 +79,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ab\u0995\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u0995\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
     ],
     "name:bos_x_preferred":[
         "Falklandska ostrva"
@@ -86,17 +104,29 @@
     "name:ceb_x_preferred":[
         "Kapupud-ang Falkland"
     ],
+    "name:ces_x_preferred":[
+        "Falklandy"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u06af\u06d5\u06a9\u0627\u0646\u06cc \u0641\u06c6\u06b5\u06a9\u0644\u0627\u0646\u062f"
+    ],
     "name:cor_x_preferred":[
         "Ynysow Falkland"
     ],
     "name:cym_x_preferred":[
         "Ynysoedd y Falklands"
     ],
+    "name:dan_x_preferred":[
+        "Falklands\u00f8erne"
+    ],
     "name:deu_x_preferred":[
         "Falklandinseln"
     ],
     "name:div_x_preferred":[
         "\u078a\u07af\u078d\u07b0\u0786\u07aa\u078d\u07ad\u0782\u07b0\u0791\u07aa \u0796\u07a6\u0792\u07a9\u0783\u07a7"
+    ],
+    "name:dsb_x_preferred":[
+        "Falklandy"
     ],
     "name:dty_x_preferred":[
         "\u092b\u0915\u0932\u094d\u092f\u093e\u0923\u094d\u0921 \u091f\u093e\u092a\u0941"
@@ -113,9 +143,6 @@
     "name:eng_x_preferred":[
         "Falkland Islands"
     ],
-    "name:eng_x_variant":[
-        "Falkland Islands"
-    ],
     "name:epo_x_preferred":[
         "Insuloj Falklandoj"
     ],
@@ -125,11 +152,23 @@
     "name:eus_x_preferred":[
         "Falkland uharteak"
     ],
+    "name:fao_x_preferred":[
+        "Falklandsoyggjar"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f"
     ],
+    "name:fin_x_preferred":[
+        "Falklandinsaaret"
+    ],
     "name:fra_x_preferred":[
         "\u00eeles Malouines"
+    ],
+    "name:frr_x_preferred":[
+        "Falkland-Eilunen"
+    ],
+    "name:fry_x_preferred":[
+        "Falkl\u00e2neilannen"
     ],
     "name:gag_x_preferred":[
         "Falkland Adalar\u0131"
@@ -176,11 +215,17 @@
     "name:hye_x_preferred":[
         "\u0556\u0578\u056c\u056f\u056c\u0565\u0576\u0564\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
     ],
+    "name:ido_x_preferred":[
+        "Falklandi"
+    ],
     "name:ina_x_preferred":[
         "Insulas Falkland"
     ],
     "name:ind_x_preferred":[
         "Kepulauan Falkland"
+    ],
+    "name:isl_x_preferred":[
+        "Falklandseyjar"
     ],
     "name:ita_x_preferred":[
         "Isole Falkland"
@@ -209,8 +254,14 @@
     "name:kin_x_preferred":[
         "Ibirwa bya Folukilande"
     ],
+    "name:kir_x_preferred":[
+        "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4"
+    ],
+    "name:krj_x_preferred":[
+        "Kamalbinahan"
     ],
     "name:lat_x_preferred":[
         "Insulae Malvinae"
@@ -224,8 +275,14 @@
     "name:lij_x_preferred":[
         "Isoe Falkland"
     ],
+    "name:lim_x_preferred":[
+        "Falklandeilen"
+    ],
     "name:lit_x_preferred":[
         "Folklando Salos"
+    ],
+    "name:lld_x_preferred":[
+        "Ijules Falkland"
     ],
     "name:lmo_x_preferred":[
         "Isol Falkland"
@@ -235,6 +292,9 @@
     ],
     "name:ltz_x_preferred":[
         "Falkland Inselen"
+    ],
+    "name:lzh_x_preferred":[
+        "\u798f\u514b\u862d\u7fa4\u5cf6"
     ],
     "name:mal_x_preferred":[
         "\u0d2b\u0d4b\u0d15\u0d4d\u0d15\u0d4d\u200c\u0d32\u0d3e\u0d28\u0d4d\u0d31\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
@@ -251,20 +311,38 @@
     "name:mlt_x_preferred":[
         "G\u017cejjer Falkland"
     ],
+    "name:mon_x_preferred":[
+        "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u044b\u043d \u0430\u0440\u043b\u0443\u0443\u0434"
+    ],
+    "name:mri_x_preferred":[
+        "ng\u0101 Moutere Falkland"
+    ],
     "name:mrj_x_preferred":[
         "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434 \u043e\u0448\u043c\u0430\u043e\u0442\u044b\u0432\u043b\u04d3"
     ],
     "name:msa_x_preferred":[
         "Kepulauan Falkland"
     ],
+    "name:mzn_x_preferred":[
+        "\u0641\u0627\u0644\u06a9\u0644\u0646\u062f"
+    ],
     "name:nan_x_preferred":[
         "Falkland K\u00fbn-t\u00f3"
+    ],
+    "name:nds_x_preferred":[
+        "Falklandinseln"
     ],
     "name:nep_x_preferred":[
         "\u092b\u0915\u0932\u094d\u092f\u093e\u0923\u094d\u0921 \u091f\u093e\u092a\u0941"
     ],
     "name:nld_x_preferred":[
         "Falklandeilanden"
+    ],
+    "name:nno_x_preferred":[
+        "Falklands\u00f8yane"
+    ],
+    "name:nob_x_preferred":[
+        "Falklands\u00f8yene"
     ],
     "name:nov_x_preferred":[
         "Falklande Isles"
@@ -320,16 +398,22 @@
     "name:sgs_x_preferred":[
         "Malv\u0117nu salas"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u1030\u1087\u1075\u102f\u107c\u103a \u107e\u103d\u1075\u103a\u1089\u101c\u1085\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc6\u0ddd\u0dbd\u0dca\u0d9a\u0dca\u0dbd\u0dd1\u0db1\u0dca\u0da9\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Falklandy"
     ],
     "name:slv_x_preferred":[
         "Falklandski otoki"
     ],
-    "name:spa_x_preferred":[
-        "Islas Malvinas"
+    "name:sme_x_preferred":[
+        "Falklandsullot"
     ],
-    "name:spa_x_variant":[
+    "name:spa_x_preferred":[
         "Islas Malvinas"
     ],
     "name:sqi_x_preferred":[
@@ -340,6 +424,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0424\u043e\u043b\u043a\u043b\u0430\u043d\u0434\u0441\u043a\u0430 \u043e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:stq_x_preferred":[
+        "Falklound-Ailounde"
     ],
     "name:sun_x_preferred":[
         "Kapuloan Falkland"
@@ -365,6 +452,12 @@
     "name:tgl_x_preferred":[
         "Kapuluang Falkland"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e1f\u0e2d\u0e25\u0e4c\u0e01\u0e41\u0e25\u0e19\u0e14\u0e4c"
+    ],
+    "name:ton_x_preferred":[
+        "\u02bbOtumotu Fokulani"
+    ],
     "name:tur_x_preferred":[
         "Falkland Adalar\u0131"
     ],
@@ -386,6 +479,9 @@
     "name:uzb_x_preferred":[
         "Folklend orollari"
     ],
+    "name:vec_x_preferred":[
+        "\u00eczo\u0142e Malvine"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Falkland"
     ],
@@ -394,6 +490,9 @@
     ],
     "name:wol_x_preferred":[
         "Dunu Falkland"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5bcc\u514b\u6717\u7279\u7fa4\u5c9b"
     ],
     "name:xmf_x_preferred":[
         "\u10e4\u10dd\u10da\u10d9\u10da\u10d4\u10dc\u10d3\u10d8\u10e8 \u10d9\u10dd\u10d9\u10d4\u10e4\u10d8"
@@ -404,6 +503,9 @@
     "name:yor_x_preferred":[
         "\u00c0w\u1ecdn Er\u00e9k\u00f9\u1e63\u00f9 Falkland"
     ],
+    "name:yue_x_preferred":[
+        "\u798f\u514b\u862d\u7fa3\u5cf6"
+    ],
     "name:zho_cn_x_preferred":[
         "\u798f\u514b\u5170\u7fa4\u5c9b"
     ],
@@ -412,6 +514,9 @@
     ],
     "name:zho_x_preferred":[
         "\u798f\u514b\u5170\u7fa4\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u798f\u514b\u862d\u7fa4\u5cf6"
     ],
     "name:zul_x_preferred":[
         "Iziqhingi weFalkland"
@@ -585,7 +690,7 @@
         }
     ],
     "wof:id":1159339559,
-    "wof:lastmodified":1636497654,
+    "wof:lastmodified":1690922077,
     "wof:name":"Falkland Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

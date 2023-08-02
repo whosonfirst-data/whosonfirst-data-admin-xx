@@ -28,8 +28,32 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631 \u0637\u0648\u064a\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0626\u0631 \u0637\u0648\u064a\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0631 \u0637\u0648\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:aze_x_preferred":[
+        "Bir Tavil"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0 \u09a4\u09be\u0989\u0987\u09b2"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0440 \u0422\u0430\u0443\u0438\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:ces_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:dan_x_preferred":[
+        "Bir Tawil"
     ],
     "name:deu_x_preferred":[
         "Bir Tawil"
@@ -40,7 +64,25 @@
     "name:eng_x_preferred":[
         "Bir Tawil"
     ],
+    "name:epo_x_preferred":[
+        "Bir Ta\u016dil"
+    ],
+    "name:est_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631 \u0637\u0648\u06cc\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Bir Tawil"
+    ],
     "name:fra_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:frr_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:glg_x_preferred":[
         "Bir Tawil"
     ],
     "name:heb_x_preferred":[
@@ -48,6 +90,12 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u0940\u0930 \u0924\u093e\u0935\u093f\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0580-\u054f\u0561\u057e\u056b\u056c"
     ],
     "name:ind_x_preferred":[
         "Bir Tawil"
@@ -61,7 +109,25 @@
     "name:kor_x_preferred":[
         "\ube44\ub974 \ud0c0\uc70c"
     ],
+    "name:lit_x_preferred":[
+        "Bir Tavilis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d3f\u0d7c \u0d24\u0d3e\u0d35\u0d3f\u0d7d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0440 \u0422\u0430\u0432\u0438\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Bir Tawil"
+    ],
     "name:nld_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:nob_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:oci_x_preferred":[
         "Bir Tawil"
     ],
     "name:pol_x_preferred":[
@@ -70,17 +136,32 @@
     "name:por_x_preferred":[
         "Bir Tawil"
     ],
+    "name:rmy_x_preferred":[
+        "Bir Tawil"
+    ],
+    "name:ron_x_preferred":[
+        "Bir Tawil"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0440-\u0422\u0430\u0432\u0438\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "Bir Tawil"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0440 \u0422\u0430\u0432\u0438\u043b"
+    ],
     "name:swe_x_preferred":[
         "Bir Tawil"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e35\u0e23\u0e40\u0e0f\u0e32\u0e30\u0e27\u0e35\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Bir Tavil"
+    ],
+    "name:tur_x_variant":[
+        "Bir Tawil"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0440-\u0422\u0430\u0432\u0456\u043b\u044c"
@@ -249,7 +330,7 @@
         }
     ],
     "wof:id":1729889655,
-    "wof:lastmodified":1636497606,
+    "wof:lastmodified":1690921935,
     "wof:name":"Bir Tawil",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

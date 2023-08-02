@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "Karan Nagar"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u0930\u0928 \u0928\u0917\u0930"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb0\u0ba3\u0bcd \u0ba8\u0b95\u0bb0\u0bcd"
+    ],
     "qs:name":"Karan Nagar",
     "qs:name_adm0":"India",
     "qs:name_adm1":"Jammu and Kashmir",
@@ -33,12 +39,12 @@
     "qs:pop_sr":"0",
     "wd:wordcount":191,
     "wof:belongsto":[
-        1796791507,
         85632427,
         102191569,
         85632659,
         102028565,
         1108695707,
+        1796791507,
         85632469
     ],
     "wof:breaches":[],
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890442401,
-    "wof:lastmodified":1672959300,
+    "wof:lastmodified":1690921948,
     "wof:name":"Karan Nagar",
     "wof:parent_id":102028565,
     "wof:placetype":"neighbourhood",

@@ -52,6 +52,9 @@
     "name:bre_x_preferred":[
         "Le Port"
     ],
+    "name:bre_x_variant":[
+        "Ar Porzh"
+    ],
     "name:cat_x_preferred":[
         "Le Port"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:ces_x_preferred":[
         "Le Port"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0435-\u041f\u043e\u0433\u04c0"
     ],
     "name:cos_x_preferred":[
         "Le Port"
@@ -75,6 +81,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b5 \u03a0\u03bf\u03c1\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5 \u03a0\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Le Port"
@@ -187,6 +196,9 @@
     "name:lit_x_preferred":[
         "Le Port"
     ],
+    "name:lld_x_preferred":[
+        "Le Port"
+    ],
     "name:ltz_x_preferred":[
         "Le Port"
     ],
@@ -289,6 +301,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bc7 \u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435-\u041f\u043e\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c47 \u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d"
     ],
@@ -333,6 +348,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52d2\u6ce2\u723e\uff08\u7559\u5c3c\u65fa\u5cf6\uff09"
+    ],
+    "name:zho_x_variant":[
+        "\u52d2\u6ce2\u5c14"
     ],
     "name:zul_x_preferred":[
         "Le Port"
@@ -389,7 +407,7 @@
         }
     ],
     "wof:id":1125898415,
-    "wof:lastmodified":1566653640,
+    "wof:lastmodified":1690921997,
     "wof:name":"Le Port",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

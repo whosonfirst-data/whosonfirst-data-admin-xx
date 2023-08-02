@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0633\u064a\u06a4\u064a\u062a\u0633\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Sucevi\u021ba"
     ],
@@ -28,6 +31,12 @@
     ],
     "name:fra_x_preferred":[
         "Sucevi\u021ba"
+    ],
+    "name:gle_x_preferred":[
+        "Sucevi\u021ba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e6'\u05d1\u05d9\u05e6\u05d4"
     ],
     "name:hun_x_preferred":[
         "Sucevi\u021ba"
@@ -54,6 +63,9 @@
         "\u0421\u0443\u0447\u0435\u0432\u0438\u0446\u0430"
     ],
     "name:srp_x_preferred":[
+        "\u0421\u0443\u0447\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:tat_x_preferred":[
         "\u0421\u0443\u0447\u0435\u0432\u0438\u0446\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1125839407,
-    "wof:lastmodified":1566654839,
+    "wof:lastmodified":1690922067,
     "wof:name":"Sucevi\u021ba",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

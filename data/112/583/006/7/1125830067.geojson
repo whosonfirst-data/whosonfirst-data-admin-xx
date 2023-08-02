@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.7857915,45.889052,25.7857915,45.889052",
+    "geom:bbox":"25.785791,45.889052,25.785791,45.889052",
     "geom:latitude":45.889052,
     "geom:longitude":25.785791,
     "gn:country":null,
@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0643\u0648\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0643\u0648\u0634"
+    ],
     "name:ceb_x_preferred":[
         "Arcu\u0219"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u043a\u0443\u0448"
     ],
     "name:eng_x_preferred":[
         "Arcu\u0219"
@@ -32,7 +38,13 @@
     "name:epo_x_preferred":[
         "Arcu\u0219"
     ],
+    "name:eus_x_preferred":[
+        "\u00c1rkos"
+    ],
     "name:fra_x_preferred":[
+        "Arcu\u0219"
+    ],
+    "name:gle_x_preferred":[
         "Arcu\u0219"
     ],
     "name:hun_x_preferred":[
@@ -42,6 +54,9 @@
         "Arcu\u0219"
     ],
     "name:nld_x_preferred":[
+        "Arcu\u0219"
+    ],
+    "name:pol_x_preferred":[
         "Arcu\u0219"
     ],
     "name:por_x_preferred":[
@@ -94,7 +109,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497292459,
-    "wof:geomhash":"34b13cd3da664931b7ebc45a151c3cb9",
+    "wof:geomhash":"8e6533e636b5a1169bc6fb79c75854ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":1125830067,
-    "wof:lastmodified":1566654838,
+    "wof:lastmodified":1690922067,
     "wof:name":"Arcu\u0219",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",
@@ -114,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.7857915,
+    25.785791,
     45.889052,
-    25.7857915,
+    25.785791,
     45.889052
 ],
-  "geometry": {"coordinates":[25.7857915,45.889052],"type":"Point"}
+  "geometry": {"coordinates":[25.785791,45.889052],"type":"Point"}
 }

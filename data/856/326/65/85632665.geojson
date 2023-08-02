@@ -26,6 +26,9 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u064a\u0631\u0629"
+    ],
     "name:deu_x_preferred":[
         "Doumeira"
     ],
@@ -41,8 +44,14 @@
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
+    "name:ita_x_preferred":[
+        "Isole Doumeira"
+    ],
     "name:jpn_x_preferred":[
         "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10db\u10d4\u10d8\u10e0\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubd84\uc7c1\uc9c0\uc5ed"
@@ -246,7 +255,7 @@
         }
     ],
     "wof:id":85632665,
-    "wof:lastmodified":1616193485,
+    "wof:lastmodified":1690921930,
     "wof:name":"Doumeira Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

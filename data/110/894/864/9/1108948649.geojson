@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.94642491669,44.3997929421,8.94642491669,44.3997929421",
+    "geom:bbox":"8.946425,44.399793,8.946425,44.399793",
     "geom:latitude":44.399793,
     "geom:longitude":8.946425,
     "iso:country":"XX",
@@ -29,13 +29,22 @@
     "name:eng_x_preferred":[
         "Foce"
     ],
+    "name:fra_x_preferred":[
+        "Foce"
+    ],
     "name:ita_x_preferred":[
         "Foce"
+    ],
+    "name:lat_x_preferred":[
+        "Ad Fauces"
     ],
     "name:lij_x_preferred":[
         "F\u00f4xe"
     ],
     "name:nld_x_preferred":[
+        "Foce"
+    ],
+    "name:spa_x_preferred":[
         "Foce"
     ],
     "src:lbl_centroid":"mz",
@@ -53,7 +62,7 @@
     },
     "wof:country":"XX",
     "wof:created":1491367145,
-    "wof:geomhash":"f0506c2f220de97139d96755615a4ce4",
+    "wof:geomhash":"3487780e0a14d7149606859044c91440",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1108948649,
-    "wof:lastmodified":1566653148,
+    "wof:lastmodified":1690921943,
     "wof:name":"Foce",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",
@@ -76,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.94642491668654,
-    44.39979294209125,
-    8.94642491668654,
-    44.39979294209125
+    8.946425,
+    44.399793,
+    8.946425,
+    44.399793
 ],
-  "geometry": {"coordinates":[8.94642491668654,44.39979294209125],"type":"Point"}
+  "geometry": {"coordinates":[8.946425,44.399793],"type":"Point"}
 }

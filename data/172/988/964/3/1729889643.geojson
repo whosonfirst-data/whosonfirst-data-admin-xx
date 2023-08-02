@@ -25,14 +25,140 @@
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
     "mz:min_zoom":0.0,
+    "name:abk_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:ace_x_preferred":[
+        "Kosov\u00f4"
+    ],
+    "name:afr_x_preferred":[
+        "Kosowo"
+    ],
+    "name:aka_x_preferred":[
+        "Kosovo"
+    ],
+    "name:amh_x_preferred":[
+        "\u12ae\u1236\u126e"
+    ],
+    "name:ami_x_preferred":[
+        "Kosovo"
+    ],
+    "name:ang_x_preferred":[
+        "Kosovo"
+    ],
+    "name:anp_x_preferred":[
+        "\u0915\u094b\u0938\u094b\u0935\u094b"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0633\u0648\u0641\u0648"
+    ],
+    "name:arg_x_preferred":[
+        "Kosovo"
+    ],
+    "name:ary_x_preferred":[
+        "\u0643\u0648\u0633\u0648\u06a4\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0633\u0648\u0641\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Kosovu"
+    ],
+    "name:avk_x_preferred":[
+        "Kosovoa"
+    ],
+    "name:aym_x_preferred":[
+        "Kusuwu"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0632\u0648\u0648\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Kosovo"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:ban_x_preferred":[
+        "Kosovo"
+    ],
+    "name:bar_x_preferred":[
+        "Kosovo"
+    ],
+    "name:bcl_x_preferred":[
+        "Kosobo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u0441\u0430\u0432\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09b8\u09cb\u09ad\u09cb"
     ],
+    "name:bod_x_preferred":[
+        "\u0f41\u0f7c\u0f0b\u0f66\u0f7c\u0f0b\u0f5d\u0f7c\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Kosovo"
+    ],
+    "name:bre_x_preferred":[
+        "Kosovo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:bxr_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Kosovo"
+    ],
+    "name:cdo_x_preferred":[
+        "Kosovo"
+    ],
+    "name:ceb_x_preferred":[
+        "Kosobo"
+    ],
+    "name:ces_x_preferred":[
+        "Kosovo"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:chr_x_preferred":[
+        "\u13aa\u13d7\u13c9"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06c6\u0633\u06c6\u06a4\u06c6"
+    ],
+    "name:cor_x_preferred":[
+        "Kosova"
+    ],
+    "name:crh_x_preferred":[
+        "Kosovo"
+    ],
+    "name:csb_x_preferred":[
+        "K\u00f2sow\u00f2"
+    ],
+    "name:cym_x_preferred":[
+        "Kosovo"
+    ],
+    "name:dag_x_preferred":[
+        "Kosovo"
+    ],
+    "name:dan_x_preferred":[
+        "Kosovo"
+    ],
     "name:deu_x_preferred":[
         "Kosovo"
+    ],
+    "name:diq_x_preferred":[
+        "Kosova"
+    ],
+    "name:dsb_x_preferred":[
+        "Kosowo"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c3\u03c3\u03c5\u03c6\u03bf\u03c0\u03ad\u03b4\u03b9\u03bf"
@@ -40,32 +166,308 @@
     "name:eng_x_preferred":[
         "Kosovo"
     ],
+    "name:epo_x_preferred":[
+        "Kosovo"
+    ],
+    "name:est_x_preferred":[
+        "Kosovo"
+    ],
+    "name:eus_x_preferred":[
+        "Kosovo"
+    ],
+    "name:ext_x_preferred":[
+        "Cosovu"
+    ],
+    "name:fao_x_preferred":[
+        "Kosovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0632\u0648\u0648\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Kosovo"
+    ],
     "name:fra_x_preferred":[
+        "Kosovo"
+    ],
+    "name:frp_x_preferred":[
+        "Kosovo"
+    ],
+    "name:frr_x_preferred":[
+        "Kosovo"
+    ],
+    "name:fry_x_preferred":[
+        "Kosovo"
+    ],
+    "name:fur_x_preferred":[
+        "Kosovo"
+    ],
+    "name:gan_x_preferred":[
+        "\u79d1\u7d22\u6c83"
+    ],
+    "name:gcr_x_preferred":[
+        "Kosovo"
+    ],
+    "name:gla_x_preferred":[
+        "Cosobho"
+    ],
+    "name:gle_x_preferred":[
+        "An Chosaiv"
+    ],
+    "name:glg_x_preferred":[
+        "Kosovo"
+    ],
+    "name:glv_x_preferred":[
+        "Kosovo"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf3a\ud800\udf30\ud800\udf3f\ud800\udf43\ud800\udf49\ud800\udf31\ud800\udf49"
+    ],
+    "name:gpe_x_preferred":[
+        "Kosovo"
+    ],
+    "name:grn_x_preferred":[
+        "Kosovo"
+    ],
+    "name:gsw_x_preferred":[
+        "Kosovo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0ab8\u0acb\u0ab5\u0acb"
+    ],
+    "name:hak_x_preferred":[
+        "Kh\u00f4-s\u00f2-vok"
+    ],
+    "name:hat_x_preferred":[
         "Kosovo"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e1\u05d5\u05d1\u05d5"
     ],
+    "name:hif_x_preferred":[
+        "Kosovo"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0938\u094b\u0935\u094b \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:hrv_x_preferred":[
+        "Kosovo"
+    ],
+    "name:hsb_x_preferred":[
+        "Kosowo"
     ],
     "name:hun_x_preferred":[
         "Koszov\u00f3"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u057d\u0578\u057e\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0578\u057d\u0578\u057e\u0585"
+    ],
+    "name:ibo_x_preferred":[
+        "Kosovo"
+    ],
+    "name:ido_x_preferred":[
+        "Kosovo"
+    ],
+    "name:ile_x_preferred":[
+        "Kosovo"
+    ],
+    "name:ina_x_preferred":[
+        "Kosovo"
+    ],
     "name:ind_x_preferred":[
         "Kosovo"
     ],
+    "name:isl_x_preferred":[
+        "Kos\u00f3v\u00f3"
+    ],
     "name:ita_x_preferred":[
+        "Kosovo"
+    ],
+    "name:jav_x_preferred":[
         "Kosovo"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30bd\u30dc\u5171\u548c\u56fd"
     ],
+    "name:kaa_x_preferred":[
+        "Kosovo"
+    ],
+    "name:kab_x_preferred":[
+        "Kosovo"
+    ],
+    "name:kal_x_preferred":[
+        "Kosovo"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cca\u0cb8\u0cca\u0cb5\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:kbd_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:kin_x_preferred":[
+        "Kosovo"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:kom_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\uc18c\ubcf4"
     ],
+    "name:ksh_x_preferred":[
+        "Kosovo"
+    ],
+    "name:kur_x_preferred":[
+        "Kosova"
+    ],
+    "name:lad_x_preferred":[
+        "Kosovo"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec2\u0e81\u0ec2\u0e8a\u0ec2\u0ea7"
+    ],
+    "name:lat_x_preferred":[
+        "Kosovia"
+    ],
+    "name:lav_x_preferred":[
+        "Kosova"
+    ],
+    "name:lbe_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Cosovo"
+    ],
+    "name:lij_x_preferred":[
+        "Kosovo"
+    ],
+    "name:lim_x_preferred":[
+        "Kosovo"
+    ],
+    "name:lit_x_preferred":[
+        "Kosovas"
+    ],
+    "name:lld_x_preferred":[
+        "Kosovo"
+    ],
+    "name:lmo_x_preferred":[
+        "Kosovo"
+    ],
+    "name:lrc_x_preferred":[
+        "\u06a9\u0648\u0632\u0648\u06a4\u0648"
+    ],
+    "name:ltz_x_preferred":[
+        "Kosovo"
+    ],
+    "name:lzh_x_preferred":[
+        "\u79d1\u7d22\u6c83"
+    ],
+    "name:mad_x_preferred":[
+        "Kosovo"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4a\u0d38\u0d4b\u0d35\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u0938\u094b\u0935\u094d\u0939\u094b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:mlg_x_preferred":[
+        "K\u00f4s\u00f4v\u00f4"
+    ],
+    "name:mlt_x_preferred":[
+        "Kosovo"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc0\uabe3\uabc1\uabe3\uabda\uabe3"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Kosovo"
+    ],
+    "name:mwl_x_preferred":[
+        "Kosobo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u102d\u102f\u1006\u102d\u102f\u1017\u102d\u102f\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:myv_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0648\u0632\u0648\u0648"
+    ],
+    "name:nah_x_preferred":[
+        "Cosovo"
+    ],
+    "name:nan_x_preferred":[
+        "Kosovo"
+    ],
+    "name:nau_x_preferred":[
+        "Kosovo"
+    ],
+    "name:nds_x_preferred":[
+        "Kosovo"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094b\u0938\u094b\u092d\u094b"
+    ],
     "name:nld_x_preferred":[
         "Kosovo"
+    ],
+    "name:nno_x_preferred":[
+        "Kosovo"
+    ],
+    "name:nob_x_preferred":[
+        "Kosovo"
+    ],
+    "name:nov_x_preferred":[
+        "Kosovo"
+    ],
+    "name:nrm_x_preferred":[
+        "Kosovo"
+    ],
+    "name:oci_x_preferred":[
+        "Kosova"
+    ],
+    "name:orm_x_preferred":[
+        "Kosoovoo"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a4b\u0a38\u0a4b\u0a35\u0a4b \u0a17\u0a23\u0a30\u0a3e\u0a1c"
+    ],
+    "name:pap_x_preferred":[
+        "Kosovo"
+    ],
+    "name:pcd_x_preferred":[
+        "Kosovo"
+    ],
+    "name:pms_x_preferred":[
+        "Kosovo"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u0633\u0648\u0648\u0648"
+    ],
+    "name:pnt_x_preferred":[
+        "\u039a\u03cc\u03c3\u03bf\u03b2\u03bf"
     ],
     "name:pol_x_preferred":[
         "Kosowo"
@@ -73,14 +475,137 @@
     "name:por_x_preferred":[
         "Kosovo"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0632\u0648\u0648"
+    ],
+    "name:que_x_preferred":[
+        "Kusuwu"
+    ],
+    "name:rmy_x_preferred":[
+        "Kosovo"
+    ],
+    "name:roh_x_preferred":[
+        "Cosovo"
+    ],
+    "name:ron_x_preferred":[
+        "Kosovo"
+    ],
+    "name:rue_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:rup_x_preferred":[
+        "Cosova"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:sah_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c73\u1c65\u1c73\u1c75\u1c77\u1c73"
+    ],
+    "name:scn_x_preferred":[
+        "K\u00f2ssuvu"
+    ],
+    "name:sco_x_preferred":[
+        "Kosovo"
+    ],
+    "name:sgs_x_preferred":[
+        "Kuosuovs"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u1030\u101d\u103a\u1087\u101e\u1030\u101d\u103a\u1087\u101d\u1030\u101d\u103a\u1087"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dc3\u0ddd\u0dc0\u0ddc"
+    ],
+    "name:slk_x_preferred":[
+        "Kosovo"
+    ],
+    "name:slv_x_preferred":[
+        "Kosovo"
+    ],
+    "name:sme_x_preferred":[
+        "Kosovo"
+    ],
+    "name:smn_x_preferred":[
+        "Kosovo"
+    ],
+    "name:smo_x_preferred":[
+        "Kosovo"
+    ],
+    "name:sms_x_preferred":[
+        "Kosovo"
+    ],
+    "name:sna_x_preferred":[
+        "Kosovo"
+    ],
+    "name:som_x_preferred":[
+        "Kosofo"
     ],
     "name:spa_x_preferred":[
         "Kosovo"
     ],
+    "name:sqi_x_preferred":[
+        "Kosov\u00eb"
+    ],
+    "name:srd_x_preferred":[
+        "K\u00f2ssovu"
+    ],
+    "name:srn_x_preferred":[
+        "Kosovokondre"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:stq_x_preferred":[
+        "Kosovo"
+    ],
+    "name:sun_x_preferred":[
+        "Kosovo"
+    ],
+    "name:swa_x_preferred":[
+        "Kosovo"
+    ],
     "name:swe_x_preferred":[
         "Kosovo"
+    ],
+    "name:szl_x_preferred":[
+        "Kosowo"
+    ],
+    "name:szy_x_preferred":[
+        "Kosovo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0b9a\u0bcb\u0bb5\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u043e \u0496\u04e9\u043c\u04bb\u04af\u0440\u0438\u044f\u0442\u0435"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4a\u0c38\u0c3e\u0c35\u0c4b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:tgl_x_preferred":[
+        "Kosovo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e04\u0e2d\u0e0b\u0e2d\u0e27\u0e2d"
+    ],
+    "name:tok_x_preferred":[
+        "ma Kosowa"
+    ],
+    "name:ton_x_preferred":[
+        "K\u014dsovo"
+    ],
+    "name:tso_x_preferred":[
+        "Kosovo"
+    ],
+    "name:tuk_x_preferred":[
+        "Kosowo"
     ],
     "name:tur_x_preferred":[
         "Kosova"
@@ -91,7 +616,49 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0633\u0648\u0648\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Kosovo"
+    ],
+    "name:vec_x_preferred":[
+        "Kosovo"
+    ],
     "name:vie_x_preferred":[
+        "Kosovo"
+    ],
+    "name:vls_x_preferred":[
+        "Kosovo"
+    ],
+    "name:vol_x_preferred":[
+        "Kosov\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Kosovo"
+    ],
+    "name:war_x_preferred":[
+        "Kosovo"
+    ],
+    "name:wln_x_preferred":[
+        "Kosovo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u7d22\u6c83"
+    ],
+    "name:xal_x_preferred":[
+        "\u041a\u043e\u0441\u043e\u0432\u0438\u043d \u0422\u0430\u04a3\u04bb\u0447"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10dd\u10d5\u10dd"
+    ],
+    "name:yor_x_preferred":[
+        "K\u00f3s\u00f3f\u00f2"
+    ],
+    "name:yue_x_preferred":[
+        "\u79d1\u7d22\u6c83"
+    ],
+    "name:zea_x_preferred":[
+        "Kosovo"
+    ],
+    "name:zha_x_preferred":[
         "Kosovo"
     ],
     "name:zho_x_preferred":[
@@ -263,7 +830,7 @@
         }
     ],
     "wof:id":1729889643,
-    "wof:lastmodified":1617307086,
+    "wof:lastmodified":1690921937,
     "wof:name":"Kosovo",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

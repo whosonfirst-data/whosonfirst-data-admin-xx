@@ -28,6 +28,9 @@
     "name:arg_x_preferred":[
         "Le Tampon"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0649 \u062a\u0627\u0645\u067e\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Le Tampon"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:bar_x_preferred":[
         "Le Tampon"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cd\u09af \u09a4\u0981\u09aa\u09cb\u0981"
     ],
     "name:bre_x_preferred":[
         "Le Tampon"
@@ -52,6 +58,12 @@
     "name:ces_x_preferred":[
         "Le Tampon"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435-\u0422\u0430\u043c\u043f\u043e\u043d"
+    ],
+    "name:chv_x_preferred":[
+        "\u041b\u0435-\u0422\u0430\u043c\u043f\u043e\u043d"
+    ],
     "name:cos_x_preferred":[
         "Le Tampon"
     ],
@@ -63,6 +75,9 @@
     ],
     "name:deu_x_preferred":[
         "Le Tampon"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u03a4\u03b1\u03bc\u03c0\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Le Tampon"
@@ -158,6 +173,9 @@
         "Le Tampon"
     ],
     "name:lit_x_preferred":[
+        "Le Tampon"
+    ],
+    "name:lld_x_preferred":[
         "Le Tampon"
     ],
     "name:ltz_x_preferred":[
@@ -347,7 +365,7 @@
         }
     ],
     "wof:id":1126012291,
-    "wof:lastmodified":1566654225,
+    "wof:lastmodified":1690922032,
     "wof:name":"Le Tampon",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

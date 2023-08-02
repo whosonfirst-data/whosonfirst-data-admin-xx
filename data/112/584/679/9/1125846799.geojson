@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0631\u0648\u0641\u0646\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0641\u0646\u064a\u0643"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09ac\u09cd\u09b0\u09ad\u09a8\u09bf\u0995"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ces_x_preferred":[
         "Ob\u010dina Dobrovnik"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
     ],
     "name:dan_x_preferred":[
         "Dobrovnik"
@@ -68,6 +74,9 @@
     "name:hun_x_preferred":[
         "Dobronak"
     ],
+    "name:hun_x_variant":[
+        "Lendvav\u00e1s\u00e1rhely"
+    ],
     "name:ind_x_preferred":[
         "Dobrovnik"
     ],
@@ -83,6 +92,9 @@
     "name:kor_x_preferred":[
         "\ub3c4\ube0c\ub85c\ube0c\ub2c8\ud06c"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\ube0c\ub85c\uc6b0\ub2c8\ud06c"
+    ],
     "name:lav_x_preferred":[
         "Dubrovnika"
     ],
@@ -91,6 +103,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0921\u094b\u092c\u094d\u0930\u093e\u0928\u093f\u0915"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
     ],
     "name:msa_x_preferred":[
         "Dobrovnik"
@@ -134,11 +149,17 @@
     "name:tam_x_preferred":[
         "\u0b9f\u0bc2\u0baa\u0bcd\u0bb0\u0bcb\u0bb5\u0bcd\u0ba9\u0bbf\u0b95\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c2c\u0c4d\u0c30\u0c4b\u0c35\u0c4d\u0c28\u0c3f\u0c15\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e39\u0e1a\u0e23\u0e2d\u0e1f\u0e19\u0e34\u0e01"
+    ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e2d\u0e1a\u0e23\u0e2d\u0e27\u0e4c\u0e19\u0e34\u0e01"
     ],
     "name:tur_x_preferred":[
         "Dobrovnik"
@@ -154,6 +175,9 @@
     ],
     "name:vie_x_preferred":[
         "Dobrovnik"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5e03\u7f85\u592b\u5c3c\u514b"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Dobrovnik",
@@ -202,7 +226,7 @@
         }
     ],
     "wof:id":1125846799,
-    "wof:lastmodified":1636497652,
+    "wof:lastmodified":1690922058,
     "wof:name":"Dobrovnik",
     "wof:parent_id":1108959691,
     "wof:placetype":"locality",

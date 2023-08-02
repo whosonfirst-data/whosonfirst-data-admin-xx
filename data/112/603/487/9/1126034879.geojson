@@ -49,6 +49,9 @@
     "name:ces_x_preferred":[
         "Ducos"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u0443\u044c\u043a\u043e"
+    ],
     "name:cos_x_preferred":[
         "Ducos"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:deu_x_preferred":[
         "Ducos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c5\u03ba\u03cc"
     ],
     "name:eng_x_preferred":[
         "Ducos"
@@ -152,6 +158,9 @@
         "Ducos"
     ],
     "name:lit_x_preferred":[
+        "Ducos"
+    ],
+    "name:lld_x_preferred":[
         "Ducos"
     ],
     "name:ltz_x_preferred":[
@@ -320,7 +329,7 @@
         }
     ],
     "wof:id":1126034879,
-    "wof:lastmodified":1566653443,
+    "wof:lastmodified":1690921982,
     "wof:name":"Ducos",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

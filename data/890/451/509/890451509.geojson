@@ -27,6 +27,9 @@
     "name:fra_x_preferred":[
         "Rehambal"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0939\u092e\u092c\u0932"
+    ],
     "name:ita_x_preferred":[
         "Rehambal"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890451509,
-    "wof:lastmodified":1672958946,
+    "wof:lastmodified":1690921950,
     "wof:name":"Rehambal",
     "wof:parent_id":890506051,
     "wof:placetype":"locality",

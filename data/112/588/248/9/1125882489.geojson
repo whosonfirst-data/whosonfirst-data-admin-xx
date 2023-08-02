@@ -49,6 +49,9 @@
     "name:ces_x_preferred":[
         "Rivi\u00e8re-Sal\u00e9e"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u04c0\u0438\u0432\u044c\u0435\u0433\u04c0-\u0421\u0430\u043b\u0435"
+    ],
     "name:cos_x_preferred":[
         "Rivi\u00e8re-Sal\u00e9e"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:deu_x_preferred":[
         "Rivi\u00e8re-Sal\u00e9e"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b2\u03b9\u03ad\u03c1-\u03a3\u03b1\u03bb\u03ad"
     ],
     "name:eng_x_preferred":[
         "Rivi\u00e8re-Sal\u00e9e"
@@ -155,6 +161,9 @@
         "Rivi\u00e8re-Sal\u00e9e"
     ],
     "name:lit_x_preferred":[
+        "Rivi\u00e8re-Sal\u00e9e"
+    ],
+    "name:lld_x_preferred":[
         "Rivi\u00e8re-Sal\u00e9e"
     ],
     "name:ltz_x_preferred":[
@@ -268,6 +277,9 @@
     "name:wol_x_preferred":[
         "Rivi\u00e8re-Sal\u00e9e"
     ],
+    "name:zho_x_preferred":[
+        "\u91cc\u7ef4\u8036\u5c14\u8428\u83b1"
+    ],
     "name:zul_x_preferred":[
         "Rivi\u00e8re-Sal\u00e9e"
     ],
@@ -322,7 +334,7 @@
         }
     ],
     "wof:id":1125882489,
-    "wof:lastmodified":1566653522,
+    "wof:lastmodified":1690921992,
     "wof:name":"Rivi\u00e8re-Sal\u00e9e",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

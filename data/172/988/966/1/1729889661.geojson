@@ -46,11 +46,23 @@
     "name:eus_x_preferred":[
         "\u0160arengradeko uhartea"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e8\u05e0\u05d2\u05e8\u05d3"
+    ],
     "name:hrv_x_preferred":[
         "\u0160arengradska ada"
     ],
     "name:ita_x_preferred":[
         "Isola di \u0160arengrad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30ec\u30f3\u30b0\u30e9\u30fc\u30c9\u5cf6"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u0410\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Island of \u0160arengrad"
     ],
     "name:nno_x_preferred":[
         "\u0160arengradska ada"
@@ -60,6 +72,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434 (\u043e\u0441\u0442\u0440\u043e\u0432)"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0430\u0440\u0435\u043d\u0433\u0440\u0430\u0434"
+    ],
+    "name:slv_x_preferred":[
+        "Otok \u0160arengrad"
     ],
     "name:spa_x_preferred":[
         "Isla de \u0160arengrad"
@@ -201,7 +219,7 @@
         }
     ],
     "wof:id":1729889661,
-    "wof:lastmodified":1617307083,
+    "wof:lastmodified":1690921938,
     "wof:name":"Sarengrad Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

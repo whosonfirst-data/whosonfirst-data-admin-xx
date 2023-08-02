@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0646\u0627\u0641\u0627\u0633\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u0646\u0627\u0641\u0627\u0633\u0627"
+    ],
     "name:aze_x_preferred":[
         "Navassa adas\u0131"
     ],
@@ -143,9 +146,6 @@
     "name:ita_x_preferred":[
         "isola Navassa"
     ],
-    "name:ita_x_variant":[
-        "isola Navassa"
-    ],
     "name:jav_x_preferred":[
         "Pulo Navassa"
     ],
@@ -165,9 +165,6 @@
         "\u041d\u0430\u0432\u0430\u0441\u0441\u0430 \u0430\u0440\u0430\u043b\u044b"
     ],
     "name:kor_x_preferred":[
-        "\ub098\ubc30\uc0ac\uc12c"
-    ],
-    "name:kor_x_variant":[
         "\ub098\ubc30\uc0ac\uc12c"
     ],
     "name:lav_x_preferred":[
@@ -215,6 +212,9 @@
     "name:pan_x_preferred":[
         "\u0a28\u0a35\u0a3e\u0a38 \u0a1f\u0a3e\u0a2a\u0a42"
     ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0627\u0648\u0627\u0633\u0627"
+    ],
     "name:pol_x_preferred":[
         "Navassa"
     ],
@@ -260,8 +260,14 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bb5\u0bbe\u0b9a\u0bbe \u0ba4\u0bc0\u0bb5\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0441\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c35\u0c3e\u0c38\u0c3e \u0c26\u0c40\u0c35\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Islang Navassa"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e19\u0e32\u0e41\u0e27\u0e2a\u0e0b\u0e32"
@@ -277,6 +283,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0627\u0648\u0627\u0633\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "\u00cczo\u0142a Navassa"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Navassa"
@@ -462,7 +471,7 @@
         }
     ],
     "wof:id":1159339573,
-    "wof:lastmodified":1616193484,
+    "wof:lastmodified":1690922088,
     "wof:name":"Navassa Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

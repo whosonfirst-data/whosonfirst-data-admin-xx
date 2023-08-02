@@ -28,6 +28,9 @@
     "name:ces_x_preferred":[
         "Yavuzsinan"
     ],
+    "name:che_x_preferred":[
+        "\u0419\u0430\u0432\u0443\u0437\u0441\u0438\u043d\u0430\u043d"
+    ],
     "name:dan_x_preferred":[
         "Yavuzsinan"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1126068463,
-    "wof:lastmodified":1566654199,
+    "wof:lastmodified":1690922031,
     "wof:name":"Yavuz Sinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -43,6 +43,9 @@
     "name:fin_x_preferred":[
         "Karayollar\u0131"
     ],
+    "name:fra_x_preferred":[
+        "Karayollar\u0131"
+    ],
     "name:glg_x_preferred":[
         "Karayollar\u0131"
     ],
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1126078329,
-    "wof:lastmodified":1566654271,
+    "wof:lastmodified":1690922035,
     "wof:name":"Karayollari",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -28,11 +28,44 @@
     "name:ara_x_preferred":[
         "\u0645\u062b\u0644\u062b \u062d\u0644\u0627\u064a\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0644\u0627\u064a\u0628 \u0648\u0634\u0644\u0627\u062a\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "H\u0259laib \u00dc\u00e7buca\u011f\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0438\u0431\u0441\u043a\u0438 \u0442\u0440\u0438\u044a\u0433\u044a\u043b\u043d\u0438\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Triangle d'Halaib"
+    ],
+    "name:ceb_x_preferred":[
+        "Hala'ib Triangle"
+    ],
+    "name:ces_x_preferred":[
+        "Halaibsk\u00fd troj\u00faheln\u00edk"
+    ],
+    "name:dan_x_preferred":[
+        "Hala'ib Trekanten"
+    ],
     "name:deu_x_preferred":[
         "Hala\u2019ib-Dreieck"
     ],
     "name:eng_x_preferred":[
         "Halaib Triangle"
+    ],
+    "name:eng_x_variant":[
+        "Hala'ib Triangle"
+    ],
+    "name:epo_x_preferred":[
+        "Triangulo Halaib"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062b\u0644\u062b \u062d\u0644\u0627\u06cc\u0628"
+    ],
+    "name:fin_x_preferred":[
+        "Hala'ibin kolmio"
     ],
     "name:fra_x_preferred":[
         "Triangle de Hala'ib"
@@ -52,11 +85,26 @@
     "name:kor_x_preferred":[
         "\ud560\ub77c\uc785 \ud2b8\ub77c\uc774\uc575\uae00"
     ],
+    "name:kor_x_variant":[
+        "\ud560\ub77c\uc774\ube0c \ud2b8\ub77c\uc774\uc575\uae00"
+    ],
+    "name:lit_x_preferred":[
+        "Halaibo trikampis"
+    ],
     "name:nld_x_preferred":[
         "Hala'ib-driehoek"
     ],
+    "name:nob_x_preferred":[
+        "Hala'ib-triangelet"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u062b\u0644\u062b \u062d\u0644\u0627\u06cc\u0628"
+    ],
     "name:pol_x_preferred":[
         "Tr\u00f3jk\u0105t Hala\u2019ib"
+    ],
+    "name:pol_x_variant":[
+        "Tr\u00f3jk\u0105t Hala'ib"
     ],
     "name:por_x_preferred":[
         "Tri\u00e2ngulo de Hala'ib"
@@ -66,6 +114,9 @@
     ],
     "name:spa_x_preferred":[
         "Tri\u00e1ngulo de Hala'ib"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0438\u0431 \u0442\u0440\u043e\u0443\u0433\u0430\u043e"
     ],
     "name:swe_x_preferred":[
         "Hala'ibtriangeln"
@@ -242,7 +293,7 @@
         }
     ],
     "wof:id":1729889657,
-    "wof:lastmodified":1617307087,
+    "wof:lastmodified":1690921933,
     "wof:name":"Halaib Triangle",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

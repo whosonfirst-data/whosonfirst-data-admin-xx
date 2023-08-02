@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Shockoe Bottom"
     ],
+    "name:nld_x_preferred":[
+        "Shockoe Bottom"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Shockoe Bottom",
     "qs_pg:name_adm0":"United States",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1126103647,
-    "wof:lastmodified":1566653322,
+    "wof:lastmodified":1690921963,
     "wof:name":"Shockoe Bottom",
     "wof:parent_id":101728675,
     "wof:placetype":"neighbourhood",

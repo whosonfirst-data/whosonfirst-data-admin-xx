@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0622\u0642\u0627\u0646\u0627 \u0647\u0626\u06cc\u0642\u062a\u0633"
+    ],
     "name:ceb_x_preferred":[
         "Agana Heights Municipality"
     ],
@@ -53,6 +56,9 @@
     "name:por_x_preferred":[
         "Agana Heights"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u043d\u044c\u044f-\u0425\u0435\u0439\u0442\u0441"
+    ],
     "name:spa_x_preferred":[
         "Altos de Aga\u00f1a"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:war_x_preferred":[
         "Agana Heights"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u52a0\u7d0d\u9ad8\u5730"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Agana Heights",
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125852779,
-    "wof:lastmodified":1566654518,
+    "wof:lastmodified":1690922052,
     "wof:name":"Agana Heights",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",

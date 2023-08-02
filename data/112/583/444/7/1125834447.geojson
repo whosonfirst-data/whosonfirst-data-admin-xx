@@ -20,8 +20,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0633\u064a\u0634\u062a\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Dese\u0219ti"
+    ],
+    "name:ces_x_preferred":[
+        "Dese\u0219ti"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0435\u0441\u0435\u0448\u0442\u044c"
     ],
     "name:deu_x_preferred":[
         "Dese\u0219ti"
@@ -33,6 +42,9 @@
         "Dese\u0219ti"
     ],
     "name:fra_x_preferred":[
+        "Dese\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Dese\u0219ti"
     ],
     "name:hun_x_preferred":[
@@ -47,14 +59,23 @@
     "name:nld_x_preferred":[
         "Dese\u0219ti"
     ],
+    "name:pol_x_preferred":[
+        "Dese\u0219ti"
+    ],
     "name:por_x_preferred":[
         "Dese\u0219ti"
     ],
     "name:ron_x_preferred":[
         "Dese\u0219ti"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0441\u0435\u0448\u0442\u0438"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0441\u0435\u0448\u0442\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0435\u0441\u0435\u0448\u0442\u044c"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0441\u0435\u0448\u0442\u044c"
@@ -110,7 +131,7 @@
         }
     ],
     "wof:id":1125834447,
-    "wof:lastmodified":1566654840,
+    "wof:lastmodified":1690922068,
     "wof:name":"Dese\u0219ti",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

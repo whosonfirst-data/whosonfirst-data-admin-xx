@@ -26,10 +26,16 @@
     "name:ceb_x_preferred":[
         "Ivan\u010dna Gorica"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u044f"
+    ],
     "name:eng_x_preferred":[
         "Ivan\u010dna Gorica"
     ],
     "name:fra_x_preferred":[
+        "Ivan\u010dna Gorica"
+    ],
+    "name:hrv_x_preferred":[
         "Ivan\u010dna Gorica"
     ],
     "name:nld_x_preferred":[
@@ -47,8 +53,17 @@
     "name:srp_x_preferred":[
         "\u0418\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u044f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e27\u0e32\u0e19\u0e0a\u0e19\u0e32\u0e01\u0e2d\u0e23\u0e35\u0e15\u0e0b\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u0447\u043d\u0430 \u0413\u043e\u0440\u0438\u0446\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u842c\u5947\u7d0d\u6208\u91cc\u5bdf"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Ivan\u010dna Gorica",
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":1125779839,
-    "wof:lastmodified":1566654828,
+    "wof:lastmodified":1690922061,
     "wof:name":"Ivan\u010dna Gorica",
     "wof:parent_id":1108959583,
     "wof:placetype":"locality",

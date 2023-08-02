@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Pivka"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0438\u0432\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Pivka"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:hun_x_preferred":[
         "Pivka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0432\u043a\u0430"
     ],
     "name:nld_x_preferred":[
         "Pivka"
@@ -62,11 +68,23 @@
     "name:swe_x_preferred":[
         "Pivka"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u0432\u043a\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e35\u0e27\u0e01\u0e32"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043a\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0438\u0432\u043a\u0430"
+    ],
     "name:vie_x_preferred":[
         "Pivka"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u592b\u5361"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Pivka",
@@ -115,7 +133,7 @@
         }
     ],
     "wof:id":1125768479,
-    "wof:lastmodified":1636497646,
+    "wof:lastmodified":1690922050,
     "wof:name":"Pivka",
     "wof:parent_id":1108959587,
     "wof:placetype":"locality",

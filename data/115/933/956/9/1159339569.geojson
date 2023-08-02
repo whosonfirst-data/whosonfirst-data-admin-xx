@@ -104,6 +104,9 @@
     "name:fin_x_preferred":[
         "Wake"
     ],
+    "name:fin_x_variant":[
+        "Wakensaari"
+    ],
     "name:fra_x_preferred":[
         "Wake"
     ],
@@ -170,9 +173,6 @@
     "name:kor_x_preferred":[
         "\uc6e8\uc774\ud06c\uc12c"
     ],
-    "name:kor_x_variant":[
-        "\uc6e8\uc774\ud06c\uc12c"
-    ],
     "name:kur_x_preferred":[
         "Girava Wake"
     ],
@@ -190,6 +190,9 @@
     ],
     "name:lit_x_preferred":[
         "Veiko sala"
+    ],
+    "name:mah_x_preferred":[
+        "\u0100nen Kio"
     ],
     "name:mal_x_preferred":[
         "\u0d35\u0d47\u0d15\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
@@ -217,6 +220,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a35\u0a47\u0a15 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u06cc\u06a9 \u062c\u0632\u06cc\u0631\u06c1"
     ],
     "name:pol_x_preferred":[
         "Wake"
@@ -254,11 +260,17 @@
     "name:sun_x_preferred":[
         "Pulo Wake"
     ],
+    "name:swa_x_preferred":[
+        "Kisiwa cha Wake"
+    ],
     "name:swe_x_preferred":[
         "Wake"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bc7\u0b95\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0423\u044d\u0439\u043a \u0430\u0442\u043e\u043b\u043b\u044b"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c47\u0c15\u0c4d \u0c26\u0c40\u0c35\u0c3f"
@@ -269,6 +281,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e40\u0e27\u0e01"
     ],
+    "name:ton_x_preferred":[
+        "Ueke"
+    ],
     "name:tur_x_preferred":[
         "Wake Adas\u0131"
     ],
@@ -277,6 +292,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u0648\u06cc\u06a9"
+    ],
+    "name:vec_x_preferred":[
+        "\u00eczo\u0142a Wake"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Wake"
@@ -480,7 +498,7 @@
         }
     ],
     "wof:id":1159339569,
-    "wof:lastmodified":1616015341,
+    "wof:lastmodified":1690922091,
     "wof:name":"Wake Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

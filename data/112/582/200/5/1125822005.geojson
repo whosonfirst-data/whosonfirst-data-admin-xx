@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"14.107818,46.3896815,14.107818,46.3896815",
+    "geom:bbox":"14.107818,46.389682,14.107818,46.389682",
     "geom:latitude":46.389682,
     "geom:longitude":14.107818,
     "gn:country":null,
@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Zasip"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0441\u0438\u043f"
+    ],
     "name:eng_x_preferred":[
         "Zasip"
     ],
@@ -47,6 +50,9 @@
     "name:pol_x_preferred":[
         "Zasip"
     ],
+    "name:por_x_preferred":[
+        "Zasip"
+    ],
     "name:ron_x_preferred":[
         "Zasip"
     ],
@@ -54,6 +60,9 @@
         "Zasip"
     ],
     "name:srp_x_preferred":[
+        "\u0417\u0430\u0441\u0438\u043f"
+    ],
+    "name:tat_x_preferred":[
         "\u0417\u0430\u0441\u0438\u043f"
     ],
     "name:ukr_x_preferred":[
@@ -95,7 +104,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497292110,
-    "wof:geomhash":"f72e74b6e336568398fbeb9b9943c46c",
+    "wof:geomhash":"f9f4e09f38e51150649e38f381e923f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1125822005,
-    "wof:lastmodified":1566654513,
+    "wof:lastmodified":1690922045,
     "wof:name":"Zasip",
     "wof:parent_id":1108959797,
     "wof:placetype":"locality",
@@ -117,9 +126,9 @@
 },
   "bbox": [
     14.107818,
-    46.3896815,
+    46.389682,
     14.107818,
-    46.3896815
+    46.389682
 ],
-  "geometry": {"coordinates":[14.107818,46.3896815],"type":"Point"}
+  "geometry": {"coordinates":[14.107818,46.389682],"type":"Point"}
 }

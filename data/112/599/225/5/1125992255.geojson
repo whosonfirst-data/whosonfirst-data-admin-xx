@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Koungou"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0646\u062c\u0648"
+    ],
     "name:ast_x_preferred":[
         "Koungou"
     ],
@@ -52,6 +55,9 @@
     "name:ces_x_preferred":[
         "Koungou"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0435\u043d\u0433\u0443"
+    ],
     "name:cos_x_preferred":[
         "Koungou"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:deu_x_preferred":[
         "Koungou"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Koungou"
@@ -155,6 +164,9 @@
         "Koungou"
     ],
     "name:lit_x_preferred":[
+        "Koungou"
+    ],
+    "name:lld_x_preferred":[
         "Koungou"
     ],
     "name:ltz_x_preferred":[
@@ -329,7 +341,7 @@
         }
     ],
     "wof:id":1125992255,
-    "wof:lastmodified":1566653909,
+    "wof:lastmodified":1690922011,
     "wof:name":"Koungou",
     "wof:parent_id":85671203,
     "wof:placetype":"locality",

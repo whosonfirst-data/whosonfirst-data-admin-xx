@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u0413\u043b\u0430\u0440\u044b\u0451\u0441\u0430"
     ],
+    "name:bre_x_preferred":[
+        "Inizi Glorius"
+    ],
     "name:cat_x_preferred":[
         "illes Glorioses"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0413\u043b\u043e\u0440\u0458\u0435\u0437"
+    ],
+    "name:mlg_x_preferred":[
+        "Nosy Glorieuses"
     ],
     "name:nld_x_preferred":[
         "Glorieuzen"
@@ -345,7 +351,7 @@
         }
     ],
     "wof:id":1159339577,
-    "wof:lastmodified":1616015341,
+    "wof:lastmodified":1690922087,
     "wof:name":"Glorioso Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

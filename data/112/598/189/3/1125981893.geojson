@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Roura"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0631\u0627"
+    ],
     "name:ast_x_preferred":[
         "Roura"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ces_x_preferred":[
         "Roura"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u04c0\u0443\u0433\u04c0\u0430"
     ],
     "name:cos_x_preferred":[
         "Roura"
@@ -101,6 +107,9 @@
         "Roura"
     ],
     "name:fur_x_preferred":[
+        "Roura"
+    ],
+    "name:gcr_x_preferred":[
         "Roura"
     ],
     "name:gla_x_preferred":[
@@ -176,6 +185,9 @@
         "Roura"
     ],
     "name:lit_x_preferred":[
+        "Roura"
+    ],
+    "name:lld_x_preferred":[
         "Roura"
     ],
     "name:ltz_x_preferred":[
@@ -368,7 +380,7 @@
         }
     ],
     "wof:id":1125981893,
-    "wof:lastmodified":1636497640,
+    "wof:lastmodified":1690922024,
     "wof:name":"Roura",
     "wof:parent_id":1091680907,
     "wof:placetype":"locality",

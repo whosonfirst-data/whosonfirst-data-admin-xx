@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0643 \u0623\u064a \u0645\u064a\u0631\u062f\u0627\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0643 \u0627\u0649 \u0645\u064a\u0631\u062f\u0627\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u0412\u0456\u043a"
     ],
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1125833065,
-    "wof:lastmodified":1566654836,
+    "wof:lastmodified":1690922064,
     "wof:name":"Vik I Myrdal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

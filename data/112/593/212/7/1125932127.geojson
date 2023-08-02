@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a-\u0628\u0648\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a\u064a \u0628\u0648\u0631"
+    ],
     "name:arg_x_preferred":[
         "Petit-Bourg"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a\u0649 \u0628\u0648\u0631"
     ],
     "name:ast_x_preferred":[
         "Petit-Bourg"
@@ -58,6 +64,9 @@
     "name:ces_x_preferred":[
         "Petit-Bourg"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0442\u0438-\u0411\u0443\u0433\u04c0"
+    ],
     "name:cos_x_preferred":[
         "Petit-Bourg"
     ],
@@ -69,6 +78,9 @@
     ],
     "name:deu_x_preferred":[
         "Petit-Bourg"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03af-\u039c\u03c0\u03bf\u03c5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Petit-Bourg"
@@ -154,6 +166,9 @@
     "name:kon_x_preferred":[
         "Petit-Bourg"
     ],
+    "name:kor_x_preferred":[
+        "\ud504\ud2f0\ubd80\ub974"
+    ],
     "name:lat_x_preferred":[
         "Petit-Bourg"
     ],
@@ -167,6 +182,9 @@
         "Petit-Bourg"
     ],
     "name:lit_x_preferred":[
+        "Petit-Bourg"
+    ],
+    "name:lld_x_preferred":[
         "Petit-Bourg"
     ],
     "name:ltz_x_preferred":[
@@ -259,6 +277,9 @@
     "name:swe_x_preferred":[
         "Petit-Bourg"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0442\u0438-\u0411\u0443\u0440"
+    ],
     "name:tur_x_preferred":[
         "Petit-Bourg"
     ],
@@ -288,6 +309,9 @@
     ],
     "name:wol_x_preferred":[
         "Petit-Bourg"
+    ],
+    "name:zho_x_preferred":[
+        "\u73c0\u8482\u5821"
     ],
     "name:zul_x_preferred":[
         "Petit-Bourg"
@@ -344,7 +368,7 @@
         }
     ],
     "wof:id":1125932127,
-    "wof:lastmodified":1566653166,
+    "wof:lastmodified":1690921955,
     "wof:name":"Petit-Bourg",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

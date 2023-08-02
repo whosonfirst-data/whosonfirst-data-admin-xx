@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.30036,-25.8395905,133.30036,-25.8395905",
+    "geom:bbox":"133.30036,-25.83959,133.30036,-25.83959",
     "geom:latitude":-25.83959,
     "geom:longitude":133.30036,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kulgera"
+    ],
     "name:cat_x_preferred":[
         "Kulgera"
     ],
@@ -91,7 +94,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497290235,
-    "wof:geomhash":"3e0a10f1f46dbabfd41e53bdb3edd3d5",
+    "wof:geomhash":"9673705b78baad78da2ab18ad0cdcc26",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125775365,
-    "wof:lastmodified":1566654831,
+    "wof:lastmodified":1690922062,
     "wof:name":"Kulgera",
     "wof:parent_id":404549719,
     "wof:placetype":"locality",
@@ -115,9 +118,9 @@
 },
   "bbox": [
     133.30036,
-    -25.8395905,
+    -25.83959,
     133.30036,
-    -25.8395905
+    -25.83959
 ],
-  "geometry": {"coordinates":[133.30036000000001,-25.8395905],"type":"Point"}
+  "geometry": {"coordinates":[133.30036000000001,-25.83959],"type":"Point"}
 }

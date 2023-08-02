@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.241352,45.3913975,19.241352,45.3913975",
+    "geom:bbox":"19.241352,45.391397,19.241352,45.391397",
     "geom:latitude":45.391397,
     "geom:longitude":19.241352,
     "gn:country":null,
@@ -24,6 +24,9 @@
         "\u0628\u0627\u062a\u0634\u060c \u0628\u0627\u062a\u0634\u0643\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
     ],
     "name:ara_x_variant":[
+        "\u0628\u0627\u062a\u0634"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u0627\u062a\u0634"
     ],
     "name:bar_x_preferred":[
@@ -49,6 +52,9 @@
     ],
     "name:epo_x_preferred":[
         "Ba\u010d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0686"
     ],
     "name:fra_x_preferred":[
         "Ba\u010d"
@@ -153,7 +159,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497299232,
-    "wof:geomhash":"e68028c0086f5984112565e044445a93",
+    "wof:geomhash":"054751d595cf0a1603cfdcdc250f6067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1125994521,
-    "wof:lastmodified":1566653906,
+    "wof:lastmodified":1690922006,
     "wof:name":"Ba\u010d",
     "wof:parent_id":1108809825,
     "wof:placetype":"locality",
@@ -176,9 +182,9 @@
 },
   "bbox": [
     19.241352,
-    45.3913975,
+    45.391397,
     19.241352,
-    45.3913975
+    45.391397
 ],
-  "geometry": {"coordinates":[19.241352,45.3913975],"type":"Point"}
+  "geometry": {"coordinates":[19.241352,45.391397],"type":"Point"}
 }

@@ -26,14 +26,35 @@
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
+    "name:afr_x_preferred":[
+        "Donbas"
+    ],
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u0628\u0627\u0633"
     ],
-    "name:ara_x_variant":[
+    "name:arg_x_preferred":[
+        "Donb\u00e1s"
+    ],
+    "name:ast_x_preferred":[
+        "Conca del Donets"
+    ],
+    "name:azb_x_preferred":[
         "\u062f\u0648\u0646\u0628\u0627\u0633"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0430\u043d\u0435\u0446\u043a\u0456 \u0440\u044d\u0433\u0456\u0451\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cb\u09a8\u09ac\u09be\u09b8"
+    ],
+    "name:bho_x_preferred":[
+        "\u0921\u094b\u0928\u092c\u093e\u0938"
+    ],
+    "name:bos_x_preferred":[
+        "Donbas"
+    ],
+    "name:bre_x_preferred":[
+        "Donbas"
     ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0431\u0430\u0441"
@@ -41,8 +62,17 @@
     "name:cat_x_preferred":[
         "Donbass"
     ],
+    "name:cat_x_variant":[
+        "Donb\u00e0s"
+    ],
     "name:ces_x_preferred":[
         "Donbas"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06c6\u0646\u0628\u0627\u0633"
+    ],
+    "name:cym_x_preferred":[
+        "Y Donbas"
     ],
     "name:dan_x_preferred":[
         "Donbass"
@@ -57,13 +87,16 @@
         "Donets Basin"
     ],
     "name:eng_x_variant":[
-        "Donets Basin"
+        "Donbas"
     ],
     "name:epo_x_preferred":[
         "Donbaso"
     ],
     "name:est_x_preferred":[
         "Donetsi s\u00f6ebassein"
+    ],
+    "name:est_x_variant":[
+        "Donetsi s\u00f6ekaevanduspiirkond"
     ],
     "name:eus_x_preferred":[
         "Donbass"
@@ -77,8 +110,14 @@
     "name:fra_x_preferred":[
         "Donbass"
     ],
+    "name:glv_x_preferred":[
+        "Donbas"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e0\u05d1\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0928\u092c\u093e\u0938"
     ],
     "name:hrv_x_preferred":[
         "Donbas"
@@ -86,29 +125,65 @@
     "name:hun_x_preferred":[
         "Donyec-medence"
     ],
+    "name:ina_x_preferred":[
+        "Donbas"
+    ],
     "name:ind_x_preferred":[
+        "Donbas"
+    ],
+    "name:isl_x_preferred":[
         "Donbas"
     ],
     "name:ita_x_preferred":[
         "Bacino del Donec"
     ],
+    "name:ita_x_variant":[
+        "Donbass"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30f3\u30d0\u30b9"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u043e\u043d \u043a\u04e9\u043c\u04af\u0440 \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u0438"
     ],
     "name:kor_x_preferred":[
         "\ub3c8\ubc14\uc2a4"
     ],
+    "name:kur_x_preferred":[
+        "Donbass"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e94\u0ead\u0e99\u0e9a\u0eb1\u0eaa"
+    ],
     "name:lav_x_preferred":[
+        "Donbass"
+    ],
+    "name:lim_x_preferred":[
         "Donbass"
     ],
     "name:lit_x_preferred":[
         "Donbasas"
+    ],
+    "name:lmo_x_preferred":[
+        "Donbass"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9813\u5df4\u65af"
     ],
     "name:mal_x_preferred":[
         "\u0d21\u0d4a\u0d28\u0d46\u0d31\u0d4d\u0d31\u0d4d\u0d38\u0d4d \u0d24\u0d1f\u0d02"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0447\u043a\u0438 \u0431\u0430\u0441\u0435\u043d"
+    ],
+    "name:mkd_x_variant":[
+        "\u0414\u043e\u043d\u0435\u0447\u043a\u0438 \u0411\u0430\u0441\u0435\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Donbass"
+    ],
+    "name:msa_x_preferred":[
+        "Donbas"
     ],
     "name:nld_x_preferred":[
         "Donetsbekken"
@@ -119,11 +194,23 @@
     "name:nob_x_preferred":[
         "Donetsbekkenet"
     ],
+    "name:nob_x_variant":[
+        "Donbas"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062f\u0648\u0646\u0628\u0627\u0633"
+    ],
     "name:pol_x_preferred":[
         "Donieckie Zag\u0142\u0119bie W\u0119glowe"
     ],
+    "name:pol_x_variant":[
+        "Donbas"
+    ],
     "name:por_x_preferred":[
         "Bacia Donets"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f\u0648\u0646\u0628\u0627\u0633"
     ],
     "name:ron_x_preferred":[
         "Donbas"
@@ -132,7 +219,10 @@
         "\u0414\u043e\u043d\u0435\u0442\u0447\u0438\u043d\u0430"
     ],
     "name:rus_x_variant":[
-        "\u0414\u043e\u043d\u0435\u0442\u0447\u0438\u043d\u0430"
+        "\u0414\u043e\u043d\u0431\u0430\u0441\u0441"
+    ],
+    "name:sah_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0446\u043a \u0442\u0430\u0430\u0441 \u0447\u043e\u0445 \u0431\u0430\u0441\u0441\u0435\u0439\u043d\u0430"
     ],
     "name:scn_x_preferred":[
         "Donbass"
@@ -146,6 +236,12 @@
     "name:spa_x_preferred":[
         "Cuenca Don\u00e9ts"
     ],
+    "name:spa_x_variant":[
+        "Domb\u00e1s"
+    ],
+    "name:sqi_x_preferred":[
+        "Donbasi"
+    ],
     "name:srp_ec_x_preferred":[
         "\u0414\u043e\u043d\u0431\u0430\u0441"
     ],
@@ -158,8 +254,14 @@
     "name:swe_x_preferred":[
         "Donetsb\u00e4ckenet"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bca\u0ba9\u0bcd\u0baa\u0bbe\u0bb8\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0414\u0430\u043d\u0431\u0430\u0441"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e2d\u0e19\u0e1a\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Donets Havzas\u0131"
@@ -167,8 +269,20 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0431\u0430\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0646\u0628\u0627\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Donetsk toshko\u02bbmir havzasi"
+    ],
+    "name:vec_x_preferred":[
+        "Don\u00e8tsia"
+    ],
     "name:vie_x_preferred":[
         "Donbas"
+    ],
+    "name:yue_x_preferred":[
+        "\u9813\u5df4\u65af"
     ],
     "name:zho_hk_x_preferred":[
         "\u9813\u5df4\u65af"
@@ -333,7 +447,7 @@
         }
     ],
     "wof:id":1159339531,
-    "wof:lastmodified":1617307087,
+    "wof:lastmodified":1690922073,
     "wof:name":"Donets Basin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",
