@@ -20,6 +20,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0628\u0648\u0644\u064a\u064a\u0647"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0628\u0648\u0644\u064a\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Prijepolje"
+    ],
     "name:bos_x_preferred":[
         "Prijepolje"
     ],
@@ -41,6 +50,9 @@
     "name:eng_x_preferred":[
         "Prijepolje"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0698\u067e\u0648\u0644\u062c\u0647"
+    ],
     "name:fra_x_preferred":[
         "Prijepolje"
     ],
@@ -56,11 +68,17 @@
     "name:hsb_x_preferred":[
         "Prijepolje"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u057c\u056b\u0565\u057a\u0578\u056c\u0575\u0565"
+    ],
     "name:ita_x_preferred":[
         "Prijepolje"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30a4\u30a7\u30dd\u30ea\u30a7"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u0435\u043f\u043e\u043b\u0435"
     ],
     "name:msa_x_preferred":[
         "Prijepolje"
@@ -156,7 +174,7 @@
         }
     ],
     "wof:id":1126051483,
-    "wof:lastmodified":1566653438,
+    "wof:lastmodified":1690921976,
     "wof:name":"Prijepolje",
     "wof:parent_id":1108810043,
     "wof:placetype":"locality",

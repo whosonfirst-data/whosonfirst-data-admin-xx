@@ -23,14 +23,32 @@
     "name:ara_x_preferred":[
         "\u0628\u0645\u0628\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0645\u0628\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Pampore"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09ae\u09cd\u09aa\u09c1\u09b0\u09c7"
     ],
     "name:eng_x_preferred":[
         "Pampore"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u092e\u094d\u092a\u094b\u0930"
+    ],
     "name:ita_x_preferred":[
         "Pampore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30f3\u30dd\u30fc\u30eb"
+    ],
+    "name:kas_x_preferred":[
+        "\u067e\u0627\u0645\u067e\u0648\u0631"
     ],
     "name:mlg_x_preferred":[
         "Pampore"
@@ -52,6 +70,9 @@
     ],
     "name:spa_x_preferred":[
         "Pampore"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bae\u0bcd\u0baa\u0bcb\u0bb0\u0bcd"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0645\u067e\u0648\u0631"
@@ -121,7 +142,7 @@
         }
     ],
     "wof:id":1125917077,
-    "wof:lastmodified":1672957849,
+    "wof:lastmodified":1690922022,
     "wof:name":"Pampore",
     "wof:parent_id":1108695711,
     "wof:placetype":"locality",

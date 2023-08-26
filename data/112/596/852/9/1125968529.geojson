@@ -74,6 +74,12 @@
     "name:fra_x_preferred":[
         "Piatra Neam\u021b"
     ],
+    "name:gla_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
+    "name:gle_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abf\u0aaf\u0abe\u0a9f\u0acd\u0ab0\u0abe \u0aa8\u0ac0\u0aae\u0acd\u0a9f"
     ],
@@ -86,8 +92,17 @@
     "name:hrv_x_preferred":[
         "Piatra Neam\u021b"
     ],
+    "name:hsb_x_preferred":[
+        "Piatra Neam\u021b"
+    ],
     "name:hun_x_preferred":[
         "Kar\u00e1csonk\u0151"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0561\u0580\u0565 \u0546\u0575\u0561\u0574\u0581"
+    ],
+    "name:ile_x_preferred":[
+        "Piatra Neam\u021b"
     ],
     "name:ind_x_preferred":[
         "Piatra Neam\u021b"
@@ -185,6 +200,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e35\u0e22\u0e17\u0e23\u0e32\u0e40\u0e19\u0e35\u0e22\u0e21\u0e2a\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e35\u0e22\u0e32\u0e15\u0e23\u0e32\u0e40\u0e19\u0e2d\u0e31\u0e21\u0e15\u0e2a\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Piatra Neam\u021b"
     ],
@@ -248,7 +266,7 @@
         }
     ],
     "wof:id":1125968529,
-    "wof:lastmodified":1566654068,
+    "wof:lastmodified":1690922020,
     "wof:name":"Piatra Neam\u021b",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

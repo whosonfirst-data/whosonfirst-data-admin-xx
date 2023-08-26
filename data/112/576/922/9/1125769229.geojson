@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062a\u0634\u0643\u064a \u0628\u064a\u062a\u0631\u0648\u0641\u0627\u062a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062a\u0634\u0643\u0649 \u0628\u064a\u062a\u0631\u0648\u0641\u0627\u062a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Ba\u010dki Petrovac"
+    ],
     "name:bak_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0438-\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0446"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0456-\u041f\u0435\u0442\u0440\u0430\u0432\u0430\u0446"
     ],
     "name:bos_x_preferred":[
         "Ba\u010dki Petrovac"
@@ -34,6 +43,9 @@
     ],
     "name:ces_x_preferred":[
         "Ba\u010dki Petrovac"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0438 \u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0446"
     ],
     "name:deu_x_preferred":[
         "Ba\u010dki Petrovac"
@@ -46,6 +58,9 @@
     ],
     "name:epo_x_preferred":[
         "Ba\u010dki Petrovac"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0686\u06a9\u06cc \u067e\u062a\u0631\u0648\u0648\u0627\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Ba\u010dki Petrovac"
@@ -71,11 +86,17 @@
     "name:lmo_x_preferred":[
         "Ba\u010dki Petrovac"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0438 \u041f\u044d\u0442\u0440\u043e\u0432\u0430\u0446"
+    ],
     "name:msa_x_preferred":[
         "Ba\u010dki Petrovac"
     ],
     "name:nld_x_preferred":[
         "Ba\u010dki Petrovac"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0438-\u041f\u0435\u0442\u0440\u043e\u0432\u0430\u0446"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0686\u06a9\u06cc \u067e\u06cc\u062a\u0631\u0648\u0648\u0627\u0686"
@@ -159,7 +180,7 @@
         }
     ],
     "wof:id":1125769229,
-    "wof:lastmodified":1566654515,
+    "wof:lastmodified":1690922048,
     "wof:name":"Ba\u010dki Petrovac",
     "wof:parent_id":1108809831,
     "wof:placetype":"locality",

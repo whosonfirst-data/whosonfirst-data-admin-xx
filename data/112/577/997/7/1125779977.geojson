@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Nova Pazova"
+    ],
     "name:ceb_x_preferred":[
         "Nova Pazova"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:epo_x_preferred":[
         "Nova Pazova"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0627 \u067e\u0627\u0632\u0648\u0648\u0627"
     ],
     "name:fra_x_preferred":[
         "Nova Pazova"
@@ -54,6 +60,9 @@
         "Nova Pazova"
     ],
     "name:pol_x_preferred":[
+        "Nova Pazova"
+    ],
+    "name:ron_x_preferred":[
         "Nova Pazova"
     ],
     "name:slv_x_preferred":[
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":1125779977,
-    "wof:lastmodified":1566654823,
+    "wof:lastmodified":1690922059,
     "wof:name":"Nova Pazova",
     "wof:parent_id":1108810093,
     "wof:placetype":"locality",

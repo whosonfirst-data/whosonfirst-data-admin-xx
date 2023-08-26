@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Kranjska Gora"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0430\u043d\u0441\u044c\u043a\u0430 \u0413\u043e\u0440\u0430"
+    ],
     "name:deu_x_preferred":[
         "Kranjska Gora"
     ],
@@ -50,8 +53,17 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d0\u05e0\u05d9\u05e1\u05e7\u05d4 \u05d2\u05d5\u05e8\u05d4"
     ],
+    "name:hrv_x_preferred":[
+        "Kranjska Gora"
+    ],
     "name:ita_x_preferred":[
         "Kranjska Gora"
+    ],
+    "name:lit_x_preferred":[
+        "Kranska Gora"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0430\u045a\u0441\u043a\u0430 \u0413\u043e\u0440\u0430"
     ],
     "name:nld_x_preferred":[
         "Kranjska Gora"
@@ -74,6 +86,9 @@
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u045a\u0441\u043a\u0430 \u0413\u043e\u0440\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0430\u043d\u0441\u044c\u043a\u0430 \u0413\u043e\u0440\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e04\u0e23\u0e32\u0e19\u0e2a\u0e01\u0e32\u0e01\u0e2d\u0e23\u0e32"
     ],
@@ -85,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "Kranjska Gora"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u5c3c\u65af\u5361\u6208\u62c9"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kranjska Gora",
@@ -133,7 +151,7 @@
         }
     ],
     "wof:id":1125779851,
-    "wof:lastmodified":1636497652,
+    "wof:lastmodified":1690922062,
     "wof:name":"Kranjska Gora",
     "wof:parent_id":1108959843,
     "wof:placetype":"locality",

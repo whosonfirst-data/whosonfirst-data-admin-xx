@@ -26,14 +26,26 @@
     "name:ceb_x_preferred":[
         "Cisna"
     ],
+    "name:ces_x_preferred":[
+        "Cisna"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0438\u0441\u043d\u0430"
+    ],
     "name:deu_x_preferred":[
         "Cisna"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03af\u03c3\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cisna"
     ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0633\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Cisna"
     ],
     "name:hun_x_preferred":[
         "Cisna"
@@ -46,6 +58,9 @@
     ],
     "name:pol_x_preferred":[
         "Cisna"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u0441\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0456\u0441\u043d\u0430"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1126010535,
-    "wof:lastmodified":1566654225,
+    "wof:lastmodified":1690922032,
     "wof:name":"Cisna",
     "wof:parent_id":102079415,
     "wof:placetype":"locality",

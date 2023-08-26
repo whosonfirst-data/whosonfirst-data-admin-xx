@@ -38,14 +38,23 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09c0\u09af\u09bc \u0985\u09b8\u09be\u09ae\u09b0\u09bf\u0995\u09c0\u0995\u09c3\u09a4 \u0985\u099e\u09cd\u099a\u09b2"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0430 \u0434\u0435\u043c\u0438\u043b\u0438\u0442\u0430\u0440\u0438\u0437\u0438\u0440\u0430\u043d\u0430 \u0437\u043e\u043d\u0430"
+    ],
     "name:ces_x_preferred":[
         "Korejsk\u00e9 demilitarizovan\u00e9 p\u00e1smo"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u0627\u0648\u0686\u06d5\u06cc \u062f\u0627\u0645\u0627\u06b5\u0631\u0627\u0648\u06cc \u0633\u06d5\u0631\u0628\u0627\u0632\u06cc\u06cc \u06a9\u06c6\u0631\u06cc"
     ],
     "name:dan_x_preferred":[
         "Koreanske demilitariserede zone"
     ],
     "name:deu_x_preferred":[
         "Demilitarisierte Zone"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03bf\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b9\u03ba\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b7 \u0396\u03ce\u03bd\u03b7 \u039a\u03bf\u03c1\u03ad\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Korean Demilitarized Zone"
@@ -71,6 +80,9 @@
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05d6\u05d5\u05e8 \u05d4\u05de\u05e4\u05d5\u05e8\u05d6 \u05d4\u05e7\u05d5\u05e8\u05d9\u05d0\u05e0\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0930\u093f\u092f\u093e\u0908 \u0935\u093f\u0938\u0948\u0928\u094d\u092f\u0940\u0915\u0943\u0924 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
     "name:hun_x_preferred":[
         "Koreai demilitariz\u00e1lt \u00f6vezet"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:lat_x_preferred":[
         "Zona dearmata Coreana"
+    ],
+    "name:lav_x_preferred":[
+        "Korejas Demilitariz\u0113t\u0101 zona"
     ],
     "name:lit_x_preferred":[
         "Kor\u0117jos demilitarizuota zona"
@@ -154,6 +169,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu phi qu\u00e2n s\u1ef1 Tri\u1ec1u Ti\u00ean"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d4\u10d0\u10e8 \u10d3\u10d4\u10db\u10d8\u10da\u10d8\u10e2\u10d0\u10e0\u10d8\u10d6\u10d0\u10e4\u10d8\u10da\u10d8 \u10d6\u10dd\u10dc\u10d0"
     ],
     "name:zho_cn_x_preferred":[
         "\u671d\u97e9\u975e\u519b\u4e8b\u533a"
@@ -321,7 +339,7 @@
         }
     ],
     "wof:id":1159339505,
-    "wof:lastmodified":1616015336,
+    "wof:lastmodified":1690922086,
     "wof:name":"Korean Demilitarized Zone",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

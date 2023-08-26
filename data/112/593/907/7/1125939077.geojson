@@ -49,6 +49,9 @@
     "name:ces_x_preferred":[
         "Le Marin"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435-\u041c\u0430\u0433\u04c0\u0438\u043d"
+    ],
     "name:cos_x_preferred":[
         "Le Marin"
     ],
@@ -156,6 +159,9 @@
     ],
     "name:lit_x_preferred":[
         "Le Marenas"
+    ],
+    "name:lld_x_preferred":[
+        "Le Marin"
     ],
     "name:ltz_x_preferred":[
         "Le Marin"
@@ -274,6 +280,9 @@
     "name:wol_x_preferred":[
         "Le Marin"
     ],
+    "name:zho_x_preferred":[
+        "\u52d2\u9a6c\u5170"
+    ],
     "name:zul_x_preferred":[
         "Le Marin"
     ],
@@ -323,7 +332,7 @@
         }
     ],
     "wof:id":1125939077,
-    "wof:lastmodified":1566653164,
+    "wof:lastmodified":1690921952,
     "wof:name":"Le Marin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

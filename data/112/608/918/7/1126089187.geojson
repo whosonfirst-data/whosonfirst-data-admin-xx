@@ -25,6 +25,9 @@
     "name:eng_x_variant":[
         "Tinglas"
     ],
+    "name:gle_x_preferred":[
+        "Fionnghlas"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Tinglas",
     "qs_pg:name_adm0":"Ireland",
@@ -49,8 +52,8 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        85633241,
         101751737,
+        85633241,
         85685015
     ],
     "wof:breaches":[],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1126089187,
-    "wof:lastmodified":1666036773,
+    "wof:lastmodified":1690922030,
     "wof:name":"Finglas",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

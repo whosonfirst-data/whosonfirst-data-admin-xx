@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Isla de Aves"
     ],
+    "name:frr_x_preferred":[
+        "Aves"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057e\u0565\u057d"
+    ],
     "name:ind_x_preferred":[
         "Pulau Aves"
     ],
@@ -51,9 +57,6 @@
         "\u30a2\u30d9\u30b9\u5cf6"
     ],
     "name:kor_x_preferred":[
-        "\uc544\ubca0\uc2a4\uc12c"
-    ],
-    "name:kor_x_variant":[
         "\uc544\ubca0\uc2a4\uc12c"
     ],
     "name:lit_x_preferred":[
@@ -79,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Aves\u00f6n"
+    ],
+    "name:tur_x_preferred":[
+        "Aves"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0432\u0435\u0441"
@@ -245,7 +251,7 @@
         }
     ],
     "wof:id":1159339567,
-    "wof:lastmodified":1616193484,
+    "wof:lastmodified":1690922091,
     "wof:name":"Isla Aves",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

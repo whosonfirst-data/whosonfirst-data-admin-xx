@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Koski Tl"
     ],
+    "name:epo_x_preferred":[
+        "Koski Tl"
+    ],
     "name:est_x_preferred":[
         "Koski Tl vald"
     ],
@@ -39,6 +42,9 @@
         "Koski Tl"
     ],
     "name:fra_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:gle_x_preferred":[
         "Koski Tl"
     ],
     "name:glg_x_preferred":[
@@ -56,8 +62,14 @@
     "name:nld_x_preferred":[
         "Koski Tl"
     ],
+    "name:nno_x_preferred":[
+        "Koskis"
+    ],
     "name:nob_x_preferred":[
         "Koski Tl"
+    ],
+    "name:nob_x_variant":[
+        "Koskis"
     ],
     "name:pol_x_preferred":[
         "Koski Tl"
@@ -77,11 +89,20 @@
     "name:sme_x_preferred":[
         "Koski Tl"
     ],
+    "name:smn_x_preferred":[
+        "Koski Tl"
+    ],
+    "name:spa_x_preferred":[
+        "Koski Tl"
+    ],
     "name:sqi_x_preferred":[
         "Koski Tl"
     ],
     "name:swe_x_preferred":[
         "Koski Tl"
+    ],
+    "name:swe_x_variant":[
+        "Koskis"
     ],
     "name:tur_x_preferred":[
         "Koski Tl"
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":1126053103,
-    "wof:lastmodified":1566653438,
+    "wof:lastmodified":1690921977,
     "wof:name":"Koski Tl",
     "wof:parent_id":907199647,
     "wof:placetype":"locality",

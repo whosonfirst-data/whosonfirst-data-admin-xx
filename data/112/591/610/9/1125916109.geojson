@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Likir"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abf\u0a95\u0abf\u0ab0"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093f\u0915\u0940\u0930"
+    ],
     "name:nld_x_preferred":[
         "Likir"
     ],
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125916109,
-    "wof:lastmodified":1672958950,
+    "wof:lastmodified":1690922022,
     "wof:name":"Likir",
     "wof:parent_id":1108695697,
     "wof:placetype":"locality",

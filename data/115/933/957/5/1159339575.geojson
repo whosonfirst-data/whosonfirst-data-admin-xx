@@ -113,6 +113,9 @@
     "name:mkd_x_preferred":[
         "\u0422\u0440\u043e\u043c\u043b\u0435\u043d"
     ],
+    "name:mlg_x_preferred":[
+        "Nosy Tromelin"
+    ],
     "name:nld_x_preferred":[
         "Tromelin"
     ],
@@ -348,7 +351,7 @@
         }
     ],
     "wof:id":1159339575,
-    "wof:lastmodified":1616015341,
+    "wof:lastmodified":1690922088,
     "wof:name":"Tromelin Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

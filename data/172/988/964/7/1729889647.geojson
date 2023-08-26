@@ -25,8 +25,23 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u062f\u0631\u0627\u063a\u0648\u0646\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "R\u00edu Dragonja"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09cd\u09b0\u09cd\u09af\u09be\u0997\u09cb\u099e\u09cd\u099c\u09be \u09b0\u09bf\u09ad\u09be\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Dragonja"
+    ],
+    "name:ces_x_preferred":[
+        "Dragonja"
+    ],
+    "name:deu_x_preferred":[
+        "Dragonja"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03c1\u03b1\u03b3\u03ba\u03cc\u03bd\u03c7\u03b1 \u03a1\u03af\u03b2\u03b5\u03c1"
@@ -34,8 +49,23 @@
     "name:eng_x_preferred":[
         "Dragonja River"
     ],
+    "name:eng_x_variant":[
+        "Dragonja"
+    ],
+    "name:epo_x_preferred":[
+        "Dragonja"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0627\u06af\u0648\u0646\u062c\u0627 \u0631\u06cc\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Dragonja"
+    ],
+    "name:fra_x_preferred":[
+        "Dragonja"
+    ],
+    "name:gle_x_preferred":[
+        "Dragonja"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d4\u05e8 \u05d3\u05e8\u05d0\u05d2\u05d5\u05e0\u05d2'\u05d4"
@@ -43,20 +73,59 @@
     "name:hin_x_preferred":[
         "\u0921\u094d\u0930\u0948\u0917\u0928\u091c\u093e \u0930\u093f\u0935\u0930"
     ],
+    "name:hrv_x_preferred":[
+        "Dragonja"
+    ],
+    "name:hun_x_preferred":[
+        "Dragonja"
+    ],
     "name:ind_x_preferred":[
         "Sungai Dragonja"
+    ],
+    "name:ita_x_preferred":[
+        "Dragogna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30e9\u30b4\u30cb\u30e3\u5ddd"
     ],
     "name:kor_x_preferred":[
         "\ub4dc\ub798\uace4\uc790 \uc544\uc77c\ub79c\ub4dc"
     ],
+    "name:lit_x_preferred":[
+        "Dragonia"
+    ],
+    "name:nld_x_preferred":[
+        "Dragonja"
+    ],
+    "name:nno_x_preferred":[
+        "Dragonja"
+    ],
+    "name:pol_x_preferred":[
+        "Dragonja"
+    ],
     "name:por_x_preferred":[
         "Rio Dragonja"
+    ],
+    "name:ron_x_preferred":[
+        "Dragonja"
     ],
     "name:rus_x_preferred":[
         "\u0440\u0435\u043a\u0430 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u044f"
     ],
+    "name:slk_x_preferred":[
+        "Dragonja"
+    ],
+    "name:slv_x_preferred":[
+        "Dragonja"
+    ],
     "name:spa_x_preferred":[
         "R\u00edo Dragonja"
+    ],
+    "name:spa_x_variant":[
+        "Dragonja"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u045a\u0430"
     ],
     "name:swe_x_preferred":[
         "Dragonja-floden"
@@ -72,6 +141,12 @@
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Dragonja"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10e0\u10d0\u10d2\u10dd\u10dc\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u62c9\u54e5\u96c5\u6cb3"
     ],
     "ne:abbrev_len":0,
     "ne:adm0_a3":"HRV",
@@ -223,7 +298,7 @@
         }
     ],
     "wof:id":1729889647,
-    "wof:lastmodified":1636497606,
+    "wof:lastmodified":1690921935,
     "wof:name":"Dragonja River",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

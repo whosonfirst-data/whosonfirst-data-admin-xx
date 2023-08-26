@@ -58,6 +58,9 @@
     "name:ces_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0443\u044d\u043d\u0442-\u0430-\u041f\u0438\u0442\u0433\u04c0"
+    ],
     "name:cos_x_preferred":[
         "Pointe-\u00e0-Pitre"
     ],
@@ -120,6 +123,9 @@
     ],
     "name:gsw_x_preferred":[
         "Pointe-\u00e0-Pitre"
+    ],
+    "name:hat_x_preferred":[
+        "Lapwent"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d0\u05e0\u05d8-\u05d0-\u05e4\u05d9\u05d8\u05e8"
@@ -186,6 +192,9 @@
     ],
     "name:lit_x_preferred":[
         "Puant a Pitras"
+    ],
+    "name:lld_x_preferred":[
+        "Pointe-\u00e0-Pitre"
     ],
     "name:ltz_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -276,6 +285,12 @@
     ],
     "name:swe_x_preferred":[
         "Pointe-\u00e0-Pitre"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u044d\u043d\u0442-\u0430-\u041f\u0438\u0442\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e27\u0e07\u0e15\u0e32\u0e1b\u0e34\u0e17\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Pointe-\u00e0-Pitre"
@@ -368,7 +383,7 @@
         }
     ],
     "wof:id":1125895451,
-    "wof:lastmodified":1566653637,
+    "wof:lastmodified":1690921996,
     "wof:name":"Pointe-\u00c0-Pitre",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

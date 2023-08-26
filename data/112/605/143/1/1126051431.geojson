@@ -23,11 +23,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0627\u062a\u064a\u0646"
     ],
+    "name:aze_x_preferred":[
+        "Apatin"
+    ],
     "name:bos_x_preferred":[
         "Apatin"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043f\u0430\u0442\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Apatin"
     ],
     "name:ceb_x_preferred":[
         "Apatin"
@@ -63,6 +69,9 @@
         "\u05d0\u05e4\u05d0\u05d8\u05d9\u05df"
     ],
     "name:hrv_x_preferred":[
+        "Apatin"
+    ],
+    "name:hsb_x_preferred":[
         "Apatin"
     ],
     "name:hun_x_preferred":[
@@ -114,6 +123,9 @@
         "\u0410\u043f\u0430\u0442\u0438\u043d"
     ],
     "name:swe_x_preferred":[
+        "Apatin"
+    ],
+    "name:szl_x_preferred":[
         "Apatin"
     ],
     "name:tat_x_preferred":[
@@ -177,7 +189,7 @@
         }
     ],
     "wof:id":1126051431,
-    "wof:lastmodified":1566653435,
+    "wof:lastmodified":1690921973,
     "wof:name":"Apatin",
     "wof:parent_id":1108809815,
     "wof:placetype":"locality",

@@ -55,6 +55,9 @@
     "name:ces_x_preferred":[
         "Capesterre-Belle-Eau"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u0441\u0442\u0435\u0433\u04c0-\u0411\u0435\u043b\u044c-\u041e"
+    ],
     "name:cos_x_preferred":[
         "Capesterre-Belle-Eau"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:deu_x_preferred":[
         "Capesterre-Belle-Eau"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c0\u03b5\u03c3\u03c4\u03ad\u03c1-\u039c\u03c0\u03b5\u03bb-\u03a9"
     ],
     "name:eng_x_preferred":[
         "Capesterre-Belle-Eau"
@@ -163,6 +169,9 @@
     "name:lit_x_preferred":[
         "Capesterre-Belle-Eau"
     ],
+    "name:lld_x_preferred":[
+        "Capesterre-Belle-Eau"
+    ],
     "name:ltz_x_preferred":[
         "Capesterre-Belle-Eau"
     ],
@@ -223,6 +232,9 @@
     "name:ron_x_preferred":[
         "Capesterre-Belle-Eau"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u0441\u0442\u0435\u0440\u0440-\u0411\u0435\u043b\u044c-\u041e"
+    ],
     "name:scn_x_preferred":[
         "Capesterre-Belle-Eau"
     ],
@@ -246,6 +258,9 @@
     ],
     "name:swe_x_preferred":[
         "Capesterre-Belle-Eau"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u0441\u0442\u0435\u0440-\u0411\u0435\u043b\u044c-\u041e"
     ],
     "name:tur_x_preferred":[
         "Capesterre-Belle-Eau"
@@ -279,6 +294,9 @@
     ],
     "name:wol_x_preferred":[
         "Capesterre-Belle-Eau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u4f69\u65af\u6cf0\u5c14\u8d1d\u6d1b"
     ],
     "name:zul_x_preferred":[
         "Capesterre-Belle-Eau"
@@ -335,7 +353,7 @@
         }
     ],
     "wof:id":1126034895,
-    "wof:lastmodified":1566653444,
+    "wof:lastmodified":1690921983,
     "wof:name":"Capesterre-Belle-Eau",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

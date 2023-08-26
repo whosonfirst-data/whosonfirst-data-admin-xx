@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.8155330509,44.4260745613,8.8155330509,44.4260745613",
+    "geom:bbox":"8.815533,44.426075,8.815533,44.426075",
     "geom:latitude":44.426075,
     "geom:longitude":8.815533,
     "iso:country":"XX",
@@ -29,6 +29,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0435\u043b\u044c\u0456"
     ],
+    "name:cat_x_preferred":[
+        "Pegli"
+    ],
     "name:cym_x_preferred":[
         "Pegli"
     ],
@@ -43,6 +46,12 @@
     ],
     "name:fra_x_preferred":[
         "Pegli"
+    ],
+    "name:gle_x_preferred":[
+        "Pegli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d2\u05dc\u05d9"
     ],
     "name:ita_x_preferred":[
         "Pegli"
@@ -61,6 +70,9 @@
     ],
     "name:por_x_preferred":[
         "Pegli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u044c\u0438"
     ],
     "name:spa_x_preferred":[
         "Pegli"
@@ -83,7 +95,7 @@
     },
     "wof:country":"XX",
     "wof:created":1491367128,
-    "wof:geomhash":"0246bf864f39834fcbd2e69b794c9954",
+    "wof:geomhash":"d7a53c84650553b1939fa23bae661a44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1108948619,
-    "wof:lastmodified":1566653145,
+    "wof:lastmodified":1690921942,
     "wof:name":"Pegli",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",
@@ -106,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.81553305090129,
-    44.42607456128648,
-    8.81553305090129,
-    44.42607456128648
+    8.815533,
+    44.426075,
+    8.815533,
+    44.426075
 ],
-  "geometry": {"coordinates":[8.81553305090129,44.42607456128648],"type":"Point"}
+  "geometry": {"coordinates":[8.815533,44.426075],"type":"Point"}
 }

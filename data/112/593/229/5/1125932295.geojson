@@ -49,6 +49,9 @@
     "name:ces_x_preferred":[
         "Gros-Morne"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0433\u04c0\u043e-\u041c\u043e\u0433\u04c0\u043d"
+    ],
     "name:cos_x_preferred":[
         "Gros-Morne"
     ],
@@ -155,6 +158,9 @@
         "Gros-Morne"
     ],
     "name:lit_x_preferred":[
+        "Gros-Morne"
+    ],
+    "name:lld_x_preferred":[
         "Gros-Morne"
     ],
     "name:ltz_x_preferred":[
@@ -268,6 +274,9 @@
     "name:wol_x_preferred":[
         "Gros-Morne"
     ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f57\u83ab\u8bb7"
+    ],
     "name:zul_x_preferred":[
         "Gros-Morne"
     ],
@@ -323,7 +332,7 @@
         }
     ],
     "wof:id":1125932295,
-    "wof:lastmodified":1566653164,
+    "wof:lastmodified":1690921953,
     "wof:name":"Gros-Morne",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

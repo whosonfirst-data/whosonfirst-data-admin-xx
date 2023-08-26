@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Foxup"
     ],
+    "name:gle_x_preferred":[
+        "Foxup"
+    ],
     "name:nld_x_preferred":[
         "Foxup"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125912587,
-    "wof:lastmodified":1566654071,
+    "wof:lastmodified":1690922023,
     "wof:name":"Foxup",
     "wof:parent_id":404438901,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9567496492,41.0242117714,28.9567496492,41.0242117714",
+    "geom:bbox":"28.95675,41.024212,28.95675,41.024212",
     "geom:latitude":41.024212,
     "geom:longitude":28.95675,
     "iso:country":"XX",
@@ -29,6 +29,15 @@
     "name:eng_x_preferred":[
         "Unkapan\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Unkapan\u0131"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30f3\u30ab\u30d1\u30cc"
+    ],
+    "name:nld_x_preferred":[
+        "Unkapan\u0131"
+    ],
     "name:tur_x_preferred":[
         "Unkapan\u0131"
     ],
@@ -44,7 +53,7 @@
     },
     "wof:country":"XX",
     "wof:created":1491368267,
-    "wof:geomhash":"49b9e814084e9aa61c6f9a723ca0da56",
+    "wof:geomhash":"4c2268faa44af627d390d393ab1d1d91",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1108950295,
-    "wof:lastmodified":1566653141,
+    "wof:lastmodified":1690921941,
     "wof:name":"Unkapani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -64,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.95674964920874,
-    41.02421177136854,
-    28.95674964920874,
-    41.02421177136854
+    28.95675,
+    41.024212,
+    28.95675,
+    41.024212
 ],
-  "geometry": {"coordinates":[28.95674964920874,41.02421177136854],"type":"Point"}
+  "geometry": {"coordinates":[28.95675,41.024212],"type":"Point"}
 }

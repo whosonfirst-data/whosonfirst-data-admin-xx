@@ -23,6 +23,9 @@
     "name:azb_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06cc\u0686\u0644\u0648 \u0628\u0631\u06cc\u0627\u0646\u062a\u0632\u0627"
     ],
+    "name:bre_x_preferred":[
+        "Monticello Brianza"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0438\u0447\u0435\u043b\u043e \u0411\u0440\u0438\u0430\u043d\u0446\u0430"
     ],
@@ -32,8 +35,14 @@
     "name:ceb_x_preferred":[
         "Monticello Brianza"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0438\u0447\u0435\u043b\u043b\u043e-\u0411\u0440\u0438\u0430\u043d\u0446\u0430"
+    ],
     "name:deu_x_preferred":[
         "Monticello Brianza"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03b9\u03c4\u03c3\u03ad\u03bb\u03bb\u03bf \u039c\u03c0\u03c1\u03b9\u03ac\u03bd\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Monticello Brianza"
@@ -50,11 +59,17 @@
     "name:fra_x_preferred":[
         "Monticello Brianza"
     ],
+    "name:gle_x_preferred":[
+        "Monticello Brianza"
+    ],
     "name:hun_x_preferred":[
         "Monticello Brianza"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576\u057f\u056b\u0579\u0565\u056c\u056c\u0578 \u0532\u0580\u056b\u0561\u0576\u0581\u0561"
+    ],
+    "name:ina_x_preferred":[
+        "Monticello Brianza"
     ],
     "name:ita_x_preferred":[
         "Monticello Brianza"
@@ -67,6 +82,12 @@
     ],
     "name:lat_x_preferred":[
         "Monticellus"
+    ],
+    "name:lij_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:lld_x_preferred":[
+        "Monticello Brianza"
     ],
     "name:lmo_x_preferred":[
         "Muntisel"
@@ -81,6 +102,9 @@
         "Monticello Brianza"
     ],
     "name:nld_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:nob_x_preferred":[
         "Monticello Brianza"
     ],
     "name:oci_x_preferred":[
@@ -110,10 +134,19 @@
     "name:srp_x_preferred":[
         "Monticello Brianza"
     ],
+    "name:swe_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0438\u0447\u0435\u043b\u043b\u043e-\u0411\u0440\u0438\u0430\u043d\u0446\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0456\u0447\u0435\u043b\u043b\u043e-\u0411\u0440\u0456\u0430\u043d\u0446\u0430"
     ],
     "name:uzb_x_preferred":[
+        "Monticello Brianza"
+    ],
+    "name:vec_x_preferred":[
         "Monticello Brianza"
     ],
     "name:vie_x_preferred":[
@@ -127,6 +160,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u8482\u5207\u6d1b\u5e03\u91cc\u4e9a\u6069\u624e"
+    ],
+    "name:zho_x_variant":[
+        "\u8499\u8482\u5207\u6d1b\u5e03\u91cc\u5b89\u624e"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Monticello Brianza",
@@ -177,7 +213,7 @@
         }
     ],
     "wof:id":1125883267,
-    "wof:lastmodified":1566653523,
+    "wof:lastmodified":1690921994,
     "wof:name":"Monticello Brianza",
     "wof:parent_id":404469343,
     "wof:placetype":"locality",

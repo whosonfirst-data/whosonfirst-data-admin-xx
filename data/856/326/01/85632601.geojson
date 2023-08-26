@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "\u018fbumusa"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0443-\u041c\u0443\u0441\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09c1 \u09ae\u09c1\u09b8\u09be \u09a6\u09cd\u09ac\u09c0\u09aa"
     ],
@@ -75,7 +78,8 @@
     "name:fas_x_variant":[
         "Shahrest\u0101n-e Ab\u016b M\u016bs\u00e1",
         "\u0627\u0628\u0648 \u0645\u0648\u0633\u06cc\u0670",
-        "\u062c\u0632\u06cc\u0631\u0647 \u0627\u0628\u0648\u0645\u0648\u0633\u06cc"
+        "\u062c\u0632\u06cc\u0631\u0647 \u0627\u0628\u0648\u0645\u0648\u0633\u06cc",
+        "\u062c\u0632\u06cc\u0631\u0647 \u0628\u0648\u0645\u0648\u0633\u06cc"
     ],
     "name:fin_x_preferred":[
         "kiistelty alue"
@@ -86,11 +90,11 @@
     "name:fra_x_preferred":[
         "Abou Moussa"
     ],
-    "name:fra_x_variant":[
-        "Abou Moussa"
-    ],
     "name:glk_x_preferred":[
         "\u0627\u0628\u0648\u0645\u0648\u0633\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05de\u05d5\u05e1\u05d0"
     ],
     "name:hrv_x_preferred":[
         "Abu Musa"
@@ -110,9 +114,6 @@
     "name:kor_x_preferred":[
         "\uc544\ubd80\ubb34\uc0ac\uc12c"
     ],
-    "name:kor_x_variant":[
-        "\uc544\ubd80\ubb34\uc0ac\uc12c"
-    ],
     "name:lit_x_preferred":[
         "Abu Musa"
     ],
@@ -122,11 +123,17 @@
     "name:nld_x_preferred":[
         "Abu Musa"
     ],
+    "name:nob_x_preferred":[
+        "Abu Musa"
+    ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
     ],
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0627\u0628\u0648 \u0645\u0648\u0633\u06cc"
     ],
     "name:pol_x_preferred":[
         "Abu Musa"
@@ -136,6 +143,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0431\u0443-\u041c\u0443\u0441\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0431\u0443-\u041c\u0443\u0441\u0430"
     ],
     "name:spa_x_preferred":[
         "Abu Musa"
@@ -147,7 +157,8 @@
         "Abu Musa Island"
     ],
     "name:swe_x_variant":[
-        "Omtvistat omr\u00e5de"
+        "Omtvistat omr\u00e5de",
+        "Abu Musa"
     ],
     "name:tur_x_preferred":[
         "Abu Musa"
@@ -157,6 +168,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u0627\u0628\u0648 \u0645\u0648\u0633\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Abu-Muso"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5e03\u7a46\u8428\u5c9b"
@@ -343,7 +357,7 @@
         }
     ],
     "wof:id":85632601,
-    "wof:lastmodified":1617305928,
+    "wof:lastmodified":1690921931,
     "wof:name":"Abu Musa",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

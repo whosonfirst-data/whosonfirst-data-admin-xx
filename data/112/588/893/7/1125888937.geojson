@@ -47,6 +47,9 @@
     "name:ces_x_preferred":[
         "Petite-\u00cele"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0442\u0438\u0442-\u0418\u043b\u044c"
+    ],
     "name:cos_x_preferred":[
         "Petite-\u00cele"
     ],
@@ -155,6 +158,9 @@
     "name:lit_x_preferred":[
         "Petite-\u00cele"
     ],
+    "name:lld_x_preferred":[
+        "Petite-\u00cele"
+    ],
     "name:ltz_x_preferred":[
         "Petite-\u00cele"
     ],
@@ -236,6 +242,9 @@
     "name:swe_x_preferred":[
         "Petite-\u00cele"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0442\u0438\u0442-\u0418\u043b\u044c"
+    ],
     "name:tur_x_preferred":[
         "Petite-\u00cele"
     ],
@@ -265,6 +274,9 @@
     ],
     "name:wol_x_preferred":[
         "Petite-\u00cele"
+    ],
+    "name:zho_x_preferred":[
+        "\u73c0\u8482\u7279\u4f0a\u52d2"
     ],
     "name:zul_x_preferred":[
         "Petite-\u00cele"
@@ -316,7 +328,7 @@
         }
     ],
     "wof:id":1125888937,
-    "wof:lastmodified":1566653522,
+    "wof:lastmodified":1690921992,
     "wof:name":"Petite \u00cele",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

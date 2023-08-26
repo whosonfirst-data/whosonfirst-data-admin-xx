@@ -26,6 +26,12 @@
     "mz:hierarchy_label_region":0,
     "mz:is_current":1,
     "mz:min_zoom":0.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u062c\u0648\u0631\u062c\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u062b \u062c\u064a\u0648\u0631\u062c\u064a\u0627"
+    ],
     "name:aze_x_preferred":[
         "C\u0259nubi Georgiya"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:bre_x_preferred":[
         "Georgia ar Su"
+    ],
+    "name:ceb_x_preferred":[
+        "South Georgia"
     ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Georgie"
@@ -74,6 +83,12 @@
     "name:eus_x_preferred":[
         "Hegoaldeko Georgiak"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Etel\u00e4-Georgia"
+    ],
     "name:fra_x_preferred":[
         "\u00eele de G\u00e9orgie du Sud"
     ],
@@ -95,6 +110,9 @@
     "name:hun_x_preferred":[
         "D\u00e9li-Georgia"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u054b\u0578\u0580\u057b\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Pulau Georgia Selatan"
     ],
@@ -107,14 +125,17 @@
     "name:kor_x_preferred":[
         "\uc0ac\uc6b0\uc2a4\uc870\uc9c0\uc544\uc12c"
     ],
-    "name:kor_x_variant":[
-        "\uc0ac\uc6b0\uc2a4\uc870\uc9c0\uc544\uc12c"
+    "name:lat_x_preferred":[
+        "Georgia Australis"
     ],
     "name:lav_x_preferred":[
         "Dienvidd\u017eord\u017eija"
     ],
     "name:lit_x_preferred":[
         "Piet\u0173 D\u017eord\u017eija"
+    ],
+    "name:ltz_x_preferred":[
+        "S\u00fcdgeorgien"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0436\u043d\u0430 \u040f\u043e\u0440\u045f\u0438\u0458\u0430"
@@ -127,6 +148,9 @@
     ],
     "name:nob_x_preferred":[
         "S\u00f8r-Georgia"
+    ],
+    "name:oci_x_preferred":[
+        "Georgia del Sud"
     ],
     "name:pol_x_preferred":[
         "Georgia Po\u0142udniowa"
@@ -143,11 +167,17 @@
     "name:spa_x_preferred":[
         "Georgia del Sur"
     ],
+    "name:spa_x_variant":[
+        "San Pedro"
+    ],
     "name:swa_x_preferred":[
         "South Georgia"
     ],
     "name:swe_x_preferred":[
         "Sydgeorgien"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e40\u0e0b\u0e32\u0e17\u0e4c\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22"
     ],
     "name:tur_x_preferred":[
         "G\u00fcney Georgia Adas\u0131"
@@ -324,7 +354,7 @@
         }
     ],
     "wof:id":1159339557,
-    "wof:lastmodified":1636497655,
+    "wof:lastmodified":1690922078,
     "wof:name":"South Georgia",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

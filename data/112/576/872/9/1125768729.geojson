@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"15.1686525,45.644859,15.1686525,45.644859",
+    "geom:bbox":"15.168653,45.644859,15.168653,45.644859",
     "geom:latitude":45.644859,
     "geom:longitude":15.168653,
     "gn:country":null,
@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Semi\u010d"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0447"
+    ],
     "name:cos_x_preferred":[
         "Semi\u010d"
     ],
@@ -45,6 +48,9 @@
         "Semi\u010d"
     ],
     "name:hrv_x_preferred":[
+        "Semi\u010d"
+    ],
+    "name:hun_x_preferred":[
         "Semi\u010d"
     ],
     "name:ind_x_preferred":[
@@ -83,11 +89,20 @@
     "name:tah_x_preferred":[
         "Semi\u010d"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0447"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e21\u0e34\u0e0a"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u0438\u0447"
     ],
     "name:vie_x_preferred":[
         "Semi\u010d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cfd\u7c73\u5947"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Semi\u010d",
@@ -125,7 +140,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497289988,
-    "wof:geomhash":"cfaec7200f54f65efd6a9b8b637a1dba",
+    "wof:geomhash":"7815ba041944f8bce0be07fc949c5d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":1125768729,
-    "wof:lastmodified":1566654515,
+    "wof:lastmodified":1690922047,
     "wof:name":"Semi\u010d",
     "wof:parent_id":1108959601,
     "wof:placetype":"locality",
@@ -146,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.1686525,
+    15.168653,
     45.644859,
-    15.1686525,
+    15.168653,
     45.644859
 ],
-  "geometry": {"coordinates":[15.1686525,45.644859],"type":"Point"}
+  "geometry": {"coordinates":[15.168653,45.644859],"type":"Point"}
 }

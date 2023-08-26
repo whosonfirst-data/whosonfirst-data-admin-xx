@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"8.75339160118,44.429302748,8.75339160118,44.429302748",
+    "geom:bbox":"8.753392,44.429303,8.753392,44.429303",
     "geom:latitude":44.429303,
     "geom:longitude":8.753392,
     "iso:country":"XX",
@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Voltri"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03bb\u03c4\u03c1\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Voltri"
     ],
@@ -35,10 +38,16 @@
     "name:ita_x_preferred":[
         "Voltri"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30eb\u30c8\u30ea"
+    ],
     "name:lat_x_preferred":[
         "Vulturium"
     ],
     "name:nld_x_preferred":[
+        "Voltri"
+    ],
+    "name:pol_x_preferred":[
         "Voltri"
     ],
     "name:spa_x_preferred":[
@@ -62,7 +71,7 @@
     },
     "wof:country":"XX",
     "wof:created":1491367133,
-    "wof:geomhash":"e18d2876ac22ea8f149a52e62c1fbc7a",
+    "wof:geomhash":"a9b568e57efaf62bb728a9777b155329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1108948627,
-    "wof:lastmodified":1566653147,
+    "wof:lastmodified":1690921943,
     "wof:name":"Voltri",
     "wof:parent_id":101752663,
     "wof:placetype":"neighbourhood",
@@ -85,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.75339160117767,
-    44.4293027480163,
-    8.75339160117767,
-    44.4293027480163
+    8.753392,
+    44.429303,
+    8.753392,
+    44.429303
 ],
-  "geometry": {"coordinates":[8.75339160117767,44.4293027480163],"type":"Point"}
+  "geometry": {"coordinates":[8.753392,44.429303],"type":"Point"}
 }

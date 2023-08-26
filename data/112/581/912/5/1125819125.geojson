@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Camacuri"
     ],
+    "name:pap_x_preferred":[
+        "Camacuri"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Camacuri",
     "qs_pg:name_adm0":"Aruba",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1125819125,
-    "wof:lastmodified":1566653519,
+    "wof:lastmodified":1690921989,
     "wof:name":"Camacuri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

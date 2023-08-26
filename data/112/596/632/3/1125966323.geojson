@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Lasarte-Oria"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0633\u0627\u0631\u062a\u0649 \u0627\u0648\u0631\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Lasarte-Oria"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ceb_x_preferred":[
         "Lasarte-Oria"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u0441\u0430\u0440\u0442\u0435-\u041e\u0440\u0438\u044f"
     ],
     "name:dan_x_preferred":[
         "Lasarte-Oria"
@@ -59,6 +65,9 @@
     "name:fra_x_preferred":[
         "Lasarte-Oria"
     ],
+    "name:gle_x_preferred":[
+        "Lasarte-Oria"
+    ],
     "name:glg_x_preferred":[
         "Lasarte-Oria"
     ],
@@ -74,8 +83,17 @@
     "name:kal_x_preferred":[
         "Lasarte-Oria"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e1\u10d0\u10e0\u10e2\u10d4-\u10dd\u10e0\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc0ac\ub974\ud14c\uc624\ub9ac\uc544"
+    ],
     "name:lit_x_preferred":[
         "Lasarte Orija"
+    ],
+    "name:lld_x_preferred":[
+        "Lasarte-Oria"
     ],
     "name:msa_x_preferred":[
         "Lasarte-Oria"
@@ -113,10 +131,16 @@
     "name:szl_x_preferred":[
         "Lasarte-Oria"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0441\u0430\u0440\u0442\u0435-\u041e\u0440\u0438\u044f"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0441\u0430\u0440\u0442\u0435-\u041e\u0440\u0456\u044f"
     ],
     "name:uzb_x_preferred":[
+        "Lasarte-Oria"
+    ],
+    "name:vec_x_preferred":[
         "Lasarte-Oria"
     ],
     "name:vie_x_preferred":[
@@ -177,7 +201,7 @@
         }
     ],
     "wof:id":1125966323,
-    "wof:lastmodified":1566654065,
+    "wof:lastmodified":1690922017,
     "wof:name":"Lasarte-Oria",
     "wof:parent_id":404336269,
     "wof:placetype":"locality",

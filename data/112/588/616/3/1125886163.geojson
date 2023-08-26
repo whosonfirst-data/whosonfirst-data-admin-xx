@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Monreal"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
+    ],
     "name:deu_x_preferred":[
         "Monreal"
     ],
@@ -38,6 +44,9 @@
     "name:fra_x_preferred":[
         "Monreal"
     ],
+    "name:fry_x_preferred":[
+        "Monreal"
+    ],
     "name:hun_x_preferred":[
         "Monreal"
     ],
@@ -47,10 +56,19 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30ec\u30a2\u30fc\u30eb"
     ],
+    "name:lld_x_preferred":[
+        "Monreal"
+    ],
     "name:msa_x_preferred":[
         "Monreal"
     ],
+    "name:nan_x_preferred":[
+        "Monreal"
+    ],
     "name:nld_x_preferred":[
+        "Monreal"
+    ],
+    "name:nob_x_preferred":[
         "Monreal"
     ],
     "name:pol_x_preferred":[
@@ -68,6 +86,12 @@
     "name:srp_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b"
     ],
+    "name:swe_x_preferred":[
+        "Monreal"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0440\u0435\u0430\u043b\u044c"
     ],
@@ -82,6 +106,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u91cc\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u8499\u96f7\u963f\u5c14"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Monreal",
@@ -130,7 +157,7 @@
         }
     ],
     "wof:id":1125886163,
-    "wof:lastmodified":1566653521,
+    "wof:lastmodified":1690921991,
     "wof:name":"Monreal",
     "wof:parent_id":102063635,
     "wof:placetype":"locality",

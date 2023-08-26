@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Le Moule"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648 \u0645\u0648\u0644"
+    ],
     "name:ast_x_preferred":[
         "Le Moule"
     ],
@@ -58,10 +61,16 @@
     "name:ces_x_preferred":[
         "Le Moule"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435-\u041c\u0443\u043b\u044c"
+    ],
     "name:cos_x_preferred":[
         "Le Moule"
     ],
     "name:cym_x_preferred":[
+        "Le Moule"
+    ],
+    "name:dag_x_preferred":[
         "Le Moule"
     ],
     "name:dan_x_preferred":[
@@ -69,6 +78,9 @@
     ],
     "name:deu_x_preferred":[
         "Le Moule"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5 \u039c\u03bf\u03c5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Le Moule"
@@ -169,6 +181,9 @@
     "name:lit_x_preferred":[
         "Le Moule"
     ],
+    "name:lld_x_preferred":[
+        "Le Moule"
+    ],
     "name:ltz_x_preferred":[
         "Le Moule"
     ],
@@ -259,6 +274,9 @@
     "name:swe_x_preferred":[
         "Le Moule"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435-\u041c\u0443\u043b\u044c"
+    ],
     "name:tur_x_preferred":[
         "Le Moule"
     ],
@@ -291,6 +309,9 @@
     ],
     "name:wol_x_preferred":[
         "Le Moule"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u7a46\u52d2"
     ],
     "name:zul_x_preferred":[
         "Le Moule"
@@ -347,7 +368,7 @@
         }
     ],
     "wof:id":1125928409,
-    "wof:lastmodified":1566653219,
+    "wof:lastmodified":1690921959,
     "wof:name":"Le Moule",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

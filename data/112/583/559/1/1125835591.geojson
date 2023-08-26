@@ -20,8 +20,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0632\u06a4\u0648\u0631\u0648 \u0643\u0631\u064a\u0634\u0648\u0644\u0648\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Izvoru Cri\u0219ului"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u0443-\u041a\u0440\u0438\u0448\u0443\u043b\u0443\u0439"
     ],
     "name:deu_x_preferred":[
         "Izvoru Cri\u0219ului"
@@ -33,6 +39,9 @@
         "Izvoru Cri\u0219ului"
     ],
     "name:fra_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
+    "name:gle_x_preferred":[
         "Izvoru Cri\u0219ului"
     ],
     "name:hun_x_preferred":[
@@ -47,6 +56,9 @@
     "name:nld_x_preferred":[
         "Izvoru Cri\u0219ului"
     ],
+    "name:pol_x_preferred":[
+        "Izvoru Cri\u0219ului"
+    ],
     "name:por_x_preferred":[
         "Izvoru Cri\u0219ului"
     ],
@@ -58,6 +70,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440\u0443 \u041a\u0440\u0438\u0448\u0443\u043b\u0443\u0458"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u0443-\u041a\u0440\u0438\u0448\u0443\u043b\u0443\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0437\u0432\u043e\u0440\u0443-\u041a\u0440\u0456\u0448\u0443\u043b\u0443\u0439"
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":1125835591,
-    "wof:lastmodified":1566654836,
+    "wof:lastmodified":1690922064,
     "wof:name":"Izvoru Cri\u0219ului",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

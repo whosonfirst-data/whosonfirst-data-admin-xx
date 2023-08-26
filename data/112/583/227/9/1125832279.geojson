@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "\u0160en\u010dur"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u0435\u043d\u0447\u0443\u0440"
+    ],
     "name:eng_x_preferred":[
         "\u0160en\u010dur"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:lit_x_preferred":[
         "\u0160en\u010d\u016bras"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0435\u043d\u0447\u0443\u0440"
     ],
     "name:nld_x_preferred":[
         "\u0160en\u010dur"
@@ -53,8 +59,17 @@
     "name:srp_x_preferred":[
         "\u0428\u0435\u043d\u0447\u0443\u0440"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u0435\u043d\u0447\u0443\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0a\u0e47\u0e19\u0e0a\u0e39\u0e23\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0447\u0443\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u7533\u4e18\u723e"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"\u0160en\u010dur",
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1125832279,
-    "wof:lastmodified":1566654836,
+    "wof:lastmodified":1690922064,
     "wof:name":"\u0160en\u010dur",
     "wof:parent_id":1108959647,
     "wof:placetype":"locality",

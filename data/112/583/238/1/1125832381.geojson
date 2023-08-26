@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0430 \u043f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Ba\u010dka Palanka"
+    ],
     "name:ceb_x_preferred":[
         "Ba\u010dka Palanka"
     ],
@@ -82,6 +85,12 @@
     ],
     "name:lit_x_preferred":[
         "Ba\u010dka Palanka"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0447\u043a\u0430 \u041f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
     "name:msa_x_preferred":[
         "Ba\u010dka Palanka"
@@ -183,7 +192,7 @@
         }
     ],
     "wof:id":1125832381,
-    "wof:lastmodified":1566654841,
+    "wof:lastmodified":1690922069,
     "wof:name":"Ba\u010dka Palanka",
     "wof:parent_id":1108809827,
     "wof:placetype":"locality",

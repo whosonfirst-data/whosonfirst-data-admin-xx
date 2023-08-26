@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Tigri Area"
     ],
+    "name:fra_x_preferred":[
+        "Tigri"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30b0\u30ea\u5730\u57df"
     ],
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":1159339501,
-    "wof:lastmodified":1616193487,
+    "wof:lastmodified":1690922084,
     "wof:name":"Tigri Area",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

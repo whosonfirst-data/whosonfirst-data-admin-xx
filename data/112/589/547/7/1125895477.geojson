@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0628\u064a\u064a\u0631"
+    ],
     "name:arg_x_preferred":[
         "Saint-Pierre"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ces_x_preferred":[
         "Saint-Pierre"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043d-\u041f\u044c\u0435\u0433\u04c0"
     ],
     "name:cos_x_preferred":[
         "Saint-Pierre"
@@ -116,6 +122,9 @@
     "name:gsw_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:hat_x_preferred":[
+        "Sen Py\u00e8"
+    ],
     "name:hrv_x_preferred":[
         "Saint-Pierre"
     ],
@@ -146,6 +155,9 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30d4\u30a8\u30fc\u30eb"
     ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30f3\uff1d\u30d4\u30a8\u30fc\u30eb"
+    ],
     "name:kab_x_preferred":[
         "Saint-Pierre"
     ],
@@ -164,6 +176,9 @@
     "name:lat_x_preferred":[
         "Saint-Pierre"
     ],
+    "name:lat_x_variant":[
+        "Sanctus Petrus"
+    ],
     "name:lav_x_preferred":[
         "Saint-Pierre"
     ],
@@ -175,6 +190,9 @@
     ],
     "name:lit_x_preferred":[
         "Sen Pjeras"
+    ],
+    "name:lld_x_preferred":[
+        "Saint-Pierre"
     ],
     "name:ltz_x_preferred":[
         "Saint-Pierre"
@@ -357,7 +375,7 @@
         }
     ],
     "wof:id":1125895477,
-    "wof:lastmodified":1566653647,
+    "wof:lastmodified":1690921998,
     "wof:name":"St.-Pierre",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

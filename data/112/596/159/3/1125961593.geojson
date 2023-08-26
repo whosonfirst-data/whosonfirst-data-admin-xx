@@ -20,13 +20,28 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:deu_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
     "name:eng_x_preferred":[
         "Sk\u00e4rg\u00e5rdsstad"
     ],
     "name:fin_x_preferred":[
         "Sk\u00e4rg\u00e5rdsstad"
     ],
+    "name:fra_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:gle_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
     "name:ita_x_preferred":[
+        "Sk\u00e4rg\u00e5rdsstad"
+    ],
+    "name:lld_x_preferred":[
         "Sk\u00e4rg\u00e5rdsstad"
     ],
     "name:nan_x_preferred":[
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":1125961593,
-    "wof:lastmodified":1566654064,
+    "wof:lastmodified":1690922015,
     "wof:name":"Skargardsstad",
     "wof:parent_id":1125423247,
     "wof:placetype":"locality",

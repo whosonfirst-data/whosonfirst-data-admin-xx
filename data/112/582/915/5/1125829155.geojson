@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0641\u0627 \u0631\u064a\u0643\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Suva Reka"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09c1\u09ad\u09be \u09b0\u09c7\u0995\u09be"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Komuna e Th\u00ebrand\u00ebs"
+    ],
+    "name:ceb_x_variant":[
+        "Suva Reka"
     ],
     "name:ces_x_preferred":[
         "Suva Reka"
@@ -50,6 +56,9 @@
     "name:eng_x_preferred":[
         "Suva Reka"
     ],
+    "name:est_x_preferred":[
+        "Therand\u00eb"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0648\u0627 \u0631\u06a9\u0627"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab5\u0abe \u0ab0\u0ac7\u0a95\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d1\u05d4 \u05e8\u05d9\u05e7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u0935\u093e \u0930\u0947\u0915\u093e"
@@ -136,6 +148,9 @@
     ],
     "name:swe_x_preferred":[
         "Komuna e Th\u00ebrand\u00ebs"
+    ],
+    "name:swe_x_variant":[
+        "Suva Reka"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb5\u0bbe \u0bb0\u0bc7\u0b95\u0bbe"
@@ -217,7 +232,7 @@
         }
     ],
     "wof:id":1125829155,
-    "wof:lastmodified":1636497645,
+    "wof:lastmodified":1690922044,
     "wof:name":"Suva Reka",
     "wof:parent_id":1108809511,
     "wof:placetype":"locality",

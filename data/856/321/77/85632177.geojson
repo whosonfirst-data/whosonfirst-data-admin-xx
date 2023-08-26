@@ -27,8 +27,17 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":6.0,
+    "name:ace_x_preferred":[
+        "Pulo Wake"
+    ],
+    "name:afr_x_preferred":[
+        "Wake-eiland"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0633\u0628\u0631\u0627\u062a\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0648\u064a\u0643"
     ],
     "name:ast_x_preferred":[
         "Islles Spratly"
@@ -36,41 +45,85 @@
     "name:aze_x_preferred":[
         "Spartli arxipelaq\u0131"
     ],
+    "name:aze_x_variant":[
+        "Ueyk rifi"
+    ],
+    "name:bak_x_preferred":[
+        "\u0423\u044d\u0439\u043a"
+    ],
+    "name:bar_x_preferred":[
+        "Wake"
+    ],
+    "name:bcl_x_preferred":[
+        "Wake Island"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0445\u0456\u043f\u0435\u043b\u0430\u0433 \u0421\u043f\u0440\u0430\u0442\u043b\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0423\u044d\u0439\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09aa\u09cd\u09b0\u09cd\u09af\u09be\u099f\u09b2\u09bf \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
     ],
+    "name:ben_x_variant":[
+        "\u0993\u09af\u09bc\u09c7\u0995 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
+    "name:bos_x_preferred":[
+        "Ostrvo Wake"
+    ],
     "name:bre_x_preferred":[
         "Inizi Spratly"
     ],
+    "name:bre_x_variant":[
+        "Enez Wake"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043f\u0440\u0430\u0442\u043b\u0438"
+    ],
+    "name:bul_x_variant":[
+        "\u0423\u0435\u0439\u043a"
     ],
     "name:cat_x_preferred":[
         "Illes Spratly"
     ],
     "name:cat_x_variant":[
-        "illes Spratly"
+        "illes Spratly",
+        "Illes Wake"
     ],
     "name:ceb_x_preferred":[
         "Kapupud-ang Kagawasan"
+    ],
+    "name:ceb_x_variant":[
+        "Wake Island"
     ],
     "name:ces_x_preferred":[
         "Spratlyovy ostrovy"
     ],
     "name:ces_x_variant":[
-        "Spratlyho ostrovy"
+        "Spratlyho ostrovy",
+        "Wake"
+    ],
+    "name:che_x_preferred":[
+        "\u0423\u044d\u0439\u043a"
     ],
     "name:dan_x_preferred":[
         "Spratly\u00f8erne"
     ],
+    "name:dan_x_variant":[
+        "Wake Island"
+    ],
     "name:deu_x_preferred":[
         "Spratly-Inseln"
     ],
+    "name:deu_x_variant":[
+        "Wake"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b7\u03c3\u03b9\u03ac \u03a3\u03c0\u03c1\u03ac\u03c4\u03bb\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u039f\u03c5\u03ad\u03b7\u03ba"
     ],
     "name:eng_x_preferred":[
         "Spratly Islands"
@@ -80,28 +133,60 @@
     ],
     "name:eng_x_variant":[
         "Spratly Is.",
-        "Disputed Territory"
+        "Disputed Territory",
+        "Wake Island"
     ],
     "name:epo_x_preferred":[
         "Spratly-insularo"
     ],
+    "name:epo_x_variant":[
+        "Vejkinsulo"
+    ],
+    "name:est_x_preferred":[
+        "Wake'i saar"
+    ],
     "name:eus_x_preferred":[
         "Spratly uharteak"
+    ],
+    "name:eus_x_variant":[
+        "Wake Uhartea"
     ],
     "name:fao_x_preferred":[
         "Spratly oyggjar"
     ],
+    "name:fao_x_variant":[
+        "Wakeoy"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0633\u067e\u0631\u0627\u062a\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0648\u06cc\u06a9"
     ],
     "name:fin_x_preferred":[
         "kiistelty alue"
     ],
     "name:fin_x_variant":[
-        "Spratlysaaret"
+        "Spratlysaaret",
+        "Wakensaari"
     ],
     "name:fra_x_preferred":[
         "\u00celes Spratleys"
+    ],
+    "name:fra_x_variant":[
+        "Wake"
+    ],
+    "name:frp_x_preferred":[
+        "Ila Vake"
+    ],
+    "name:frr_x_preferred":[
+        "Wake"
+    ],
+    "name:fry_x_preferred":[
+        "Wake"
+    ],
+    "name:gcr_x_preferred":[
+        "Wake"
     ],
     "name:gle_x_preferred":[
         "Oile\u00e1in Spratly"
@@ -109,56 +194,130 @@
     "name:glg_x_preferred":[
         "Illas Spratly"
     ],
+    "name:glg_x_variant":[
+        "Illa Wake"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0aaa\u0acd\u0ab0\u0abe\u0a9f\u0ab2\u0ac0 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab5\u0ac7\u0a95 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d9 \u05e1\u05e4\u05e8\u05d0\u05d8\u05dc\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05d5\u05d9\u05d9\u05e7"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u094d\u092a\u094d\u0930\u0948\u091f\u0932\u0940 \u0926\u094d\u0935\u0940\u092a \u0938\u092e\u0942\u0939"
+    ],
+    "name:hin_x_variant":[
+        "\u0935\u0947\u0915 \u0926\u094d\u0935\u0940\u092a"
     ],
     "name:hrv_x_preferred":[
         "Oto\u010dje Spratly"
     ],
+    "name:hrv_x_variant":[
+        "Otok Wake"
+    ],
     "name:hun_x_preferred":[
         "Spratly-szigetek"
+    ],
+    "name:hun_x_variant":[
+        "Wake-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0565\u0575\u0584"
     ],
     "name:ido_x_preferred":[
         "Spratly-Insuli"
     ],
+    "name:ido_x_variant":[
+        "Wake Insulo"
+    ],
     "name:ind_x_preferred":[
         "Kepulauan Spratly"
     ],
+    "name:ind_x_variant":[
+        "Pulau Wake"
+    ],
+    "name:isl_x_preferred":[
+        "Vars\u00edmaeyja"
+    ],
     "name:ita_x_preferred":[
         "Isole Spratly"
+    ],
+    "name:jav_x_preferred":[
+        "Pulo Wake"
     ],
     "name:jpn_x_preferred":[
         "\u5357\u6c99\u8af8\u5cf6"
     ],
     "name:jpn_x_variant":[
-        "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f"
+        "\u4fc2\u4e89\u4e2d\u306e\u9818\u571f",
+        "\u30a6\u30a7\u30fc\u30af\u5cf6"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caa\u0ccd\u0cb0\u0cbe\u0c9f\u0ccd\u0cb2\u0cbf \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kan_x_variant":[
+        "\u0cb5\u0cc7\u0c95\u0ccd \u0c90\u0cb2\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d4\u10d8\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u044d\u0439\u043a \u0430\u0440\u0430\u043b\u044b"
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud504\ub798\ud2c0\ub9ac \uad70\ub3c4"
     ],
     "name:kor_x_variant":[
-        "\ubd84\uc7c1\uc9c0\uc5ed"
+        "\ubd84\uc7c1\uc9c0\uc5ed",
+        "\uc6e8\uc774\ud06c\uc12c"
+    ],
+    "name:kur_x_preferred":[
+        "Girava Wake"
+    ],
+    "name:lat_x_preferred":[
+        "Wake"
     ],
     "name:lav_x_preferred":[
         "Spratlija salas"
     ],
+    "name:lav_x_variant":[
+        "Veika sala"
+    ],
+    "name:lij_x_preferred":[
+        "Isoa Wake"
+    ],
+    "name:lim_x_preferred":[
+        "Wake"
+    ],
     "name:lit_x_preferred":[
         "Spratlio salos"
+    ],
+    "name:lit_x_variant":[
+        "Veiko sala"
+    ],
+    "name:mah_x_preferred":[
+        "\u0100nen Kio"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d47\u0d15\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u092a\u0945\u091f\u0932\u0940 \u0906\u0908\u0938\u0932\u0901\u0921\u094d\u0938"
     ],
+    "name:mar_x_variant":[
+        "\u0935\u0947\u0915 \u0906\u092f\u0932\u0902\u0921"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u043f\u0440\u0435\u0442\u043b\u0438"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0435\u0458\u043a"
     ],
     "name:mon_x_preferred":[
         "\u0421\u043f\u0440\u0430\u0442\u043b\u0438\u0439\u043d \u0430\u0440\u043b\u0443\u0443\u0434"
@@ -166,14 +325,29 @@
     "name:msa_x_preferred":[
         "Kepulauan Spratly"
     ],
+    "name:msa_x_variant":[
+        "Pulau Wake"
+    ],
     "name:nan_x_preferred":[
         "L\u00e2m-soa K\u00fbn-t\u00f3"
+    ],
+    "name:nan_x_variant":[
+        "Wake-t\u00f3"
     ],
     "name:nld_x_preferred":[
         "Spratly-eilanden"
     ],
+    "name:nld_x_variant":[
+        "Wake"
+    ],
+    "name:nno_x_preferred":[
+        "Wake\u00f8ya"
+    ],
     "name:nob_x_preferred":[
         "Spratly\u00f8yene"
+    ],
+    "name:nob_x_variant":[
+        "Wake Island"
     ],
     "name:nor_x_colloquial":[
         "Omstridt omrade"
@@ -181,29 +355,74 @@
     "name:nor_x_preferred":[
         "Omstridt omr\u00e5de"
     ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a47\u0a15 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u06cc\u06a9 \u062c\u0632\u06cc\u0631\u06c1"
+    ],
     "name:pol_x_preferred":[
         "Wyspy Spratly"
+    ],
+    "name:pol_x_variant":[
+        "Wake"
     ],
     "name:por_x_preferred":[
         "Ilhas Spratly"
     ],
+    "name:por_x_variant":[
+        "Ilha Wake"
+    ],
     "name:ron_x_preferred":[
         "Insulele Spratly"
+    ],
+    "name:ron_x_variant":[
+        "Insula Wake"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0421\u043f\u0440\u0430\u0442\u043b\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0423\u044d\u0439\u043a"
+    ],
     "name:sco_x_preferred":[
         "Spratly Islands"
+    ],
+    "name:sco_x_variant":[
+        "Wake Island"
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0db4\u0dca\u200d\u0dbb\u0da7\u0dbd\u0dd2 \u0daf\u0dd4\u0db4\u0dad\u0dca"
     ],
+    "name:sin_x_variant":[
+        "\u0dc0\u0dda\u0d9a\u0dca \u0daf\u0dd4\u0db4\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "Wake"
+    ],
+    "name:slv_x_preferred":[
+        "Otok Wake"
+    ],
+    "name:smo_x_preferred":[
+        "Wake Island"
+    ],
     "name:spa_x_preferred":[
         "Islas Spratly"
     ],
+    "name:spa_x_variant":[
+        "Isla Wake"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0432\u0430 \u0421\u043f\u0440\u0435\u0442\u043b\u0438"
+    ],
+    "name:srp_x_variant":[
+        "\u0412\u0435\u0458\u043a"
+    ],
+    "name:sun_x_preferred":[
+        "Pulo Wake"
+    ],
+    "name:swa_x_preferred":[
+        "Kisiwa cha Wake"
     ],
     "name:swe_x_colloquial":[
         "Omtvistat omrade"
@@ -212,22 +431,44 @@
         "Spratly\u00f6arna"
     ],
     "name:swe_x_variant":[
-        "Omtvistat omr\u00e5de"
+        "Omtvistat omr\u00e5de",
+        "Wake"
     ],
     "name:tam_x_preferred":[
         "\u0bb8\u0bcd\u0baa\u0bcd\u0bb0\u0bc6\u0b9f\u0bcd\u0bb2\u0bcd\u0bb2\u0bbf \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0bc7\u0b95\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0423\u044d\u0439\u043a \u0430\u0442\u043e\u043b\u043b\u044b"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2a\u0c4d\u0c30\u0c3e\u0c1f\u0c4d\u0c32\u0c40 \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tel_x_variant":[
+        "\u0c35\u0c47\u0c15\u0c4d \u0c26\u0c40\u0c35\u0c3f"
     ],
     "name:tgl_x_preferred":[
         "Kapuluan ng Kalayaan"
     ],
+    "name:tgl_x_variant":[
+        "Pulo ng Wake"
+    ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e2a\u0e41\u0e1b\u0e23\u0e15\u0e25\u0e35"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e40\u0e27\u0e01"
+    ],
+    "name:ton_x_preferred":[
+        "Ueke"
+    ],
     "name:tur_x_preferred":[
         "Spratly Adalar\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Wake Adas\u0131"
     ],
     "name:uig_x_preferred":[
         "\u0646\u06d5\u0646\u0634\u0627 \u062a\u0627\u0642\u0649\u0645 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
@@ -235,27 +476,49 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u043f\u0440\u0430\u0442\u043b\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0412\u0435\u0439\u043a"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0632\u0627\u0626\u0631 \u0633\u067e\u0631\u0627\u0679\u0644\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0648\u06cc\u06a9"
+    ],
     "name:vec_x_preferred":[
         "\u00ccxo\u0142e Spratly"
+    ],
+    "name:vec_x_variant":[
+        "\u00eczo\u0142a Wake"
     ],
     "name:vie_x_preferred":[
         "Qu\u1ea7n \u0111\u1ea3o Spratly"
     ],
     "name:vie_x_variant":[
         "qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa",
-        "Qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa"
+        "Qu\u1ea7n \u0111\u1ea3o Tr\u01b0\u1eddng Sa",
+        "\u0110\u1ea3o Wake"
+    ],
+    "name:war_x_preferred":[
+        "Pur\u00f4 han Wake"
     ],
     "name:wuu_x_preferred":[
         "\u5357\u6c99\u7fa4\u5c9b"
     ],
+    "name:wuu_x_variant":[
+        "\u5a01\u514b\u5cf6"
+    ],
     "name:yor_x_preferred":[
         "\u00c0w\u1ecdn Er\u00e9k\u00f9\u1e63\u00f9 Spratly"
     ],
+    "name:yor_x_variant":[
+        "Er\u00e9k\u00f9\u1e63\u00f9 Wake"
+    ],
     "name:yue_x_preferred":[
         "\u5357\u6c99\u7fa4\u5cf6"
+    ],
+    "name:yue_x_variant":[
+        "\u5a01\u514b\u5cf6"
     ],
     "name:zha_x_preferred":[
         "Nanzsah ginzdauj"
@@ -271,7 +534,8 @@
     ],
     "name:zho_x_variant":[
         "\u6709\u4e89\u8bae\u7684\u9886\u571f",
-        "\u6709\u722d\u8b70\u7684\u9818\u571f"
+        "\u6709\u722d\u8b70\u7684\u9818\u571f",
+        "\u5a01\u514b\u5cf6"
     ],
     "ne:abbrev":"Spratly Is.",
     "ne:abbrev_len":11,
@@ -453,7 +717,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636497605,
+    "wof:lastmodified":1690921932,
     "wof:name":"Spratly Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

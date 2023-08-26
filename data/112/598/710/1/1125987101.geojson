@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
     "name:ceb_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Marmaroschsiget"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03b3\u03ba\u03b5\u03c4\u03bf\u03c5 \u039c\u03b1\u03c1\u03bc\u03ac\u03c4\u03c3\u03b9\u03b5\u03ca"
     ],
     "name:eng_x_preferred":[
         "Sighetu Marma\u021biei"
@@ -63,6 +69,12 @@
         "Sighetu Marma\u021biei"
     ],
     "name:fry_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:gla_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:gle_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
     "name:heb_x_preferred":[
@@ -86,6 +98,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\uac8c\ud22c\ub9c8\ub974\ub9c8\uce58\uc5d0\uc774"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044d\u0442\u0443 \u041c\u0430\u0440\u043c\u0430\u0446\u0438\u0435\u0439"
+    ],
     "name:min_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
@@ -95,11 +110,17 @@
     "name:nld_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
+    "name:nno_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
     "name:nob_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
     "name:pol_x_preferred":[
         "Syhot Marmaroski"
+    ],
+    "name:pol_x_variant":[
+        "Syhot"
     ],
     "name:por_x_preferred":[
         "Sighetu Marma\u021biei"
@@ -130,6 +151,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442\u0443-\u041c\u0430\u0440\u043c\u0430\u0442\u0441\u0438\u0435\u0439"
+    ],
+    "name:tur_x_preferred":[
+        "Sighetu Marma\u021biei"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0438\u0433\u0456\u0442"
@@ -191,7 +215,7 @@
         }
     ],
     "wof:id":1125987101,
-    "wof:lastmodified":1566654075,
+    "wof:lastmodified":1690922026,
     "wof:name":"Sighetu Marma\u021biei",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

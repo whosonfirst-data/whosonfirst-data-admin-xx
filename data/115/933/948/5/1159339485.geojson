@@ -38,8 +38,17 @@
     "name:ara_x_preferred":[
         "\u0642\u0637\u0627\u0639 \u063a\u0632\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0642\u0637\u0627\u0639 \u063a\u0632\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u063a\u0632\u0647 \u0632\u0648\u0644\u0627\u063a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Q\u0259zza zola\u011f\u0131"
+    ],
+    "name:aze_x_variant":[
+        "Q\u0259zz\u0259 zola\u011f\u0131"
     ],
     "name:bak_x_preferred":[
         "\u0492\u04d9\u0437\u0437\u04d9 \u0441\u0435\u043a\u0442\u043e\u0440\u044b"
@@ -160,6 +169,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0542\u0561\u0566\u0561\u0575\u056b \u0570\u0561\u057f\u057e\u0561\u056e"
+    ],
+    "name:ido_x_preferred":[
+        "Gaza-strio"
     ],
     "name:ind_x_preferred":[
         "Jalur Gaza"
@@ -319,6 +331,9 @@
     ],
     "name:urd_x_preferred":[
         "\u063a\u0632\u06c1 \u06a9\u06cc \u067e\u0679\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "G'azo sektori"
     ],
     "name:vep_x_preferred":[
         "Gazan sektor"
@@ -545,7 +560,7 @@
         }
     ],
     "wof:id":1159339485,
-    "wof:lastmodified":1636497657,
+    "wof:lastmodified":1690922081,
     "wof:name":"Gaza Strip",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

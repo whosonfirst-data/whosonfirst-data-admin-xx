@@ -20,13 +20,103 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Taipivai"
+    ],
+    "name:cat_x_preferred":[
+        "Taipivai"
+    ],
+    "name:ces_x_preferred":[
+        "Taipivai"
+    ],
+    "name:cos_x_preferred":[
+        "Taipivai"
+    ],
+    "name:cym_x_preferred":[
+        "Taipivai"
+    ],
+    "name:dan_x_preferred":[
+        "Taipivai"
+    ],
+    "name:deu_x_preferred":[
+        "Taipivai"
+    ],
     "name:eng_x_preferred":[
+        "Taipivai"
+    ],
+    "name:est_x_preferred":[
+        "Taipivai"
+    ],
+    "name:fin_x_preferred":[
         "Taipivai"
     ],
     "name:fra_x_preferred":[
         "Taipivai"
     ],
+    "name:gle_x_preferred":[
+        "Taipivai"
+    ],
+    "name:glg_x_preferred":[
+        "Taipivai"
+    ],
+    "name:hrv_x_preferred":[
+        "Taipivai"
+    ],
+    "name:hun_x_preferred":[
+        "Taipivai"
+    ],
+    "name:ind_x_preferred":[
+        "Taipivai"
+    ],
+    "name:ita_x_preferred":[
+        "Taipivai"
+    ],
+    "name:lav_x_preferred":[
+        "Taipivai"
+    ],
+    "name:lit_x_preferred":[
+        "Taipivai"
+    ],
+    "name:ltz_x_preferred":[
+        "Taipivai"
+    ],
+    "name:nld_x_preferred":[
+        "Taipivai"
+    ],
+    "name:nrm_x_preferred":[
+        "Taipivai"
+    ],
+    "name:oci_x_preferred":[
+        "Taipivai"
+    ],
+    "name:pol_x_preferred":[
+        "Taipivai"
+    ],
+    "name:por_x_preferred":[
+        "Taipivai"
+    ],
+    "name:roh_x_preferred":[
+        "Taipivai"
+    ],
+    "name:ron_x_preferred":[
+        "Taipivai"
+    ],
+    "name:slk_x_preferred":[
+        "Taipivai"
+    ],
+    "name:slv_x_preferred":[
+        "Taipivai"
+    ],
     "name:spa_x_preferred":[
+        "Taipivai"
+    ],
+    "name:swe_x_preferred":[
+        "Taipivai"
+    ],
+    "name:tah_x_preferred":[
+        "Taipivai"
+    ],
+    "name:tur_x_preferred":[
         "Taipivai"
     ],
     "qs_pg:gn_country":null,
@@ -70,7 +160,7 @@
         }
     ],
     "wof:id":1126027145,
-    "wof:lastmodified":1566653429,
+    "wof:lastmodified":1690921969,
     "wof:name":"Taipivai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

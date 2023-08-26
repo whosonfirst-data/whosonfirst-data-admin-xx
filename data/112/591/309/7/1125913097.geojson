@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u0631\u062f\u064a\u0646\u0631\u0627\u064a\u0643\u0633\u062a\u0627\u064a\u0646"
+    ],
     "name:cat_x_preferred":[
         "Heidenreichstein"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ces_x_preferred":[
         "Heidenreichstein"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0430\u0439\u0434\u0435\u043d\u0440\u0430\u0439\u0445\u0448\u0442\u0430\u0439\u043d"
     ],
     "name:deu_x_preferred":[
         "Heidenreichstein"
@@ -50,13 +56,22 @@
     "name:ita_x_preferred":[
         "Heidenreichstein"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a4\u30c7\u30f3\u30e9\u30a4\u30d2\u30b7\u30e5\u30bf\u30a4\u30f3"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0430\u0439\u0434\u0435\u043d\u0440\u0430\u0439\u0445\u0448\u0442\u0430\u0439\u043d"
+    ],
+    "name:lld_x_preferred":[
+        "Heidenreichstein"
     ],
     "name:nld_x_preferred":[
         "Heidenreichstein"
     ],
     "name:nno_x_preferred":[
+        "Heidenreichstein"
+    ],
+    "name:nob_x_preferred":[
         "Heidenreichstein"
     ],
     "name:pol_x_preferred":[
@@ -77,7 +92,13 @@
     "name:swe_x_preferred":[
         "Heidenreichstein"
     ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u0439\u0434\u0435\u043d\u0440\u0430\u0439\u0445\u0448\u0442\u0430\u0439\u043d"
+    ],
     "name:uzb_x_preferred":[
+        "Heidenreichstein"
+    ],
+    "name:vec_x_preferred":[
         "Heidenreichstein"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +162,7 @@
         }
     ],
     "wof:id":1125913097,
-    "wof:lastmodified":1566654069,
+    "wof:lastmodified":1690922021,
     "wof:name":"Heidenreichstein",
     "wof:parent_id":1108834865,
     "wof:placetype":"locality",

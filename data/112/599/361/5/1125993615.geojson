@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Kourou"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u0627"
+    ],
     "name:ast_x_preferred":[
         "Kourou"
     ],
@@ -46,6 +49,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cb\u0989\u09b0\u09cb\u0989"
     ],
+    "name:ben_x_variant":[
+        "\u0995\u09c1\u09b0\u09c1"
+    ],
     "name:bre_x_preferred":[
         "Kourou"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:ces_x_preferred":[
         "Kourou"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0433\u04c0\u0443"
     ],
     "name:cos_x_preferred":[
         "Kourou"
@@ -109,6 +118,9 @@
     "name:fur_x_preferred":[
         "Kourou"
     ],
+    "name:gcr_x_preferred":[
+        "Kourou"
+    ],
     "name:gla_x_preferred":[
         "Kourou"
     ],
@@ -123,6 +135,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05d5\u05d0\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d5\u05e8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0909\u0930\u0942"
@@ -182,6 +197,9 @@
         "Kourou"
     ],
     "name:lit_x_preferred":[
+        "Kourou"
+    ],
+    "name:lld_x_preferred":[
         "Kourou"
     ],
     "name:ltz_x_preferred":[
@@ -386,7 +404,7 @@
         }
     ],
     "wof:id":1125993615,
-    "wof:lastmodified":1636497633,
+    "wof:lastmodified":1690922009,
     "wof:name":"Kourou",
     "wof:parent_id":1091680649,
     "wof:placetype":"locality",

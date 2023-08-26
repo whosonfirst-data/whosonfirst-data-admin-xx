@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Grand-Bourg"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0627\u0646 \u0628\u0648\u0631"
+    ],
     "name:ast_x_preferred":[
         "Grand-Bourg"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ces_x_preferred":[
         "Grand-Bourg"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0433\u04c0\u0430\u043d-\u0411\u0443\u0433\u04c0"
     ],
     "name:cos_x_preferred":[
         "Grand-Bourg"
@@ -169,6 +175,9 @@
     "name:lit_x_preferred":[
         "Grand Buras"
     ],
+    "name:lld_x_preferred":[
+        "Grand-Bourg"
+    ],
     "name:ltz_x_preferred":[
         "Grand-Bourg"
     ],
@@ -249,6 +258,12 @@
     ],
     "name:swe_x_preferred":[
         "Grand-Bourg"
+    ],
+    "name:szl_x_preferred":[
+        "Grand-Bourg"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u0411\u0443\u0440"
     ],
     "name:tur_x_preferred":[
         "Grand-Bourg"
@@ -332,7 +347,7 @@
         }
     ],
     "wof:id":1125891263,
-    "wof:lastmodified":1566653638,
+    "wof:lastmodified":1690921996,
     "wof:name":"Grand-Bourg",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

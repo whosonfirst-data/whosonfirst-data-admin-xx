@@ -38,6 +38,12 @@
     "name:eng_x_preferred":[
         "Sokobanja"
     ],
+    "name:epo_x_preferred":[
+        "Sokobanja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0628\u0627\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sokobanja"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:hun_x_preferred":[
         "Sokobanja"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u056f\u0578\u0562\u0561\u0576\u0575\u0561"
     ],
     "name:ita_x_preferred":[
         "Sokobanja"
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":1125774799,
-    "wof:lastmodified":1566654827,
+    "wof:lastmodified":1690922060,
     "wof:name":"Soko Banja",
     "wof:parent_id":1108810079,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09a4\u09bf\u09ac\u0995\u09cd\u0995\u09ae"
+    ],
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a4\u09cd\u09a4\u09bf\u09ac\u0995\u09cd\u0995\u09ae"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_variant":[
         "Kattivakkam"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0924\u093f\u0935\u093e\u0915\u094d\u0915\u092e"
     ],
     "name:ita_x_preferred":[
         "Kattivakkam"
@@ -121,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582332375,
+    "wof:lastmodified":1690921917,
     "wof:name":"Kathivakkam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

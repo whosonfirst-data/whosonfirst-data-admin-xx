@@ -29,8 +29,23 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0627\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0627\u0647"
+    ],
+    "name:asm_x_preferred":[
+        "\u09b2\u09c7\u09b9"
+    ],
+    "name:ast_x_preferred":[
+        "Leh"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u09b9"
+    ],
+    "name:bho_x_preferred":[
+        "\u0932\u0947\u0939"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f42\u0fb3\u0f7a\u0f0d"
     ],
     "name:bpy_x_preferred":[
         "\u09b2\u09c7\u09b9"
@@ -56,6 +71,12 @@
     "name:eng_x_preferred":[
         "Leh"
     ],
+    "name:epo_x_preferred":[
+        "Leh"
+    ],
+    "name:eus_x_preferred":[
+        "Leh"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0647"
     ],
@@ -63,6 +84,9 @@
         "Leh"
     ],
     "name:fra_x_preferred":[
+        "Leh"
+    ],
+    "name:gle_x_preferred":[
         "Leh"
     ],
     "name:guj_x_preferred":[
@@ -89,6 +113,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cc7\u0cb9\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u0644\u06cc\u06c1"
+    ],
     "name:kor_x_preferred":[
         "\ub808"
     ],
@@ -97,6 +124,9 @@
     ],
     "name:lit_x_preferred":[
         "L\u0117"
+    ],
+    "name:lld_x_preferred":[
+        "Leh"
     ],
     "name:mal_x_preferred":[
         "\u0d32\u0d47"
@@ -125,6 +155,12 @@
     "name:nob_x_preferred":[
         "Leh"
     ],
+    "name:oci_x_preferred":[
+        "Leh"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0435\u0445"
+    ],
     "name:pam_x_preferred":[
         "Leh"
     ],
@@ -149,11 +185,20 @@
     "name:san_x_preferred":[
         "\u0932\u0947\u0939"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c6e\u1c66"
+    ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dda\u0dc4\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Leh"
+    ],
     "name:spa_x_preferred":[
         "Leh"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0445"
     ],
     "name:swe_x_preferred":[
         "Leh"
@@ -163,6 +208,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c46"
+    ],
+    "name:tel_x_variant":[
+        "\u0c32\u0c47\u0c39\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e25\u0e2b\u0e4c"
@@ -196,9 +244,9 @@
     "wd:wordcount":3006,
     "wof:belongsto":[
         102191569,
+        85632427,
         85632659,
         1796791505,
-        85632427,
         85632469
     ],
     "wof:breaches":[],
@@ -228,7 +276,7 @@
         }
     ],
     "wof:id":890440313,
-    "wof:lastmodified":1672957540,
+    "wof:lastmodified":1690921946,
     "wof:name":"Leh",
     "wof:parent_id":1796791505,
     "wof:placetype":"county",

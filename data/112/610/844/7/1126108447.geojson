@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Hocapa\u015fa"
+    ],
     "name:eng_x_preferred":[
         "Hocapa\u015fa"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1126108447,
-    "wof:lastmodified":1566653333,
+    "wof:lastmodified":1690921964,
     "wof:name":"Hocapa\u015fa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

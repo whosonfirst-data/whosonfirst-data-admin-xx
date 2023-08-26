@@ -29,6 +29,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0643\u0648\u0646\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u064a\u0643\u0648\u0646\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Baikonur"
+    ],
+    "name:awa_x_preferred":[
+        "\u092c\u093e\u092f\u0915\u094b\u0928\u0942\u0930"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u06cc\u06a9\u0648\u0646\u0648\u0631"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:ces_x_preferred":[
         "Bajkonur"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0439\u043a\u043e\u043d\u044b\u0440"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u06cc\u06a9\u06c6\u0646\u0648\u0631"
@@ -107,6 +119,9 @@
     "name:frr_x_preferred":[
         "Baikonur"
     ],
+    "name:gle_x_preferred":[
+        "Baikonur"
+    ],
     "name:glg_x_preferred":[
         "Baikonur"
     ],
@@ -127,6 +142,12 @@
     ],
     "name:hun_x_preferred":[
         "Bajkonur"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0575\u056f\u0578\u0576\u0578\u0582\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Ba\u00fdqo\u00f1\u0131r"
     ],
     "name:ind_x_preferred":[
         "Baykonur"
@@ -188,6 +209,9 @@
     "name:nob_x_preferred":[
         "Bajkonur"
     ],
+    "name:oci_x_preferred":[
+        "Baikonor"
+    ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a3e\u0a08\u0a15\u0a4b\u0a28\u0a30"
     ],
@@ -233,6 +257,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0430\u0458\u043a\u043e\u043d\u0443\u0440"
     ],
+    "name:swa_x_preferred":[
+        "Baikonur"
+    ],
     "name:swe_x_preferred":[
         "Bajkonur"
     ],
@@ -254,6 +281,9 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u043a\u043e\u043d\u0443\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0430\u0439\u043a\u043e\u043d\u0438\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06cc\u06a9\u0648\u0646\u0648\u0631"
     ],
@@ -271,6 +301,12 @@
     ],
     "name:wln_x_preferred":[
         "Baykonour"
+    ],
+    "name:wuu_x_preferred":[
+        "\u62dc\u79d1\u52aa\u5c14"
+    ],
+    "name:yue_x_preferred":[
+        "\u62dc\u54e5\u5974"
     ],
     "name:zho_cn_x_preferred":[
         "\u62dc\u79d1\u52aa\u723e"
@@ -477,7 +513,7 @@
         }
     ],
     "wof:id":1159339535,
-    "wof:lastmodified":1616025516,
+    "wof:lastmodified":1690922074,
     "wof:name":"Baikonur",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

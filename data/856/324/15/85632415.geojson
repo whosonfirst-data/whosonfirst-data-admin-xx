@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0643\u0633\u0627\u064a \u062a\u0634\u064a\u0646"
     ],
+    "name:asm_x_preferred":[
+        "\u0986\u0995\u099b\u09be\u0987 \u099a\u09c0\u09a8"
+    ],
     "name:ast_x_preferred":[
         "Aksai Chin"
     ],
@@ -75,6 +78,9 @@
     "name:est_x_preferred":[
         "Aksai Chin"
     ],
+    "name:eus_x_preferred":[
+        "Aksai Chin"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06a9\u0633\u0627\u0626\u06cc \u0686\u0646"
     ],
@@ -117,12 +123,16 @@
     "name:kan_x_preferred":[
         "\u0c85\u0c95\u0ccd\u0cb8\u0cbe\u0caf\u0ccd \u0c9a\u0cbf\u0ca8\u0ccd"
     ],
+    "name:kir_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0439\u0447\u0438\u043d"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ucee4\uc0ac\uc774\uce5c"
     ],
     "name:kor_x_variant":[
         "\ubd84\uc7c1\uc9c0\uc5ed",
-        "\uc544\ud06c\uc0ac\uc774\uce5c"
+        "\uc544\ud06c\uc0ac\uc774\uce5c",
+        "\uc545\uc0ac\uc774\uce5c"
     ],
     "name:lit_x_preferred":[
         "Aksai \u010cinas"
@@ -205,6 +215,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0441\u0430\u0439 \u0427\u0438\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u043a\u0441\u0430\u0439-\u0427\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "White Desert"
     ],
@@ -213,6 +226,9 @@
     ],
     "name:vie_x_preferred":[
         "Aksai Chin"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u514b\u8cfd\u6b3d"
     ],
     "name:zho_cn_x_preferred":[
         "\u963f\u514b\u8d5b\u94a6"
@@ -401,7 +417,7 @@
         }
     ],
     "wof:id":85632415,
-    "wof:lastmodified":1636497601,
+    "wof:lastmodified":1690921921,
     "wof:name":"Aksai Chin",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

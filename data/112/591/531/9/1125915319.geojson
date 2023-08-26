@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u0412\u044a\u0440\u043d\u044f\u0447\u043a\u0430 \u0431\u0430\u043d\u044f"
     ],
+    "name:cat_x_preferred":[
+        "Vrnja\u010dka Banja"
+    ],
     "name:ceb_x_preferred":[
         "Vrnja\u010dka Banja"
     ],
@@ -41,8 +44,14 @@
     "name:ell_x_preferred":[
         "\u0392\u03c1\u03bd\u03b9\u03b1\u03c4\u03c3\u03ba\u03b1 \u039c\u03c0\u03ac\u03bd\u03b9\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03bd\u03b9\u03ac\u03c4\u03c3\u03ba\u03b1 \u039c\u03c0\u03ac\u03bd\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Vrnja\u010dka Banja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0646\u06af\u0627\u0686\u06a9\u0627 \u0628\u0627\u0646\u06af\u0627"
     ],
     "name:fra_x_preferred":[
         "Vrnja\u010dka Banja"
@@ -61,6 +70,9 @@
     ],
     "name:lit_x_preferred":[
         "Vrnia\u010dka Bania"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u045a\u0430\u0447\u043a\u0430 \u0411\u0430\u045a\u0430"
     ],
     "name:mlg_x_preferred":[
         "Vrnja\u010dka Banja"
@@ -91,6 +103,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u0440\u045a\u0430\u0447\u043a\u0430 \u0411\u0430\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Vrnja\u010dka Banja"
     ],
     "name:tat_x_preferred":[
         "\u0412\u0440\u043d\u04d9\u0447\u043a\u0430-\u0411\u0430\u043d\u04d9"
@@ -150,7 +165,7 @@
         }
     ],
     "wof:id":1125915319,
-    "wof:lastmodified":1566654072,
+    "wof:lastmodified":1690922023,
     "wof:name":"Vrnja\u010dka Banja",
     "wof:parent_id":1108810151,
     "wof:placetype":"locality",

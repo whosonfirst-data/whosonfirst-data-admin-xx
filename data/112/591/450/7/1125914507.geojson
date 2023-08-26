@@ -55,6 +55,9 @@
     "name:ces_x_preferred":[
         "Morne-\u00e0-l'Eau"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0433\u04c0\u043d-\u0430-\u043b'\u041e"
+    ],
     "name:cos_x_preferred":[
         "Morne-\u00e0-l'Eau"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:deu_x_preferred":[
         "Morne-\u00e0-l\u2019Eau"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03bd-\u03b1-\u03bb'\u03a9"
     ],
     "name:eng_x_preferred":[
         "Morne-\u00e0-l'Eau"
@@ -163,8 +169,14 @@
     "name:lit_x_preferred":[
         "Morne-\u00e0-l'Eau"
     ],
+    "name:lld_x_preferred":[
+        "Morne-\u00e0-l'Eau"
+    ],
     "name:ltz_x_preferred":[
         "Morne-\u00e0-l'Eau"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u043e\u0440\u043d-\u0430-\u043b'\u041e"
     ],
     "name:min_x_preferred":[
         "Morne-\u00e0-l'Eau"
@@ -208,6 +220,9 @@
     "name:pol_x_preferred":[
         "Morne-\u00e0-l'Eau"
     ],
+    "name:pol_x_variant":[
+        "Morne-\u00e0-l\u2019Eau"
+    ],
     "name:por_x_preferred":[
         "Morne-\u00e0-l'Eau"
     ],
@@ -247,6 +262,9 @@
     "name:swe_x_preferred":[
         "Morne-\u00e0-l'Eau"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u0440\u043d-\u0430-\u043b'\u041e"
+    ],
     "name:tur_x_preferred":[
         "Morne-\u00e0-l'Eau"
     ],
@@ -279,6 +297,9 @@
     ],
     "name:wol_x_preferred":[
         "Morne-\u00e0-l'Eau"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5c14\u7eb3\u6d1b"
     ],
     "name:zul_x_preferred":[
         "Morne-\u00e0-l'Eau"
@@ -334,7 +355,7 @@
         }
     ],
     "wof:id":1125914507,
-    "wof:lastmodified":1566654072,
+    "wof:lastmodified":1690922024,
     "wof:name":"Morne-\u00c0-L'eau",
     "wof:parent_id":85671209,
     "wof:placetype":"locality",

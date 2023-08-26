@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.985116706,41.0167431139,28.985116706,41.0167431139",
+    "geom:bbox":"28.985117,41.016743,28.985117,41.016743",
     "geom:latitude":41.016743,
     "geom:longitude":28.985117,
     "iso:country":"XX",
@@ -55,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Sarayburnu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b1\u03ca\u03bc\u03c0\u03bf\u03c5\u03c1\u03bd\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Sarayburnu"
@@ -218,6 +221,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0439\u0431\u0443\u0440\u043d\u0443"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u0627\u0626\u06d2 \u0628\u0648\u0631\u0646\u0648"
+    ],
     "name:vec_x_preferred":[
         "Sarayburnu"
     ],
@@ -254,7 +260,7 @@
     },
     "wof:country":"XX",
     "wof:created":1491368314,
-    "wof:geomhash":"b356b6d63cbf21371da2027c241f51f9",
+    "wof:geomhash":"683ae78141b83d32e368a9a0c7dd7850",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -264,7 +270,7 @@
         }
     ],
     "wof:id":1108950361,
-    "wof:lastmodified":1566653140,
+    "wof:lastmodified":1690921940,
     "wof:name":"Sarayburnu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -274,10 +280,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.98511670602315,
-    41.01674311385447,
-    28.98511670602315,
-    41.01674311385447
+    28.985117,
+    41.016743,
+    28.985117,
+    41.016743
 ],
-  "geometry": {"coordinates":[28.98511670602315,41.01674311385447],"type":"Point"}
+  "geometry": {"coordinates":[28.985117,41.016743],"type":"Point"}
 }

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0644\u0627\u0628\u0627\u062c\u0627\u0631"
     ],
+    "name:arg_x_preferred":[
+        "Galapagar"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0644\u0627\u0628\u0627\u062c\u0627\u0631"
+    ],
     "name:ast_x_preferred":[
         "Galapagar"
     ],
@@ -32,7 +38,16 @@
     "name:ceb_x_preferred":[
         "Galapagar"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043f\u0430\u0433\u0430\u0440"
+    ],
     "name:dan_x_preferred":[
+        "Galapagar"
+    ],
+    "name:deu_x_preferred":[
+        "Galapagar"
+    ],
+    "name:diq_x_preferred":[
         "Galapagar"
     ],
     "name:eng_x_preferred":[
@@ -50,6 +65,9 @@
     "name:fra_x_preferred":[
         "Galapagar"
     ],
+    "name:gle_x_preferred":[
+        "Galapagar"
+    ],
     "name:glg_x_preferred":[
         "Galapagar"
     ],
@@ -58,6 +76,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0533\u0561\u056c\u0561\u057a\u0561\u0563\u0561\u0580"
+    ],
+    "name:ile_x_preferred":[
+        "Galapagar"
     ],
     "name:ita_x_preferred":[
         "Galapagar"
@@ -74,7 +95,16 @@
     "name:lit_x_preferred":[
         "Galapagaras"
     ],
+    "name:lld_x_preferred":[
+        "Galapagar"
+    ],
     "name:ltz_x_preferred":[
+        "Galapagar"
+    ],
+    "name:mlg_x_preferred":[
+        "Galapagar"
+    ],
+    "name:mlt_x_preferred":[
         "Galapagar"
     ],
     "name:msa_x_preferred":[
@@ -116,6 +146,9 @@
     "name:swe_x_preferred":[
         "Galapagar"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043f\u0430\u0433\u0430\u0440"
+    ],
     "name:tgk_x_preferred":[
         "\u0413\u0430\u043b\u0430\u043f\u0430\u0433\u0430\u0440"
     ],
@@ -126,6 +159,9 @@
         "\u0413\u0430\u043b\u0430\u043f\u0430\u0433\u0430\u0440"
     ],
     "name:uzb_x_preferred":[
+        "Galapagar"
+    ],
+    "name:vec_x_preferred":[
         "Galapagar"
     ],
     "name:vie_x_preferred":[
@@ -186,7 +222,7 @@
         }
     ],
     "wof:id":1125989233,
-    "wof:lastmodified":1566654074,
+    "wof:lastmodified":1690922025,
     "wof:name":"Galapagar",
     "wof:parent_id":404338825,
     "wof:placetype":"locality",

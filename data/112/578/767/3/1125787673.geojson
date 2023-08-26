@@ -23,6 +23,9 @@
     "name:ces_x_preferred":[
         "Balatonakarattya"
     ],
+    "name:deu_x_preferred":[
+        "Balatonakarattya"
+    ],
     "name:eng_x_preferred":[
         "Balatonakarattya"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:fra_x_preferred":[
         "Balatonakarattya"
+    ],
+    "name:gle_x_preferred":[
+        "Balatonakarattya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d8\u05d5\u05e0\u05d0\u05e7\u05e8\u05d8\u05d9\u05d4"
     ],
     "name:hun_x_preferred":[
         "Balatonakarattya"
@@ -55,6 +64,9 @@
     ],
     "name:slk_x_preferred":[
         "Balatonakarattya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u987f\u5965\u8003\u52b3\u7126"
     ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Balatonakarattya",
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1125787673,
-    "wof:lastmodified":1566654522,
+    "wof:lastmodified":1690922055,
     "wof:name":"Balatonakarattya",
     "wof:parent_id":85684871,
     "wof:placetype":"locality",

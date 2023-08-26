@@ -38,6 +38,9 @@
     "name:arg_x_preferred":[
         "Ceuta"
     ],
+    "name:ary_x_preferred":[
+        "\u0633\u0628\u062a\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u062b\u064a\u0648\u064a\u062a\u0627"
     ],
@@ -50,11 +53,17 @@
     "name:aze_x_preferred":[
         "Seuta"
     ],
+    "name:bar_x_preferred":[
+        "Ceuta"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u045e\u0442\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0989\u099a\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09c7\u0989\u09a4\u09be"
     ],
     "name:bos_x_preferred":[
         "Ceuta"
@@ -63,6 +72,9 @@
         "Ceuta"
     ],
     "name:bul_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
+    ],
+    "name:bxr_x_preferred":[
         "\u0421\u0435\u0443\u0442\u0430"
     ],
     "name:cat_x_preferred":[
@@ -245,6 +257,9 @@
     "name:lit_x_preferred":[
         "Seuta"
     ],
+    "name:lld_x_preferred":[
+        "Ceuta"
+    ],
     "name:lmo_x_preferred":[
         "Ceuta"
     ],
@@ -257,11 +272,17 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0909\u0924\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u044d\u0443\u0442\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0443\u0442\u0430"
     ],
     "name:mlg_x_preferred":[
         "Ceuta"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0435\u0443\u0442\u0430"
     ],
     "name:msa_x_preferred":[
         "Ceuta"
@@ -296,6 +317,9 @@
     "name:pam_x_preferred":[
         "Ceuta"
     ],
+    "name:pap_x_preferred":[
+        "Ceuta"
+    ],
     "name:pms_x_preferred":[
         "Ceuta"
     ],
@@ -307,6 +331,9 @@
     ],
     "name:por_x_preferred":[
         "Ceuta"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u06cc\u0648\u062a\u0627"
     ],
     "name:ron_x_preferred":[
         "Ceuta"
@@ -323,6 +350,9 @@
     "name:sco_x_preferred":[
         "Ceuta"
     ],
+    "name:shn_x_preferred":[
+        "\u101e\u1030\u1038\u1010"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dba\u0dd4\u0da7\u0dcf"
     ],
@@ -333,6 +363,12 @@
         "Ceuta"
     ],
     "name:sme_x_preferred":[
+        "Ceuta"
+    ],
+    "name:smn_x_preferred":[
+        "Ceuta"
+    ],
+    "name:sms_x_preferred":[
         "Ceuta"
     ],
     "name:spa_x_preferred":[
@@ -379,6 +415,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0628\u062a\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0628\u062a\u0647"
+    ],
+    "name:uzb_x_preferred":[
+        "Seuta"
     ],
     "name:vec_x_preferred":[
         "Ceuta"
@@ -571,7 +613,7 @@
         }
     ],
     "wof:id":1159339517,
-    "wof:lastmodified":1617307084,
+    "wof:lastmodified":1690922093,
     "wof:name":"Ceuta",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

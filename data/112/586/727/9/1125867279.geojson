@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "\u010coka"
+    ],
     "name:bos_x_preferred":[
         "\u010coka"
     ],
@@ -35,11 +38,20 @@
     "name:deu_x_preferred":[
         "\u010coka"
     ],
+    "name:deu_x_variant":[
+        "Tschoka"
+    ],
     "name:eng_x_preferred":[
         "\u010coka"
     ],
     "name:epo_x_preferred":[
         "\u0108oka"
+    ],
+    "name:epo_x_variant":[
+        "\u010coka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "\u010coka"
@@ -68,8 +80,14 @@
     "name:ron_x_preferred":[
         "\u010coka"
     ],
+    "name:ron_x_variant":[
+        "Cioca"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u043a\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "\u010coka"
     ],
     "name:slv_x_preferred":[
         "\u010coka"
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":1125867279,
-    "wof:lastmodified":1566653517,
+    "wof:lastmodified":1690921988,
     "wof:name":"\u010coka",
     "wof:parent_id":1108809875,
     "wof:placetype":"locality",

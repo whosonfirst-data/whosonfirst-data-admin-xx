@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-2.5124405,42.8413395,-2.5124405,42.8413395",
+    "geom:bbox":"-2.51244,42.841339,-2.51244,42.841339",
     "geom:latitude":42.841339,
     "geom:longitude":-2.51244,
     "gn:country":null,
@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Dulantzi"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u064a\u062c\u0631\u064a\u0627 \u062f\u0648\u0644\u0627\u0646\u062a\u062b\u0649"
+    ],
     "name:ast_x_preferred":[
         "Dulantzi"
     ],
@@ -37,6 +40,12 @@
     ],
     "name:ceb_x_preferred":[
         "Dulantzi / Alegr\u00eda"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u0435\u0433\u0440\u0438\u044f-\u0434\u0435-\u0410\u043b\u0430\u0432\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
     ],
     "name:eng_x_preferred":[
         "Alegr\u00eda-Dulantzi"
@@ -50,6 +59,9 @@
     "name:fra_x_preferred":[
         "Alegr\u00eda-Dulantzi"
     ],
+    "name:gle_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
+    ],
     "name:glg_x_preferred":[
         "Dulantzi"
     ],
@@ -61,6 +73,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ec\u30b0\u30ea\u30a2\uff1d\u30c9\u30a5\u30e9\u30f3\u30c4\u30a3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d4\u10d2\u10e0\u10d8\u10d0-\u10d3\u10d4-\u10d0\u10da\u10d0\u10d5\u10d0"
+    ],
+    "name:lld_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u0435\u0433\u0440\u0438\u0458\u0430 \u0434\u0435 \u0410\u043b\u0430\u0432\u0430"
@@ -98,6 +116,9 @@
     "name:swe_x_preferred":[
         "Dulantzi / Alegr\u00eda"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u0435\u0433\u0440\u0438\u044f-\u0434\u0435-\u0410\u043b\u0430\u0432\u0430"
+    ],
     "name:tur_x_preferred":[
         "Alegr\u00eda de \u00c1lava"
     ],
@@ -106,6 +127,9 @@
     ],
     "name:uzb_x_preferred":[
         "Alegr\u00eda de \u00c1lava"
+    ],
+    "name:vec_x_preferred":[
+        "Alegr\u00eda-Dulantzi"
     ],
     "name:vie_x_preferred":[
         "Alegr\u00eda de \u00c1lava"
@@ -153,7 +177,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497299092,
-    "wof:geomhash":"89a5224b2da89b597edfc7748d89ee03",
+    "wof:geomhash":"0774df14546d654550180f200b019df3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +189,7 @@
         }
     ],
     "wof:id":1125991745,
-    "wof:lastmodified":1566653907,
+    "wof:lastmodified":1690922008,
     "wof:name":"Alegia Dulantzi",
     "wof:parent_id":404328935,
     "wof:placetype":"locality",
@@ -175,10 +199,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.5124405,
-    42.8413395,
-    -2.5124405,
-    42.8413395
+    -2.51244,
+    42.841339,
+    -2.51244,
+    42.841339
 ],
-  "geometry": {"coordinates":[-2.5124405,42.8413395],"type":"Point"}
+  "geometry": {"coordinates":[-2.51244,42.841339],"type":"Point"}
 }

@@ -20,11 +20,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Majdanpek"
+    ],
     "name:bos_x_preferred":[
         "Majdanpek"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0439\u0434\u0430\u043d\u043f\u0435\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Majdanpek"
     ],
     "name:ces_x_preferred":[
         "Majdanpek"
@@ -43,6 +49,9 @@
     ],
     "name:epo_x_preferred":[
         "Majdanpek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u062f\u0627\u0646\u067e\u06a9"
     ],
     "name:fra_x_preferred":[
         "Majdanpek"
@@ -77,6 +86,9 @@
     "name:ron_x_preferred":[
         "Maidan"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0434\u0430\u043d\u043f\u0435\u043a"
+    ],
     "name:slv_x_preferred":[
         "Majdanpek"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:tur_x_preferred":[
         "Meydanpek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u0434\u0430\u043d\u043f\u0435\u043a"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u4f0a\u4e39\u4f69\u514b"
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":1125867353,
-    "wof:lastmodified":1566653516,
+    "wof:lastmodified":1690921987,
     "wof:name":"Majdanpek",
     "wof:parent_id":1108809967,
     "wof:placetype":"locality",

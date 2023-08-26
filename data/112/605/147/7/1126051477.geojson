@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Para\u0107in"
     ],
+    "name:est_x_preferred":[
+        "Para\u0107in"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u0627\u0686\u06cc\u0646"
     ],
@@ -82,6 +85,12 @@
     ],
     "name:por_x_preferred":[
         "Para\u0107in"
+    ],
+    "name:ron_x_preferred":[
+        "Para\u0107in"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0447\u0438\u043d"
     ],
     "name:slv_x_preferred":[
         "Para\u0107in"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":1126051477,
-    "wof:lastmodified":1566653438,
+    "wof:lastmodified":1690921977,
     "wof:name":"Para\u0107in",
     "wof:parent_id":1108810023,
     "wof:placetype":"locality",

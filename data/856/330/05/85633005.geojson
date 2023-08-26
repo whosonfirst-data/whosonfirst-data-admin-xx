@@ -68,6 +68,9 @@
     "name:rus_x_preferred":[
         "\u043e\u0441\u0442\u0440\u043e\u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u0435\u0440\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0420\u0438\u043d\u043a\u043e\u043d-\u0434\u0435-\u0410\u0440\u0442\u0438\u0433\u0430\u0441"
+    ],
     "name:spa_x_preferred":[
         "Isla Brasilera"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0456\u0432 \u0411\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "\u0420\u0456\u043d\u043a\u043e\u043d-\u0434\u0435-\u0410\u0440\u0442\u0456\u0433\u0430\u0441"
     ],
     "name:und_x_variant":[
         "Ilha Brasileira"
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":85633005,
-    "wof:lastmodified":1636497601,
+    "wof:lastmodified":1690921917,
     "wof:name":"Brazilian Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

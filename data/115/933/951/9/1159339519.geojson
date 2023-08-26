@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Guayana Esequiba"
     ],
+    "name:epo_x_preferred":[
+        "Esekiba Gujano"
+    ],
     "name:eus_x_preferred":[
         "Esekibar Guyana"
     ],
@@ -65,6 +68,9 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05d0\u05e0\u05d4 \u05d0\u05e1\u05e7\u05d9\u05d1\u05d4"
     ],
+    "name:hrv_x_preferred":[
+        "Guayana Esequiba"
+    ],
     "name:ind_x_preferred":[
         "Guayana Esequiba"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30a2\u30e4\u30ca\u30a8\u30bb\u30ad\u30d0"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0430\u0439\u0430\u043d\u0430-\u042d\u0441\u0441\u0435\u043a\u0438\u0431\u043e"
     ],
     "name:kor_x_preferred":[
         "\uacfc\uc57c\ub098\uc5d0\uc138\ud0a4\ubc14"
@@ -113,8 +122,14 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u044f\u043d\u0430-\u0415\u0441\u0441\u0435\u043a\u0456\u0431\u043e"
     ],
+    "name:vie_x_preferred":[
+        "Guayana Esequiba"
+    ],
     "name:wuu_x_preferred":[
         "\u897f\u5c5e\u572d\u4e9a\u90a3"
+    ],
+    "name:wuu_x_variant":[
+        "\u57c3\u585e\u594e\u535a\u572d\u4e9a\u90a3"
     ],
     "name:zho_hk_x_preferred":[
         "\u897f\u5c6c\u572d\u4e9e\u90a3"
@@ -124,6 +139,9 @@
     ],
     "name:zho_x_preferred":[
         "\u897f\u5c5e\u572d\u4e9a\u90a3"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u585e\u594e\u535a\u572d\u4e9a\u90a3"
     ],
     "ne:abbrev":"W.E.R.",
     "ne:abbrev_len":6,
@@ -277,7 +295,7 @@
         }
     ],
     "wof:id":1159339519,
-    "wof:lastmodified":1617307085,
+    "wof:lastmodified":1690922092,
     "wof:name":"Guayana Esequiba",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

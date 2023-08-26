@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Le Lamentin"
     ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648 \u0644\u0627\u0645\u0646\u062a\u064a\u0646"
+    ],
     "name:arg_x_preferred":[
         "Le Lamentin"
     ],
@@ -52,6 +55,12 @@
     "name:ces_x_preferred":[
         "Le Lamentin"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
+    ],
+    "name:chv_x_preferred":[
+        "\u041b\u0435-\u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
+    ],
     "name:cos_x_preferred":[
         "Le Lamentin"
     ],
@@ -66,6 +75,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b5 \u039b\u03b1\u03bc\u03b5\u03bd\u03c4\u03ad\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5 \u039b\u03b1\u03bc\u03b1\u03bd\u03c4\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Le Lamentin"
@@ -145,6 +157,9 @@
     "name:jpn_x_preferred":[
         "\u30eb\u30fb\u30e9\u30e2\u30f3\u30bf\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30eb\u30fb\u30e9\u30de\u30f3\u30bf\u30f3"
+    ],
     "name:kab_x_preferred":[
         "Le Lamentin"
     ],
@@ -153,6 +168,9 @@
     ],
     "name:kon_x_preferred":[
         "Le Lamentin"
+    ],
+    "name:kor_x_preferred":[
+        "\ub974\ub77c\ub9dd\ud0f1"
     ],
     "name:lat_x_preferred":[
         "Le Lamentin"
@@ -167,6 +185,9 @@
         "Le Lamentin"
     ],
     "name:lit_x_preferred":[
+        "Le Lamentin"
+    ],
+    "name:lld_x_preferred":[
         "Le Lamentin"
     ],
     "name:ltz_x_preferred":[
@@ -235,6 +256,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u0435-\u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
+    ],
     "name:scn_x_preferred":[
         "Le Lamentin"
     ],
@@ -264,6 +288,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435-\u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0435 \u041b\u0430\u043c\u0430\u043d\u0442\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Lamentin"
@@ -350,7 +377,7 @@
         }
     ],
     "wof:id":1125896705,
-    "wof:lastmodified":1566653643,
+    "wof:lastmodified":1690921997,
     "wof:name":"Le Lamentin",
     "wof:parent_id":85671191,
     "wof:placetype":"locality",

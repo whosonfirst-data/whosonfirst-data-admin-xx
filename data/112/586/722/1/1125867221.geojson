@@ -59,6 +59,12 @@
     "name:srp_x_preferred":[
         "\u0418\u0433"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0433"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e35\u0e01"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0433"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1125867221,
-    "wof:lastmodified":1636497616,
+    "wof:lastmodified":1690921986,
     "wof:name":"Ig",
     "wof:parent_id":1108959887,
     "wof:placetype":"locality",

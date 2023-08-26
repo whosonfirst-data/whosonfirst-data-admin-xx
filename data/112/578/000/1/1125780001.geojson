@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0632\u0631\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u064a\u0632\u0631\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Prizren"
+    ],
     "name:aze_x_preferred":[
         "Prizren"
     ],
@@ -143,6 +149,9 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u0940\u091d\u0930\u0947\u0902"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0440\u0438\u0437\u0440\u044d\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
     ],
@@ -191,6 +200,9 @@
     "name:swe_x_preferred":[
         "Prizren"
     ],
+    "name:szl_x_preferred":[
+        "Prizren"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcd\u0bb0\u0bbf\u0bb8\u0bcd\u0bb0\u0bc6\u0ba9\u0bcd"
     ],
@@ -203,11 +215,17 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e23\u0e34\u0e0b\u0e40\u0e0b\u0e48\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e23\u0e34\u0e0b\u0e40\u0e23\u0e47\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Prizren"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0456\u0437\u0440\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u0438\u0437\u0440\u0435\u043d"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u06cc\u0632\u0631\u06cc\u0646"
@@ -223,6 +241,9 @@
     ],
     "name:war_x_preferred":[
         "Prizren"
+    ],
+    "name:wuu_x_preferred":[
+        "\u666e\u91cc\u5179\u4f26"
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u5179\u4f26"
@@ -274,7 +295,7 @@
         }
     ],
     "wof:id":1125780001,
-    "wof:lastmodified":1566654520,
+    "wof:lastmodified":1690922053,
     "wof:name":"Prizren",
     "wof:parent_id":1108809499,
     "wof:placetype":"locality",

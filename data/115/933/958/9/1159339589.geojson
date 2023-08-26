@@ -32,6 +32,9 @@
     "name:arg_x_preferred":[
         "Isla Perejil"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u062a\u0648\u0631\u0647"
+    ],
     "name:ast_x_preferred":[
         "Islla Perejil"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Perejil Island"
+    ],
+    "name:eng_x_variant":[
+        "Perejil Islet"
     ],
     "name:epo_x_preferred":[
         "Petrosela insulo"
@@ -86,6 +92,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0565\u0580\u0565\u056d\u056b\u056c"
     ],
+    "name:ina_x_preferred":[
+        "Insula Perejil"
+    ],
     "name:ind_x_preferred":[
         "Pulau Perejil"
     ],
@@ -97,6 +106,9 @@
     ],
     "name:kur_x_preferred":[
         "Perejil"
+    ],
+    "name:lav_x_preferred":[
+        "Perehila"
     ],
     "name:lit_x_preferred":[
         "Perechilio sala"
@@ -323,7 +335,7 @@
         }
     ],
     "wof:id":1159339589,
-    "wof:lastmodified":1616193485,
+    "wof:lastmodified":1690922089,
     "wof:name":"Perejil Island",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

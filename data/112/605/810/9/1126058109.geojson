@@ -44,6 +44,9 @@
     "name:ces_x_preferred":[
         "Steinfeld"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0444\u0435\u043b\u044c\u0434"
+    ],
     "name:cos_x_preferred":[
         "Steinfeld"
     ],
@@ -149,6 +152,9 @@
     "name:msa_x_preferred":[
         "Steinfeld"
     ],
+    "name:nan_x_preferred":[
+        "Steinfeld"
+    ],
     "name:nap_x_preferred":[
         "Steinfeld"
     ],
@@ -223,6 +229,9 @@
     ],
     "name:swe_x_preferred":[
         "Steinfeld"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0442\u0430\u0439\u043d\u0444\u0435\u043b\u044c\u0434"
     ],
     "name:tur_x_preferred":[
         "Steinfeld"
@@ -304,7 +313,7 @@
         }
     ],
     "wof:id":1126058109,
-    "wof:lastmodified":1566653432,
+    "wof:lastmodified":1690921971,
     "wof:name":"Steinfeld",
     "wof:parent_id":102063415,
     "wof:placetype":"locality",

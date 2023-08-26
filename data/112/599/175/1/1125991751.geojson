@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "San Vicente de la Barquera"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0627\u064a\u0633\u064a\u0646\u062a \u062f\u0649 \u0644\u0627 \u0628\u0627\u0631\u062c\u0648\u064a\u0631\u0627"
+    ],
     "name:ast_x_preferred":[
         "San Vicente de la Barquera"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:lit_x_preferred":[
         "San Visente de la Barkera"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d \u0412\u0438\u0441\u0435\u043d\u0442\u0435 \u0434\u0435 \u043b\u0430 \u0411\u0430\u0440\u043a\u0435\u0440\u0430"
     ],
     "name:nan_x_preferred":[
         "San Vicente de la Barquera"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1125991751,
-    "wof:lastmodified":1566653908,
+    "wof:lastmodified":1690922009,
     "wof:name":"San Vicente de la Barquer",
     "wof:parent_id":404342221,
     "wof:placetype":"locality",

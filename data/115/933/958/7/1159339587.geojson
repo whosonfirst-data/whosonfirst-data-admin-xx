@@ -59,6 +59,9 @@
     "name:deu_x_preferred":[
         "Islas Chafarinas"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03c6\u03b1\u03c1\u03af\u03bd\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Chafarinas Islands"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0549\u0561\u0586\u0561\u0580\u056b\u0576\u0561\u057d"
+    ],
+    "name:ina_x_preferred":[
+        "Insulas Chafarinas"
     ],
     "name:ind_x_preferred":[
         "Islas Chafarinas"
@@ -340,7 +346,7 @@
         }
     ],
     "wof:id":1159339587,
-    "wof:lastmodified":1616193485,
+    "wof:lastmodified":1690922089,
     "wof:name":"Chafarinas Islands",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

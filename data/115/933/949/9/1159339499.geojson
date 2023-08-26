@@ -26,11 +26,20 @@
     "mz:hierarchy_label_region":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
     "name:afr_x_preferred":[
         "Somaliland"
     ],
     "name:amh_x_preferred":[
         "\u1236\u121b\u120a\u120b\u1295\u12f5"
+    ],
+    "name:ang_x_preferred":[
+        "Somalaland"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u094b\u092e\u093e\u0932\u0940\u0926\u0947\u0936"
     ],
     "name:ara_x_preferred":[
         "\u0635\u0648\u0645\u0627\u0644\u064a\u0644\u0627\u0646\u062f"
@@ -82,6 +91,9 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06c6\u0645\u0627\u06b5\u06cc\u0644\u0627\u0646\u062f"
     ],
     "name:crh_x_preferred":[
         "Somaliland"
@@ -149,6 +161,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aae\u0abe\u0ab2\u0abf\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
     ],
+    "name:gur_x_preferred":[
+        "Somaliland"
+    ],
     "name:hak_x_preferred":[
         "Somaliland"
     ],
@@ -203,6 +218,9 @@
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
     ],
+    "name:kir_x_preferred":[
+        "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
+    ],
     "name:kor_x_preferred":[
         "\uc18c\ub9d0\ub9b4\ub780\ub4dc"
     ],
@@ -248,8 +266,14 @@
     "name:mkd_x_preferred":[
         "\u0421\u043e\u043c\u0430\u043b\u0438\u043b\u0435\u043d\u0434"
     ],
+    "name:mlg_x_preferred":[
+        "S\u00f4malilandy"
+    ],
     "name:msa_x_preferred":[
         "Somaliland"
+    ],
+    "name:mya_x_preferred":[
+        "\u1006\u102d\u102f\u1019\u102c\u101c\u102e\u101c\u1014\u103a\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
     "name:nan_x_preferred":[
         "Somaliland"
@@ -261,6 +285,9 @@
         "Somaliland"
     ],
     "name:nob_x_preferred":[
+        "Somaliland"
+    ],
+    "name:nya_x_preferred":[
         "Somaliland"
     ],
     "name:oci_x_preferred":[
@@ -290,6 +317,9 @@
     "name:por_x_preferred":[
         "Somalil\u00e2ndia"
     ],
+    "name:pus_x_preferred":[
+        "\u0633\u0648\u0645\u0627\u0644\u06cc\u0627\u0644\u0627\u0646\u062f"
+    ],
     "name:ron_x_preferred":[
         "Somaliland"
     ],
@@ -305,17 +335,32 @@
     "name:sco_x_preferred":[
         "Somaliland"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1030\u101d\u103a\u1087\u1019\u1083\u1038\u101c\u102e\u1038\u101c\u1085\u107c\u103a\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2\u0dbd\u0dd1\u0db1\u0dca\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
         "Soomaaliland"
     ],
+    "name:sme_x_preferred":[
+        "Som\u00e1liaeana"
+    ],
+    "name:smn_x_preferred":[
+        "Somaliaeenn\u00e2m"
+    ],
+    "name:sms_x_preferred":[
+        "Somaliaj\u00e2nnam"
+    ],
     "name:som_x_preferred":[
         "Somaliland"
     ],
     "name:spa_x_preferred":[
         "Somalilandia"
+    ],
+    "name:sqi_x_preferred":[
+        "Somalilandi"
     ],
     "name:srd_x_preferred":[
         "Somaliland"
@@ -331,6 +376,9 @@
     ],
     "name:swe_x_preferred":[
         "Somaliland"
+    ],
+    "name:szl_x_preferred":[
+        "S\u016fmaliland"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bcb\u0bae\u0bbe\u0bb2\u0bbf\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
@@ -358,6 +406,12 @@
     ],
     "name:urd_x_variant":[
         "\u0635\u0648\u0645\u0627\u0644\u06cc \u0644\u06cc\u0646\u0688"
+    ],
+    "name:uzb_x_preferred":[
+        "Somalilend"
+    ],
+    "name:vec_x_preferred":[
+        "Soma\u0142i\u0142\u00e0ndia"
     ],
     "name:vie_x_preferred":[
         "Somaliland"
@@ -391,6 +445,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d22\u9a6c\u91cc\u5170"
+    ],
+    "name:zul_x_preferred":[
+        "ISomaliland"
     ],
     "ne:abbrev":"Solnd.",
     "ne:abbrev_len":6,
@@ -586,7 +643,7 @@
         }
     ],
     "wof:id":1159339499,
-    "wof:lastmodified":1636497657,
+    "wof:lastmodified":1690922082,
     "wof:name":"Somaliland",
     "wof:parent_id":-2,
     "wof:placetype":"disputed",

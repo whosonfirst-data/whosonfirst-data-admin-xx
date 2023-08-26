@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.9161395,47.291274,22.9161395,47.291274",
+    "geom:bbox":"22.916139,47.291274,22.916139,47.291274",
     "geom:latitude":47.291274,
     "geom:longitude":22.916139,
     "gn:country":null,
@@ -20,8 +20,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0643\u0634\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Boc\u0219a"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u043a\u0448\u0430"
     ],
     "name:eng_x_preferred":[
         "Boc\u0219a"
@@ -32,6 +38,9 @@
     "name:fra_x_preferred":[
         "Boc\u0219a"
     ],
+    "name:gle_x_preferred":[
+        "Boc\u0219a"
+    ],
     "name:hun_x_preferred":[
         "Ol\u00e1hbaksa"
     ],
@@ -39,6 +48,9 @@
         "Boc\u0219a"
     ],
     "name:nld_x_preferred":[
+        "Boc\u0219a"
+    ],
+    "name:pol_x_preferred":[
         "Boc\u0219a"
     ],
     "name:por_x_preferred":[
@@ -51,6 +63,9 @@
         "\u0411\u043e\u043a\u0448\u0430"
     ],
     "name:srp_x_preferred":[
+        "\u0411\u043e\u043a\u0448\u0430"
+    ],
+    "name:tat_x_preferred":[
         "\u0411\u043e\u043a\u0448\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -97,7 +112,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497297915,
-    "wof:geomhash":"cbf11ad17a6cbd33f34234957c759dd9",
+    "wof:geomhash":"c5c7632423d68504bfd9847924349e83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":1125964309,
-    "wof:lastmodified":1566654065,
+    "wof:lastmodified":1690922016,
     "wof:name":"Boc\u0219a",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
@@ -117,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.9161395,
+    22.916139,
     47.291274,
-    22.9161395,
+    22.916139,
     47.291274
 ],
-  "geometry": {"coordinates":[22.9161395,47.291274],"type":"Point"}
+  "geometry": {"coordinates":[22.916139,47.291274],"type":"Point"}
 }

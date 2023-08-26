@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Pulau Tekong"
     ],
+    "name:ceb_x_preferred":[
+        "Pulau Tekong"
+    ],
     "name:dan_x_preferred":[
         "Pulau Tekong"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Pulau Tekong"
+    ],
+    "name:hun_x_preferred":[
+        "Tekong"
     ],
     "name:ind_x_preferred":[
         "Pulau Tekong"
@@ -61,6 +67,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0b95\u0bcd\u0b95\u0bcb\u0b99\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043b\u0430\u0443-\u0422\u0435\u043a\u043e\u043d\u0433"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Tekong"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1125820435,
-    "wof:lastmodified":1566654513,
+    "wof:lastmodified":1690922044,
     "wof:name":"Pulau Tekong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

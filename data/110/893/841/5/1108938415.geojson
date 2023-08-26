@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.1147334623,60.1581511611,25.1147334623,60.1581511611",
+    "geom:bbox":"25.114733,60.158151,25.114733,60.158151",
     "geom:latitude":60.158151,
     "geom:longitude":25.114733,
     "iso:country":"XX",
@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Villinki"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0644\u06cc\u0646\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Villinki"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:swe_x_preferred":[
         "Villinge"
+    ],
+    "name:tur_x_preferred":[
+        "Villinki"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
     },
     "wof:country":"XX",
     "wof:created":1491360365,
-    "wof:geomhash":"013e0223230bd69ff9c7873ad2c0bfaf",
+    "wof:geomhash":"36919aa0aab8d7b14a648c9f0c55c8f3",
     "wof:hierarchy":[
         {
             "borough_id":890536883,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108938415,
-    "wof:lastmodified":1566653150,
+    "wof:lastmodified":1690921944,
     "wof:name":"Villinki",
     "wof:parent_id":890537275,
     "wof:placetype":"neighbourhood",
@@ -84,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.11473346233599,
-    60.15815116113541,
-    25.11473346233599,
-    60.15815116113541
+    25.114733,
+    60.158151,
+    25.114733,
+    60.158151
 ],
-  "geometry": {"coordinates":[25.11473346233599,60.15815116113541],"type":"Point"}
+  "geometry": {"coordinates":[25.114733,60.158151],"type":"Point"}
 }
