@@ -668,7 +668,7 @@
     "src:geom":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wd",
-    "src:population_year":"2021",
+    "src:population_date":"2021",
     "wof:belongsto":[
         102191569
     ],
@@ -689,7 +689,7 @@
         }
     ],
     "wof:id":1729945891,
-    "wof:lastmodified":1694492225,
+    "wof:lastmodified":1694639679,
     "wof:name":"Northern Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
