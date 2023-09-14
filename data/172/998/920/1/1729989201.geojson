@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.277334,
-    "geom:area_square_m":2799668914.238713,
+    "geom:area_square_m":2799668914.238845,
     "geom:bbox":"76.760438,35.00876,77.82317,35.675788",
     "geom:latitude":35.368137,
     "geom:longitude":77.162361,
     "iso:country":"XX",
+    "label:eng_x_preferred_placetype":[
+        "disputed territory"
+    ],
     "lbl:latitude":35.317691,
     "lbl:longitude":77.114801,
     "mps:latitude":35.317691,
@@ -372,7 +375,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"XX",
-    "wof:geomhash":"024b0dd2ac053cd10a096d0c3279c6ee",
+    "wof:geomhash":"57a1b3998b2f04709ed374acf0ec54f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -380,7 +383,7 @@
         }
     ],
     "wof:id":1729989201,
-    "wof:lastmodified":1678301895,
+    "wof:lastmodified":1694492224,
     "wof:name":"Siachen Glacier",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

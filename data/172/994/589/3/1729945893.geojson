@@ -5,10 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001849,
+    "geom:area_square_m":22513453.903267,
     "geom:bbox":"111.91375,6.32768,116.473801,11.462083",
     "geom:latitude":9.951282,
     "geom:longitude":114.418501,
     "iso:country":"XX",
+    "label:eng_x_preferred_placetype":[
+        "disputed territory"
+    ],
     "lbl:latitude":11.048992,
     "lbl:longitude":114.276915,
     "mps:latitude":11.048992,
@@ -432,7 +436,7 @@
     },
     "wof:country":"XX",
     "wof:created":1617316174,
-    "wof:geomhash":"64ced82165fe95869cb37742bfa1e0a1",
+    "wof:geomhash":"7cdaefebab2ca78c922e5c84f394a879",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -440,7 +444,7 @@
         }
     ],
     "wof:id":1729945893,
-    "wof:lastmodified":1636497606,
+    "wof:lastmodified":1694492215,
     "wof:name":"Spratly Islands",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

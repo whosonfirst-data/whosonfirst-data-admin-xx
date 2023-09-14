@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":432511.803417,
+    "geom:area_square_m":432495.449725,
     "geom:bbox":"-79.989288,15.787991,-79.743764,15.858629",
     "geom:latitude":15.812813,
     "geom:longitude":-79.834644,
@@ -13,6 +13,9 @@
     "iso:country":"XX",
     "label:eng_x_preferred":[
         "Bajo Nuevo Bank (Petrel Islands)"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "disputed"
     ],
     "lbl:latitude":15.791588,
     "lbl:longitude":-79.845836,
@@ -323,7 +326,7 @@
     "wof:geom_alt":[
         "naturalearth"
     ],
-    "wof:geomhash":"a0b4b2a2fc096845a19eaaafd7027bff",
+    "wof:geomhash":"15d370081f97723eb9e09056cac4b2a7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -357,7 +360,7 @@
         }
     ],
     "wof:id":85681155,
-    "wof:lastmodified":1690921918,
+    "wof:lastmodified":1694493129,
     "wof:name":"Bajo Nuevo Bank",
     "wof:parent_id":-2,
     "wof:placetype":"region",

@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328856,
-    "geom:area_square_m":3319690657.808981,
+    "geom:area_square_m":3319688296.89507,
     "geom:bbox":"32.601915,35.002722,34.59254,35.691962",
     "geom:latitude":35.276421,
     "geom:longitude":33.597794,
     "iso:country":"XX",
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":35.216071,
     "lbl:longitude":33.692434,
     "lbl:min_zoom":8.0,
@@ -632,7 +635,7 @@
         "wd:id":"Q23681"
     },
     "wof:country":"XX",
-    "wof:geomhash":"d992d1b5899837fc1943f146c4da7db4",
+    "wof:geomhash":"8e243e7e2f5ea4e0cdc5c2fe5c9a9a73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -651,7 +654,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690921918,
+    "wof:lastmodified":1694493128,
     "wof:name":"Northern Cyprus",
     "wof:parent_id":85632375,
     "wof:placetype":"region",

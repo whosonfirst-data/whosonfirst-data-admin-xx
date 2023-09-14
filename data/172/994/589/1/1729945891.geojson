@@ -5,10 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330036,
+    "geom:area_square_m":3331452627.212829,
     "geom:bbox":"32.599167,35.002722,34.594528,35.697083",
     "geom:latitude":35.279559,
     "geom:longitude":33.600843,
     "iso:country":"XX",
+    "label:eng_x_preferred_placetype":[
+        "disputed territory"
+    ],
     "lbl:latitude":35.21699,
     "lbl:longitude":33.680893,
     "mps:latitude":35.21699,
@@ -663,6 +667,8 @@
     "ne:woe_note":"WOE lists as subunit of united Cyprus",
     "src:geom":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_date":"2021",
     "wof:belongsto":[
         102191569
     ],
@@ -675,7 +681,7 @@
     },
     "wof:country":"XX",
     "wof:created":1617316172,
-    "wof:geomhash":"69ceb5e9db86cde999494077ab929e09",
+    "wof:geomhash":"3615147227fc437e69169d9af091f803",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -683,10 +689,12 @@
         }
     ],
     "wof:id":1729945891,
-    "wof:lastmodified":1690921933,
+    "wof:lastmodified":1694639679,
     "wof:name":"Northern Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
+    "wof:population":382836,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
     "wof:supersedes":[],
