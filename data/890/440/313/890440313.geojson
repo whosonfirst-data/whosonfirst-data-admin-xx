@@ -258,7 +258,7 @@
     },
     "wof:country":"XX",
     "wof:created":1469052270,
-    "wof:geomhash":"24b8dcd2302153464359fc266f1f8858",
+    "wof:geomhash":"6fb11ab565655eba6f6be6336a7bca0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":890440313,
-    "wof:lastmodified":1690921946,
+    "wof:lastmodified":1695887184,
     "wof:name":"Leh",
     "wof:parent_id":1796791505,
     "wof:placetype":"county",
