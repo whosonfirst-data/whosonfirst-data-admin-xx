@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.8126405,43.4607065,19.8126405,43.4607065",
+    "geom:bbox":"19.812641,43.460707,19.812641,43.460707",
     "geom:latitude":43.460707,
     "geom:longitude":19.812641,
     "gn:country":null,
@@ -17,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497294108,
-    "wof:geomhash":"e9f3affedc20596774503a9376f6ddf1",
+    "wof:geomhash":"c1f28e9cdf396371ab8c7db9b80b7f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,20 +70,22 @@
         }
     ],
     "wof:id":1125867367,
-    "wof:lastmodified":1566653512,
+    "wof:lastmodified":1706240626,
     "wof:name":"Nova Varo\u00b5",
     "wof:parent_id":1108809993,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101911143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    19.8126405,
-    43.4607065,
-    19.8126405,
-    43.4607065
+    19.812641,
+    43.460707,
+    19.812641,
+    43.460707
 ],
-  "geometry": {"coordinates":[19.8126405,43.4607065],"type":"Point"}
+  "geometry": {"coordinates":[19.812641,43.460707],"type":"Point"}
 }

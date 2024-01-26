@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.172827,19.4248315,-99.172827,19.4248315",
+    "geom:bbox":"-99.172827,19.424831,-99.172827,19.424831",
     "geom:latitude":19.424831,
     "geom:longitude":-99.172827,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.172827,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497308865,
-    "wof:geomhash":"673a39b51b60f9c5b00bb73542036969",
+    "wof:geomhash":"883f5af11917cdf3d5db213ab5e3858c",
     "wof:hierarchy":[
         {
             "borough_id":890535757,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1126065801,
-    "wof:lastmodified":1566654187,
+    "wof:lastmodified":1706240381,
     "wof:name":"Nva Anzures",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85884459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -99.172827,
-    19.4248315,
+    19.424831,
     -99.172827,
-    19.4248315
+    19.424831
 ],
-  "geometry": {"coordinates":[-99.172827,19.4248315],"type":"Point"}
+  "geometry": {"coordinates":[-99.172827,19.424831],"type":"Point"}
 }

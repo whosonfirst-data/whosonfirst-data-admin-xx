@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-8.658235,41.15879,-8.658235,41.15879",
@@ -16,7 +18,7 @@
     "lbl:longitude":-8.658235,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:kaz_x_preferred":[
@@ -74,12 +76,15 @@
         }
     ],
     "wof:id":1126071681,
-    "wof:lastmodified":1566654234,
+    "wof:lastmodified":1706240619,
     "wof:name":"Lordelo do Ouro",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85799013,
+        1126091735
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

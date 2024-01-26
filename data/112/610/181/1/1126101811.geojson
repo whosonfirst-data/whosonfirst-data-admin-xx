@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-48.5055495,-27.7192345,-48.5055495,-27.7192345",
+    "geom:bbox":"-48.50555,-27.719234,-48.50555,-27.719234",
     "geom:latitude":-27.719234,
     "geom:longitude":-48.50555,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-48.50555,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497316215,
-    "wof:geomhash":"7f479c22cf187e9bda9121b9dc57da28",
+    "wof:geomhash":"e78016a58f0931567f5f38c74de21c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1126101811,
-    "wof:lastmodified":1566653357,
+    "wof:lastmodified":1706239338,
     "wof:name":"Morro Das Pedras",
     "wof:parent_id":101958179,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85767623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -48.5055495,
-    -27.7192345,
-    -48.5055495,
-    -27.7192345
+    -48.50555,
+    -27.719234,
+    -48.50555,
+    -27.719234
 ],
-  "geometry": {"coordinates":[-48.5055495,-27.7192345],"type":"Point"}
+  "geometry": {"coordinates":[-48.50555,-27.719234],"type":"Point"}
 }

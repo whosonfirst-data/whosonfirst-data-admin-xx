@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.2964365,19.552836,-99.2964365,19.552836",
+    "geom:bbox":"-99.296436,19.552836,-99.296436,19.552836",
     "geom:latitude":19.552836,
     "geom:longitude":-99.296436,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.296436,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497315810,
-    "wof:geomhash":"d12a0800ce40f5b21e0e4afc9a63fa8a",
+    "wof:geomhash":"a254f6869ffd9b08db7f0139da4c2dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126099585,
-    "wof:lastmodified":1566654446,
+    "wof:lastmodified":1706240386,
     "wof:name":"Condado Plaza Chiluca",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85884971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -99.2964365,
+    -99.296436,
     19.552836,
-    -99.2964365,
+    -99.296436,
     19.552836
 ],
-  "geometry": {"coordinates":[-99.2964365,19.552836],"type":"Point"}
+  "geometry": {"coordinates":[-99.296436,19.552836],"type":"Point"}
 }

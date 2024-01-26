@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-52.0257995,-27.230778,-52.0257995,-27.230778",
+    "geom:bbox":"-52.025799,-27.230778,-52.025799,-27.230778",
     "geom:latitude":-27.230778,
     "geom:longitude":-52.025799,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-52.025799,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
@@ -128,7 +130,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497310725,
-    "wof:geomhash":"4ade4b8b12394eed045ef8c58429d5e8",
+    "wof:geomhash":"90b7f1b29f79a55de422e79c078534d4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,20 +143,22 @@
         }
     ],
     "wof:id":1126074953,
-    "wof:lastmodified":1566654337,
+    "wof:lastmodified":1706239337,
     "wof:name":"Centro",
     "wof:parent_id":101967569,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85767443
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -52.0257995,
+    -52.025799,
     -27.230778,
-    -52.0257995,
+    -52.025799,
     -27.230778
 ],
-  "geometry": {"coordinates":[-52.0257995,-27.230778],"type":"Point"}
+  "geometry": {"coordinates":[-52.025799,-27.230778],"type":"Point"}
 }

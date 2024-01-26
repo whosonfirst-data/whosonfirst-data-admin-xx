@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-78.7379635,35.809313,-78.7379635,35.809313",
+    "geom:bbox":"-78.737964,35.809313,-78.737964,35.809313",
     "geom:latitude":35.809313,
     "geom:longitude":-78.737964,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-78.737964,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497312099,
-    "wof:geomhash":"b741fd74d4a50360462c5b09bd4b6e64",
+    "wof:geomhash":"5116b44e52d4c1afe1c57777bfb9f933",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126082197,
-    "wof:lastmodified":1566654092,
+    "wof:lastmodified":1706240730,
     "wof:name":"Trinity Circle",
     "wof:parent_id":85980569,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85892135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -78.7379635,
+    -78.737964,
     35.809313,
-    -78.7379635,
+    -78.737964,
     35.809313
 ],
-  "geometry": {"coordinates":[-78.73796350000001,35.809313],"type":"Point"}
+  "geometry": {"coordinates":[-78.73796400000001,35.809313],"type":"Point"}
 }

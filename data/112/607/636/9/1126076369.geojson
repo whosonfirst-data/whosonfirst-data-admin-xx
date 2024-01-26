@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"133.5573185,33.5565,133.5573185,33.5565",
+    "geom:bbox":"133.557319,33.5565,133.557319,33.5565",
     "geom:latitude":33.5565,
     "geom:longitude":133.557319,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":133.557319,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497311125,
-    "wof:geomhash":"a77ca16112bba4308220fb20934ffe7f",
+    "wof:geomhash":"ea85cd7bfbc770e4711a03f76af4dacc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126076369,
-    "wof:lastmodified":1566654341,
+    "wof:lastmodified":1706240224,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031611,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85919545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    133.5573185,
+    133.557319,
     33.5565,
-    133.5573185,
+    133.557319,
     33.5565
 ],
-  "geometry": {"coordinates":[133.55731850000001,33.5565],"type":"Point"}
+  "geometry": {"coordinates":[133.55731900000001,33.5565],"type":"Point"}
 }

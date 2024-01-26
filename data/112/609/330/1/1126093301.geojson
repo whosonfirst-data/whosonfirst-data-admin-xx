@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.2107105,19.295099,-99.2107105,19.295099",
+    "geom:bbox":"-99.210711,19.295099,-99.210711,19.295099",
     "geom:latitude":19.295099,
     "geom:longitude":-99.210711,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.210711,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497314518,
-    "wof:geomhash":"0c89e43a58658321296f35f414e3d4df",
+    "wof:geomhash":"3621cfb1db0428e0ca4ca09270427d24",
     "wof:hierarchy":[
         {
             "borough_id":890535779,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1126093301,
-    "wof:lastmodified":1566654368,
+    "wof:lastmodified":1706240381,
     "wof:name":"Bosque de Tlalpan",
     "wof:parent_id":890535779,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85884485
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -99.2107105,
+    -99.210711,
     19.295099,
-    -99.2107105,
+    -99.210711,
     19.295099
 ],
-  "geometry": {"coordinates":[-99.2107105,19.295099],"type":"Point"}
+  "geometry": {"coordinates":[-99.210711,19.295099],"type":"Point"}
 }

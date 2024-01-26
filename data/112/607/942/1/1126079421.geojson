@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.017166,41.0337525,29.017166,41.0337525",
+    "geom:bbox":"29.017166,41.033752,29.017166,41.033752",
     "geom:latitude":41.033752,
     "geom:longitude":29.017166,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":29.017166,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -51,7 +53,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497311705,
-    "wof:geomhash":"c36f4e09a62304b9d183c34cd61419b4",
+    "wof:geomhash":"9e00405c61b5d977b0488f4150a404b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1126079421,
-    "wof:lastmodified":1566654349,
+    "wof:lastmodified":1706241126,
     "wof:name":"Hac\u0131hesna Hatun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85929369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     29.017166,
-    41.0337525,
+    41.033752,
     29.017166,
-    41.0337525
+    41.033752
 ],
-  "geometry": {"coordinates":[29.017166,41.0337525],"type":"Point"}
+  "geometry": {"coordinates":[29.017166,41.033752],"type":"Point"}
 }

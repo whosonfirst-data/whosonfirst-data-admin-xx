@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.873505,-33.8794475,121.873505,-33.8794475",
+    "geom:bbox":"121.873505,-33.879447,121.873505,-33.879447",
     "geom:latitude":-33.879447,
     "geom:longitude":121.873505,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":121.873505,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497316097,
-    "wof:geomhash":"09a2930059631651cec8bbbca5abc134",
+    "wof:geomhash":"7b9d4a38e8fc2ee115c88f0f68d1714c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1126101287,
-    "wof:lastmodified":1566653364,
+    "wof:lastmodified":1706239309,
     "wof:name":"West Beach",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85781991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     121.873505,
-    -33.8794475,
+    -33.879447,
     121.873505,
-    -33.8794475
+    -33.879447
 ],
-  "geometry": {"coordinates":[121.87350499999999,-33.8794475],"type":"Point"}
+  "geometry": {"coordinates":[121.87350499999999,-33.879447],"type":"Point"}
 }

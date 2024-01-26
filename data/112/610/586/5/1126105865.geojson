@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"69.187917,34.521526,69.187917,34.521526",
@@ -16,7 +18,7 @@
     "lbl:longitude":69.187917,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1126105865,
-    "wof:lastmodified":1566653351,
+    "wof:lastmodified":1706239299,
     "wof:name":"Chaman H\u0327o\u1e95\u016br\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85902981
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

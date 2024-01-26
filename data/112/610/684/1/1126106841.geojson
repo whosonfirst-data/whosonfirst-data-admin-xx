@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-49.2411745,-25.468538,-49.2411745,-25.468538",
+    "geom:bbox":"-49.241174,-25.468538,-49.241174,-25.468538",
     "geom:latitude":-25.468538,
     "geom:longitude":-49.241174,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-49.241174,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497317243,
-    "wof:geomhash":"76dd6f325f0a1d6c10e5f6bf65ffa3bb",
+    "wof:geomhash":"6cbbc16faab9731b573a875691f548ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1126106841,
-    "wof:lastmodified":1566653394,
+    "wof:lastmodified":1706239331,
     "wof:name":"Guabirotuba",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85766317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -49.2411745,
+    -49.241174,
     -25.468538,
-    -49.2411745,
+    -49.241174,
     -25.468538
 ],
-  "geometry": {"coordinates":[-49.2411745,-25.468538],"type":"Point"}
+  "geometry": {"coordinates":[-49.241174,-25.468538],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-99.15131,19.37625,-99.15131,19.37625",
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.15131,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -79,12 +81,14 @@
         }
     ],
     "wof:id":1126096203,
-    "wof:lastmodified":1566654393,
+    "wof:lastmodified":1706240366,
     "wof:name":"Letran Valle",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85883713
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

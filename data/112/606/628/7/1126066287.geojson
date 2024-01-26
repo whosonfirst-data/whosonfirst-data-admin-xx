@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-117.165026,47.699667,-117.165026,47.699667",
@@ -16,7 +18,7 @@
     "lbl:longitude":-117.165026,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
@@ -78,12 +80,14 @@
         }
     ],
     "wof:id":1126066287,
-    "wof:lastmodified":1566654165,
+    "wof:lastmodified":1706240716,
     "wof:name":"Velox",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85853553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.071855,35.1285935,-90.071855,35.1285935",
+    "geom:bbox":"-90.071855,35.128594,-90.071855,35.128594",
     "geom:latitude":35.128594,
     "geom:longitude":-90.071855,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-90.071855,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497308010,
-    "wof:geomhash":"56ca251f77c416ca480791f4bab072d8",
+    "wof:geomhash":"a956c700f9bea3fcec5ea1ccc17b7562",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126060549,
-    "wof:lastmodified":1566654172,
+    "wof:lastmodified":1706240732,
     "wof:name":"South Bluff",
     "wof:parent_id":101722645,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85893425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -90.071855,
-    35.1285935,
+    35.128594,
     -90.071855,
-    35.1285935
+    35.128594
 ],
-  "geometry": {"coordinates":[-90.071855,35.1285935],"type":"Point"}
+  "geometry": {"coordinates":[-90.071855,35.128594],"type":"Point"}
 }

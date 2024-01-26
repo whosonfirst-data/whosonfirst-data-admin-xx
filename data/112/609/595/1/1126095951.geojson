@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.214099,31.7387425,35.214099,31.7387425",
+    "geom:bbox":"35.214099,31.738743,35.214099,31.738743",
     "geom:latitude":31.738743,
     "geom:longitude":35.214099,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":35.214099,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497315209,
-    "wof:geomhash":"0d0e55401d30ee5537ab725153a299d3",
+    "wof:geomhash":"b4fa524d886c4d70ee044e20d5a085f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126095951,
-    "wof:lastmodified":1566654369,
+    "wof:lastmodified":1706240614,
     "wof:name":"Kibbutz Ramat Rakhel",
     "wof:parent_id":421168681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85907153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     35.214099,
-    31.7387425,
+    31.738743,
     35.214099,
-    31.7387425
+    31.738743
 ],
-  "geometry": {"coordinates":[35.214099,31.7387425],"type":"Point"}
+  "geometry": {"coordinates":[35.214099,31.738743],"type":"Point"}
 }

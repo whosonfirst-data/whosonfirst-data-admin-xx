@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.8798215,45.3132155,-73.8798215,45.3132155",
+    "geom:bbox":"-73.879822,45.313215,-73.879822,45.313215",
     "geom:latitude":45.313215,
     "geom:longitude":-73.879822,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-73.879822,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497313363,
-    "wof:geomhash":"122155be4022095f05f9c024b64a79a6",
+    "wof:geomhash":"744a1d2d0f45fdceb8df76420639b229",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126089177,
-    "wof:lastmodified":1566654146,
+    "wof:lastmodified":1706239352,
     "wof:name":"Centre Ville",
     "wof:parent_id":101736823,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85895751
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -73.8798215,
-    45.3132155,
-    -73.8798215,
-    45.3132155
+    -73.879822,
+    45.313215,
+    -73.879822,
+    45.313215
 ],
-  "geometry": {"coordinates":[-73.87982150000001,45.3132155],"type":"Point"}
+  "geometry": {"coordinates":[-73.879822,45.313215],"type":"Point"}
 }

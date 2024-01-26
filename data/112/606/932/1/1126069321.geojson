@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-49.274368,-25.426193,-49.274368,-25.426193",
@@ -16,7 +18,7 @@
     "lbl:longitude":-49.274368,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
@@ -120,12 +122,14 @@
         }
     ],
     "wof:id":1126069321,
-    "wof:lastmodified":1566654191,
+    "wof:lastmodified":1706239333,
     "wof:name":"S\u00e3o Francisco",
     "wof:parent_id":101957995,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85766657
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

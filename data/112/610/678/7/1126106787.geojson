@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-103.4636585,20.6034475,-103.4636585,20.6034475",
+    "geom:bbox":"-103.463658,20.603448,-103.463658,20.603448",
     "geom:latitude":20.603448,
     "geom:longitude":-103.463658,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-103.463658,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -54,7 +56,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497317225,
-    "wof:geomhash":"2d5f70c540224160fcf1eff6e89a4a37",
+    "wof:geomhash":"fffee9274993787aa6a140ca3302fefb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1126106787,
-    "wof:lastmodified":1566653388,
+    "wof:lastmodified":1706240385,
     "wof:name":"Ciudad Bugambilia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85884883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -103.4636585,
-    20.6034475,
-    -103.4636585,
-    20.6034475
+    -103.463658,
+    20.603448,
+    -103.463658,
+    20.603448
 ],
-  "geometry": {"coordinates":[-103.46365849999999,20.6034475],"type":"Point"}
+  "geometry": {"coordinates":[-103.463658,20.603448],"type":"Point"}
 }

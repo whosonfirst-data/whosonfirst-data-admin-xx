@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.9996005,43.3197175,-87.9996005,43.3197175",
+    "geom:bbox":"-87.9996,43.319718,-87.9996,43.319718",
     "geom:latitude":43.319718,
     "geom:longitude":-87.9996,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-87.9996,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
@@ -61,7 +63,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497311168,
-    "wof:geomhash":"af6f53006326235e503505b0e79d08fb",
+    "wof:geomhash":"b0b12fd9b993e06b1e156e04dc312d65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,20 +76,22 @@
         }
     ],
     "wof:id":1126076563,
-    "wof:lastmodified":1566654270,
+    "wof:lastmodified":1706240718,
     "wof:name":"Five Corners",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85868895
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -87.9996005,
-    43.3197175,
-    -87.9996005,
-    43.3197175
+    -87.9996,
+    43.319718,
+    -87.9996,
+    43.319718
 ],
-  "geometry": {"coordinates":[-87.9996005,43.3197175],"type":"Point"}
+  "geometry": {"coordinates":[-87.9996,43.319718],"type":"Point"}
 }

@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.047155,19.2003435,-99.047155,19.2003435",
+    "geom:bbox":"-99.047155,19.200343,-99.047155,19.200343",
     "geom:latitude":19.200343,
     "geom:longitude":-99.047155,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.047155,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -54,7 +56,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497308381,
-    "wof:geomhash":"ce8964cc24d744c64de045450247379a",
+    "wof:geomhash":"c83ca50438dc23538ab6515f5fb87ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1126062879,
-    "wof:lastmodified":1566654166,
+    "wof:lastmodified":1706240370,
     "wof:name":"Barrio Panchimalco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85883891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -99.047155,
-    19.2003435,
+    19.200343,
     -99.047155,
-    19.2003435
+    19.200343
 ],
-  "geometry": {"coordinates":[-99.047155,19.2003435],"type":"Point"}
+  "geometry": {"coordinates":[-99.047155,19.200343],"type":"Point"}
 }

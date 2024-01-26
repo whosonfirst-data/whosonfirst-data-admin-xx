@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.6539275,38.050963,-84.6539275,38.050963",
+    "geom:bbox":"-84.653927,38.050963,-84.653927,38.050963",
     "geom:latitude":38.050963,
     "geom:longitude":-84.653927,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-84.653927,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -54,7 +56,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497317904,
-    "wof:geomhash":"7c6b9ef49ab3da542924721410da9957",
+    "wof:geomhash":"52f42669782786d60d180299019c41e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1126109465,
-    "wof:lastmodified":1566653348,
+    "wof:lastmodified":1706240715,
     "wof:name":"Pisgah Rural Historic District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85842075
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -84.6539275,
+    -84.653927,
     38.050963,
-    -84.6539275,
+    -84.653927,
     38.050963
 ],
-  "geometry": {"coordinates":[-84.65392749999999,38.050963],"type":"Point"}
+  "geometry": {"coordinates":[-84.653927,38.050963],"type":"Point"}
 }

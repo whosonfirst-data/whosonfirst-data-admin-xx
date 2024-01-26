@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"19.934778,45.201755,19.934778,45.201755",
@@ -17,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bak_x_preferred":[
@@ -204,12 +206,14 @@
         }
     ],
     "wof:id":1125780061,
-    "wof:lastmodified":1690922054,
+    "wof:lastmodified":1706240624,
     "wof:name":"Sremski Karlovci",
     "wof:parent_id":1108810091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101910927
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

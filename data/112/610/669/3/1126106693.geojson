@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.1799795,19.3834295,-99.1799795,19.3834295",
+    "geom:bbox":"-99.17998,19.383429,-99.17998,19.383429",
     "geom:latitude":19.383429,
     "geom:longitude":-99.17998,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.17998,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -57,7 +59,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497317206,
-    "wof:geomhash":"f009f809d65bd40e89267aa69d0d64e4",
+    "wof:geomhash":"090e183b44a8faad286c2be12461ffb4",
     "wof:hierarchy":[
         {
             "borough_id":890535769,
@@ -79,20 +81,22 @@
         }
     ],
     "wof:id":1126106693,
-    "wof:lastmodified":1566653338,
+    "wof:lastmodified":1706240366,
     "wof:name":"Ciudad de Los Deportes",
     "wof:parent_id":890535769,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85883729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -99.1799795,
-    19.3834295,
-    -99.1799795,
-    19.3834295
+    -99.17998,
+    19.383429,
+    -99.17998,
+    19.383429
 ],
-  "geometry": {"coordinates":[-99.1799795,19.3834295],"type":"Point"}
+  "geometry": {"coordinates":[-99.17998,19.383429],"type":"Point"}
 }

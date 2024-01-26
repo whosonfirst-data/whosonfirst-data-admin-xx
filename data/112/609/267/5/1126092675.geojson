@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-81.217396,34.052881,-81.217396,34.052881",
@@ -16,7 +18,7 @@
     "lbl:longitude":-81.217396,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1126092675,
-    "wof:lastmodified":1566654408,
+    "wof:lastmodified":1706240734,
     "wof:name":"Murraywood",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85897271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

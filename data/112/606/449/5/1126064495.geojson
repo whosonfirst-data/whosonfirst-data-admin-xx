@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-156.0650355,20.799127,-156.0650355,20.799127",
+    "geom:bbox":"-156.065035,20.799127,-156.065035,20.799127",
     "geom:latitude":20.799127,
     "geom:longitude":-156.065035,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-156.065035,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -54,7 +56,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497308647,
-    "wof:geomhash":"5b6e046c9be0c62b4ac44c222ea1a29b",
+    "wof:geomhash":"9d614dddc079d642c9fbc656d8b61f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1126064495,
-    "wof:lastmodified":1566654164,
+    "wof:lastmodified":1706240728,
     "wof:name":"`Ula`ino Ahupua`a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85890161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -156.0650355,
+    -156.065035,
     20.799127,
-    -156.0650355,
+    -156.065035,
     20.799127
 ],
-  "geometry": {"coordinates":[-156.06503549999999,20.799127],"type":"Point"}
+  "geometry": {"coordinates":[-156.06503499999999,20.799127],"type":"Point"}
 }
