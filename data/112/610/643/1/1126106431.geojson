@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.0684895,20.633507,-87.0684895,20.633507",
+    "geom:bbox":"-87.068489,20.633507,-87.068489,20.633507",
     "geom:latitude":20.633507,
     "geom:longitude":-87.068489,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-87.068489,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497317135,
-    "wof:geomhash":"c810abd88faf4c76d72b629a177c2326",
+    "wof:geomhash":"a0f26bc59c9b3ca7024cda4c72bace61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126106431,
-    "wof:lastmodified":1566653325,
+    "wof:lastmodified":1706240357,
     "wof:name":"Zazil Ha",
     "wof:parent_id":102001459,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85882561
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -87.0684895,
+    -87.068489,
     20.633507,
-    -87.0684895,
+    -87.068489,
     20.633507
 ],
-  "geometry": {"coordinates":[-87.0684895,20.633507],"type":"Point"}
+  "geometry": {"coordinates":[-87.068489,20.633507],"type":"Point"}
 }

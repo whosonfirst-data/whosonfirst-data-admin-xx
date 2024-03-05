@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"77.055999,28.53346,77.055999,28.53346",
@@ -11,14 +13,29 @@
     "geom:longitude":77.055999,
     "gn:country":null,
     "iso:country":"XX",
+    "ks:ks_alt_nam":"Bijw\u0101san",
+    "ks:ks_id":"KS8DC6E84BA21D40F59DFB4CB6D3807C3A",
+    "ks:ks_name":"Bijwasan",
+    "ks:ks_source_id":"N|12695814",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_uagg_id":"ESA_2802234",
+    "ks:ks_uagg_main":0,
     "lbl:bbox":"77.050999,28.52846,77.060999,28.53846",
     "lbl:latitude":28.53346,
     "lbl:longitude":77.055999,
     "lbl:max_zoom":18.0,
+    "mps:latitude":28.53461,
+    "mps:longitude":77.05355,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Bijwasan"
+    ],
+    "name:eng_x_variant":[
+        "Bijw\u0101san"
+    ],
     "qs_pg:gn_country":null,
     "qs_pg:name":"Bijwasan",
     "qs_pg:name_adm0":"India",
@@ -51,6 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29215514,
+        "ks:id":"KS8DC6E84BA21D40F59DFB4CB6D3807C3A",
         "qs_pg:id":1070351
     },
     "wof:country":"XX",
@@ -67,13 +85,17 @@
         }
     ],
     "wof:id":1126096949,
-    "wof:lastmodified":1566654406,
+    "wof:lastmodified":1706241123,
     "wof:name":"Bijwasan",
     "wof:parent_id":102029189,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        85928035
+    ],
+    "wof:supersedes":[
+        1830765863
+    ],
     "wof:tags":[]
 },
   "bbox": [

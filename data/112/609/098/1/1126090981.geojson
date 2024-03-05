@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"139.790983,35.711534,139.790983,35.711534",
@@ -16,7 +18,7 @@
     "lbl:longitude":139.790983,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -53,6 +55,14 @@
         "gp:id":28527655,
         "qs_pg:id":371313
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            28527624
+        ],
+        "qs_pg:id":[
+            237845
+        ]
+    },
     "wof:country":"XX",
     "wof:created":1497313767,
     "wof:geomhash":"b4fa727c6f1df90916d1b9395d27d97c",
@@ -67,13 +77,19 @@
         }
     ],
     "wof:id":1126090981,
-    "wof:lastmodified":1566654403,
+    "wof:lastmodified":1706241120,
     "wof:name":"\uff11\u4e01\u76ee",
     "wof:parent_id":102031307,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        85910687,
+        85910713,
+        890523581
+    ],
+    "wof:supersedes":[
+        1126100963
+    ],
     "wof:tags":[]
 },
   "bbox": [

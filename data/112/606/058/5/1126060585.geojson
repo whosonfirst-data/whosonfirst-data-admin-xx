@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.77904,59.4259305,24.77904,59.4259305",
+    "geom:bbox":"24.77904,59.42593,24.77904,59.42593",
     "geom:latitude":59.42593,
     "geom:longitude":24.77904,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":24.77904,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
@@ -88,7 +90,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497308025,
-    "wof:geomhash":"60b6ea1ac6eacd2e869d28a0bf4acbb7",
+    "wof:geomhash":"1a2ef17bd3c25975eaf1cd8c040ea1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,20 +101,22 @@
         }
     ],
     "wof:id":1126060585,
-    "wof:lastmodified":1566654214,
+    "wof:lastmodified":1706239504,
     "wof:name":"Juhkentali",
     "wof:parent_id":101748153,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85907863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     24.77904,
-    59.4259305,
+    59.42593,
     24.77904,
-    59.4259305
+    59.42593
 ],
-  "geometry": {"coordinates":[24.77904,59.4259305],"type":"Point"}
+  "geometry": {"coordinates":[24.77904,59.42593],"type":"Point"}
 }

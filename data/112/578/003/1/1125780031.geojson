@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"20.9313365,44.6673705,20.9313365,44.6673705",
+    "geom:bbox":"20.931337,44.66737,20.931337,44.66737",
     "geom:latitude":44.66737,
     "geom:longitude":20.931337,
     "gn:country":null,
@@ -17,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
@@ -206,7 +208,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497290426,
-    "wof:geomhash":"17ccdd400e84bd49970c96b7b1eb472c",
+    "wof:geomhash":"6590bda9d2975fac031fea734948d1cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -218,20 +220,22 @@
         }
     ],
     "wof:id":1125780031,
-    "wof:lastmodified":1566654522,
+    "wof:lastmodified":1706240627,
     "wof:name":"Smederevo",
     "wof:parent_id":1108810075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101912529
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    20.9313365,
-    44.6673705,
-    20.9313365,
-    44.6673705
+    20.931337,
+    44.66737,
+    20.931337,
+    44.66737
 ],
-  "geometry": {"coordinates":[20.9313365,44.6673705],"type":"Point"}
+  "geometry": {"coordinates":[20.931337,44.66737],"type":"Point"}
 }

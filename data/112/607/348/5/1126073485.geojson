@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.1685325,19.355173,-99.1685325,19.355173",
+    "geom:bbox":"-99.168532,19.355173,-99.168532,19.355173",
     "geom:latitude":19.355173,
     "geom:longitude":-99.168532,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.168532,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497310423,
-    "wof:geomhash":"3fb4887a1afcad4481b2dacfdf31f764",
+    "wof:geomhash":"6a34366d0cb8d4aa414790d04f0c05be",
     "wof:hierarchy":[
         {
             "borough_id":890535773,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1126073485,
-    "wof:lastmodified":1566654283,
+    "wof:lastmodified":1706240367,
     "wof:name":"Ampl Del Carmen",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85883745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -99.16853249999998,
+    -99.168532,
     19.355173,
-    -99.16853249999998,
+    -99.168532,
     19.355173
 ],
-  "geometry": {"coordinates":[-99.16853249999998,19.355173],"type":"Point"}
+  "geometry": {"coordinates":[-99.168532,19.355173],"type":"Point"}
 }

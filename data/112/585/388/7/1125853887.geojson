@@ -10,6 +10,8 @@
     "geom:latitude":53.433776,
     "geom:longitude":-2.303009,
     "gn:country":null,
+    "gn:fcode":"PPLA2",
+    "gn:population":41953,
     "iso:country":"XX",
     "lbl:bbox":"-2.323009,53.413776,-2.283009,53.453776",
     "lbl:latitude":53.433776,
@@ -146,7 +148,13 @@
     "name:zho_x_preferred":[
         "\u65af\u7279\u96f7\u7279\u798f\u5fb7"
     ],
+    "nav:latitude":53.45,
+    "nav:longitude":-2.31667,
+    "qs_pg:aaroncc":"GB",
     "qs_pg:gn_country":null,
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2636663,
+    "qs_pg:gn_pop":41953,
     "qs_pg:name":"Stretford",
     "qs_pg:name_adm0":"United Kingdom",
     "qs_pg:name_adm1":"England",
@@ -164,6 +172,7 @@
     "qs_pg:woe_id":36479,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424975,
     "woe:name_adm0":"United Kingdom",
     "woe:name_adm1":"England",
@@ -178,9 +187,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2636663,
         "gp:id":36479,
         "qs_pg:id":1190537,
         "wd:id":"Q374458"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1036801
+        ],
+        "wd:id":[
+            "Q374458"
+        ]
     },
     "wof:country":"XX",
     "wof:created":1497293529,
@@ -197,13 +215,17 @@
         }
     ],
     "wof:id":1125853887,
-    "wof:lastmodified":1690922052,
+    "wof:lastmodified":1706241115,
     "wof:name":"Stretford",
     "wof:parent_id":1360817437,
     "wof:placetype":"locality",
+    "wof:population":41953,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125882177
+    ],
     "wof:tags":[]
 },
   "bbox": [

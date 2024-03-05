@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-84.073609,9.932001,-84.073609,9.932001",
@@ -16,7 +18,7 @@
     "lbl:longitude":-84.073609,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -135,12 +137,14 @@
         }
     ],
     "wof:id":1126089075,
-    "wof:lastmodified":1636497640,
+    "wof:lastmodified":1706239484,
     "wof:name":"Soledad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85765775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

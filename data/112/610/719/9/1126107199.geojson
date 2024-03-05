@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-48.5263565,-27.625368,-48.5263565,-27.625368",
+    "geom:bbox":"-48.526356,-27.625368,-48.526356,-27.625368",
     "geom:latitude":-27.625368,
     "geom:longitude":-48.526356,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-48.526356,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497317329,
-    "wof:geomhash":"298c323734db9ca4e1d43ba478dfa7fc",
+    "wof:geomhash":"25a2c62745f7280ae4a2d6c1cd9bd5ab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1126107199,
-    "wof:lastmodified":1566653412,
+    "wof:lastmodified":1706239338,
     "wof:name":"Costeira Do Pirajuba\u00e9",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85767515
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -48.5263565,
+    -48.526356,
     -27.625368,
-    -48.5263565,
+    -48.526356,
     -27.625368
 ],
-  "geometry": {"coordinates":[-48.5263565,-27.625368],"type":"Point"}
+  "geometry": {"coordinates":[-48.526356,-27.625368],"type":"Point"}
 }

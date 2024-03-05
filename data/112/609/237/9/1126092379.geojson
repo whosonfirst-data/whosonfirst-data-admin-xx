@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.807128,59.444409,24.807128,59.444409",
@@ -16,7 +18,7 @@
     "lbl:longitude":24.807128,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
@@ -92,12 +94,14 @@
         }
     ],
     "wof:id":1126092379,
-    "wof:lastmodified":1566654485,
+    "wof:lastmodified":1706239510,
     "wof:name":"Uuslinn",
     "wof:parent_id":101748153,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85907883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

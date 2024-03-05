@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"18.429479,43.859341,18.429479,43.859341",
@@ -16,7 +18,7 @@
     "lbl:longitude":18.429479,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bos_x_preferred":[
@@ -114,12 +116,14 @@
         }
     ],
     "wof:id":1126101747,
-    "wof:lastmodified":1566653346,
+    "wof:lastmodified":1706239320,
     "wof:name":"Novo Sarajevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85929749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

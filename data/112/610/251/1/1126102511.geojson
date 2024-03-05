@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"77.3042305,28.7098805,77.3042305,28.7098805",
+    "geom:bbox":"77.304231,28.709881,77.304231,28.709881",
     "geom:latitude":28.709881,
     "geom:longitude":77.304231,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":77.304231,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497316325,
-    "wof:geomhash":"cba53dd4aa556e0420fb859160a54266",
+    "wof:geomhash":"bed987ba2588424ac9f7fdea3a8cf8c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126102511,
-    "wof:lastmodified":1566653342,
+    "wof:lastmodified":1706239788,
     "wof:name":"Saboli",
     "wof:parent_id":102030233,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85928163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    77.3042305,
-    28.7098805,
-    77.3042305,
-    28.7098805
+    77.304231,
+    28.709881,
+    77.304231,
+    28.709881
 ],
-  "geometry": {"coordinates":[77.3042305,28.7098805],"type":"Point"}
+  "geometry": {"coordinates":[77.304231,28.709881],"type":"Point"}
 }

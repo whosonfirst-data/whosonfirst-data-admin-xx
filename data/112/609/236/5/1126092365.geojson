@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.97279,41.0164605,28.97279,41.0164605",
+    "geom:bbox":"28.97279,41.016461,28.97279,41.016461",
     "geom:latitude":41.016461,
     "geom:longitude":28.97279,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":28.97279,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -51,7 +53,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497314184,
-    "wof:geomhash":"0eb7c95e5ac22af71d58f0789133c0c6",
+    "wof:geomhash":"b913661df9a2e463c80dd7c75b8f29bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1126092365,
-    "wof:lastmodified":1566654474,
+    "wof:lastmodified":1706240701,
     "wof:name":"Hobyar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1813328387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     28.97279,
-    41.0164605,
+    41.016461,
     28.97279,
-    41.0164605
+    41.016461
 ],
-  "geometry": {"coordinates":[28.97279,41.0164605],"type":"Point"}
+  "geometry": {"coordinates":[28.97279,41.016461],"type":"Point"}
 }

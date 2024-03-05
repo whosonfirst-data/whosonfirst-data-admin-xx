@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-156.0299645,20.68397,-156.0299645,20.68397",
+    "geom:bbox":"-156.029965,20.68397,-156.029965,20.68397",
     "geom:latitude":20.68397,
     "geom:longitude":-156.029965,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-156.029965,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -54,7 +56,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497317484,
-    "wof:geomhash":"9f770b6f7576daed482f4ba2e415928f",
+    "wof:geomhash":"18d409ec30bd33fafafbff07e06e6b44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1126107737,
-    "wof:lastmodified":1566653416,
+    "wof:lastmodified":1706240728,
     "wof:name":"M\u00fc`olea Ahupua`a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85890143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -156.0299645,
+    -156.029965,
     20.68397,
-    -156.0299645,
+    -156.029965,
     20.68397
 ],
-  "geometry": {"coordinates":[-156.02996450000001,20.68397],"type":"Point"}
+  "geometry": {"coordinates":[-156.029965,20.68397],"type":"Point"}
 }

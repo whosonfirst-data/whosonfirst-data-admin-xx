@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-101.2535845,21.016698,-101.2535845,21.016698",
+    "geom:bbox":"-101.253585,21.016698,-101.253585,21.016698",
     "geom:latitude":21.016698,
     "geom:longitude":-101.253585,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-101.253585,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497312506,
-    "wof:geomhash":"e573cb2dc7f290c617f8c9fe4cee4617",
+    "wof:geomhash":"41a9305e794695e9115595f30d24675f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126084407,
-    "wof:lastmodified":1566654086,
+    "wof:lastmodified":1706240377,
     "wof:name":"Barrio Calz de Guadalupe",
     "wof:parent_id":101996599,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85884275
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -101.2535845,
+    -101.253585,
     21.016698,
-    -101.2535845,
+    -101.253585,
     21.016698
 ],
-  "geometry": {"coordinates":[-101.2535845,21.016698],"type":"Point"}
+  "geometry": {"coordinates":[-101.253585,21.016698],"type":"Point"}
 }

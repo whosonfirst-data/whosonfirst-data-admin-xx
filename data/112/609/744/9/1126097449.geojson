@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"85.205285,25.6186195,85.205285,25.6186195",
+    "geom:bbox":"85.205285,25.61862,85.205285,25.61862",
     "geom:latitude":25.61862,
     "geom:longitude":85.205285,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":85.205285,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497315468,
-    "wof:geomhash":"7da6c18b28c3814a83e6959dbd1fd8f1",
+    "wof:geomhash":"ad03a2d5ed0cdceaadd7969f210a2c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126097449,
-    "wof:lastmodified":1566654493,
+    "wof:lastmodified":1706239789,
     "wof:name":"Gulzar Bagh",
     "wof:parent_id":102029055,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85933253
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     85.205285,
-    25.6186195,
+    25.61862,
     85.205285,
-    25.6186195
+    25.61862
 ],
-  "geometry": {"coordinates":[85.205285,25.6186195],"type":"Point"}
+  "geometry": {"coordinates":[85.205285,25.61862],"type":"Point"}
 }

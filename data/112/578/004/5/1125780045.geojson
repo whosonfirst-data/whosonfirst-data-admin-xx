@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"19.092199,45.7708155,19.092199,45.7708155",
+    "geom:bbox":"19.092199,45.770815,19.092199,45.770815",
     "geom:latitude":45.770815,
     "geom:longitude":19.092199,
     "gn:country":null,
@@ -17,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -200,7 +202,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497290426,
-    "wof:geomhash":"dfcb7daa8ffb5dee85ff0e23767918c3",
+    "wof:geomhash":"daf4ba5cdb4c7e15032231abfd0d7fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -212,20 +214,22 @@
         }
     ],
     "wof:id":1125780045,
-    "wof:lastmodified":1566654522,
+    "wof:lastmodified":1706240628,
     "wof:name":"Sombor",
     "wof:parent_id":1108810081,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101912627
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     19.092199,
-    45.7708155,
+    45.770815,
     19.092199,
-    45.7708155
+    45.770815
 ],
-  "geometry": {"coordinates":[19.092199,45.7708155],"type":"Point"}
+  "geometry": {"coordinates":[19.092199,45.770815],"type":"Point"}
 }

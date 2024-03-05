@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-101.1799345,20.597974,-101.1799345,20.597974",
+    "geom:bbox":"-101.179935,20.597974,-101.179935,20.597974",
     "geom:latitude":20.597974,
     "geom:longitude":-101.179935,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-101.179935,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
@@ -118,7 +120,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497316371,
-    "wof:geomhash":"6cb32f58c0f2c96c5facef48bf17fae3",
+    "wof:geomhash":"cdf77f9b8dc32b8d0d97685371d971d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,20 +132,22 @@
         }
     ],
     "wof:id":1126102829,
-    "wof:lastmodified":1566653392,
+    "wof:lastmodified":1706240357,
     "wof:name":"Primavera",
     "wof:parent_id":101996705,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85882583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -101.1799345,
+    -101.179935,
     20.597974,
-    -101.1799345,
+    -101.179935,
     20.597974
 ],
-  "geometry": {"coordinates":[-101.1799345,20.597974],"type":"Point"}
+  "geometry": {"coordinates":[-101.179935,20.597974],"type":"Point"}
 }

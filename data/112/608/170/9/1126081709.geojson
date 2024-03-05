@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"73.788707,15.463193,73.788707,15.463193",
@@ -16,7 +18,7 @@
     "lbl:longitude":73.788707,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1126081709,
-    "wof:lastmodified":1566654142,
+    "wof:lastmodified":1706239789,
     "wof:name":"La Marvel Colony",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85933411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

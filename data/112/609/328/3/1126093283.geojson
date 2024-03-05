@@ -3,8 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2023-10-23",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-99.160505,19.419161,-99.160505,19.419161",
@@ -43,11 +44,11 @@
     "woe:name_adm1":"Distrito Federal",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        890535757,
         102191575,
         85633293,
-        102073739,
         101991151,
+        890535757,
+        102073739,
         85686515
     ],
     "wof:breaches":[],
@@ -70,12 +71,14 @@
         }
     ],
     "wof:id":1126093283,
-    "wof:lastmodified":1698098782,
+    "wof:lastmodified":1706240368,
     "wof:name":"Roma Norte",
     "wof:parent_id":890535757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85883821
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

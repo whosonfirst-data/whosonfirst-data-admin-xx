@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.1826175,19.324796,-99.1826175,19.324796",
+    "geom:bbox":"-99.182618,19.324796,-99.182618,19.324796",
     "geom:latitude":19.324796,
     "geom:longitude":-99.182618,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.182618,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -56,7 +58,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497309265,
-    "wof:geomhash":"03b6d93ba099493e4b166b66e561f68c",
+    "wof:geomhash":"9109a375fc870fdc9a1d41f65bcb14ab",
     "wof:hierarchy":[
         {
             "borough_id":890535773,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1126068097,
-    "wof:lastmodified":1566654208,
+    "wof:lastmodified":1706240373,
     "wof:name":"Copilco El Alto",
     "wof:parent_id":890535773,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85884017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -99.1826175,
+    -99.182618,
     19.324796,
-    -99.1826175,
+    -99.182618,
     19.324796
 ],
-  "geometry": {"coordinates":[-99.18261750000001,19.324796],"type":"Point"}
+  "geometry": {"coordinates":[-99.18261800000001,19.324796],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-0.163679,51.507967,-0.163679,51.507967",
@@ -16,7 +18,7 @@
     "lbl:longitude":-0.163679,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
@@ -144,12 +146,14 @@
         }
     ],
     "wof:id":1126090951,
-    "wof:lastmodified":1566654476,
+    "wof:lastmodified":1706239746,
     "wof:name":"Hyde Park",
     "wof:parent_id":1158857245,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85861707
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

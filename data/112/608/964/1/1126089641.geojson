@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-76.062263,36.754898,-76.062263,36.754898",
@@ -16,7 +18,7 @@
     "lbl:longitude":-76.062263,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":1126089641,
-    "wof:lastmodified":1566654083,
+    "wof:lastmodified":1706240718,
     "wof:name":"Virginia Beach Municipal Center",
     "wof:parent_id":101728745,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85872035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

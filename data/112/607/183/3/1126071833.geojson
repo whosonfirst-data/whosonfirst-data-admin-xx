@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"34.821666,32.0813435,34.821666,32.0813435",
+    "geom:bbox":"34.821666,32.081344,34.821666,32.081344",
     "geom:latitude":32.081344,
     "geom:longitude":34.821666,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":34.821666,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497310067,
-    "wof:geomhash":"479a59720b8c1d0a7a49d9d1ab5575c8",
+    "wof:geomhash":"7825a05a6b898d8f2e5582016e542477",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126071833,
-    "wof:lastmodified":1566654347,
+    "wof:lastmodified":1706239786,
     "wof:name":"Skhunat Hillel",
     "wof:parent_id":421183425,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85907333
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     34.821666,
-    32.0813435,
+    32.081344,
     34.821666,
-    32.0813435
+    32.081344
 ],
-  "geometry": {"coordinates":[34.821666,32.0813435],"type":"Point"}
+  "geometry": {"coordinates":[34.821666,32.081344],"type":"Point"}
 }

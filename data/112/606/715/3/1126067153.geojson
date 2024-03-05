@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-98.996815,19.2296555,-98.996815,19.2296555",
+    "geom:bbox":"-98.996815,19.229655,-98.996815,19.229655",
     "geom:latitude":19.229655,
     "geom:longitude":-98.996815,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-98.996815,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
@@ -96,7 +98,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497309061,
-    "wof:geomhash":"c3e4c13230834d3400cc703a471f7ecf",
+    "wof:geomhash":"4418302e21c7bc9d3c46fe4a9119f217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,20 +110,22 @@
         }
     ],
     "wof:id":1126067153,
-    "wof:lastmodified":1566654184,
+    "wof:lastmodified":1706240380,
     "wof:name":"Jaime Torres Bodet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85884427
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -98.996815,
-    19.2296555,
+    19.229655,
     -98.996815,
-    19.2296555
+    19.229655
 ],
-  "geometry": {"coordinates":[-98.996815,19.2296555],"type":"Point"}
+  "geometry": {"coordinates":[-98.996815,19.229655],"type":"Point"}
 }

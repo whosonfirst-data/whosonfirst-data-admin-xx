@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"27.125244,38.416476,27.125244,38.416476",
@@ -16,7 +18,7 @@
     "lbl:longitude":27.125244,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:tur_x_preferred":[
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":1126072159,
-    "wof:lastmodified":1566654316,
+    "wof:lastmodified":1706241126,
     "wof:name":"Ye\u015filtepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85929647
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

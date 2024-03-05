@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-48.58901,-27.616378,-48.58901,-27.616378",
@@ -16,7 +18,7 @@
     "lbl:longitude":-48.58901,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
@@ -126,12 +128,14 @@
         }
     ],
     "wof:id":1126085095,
-    "wof:lastmodified":1566654121,
+    "wof:lastmodified":1706239337,
     "wof:name":"Itagua\u00e7u",
     "wof:parent_id":101958175,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85767495
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

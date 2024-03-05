@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"20.399594,45.373372,20.399594,45.373372",
@@ -17,7 +19,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
@@ -218,12 +220,14 @@
         }
     ],
     "wof:id":1125772035,
-    "wof:lastmodified":1566654828,
+    "wof:lastmodified":1706240627,
     "wof:name":"Zrenjanin",
     "wof:parent_id":1108810171,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101912537
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

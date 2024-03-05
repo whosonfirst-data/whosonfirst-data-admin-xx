@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.0932005,36.1446585,-94.0932005,36.1446585",
+    "geom:bbox":"-94.0932,36.144658,-94.0932,36.144658",
     "geom:latitude":36.144658,
     "geom:longitude":-94.0932,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-94.0932,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -54,7 +56,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497316258,
-    "wof:geomhash":"73d64119258fc6f06d6ca00a8738cbdd",
+    "wof:geomhash":"f45b0dde26bcb26a8ee04b750d7d2e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1126102087,
-    "wof:lastmodified":1566653404,
+    "wof:lastmodified":1706240726,
     "wof:name":"Archie's Place",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85885469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -94.0932005,
-    36.1446585,
-    -94.0932005,
-    36.1446585
+    -94.0932,
+    36.144658,
+    -94.0932,
+    36.144658
 ],
-  "geometry": {"coordinates":[-94.09320049999999,36.1446585],"type":"Point"}
+  "geometry": {"coordinates":[-94.0932,36.144658],"type":"Point"}
 }

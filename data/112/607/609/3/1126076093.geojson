@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-99.275972,19.5452995,-99.275972,19.5452995",
+    "geom:bbox":"-99.275972,19.545299,-99.275972,19.545299",
     "geom:latitude":19.545299,
     "geom:longitude":-99.275972,
     "gn:country":null,
@@ -16,7 +18,7 @@
     "lbl:longitude":-99.275972,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:gn_country":null,
@@ -55,7 +57,7 @@
     },
     "wof:country":"XX",
     "wof:created":1497311049,
-    "wof:geomhash":"61c84fd13ed95ec3044546bd260d7f3d",
+    "wof:geomhash":"9ba07412b9d2ba0575928f30d948b2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1126076093,
-    "wof:lastmodified":1566654342,
+    "wof:lastmodified":1706240357,
     "wof:name":"Lomas de Atizapan",
     "wof:parent_id":101993137,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85882795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -99.275972,
-    19.5452995,
+    19.545299,
     -99.275972,
-    19.5452995
+    19.545299
 ],
-  "geometry": {"coordinates":[-99.275972,19.5452995],"type":"Point"}
+  "geometry": {"coordinates":[-99.275972,19.545299],"type":"Point"}
 }
