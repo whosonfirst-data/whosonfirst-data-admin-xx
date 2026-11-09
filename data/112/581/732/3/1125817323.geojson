@@ -44,9 +44,9 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159296703,
+        1527971063,
         85633341,
-        85687063
+        1527947265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +60,15 @@
         {
             "continent_id":102191581,
             "country_id":85633341,
-            "localadmin_id":1159296703,
+            "localadmin_id":1527971063,
             "locality_id":1125817323,
-            "region_id":85687063
+            "region_id":1527947265
         }
     ],
     "wof:id":1125817323,
     "wof:lastmodified":1566653519,
     "wof:name":"Jusvik",
-    "wof:parent_id":1159296703,
+    "wof:parent_id":1527971063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

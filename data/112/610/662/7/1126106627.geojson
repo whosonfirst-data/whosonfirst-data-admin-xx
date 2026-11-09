@@ -46,8 +46,7 @@
         102191575,
         101919293,
         136253057,
-        102080365,
-        85687331
+        102080365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +64,7 @@
             "dependency_id":85633729,
             "empire_id":136253057,
             "locality_id":101919293,
-            "neighbourhood_id":1126106627,
-            "region_id":85687331
+            "neighbourhood_id":1126106627
         }
     ],
     "wof:id":1126106627,

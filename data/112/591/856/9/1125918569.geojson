@@ -201,7 +201,6 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85632459,
-        85681249,
         102193527,
         136253055
     ],
@@ -219,14 +218,13 @@
             "country_id":-1,
             "dependency_id":85632459,
             "empire_id":136253055,
-            "locality_id":1125918569,
-            "region_id":85681249
+            "locality_id":1125918569
         }
     ],
     "wof:id":1125918569,
     "wof:lastmodified":1566654071,
     "wof:name":"Diego Garcia",
-    "wof:parent_id":85681249,
+    "wof:parent_id":85632459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
