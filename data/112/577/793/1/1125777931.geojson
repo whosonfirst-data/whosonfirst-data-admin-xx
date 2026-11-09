@@ -44,7 +44,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
-        1159297781,
+        1394013995,
         85633121,
         85682581
     ],
@@ -60,7 +60,7 @@
         {
             "continent_id":102191581,
             "country_id":85633121,
-            "localadmin_id":1159297781,
+            "localadmin_id":1394013995,
             "locality_id":1125777931,
             "region_id":85682581
         }
@@ -68,7 +68,7 @@
     "wof:id":1125777931,
     "wof:lastmodified":1566654829,
     "wof:name":"Neks\u00f8",
-    "wof:parent_id":1159297781,
+    "wof:parent_id":1394013995,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

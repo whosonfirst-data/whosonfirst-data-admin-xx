@@ -225,7 +225,7 @@
     "wof:belongsto":[
         102191581,
         85632547,
-        85681219
+        1477797915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -240,13 +240,13 @@
             "continent_id":102191581,
             "country_id":85632547,
             "localadmin_id":1125293529,
-            "region_id":85681219
+            "region_id":1477797915
         }
     ],
     "wof:id":1125293529,
     "wof:lastmodified":1636497619,
     "wof:name":"Sark",
-    "wof:parent_id":85681219,
+    "wof:parent_id":1477797915,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

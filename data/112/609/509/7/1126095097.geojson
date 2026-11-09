@@ -90,7 +90,7 @@
         102191575,
         404511077,
         85633793,
-        85968969,
+        1729403599,
         102087681,
         85688727
     ],
@@ -108,7 +108,7 @@
             "country_id":85633793,
             "county_id":102087681,
             "localadmin_id":404511077,
-            "locality_id":85968969,
+            "locality_id":1729403599,
             "neighbourhood_id":1126095097,
             "region_id":85688727
         }
@@ -116,7 +116,7 @@
     "wof:id":1126095097,
     "wof:lastmodified":1566654450,
     "wof:name":"Horace Mann",
-    "wof:parent_id":85968969,
+    "wof:parent_id":1729403599,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

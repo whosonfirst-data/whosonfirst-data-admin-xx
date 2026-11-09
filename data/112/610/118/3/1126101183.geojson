@@ -50,7 +50,7 @@
         404227469,
         1175612699,
         1360698747,
-        1360698531
+        1880762137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,9 +66,9 @@
             "country_id":85633159,
             "county_id":1360698747,
             "locality_id":1175612699,
+            "macrocounty_id":1880762137,
             "macroregion_id":404227469,
-            "neighbourhood_id":1126101183,
-            "region_id":1360698531
+            "neighbourhood_id":1126101183
         }
     ],
     "wof:id":1126101183,

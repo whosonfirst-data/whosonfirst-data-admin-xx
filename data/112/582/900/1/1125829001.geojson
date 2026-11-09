@@ -50,7 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191575,
-        85632371,
+        1158846601,
         85677297
     ],
     "wof:breaches":[],
@@ -64,7 +64,7 @@
     "wof:hierarchy":[
         {
             "continent_id":102191575,
-            "country_id":85632371,
+            "dependency_id":1158846601,
             "locality_id":1125829001,
             "region_id":85677297
         }

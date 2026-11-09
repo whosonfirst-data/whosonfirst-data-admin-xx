@@ -80,7 +80,6 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85632211,
-        85681209,
         102191577,
         136253055
     ],
@@ -99,14 +98,13 @@
             "country_id":-1,
             "dependency_id":85632211,
             "empire_id":136253055,
-            "locality_id":1125779969,
-            "region_id":85681209
+            "locality_id":1125779969
         }
     ],
     "wof:id":1125779969,
     "wof:lastmodified":1566654823,
     "wof:name":"Darwin",
-    "wof:parent_id":85681209,
+    "wof:parent_id":85632211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
