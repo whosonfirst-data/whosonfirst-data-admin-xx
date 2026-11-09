@@ -38,7 +38,7 @@
     "wof:concordances":{},
     "wof:country":"XX",
     "wof:created":1491360673,
-    "wof:geomhash":"2679c90f917029b377c60b3b56819cf7",
+    "wof:geomhash":"097e35297dedca3bdd3cb91f39aa1c4d",
     "wof:hierarchy":[
         {
             "borough_id":1360698499,
@@ -68,5 +68,5 @@
     5.35574655969493,
     43.29073377967742
 ],
-  "geometry": {"coordinates":[5.35574655969493,43.29073377967742],"type":"Point"}
+  "geometry": {"coordinates":[5.355747,43.290734],"type":"Point"}
 }

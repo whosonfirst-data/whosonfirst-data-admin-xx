@@ -52,7 +52,7 @@
     },
     "wof:country":"XX",
     "wof:created":1491360610,
-    "wof:geomhash":"3ad75abb5316eb0a38d060ae22843820",
+    "wof:geomhash":"c28cb7153114bdffcc6aad2844b791fd",
     "wof:hierarchy":[
         {
             "borough_id":1360698499,
@@ -82,5 +82,5 @@
     5.36123972652133,
     43.2807578206279
 ],
-  "geometry": {"coordinates":[5.36123972652133,43.2807578206279],"type":"Point"}
+  "geometry": {"coordinates":[5.36124,43.280758],"type":"Point"}
 }
