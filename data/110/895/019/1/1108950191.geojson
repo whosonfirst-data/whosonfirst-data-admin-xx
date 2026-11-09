@@ -32,7 +32,7 @@
     "wof:concordances":{},
     "wof:country":"XX",
     "wof:created":1491368184,
-    "wof:geomhash":"10d1214f569686705cca1f39bf2d10ee",
+    "wof:geomhash":"379bfee7ab3fd3a85610ebe6f79c2d06",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,5 +58,5 @@
     29.10676072103305,
     41.2153481605117
 ],
-  "geometry": {"coordinates":[29.10676072103305,41.2153481605117],"type":"Point"}
+  "geometry": {"coordinates":[29.106761,41.215348],"type":"Point"}
 }
