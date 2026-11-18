@@ -110,12 +110,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Lom"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6d1b\u59c6\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6d1b\u59c6\u6cb3"
-    ],
     "qs_pg:gn_country":"CZ",
     "qs_pg:name":"Lom",
     "qs_pg:name_adm0":"\u010cesk\u00e1 republika",
@@ -156,7 +150,7 @@
         }
     ],
     "wof:id":1125314597,
-    "wof:lastmodified":1636497636,
+    "wof:lastmodified":1794999722,
     "wof:name":"Lom",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
